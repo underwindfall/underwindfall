@@ -1,0 +1,71 @@
+/**
+ * Copyright (C) 2020 by Qifan YANG (@underwindfall)
+ *
+ * <p>Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file
+ * except in compliance with the License. You may obtain a copy of the License at
+ *
+ * <p>http://www.apache.org/licenses/LICENSE-2.0
+ *
+ * <p>Unless required by applicable law or agreed to in writing, software distributed under the
+ * License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either
+ * express or implied. See the License for the specific language governing permissions and
+ * limitations under the License.
+ */
+plugins {
+    id 'application'
+    id 'org.jetbrains.kotlin.jvm' version "1.4.10"
+    id 'org.jetbrains.kotlin.kapt' version "1.4.10"
+    id "com.diffplug.spotless" version "5.8.0"
+    id "com.github.ben-manes.versions" version "0.36.0"
+}
+
+repositories {
+    mavenCentral()
+}
+
+
+def compileArgs = ['-Xjsr305=strict', '-progressive']
+
+compileKotlin {
+    kotlinOptions {
+        jvmTarget = "11"
+        freeCompilerArgs += compileArgs
+    }
+}
+
+compileTestKotlin {
+    kotlinOptions {
+        jvmTarget = "11"
+        freeCompilerArgs += compileArgs
+    }
+}
+
+java {
+    sourceCompatibility = JavaVersion.VERSION_11
+    targetCompatibility = JavaVersion.VERSION_11
+}
+
+sourceSets {
+    main {
+        java {
+            srcDir("build/generated/source/kapt/main")
+        }
+    }
+}
+apply from: rootProject.file('spotless/spotless.gradle')
+apply from: rootProject.file('version_plugin_config.gradle')
+
+mainClassName = 'underwindfall.qifan.UpdateReadmeKt'
+
+jar {
+    manifest {
+        attributes(
+                'Main-Class': 'underwindfall.qifan.UpdateReadmeKt'
+        )
+    }
+    from {
+        configurations.compileClasspath.filter { it.exists() }.collect { it.isDirectory() ? it : zipTree(it) }
+    }
+}
+dependencies {
+}
