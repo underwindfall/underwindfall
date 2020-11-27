@@ -20,6 +20,8 @@ import com.github.ajalt.clikt.parameters.types.file
 import com.squareup.moshi.Moshi
 import kotlinx.coroutines.runBlocking
 import okhttp3.OkHttpClient
+import java.time.Instant
+import java.time.ZoneId
 import kotlin.system.exitProcess
 
 class UpdateReadmeCommand : CliktCommand() {
@@ -39,12 +41,18 @@ class UpdateReadmeCommand : CliktCommand() {
                 FeedItem("Other               0 secs  ███▓░░░░░░░░░░░░░░░░░░░░   0.8%\n"),
                 FeedItem("Java                0 secs  ███▓░░░░░░░░░░░░░░░░░░░░   0.7%"))
 
-//        val codeTimeActivity = fetchCodeTimeActivity(okHttpClient)
+
         val newReadMe = createReadMe(githubActivity, list)
         outputFile.writeText(newReadMe)
 
         exitProcess(0)
     }
+}
+
+private fun fetchCodeTimeActivity(client: OkHttpClient): List<FeedItem> {
+    val codeTimeApi = CodeTimeApi.create(client)
+    val activity = runBlocking { codeTimeApi.getCodeTime("377ee88ba1fabd1e93516e48ca9c61eb") }
+    return listOf(FeedItem(activity.body()?.string()?.replace("%", "%/n") ?: ""))
 }
 
 private fun fetchGithubActivity(client: OkHttpClient): List<FeedItem> {
@@ -99,4 +107,18 @@ private fun fetchGithubActivity(client: OkHttpClient): List<FeedItem> {
 
 fun main(argv: Array<String>) {
     UpdateReadmeCommand().main(arrayOf("-o README.md"))
+}
+
+
+data class FeedItem(
+        val content: String,
+        val timestamp: Instant? = null
+) {
+    override fun toString(): String {
+        return if (timestamp == null) {
+            content
+        } else {
+            "**${timestamp.atZone(ZoneId.of("Asia/Shanghai")).toLocalDate()}** — $content"
+        }
+    }
 }

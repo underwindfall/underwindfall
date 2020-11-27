@@ -16,7 +16,7 @@ package underwindfall.qifan
 fun createReadMe(githubContent: List<FeedItem>, codeTimeContent: List<FeedItem>): String {
   return """
   <h2> Hi 👋, I'm Qifan ! </h2>
-  <p><em>Software Enginner @<a href="https://www.netatmo.com">Netatmo</a> 🔭
+  <p><em>Software engineer currently work @<a href="https://www.netatmo.com">Netatmo</a> 🔭
   </em></p>
   <table><tr><td valign="top" width="60%" rowspan="2">
 
@@ -30,7 +30,12 @@ ${githubContent.joinToString("\n\n") { "    $it" }}}
    <!-- profile starts -->
    ```kotlin
    data class underwindfall(
-        val pronouns: String = "he/him"
+        val pronouns: String = "he|him",
+        val code: List<String> = listOf("Kotlin", "Java", "Dart","Javascript", "Typescript")
+        val learning: () -> Unit = {
+          "Flutter" to "For Fun",
+          "Jetpack Compose" to "Future"
+        }
    )
    ```
    <!-- profile starts -->
@@ -39,7 +44,7 @@ ${githubContent.joinToString("\n\n") { "    $it" }}}
    ## 🏊‍♂️ <a href="https://gist.github.com/underwindfall/377ee88ba1fabd1e93516e48ca9c61eb" target="_blank">Weekly Development Breakdown</a>
     <!-- codeTime starts -->
     ```text
-${codeTimeContent.joinToString("\n\n") { "    $it" }}
+ ${codeTimeContent.joinToString("\n\n") { "    $it" }}
     ```
     <!-- codeTime starts -->
     </td></tr></table>
