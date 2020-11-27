@@ -51,7 +51,7 @@ ${githubContent.joinToString("\n\n") { "    $it" }}}
    ## 🏊‍♂️ <a href="https://gist.github.com/underwindfall/377ee88ba1fabd1e93516e48ca9c61eb" target="_blank">Weekly Development Breakdown</a>
     <!-- codeTime starts -->
     ```text
- ${codeTimeContent.joinToString("\n") { "$it" }}
+${codeTimeContent.joinToString("\n") { "$it" }}
     ```
     <!-- codeTime starts -->
     </td></tr></table>
