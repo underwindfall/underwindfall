@@ -52,15 +52,15 @@ sourceSets {
         }
     }
 }
-//apply from: rootProject.file('spotless/spotless.gradle')
+apply from: rootProject.file('spotless/spotless.gradle')
 apply from: rootProject.file('version_plugin_config.gradle')
 
-mainClassName = 'underwindfall.qifan.UpdateReadmeKt'
+mainClassName = 'underwindfall.qifan.UpdateReadMeKt'
 
 jar {
     manifest {
         attributes(
-                'Main-Class': 'underwindfall.qifan.UpdateReadmeKt'
+                'Main-Class': 'underwindfall.qifan.UpdateReadMeKt'
         )
     }
     from {
