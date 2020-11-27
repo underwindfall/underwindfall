@@ -25,7 +25,7 @@ fun createReadMe(githubContent: List<FeedItem>, codeTimeContent: List<FeedItem>)
 ${githubContent.joinToString("\n\n") { "    $it" }}}
    <!-- githubActivity ends -->
    </td><td valign="top">
-   
+
    ## Something about me
    <!-- profile starts -->
    ```kotlin
@@ -39,10 +39,10 @@ ${githubContent.joinToString("\n\n") { "    $it" }}}
           "Jetpack Compose" to "Future"
         }
         val dailyLife: Unit = (0..end).reduce { acc, new ->
-           study(new) 
+           study(new)
            coding(new)
            sumUp(acc) + haveFun(new)
-        } 
+        }
    )
    ```
    <!-- profile ends -->

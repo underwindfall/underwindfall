@@ -25,93 +25,92 @@ import java.time.ZoneId
 import kotlin.system.exitProcess
 
 class UpdateReadmeCommand : CliktCommand() {
-    val outputFile by option("-o", help = "The README.md file to write")
-            .file()
-            .required()
+  val outputFile by option("-o", help = "The README.md file to write")
+    .file()
+    .required()
 
-    override fun run() {
-        val okHttpClient = OkHttpClient.Builder()
-                .build()
-        val githubActivity = fetchGithubActivity(okHttpClient)
-        val codeTimeActivity = fetchCodeTimeActivity(okHttpClient)
-        val newReadMe = createReadMe(githubActivity, codeTimeActivity)
-        outputFile.writeText(newReadMe)
+  override fun run() {
+    val okHttpClient = OkHttpClient.Builder()
+      .build()
+    val githubActivity = fetchGithubActivity(okHttpClient)
+    val codeTimeActivity = fetchCodeTimeActivity(okHttpClient)
+    val newReadMe = createReadMe(githubActivity, codeTimeActivity)
+    outputFile.writeText(newReadMe)
 
-        exitProcess(0)
-    }
+    exitProcess(0)
+  }
 }
 
 private fun fetchCodeTimeActivity(client: OkHttpClient): List<FeedItem> {
-    val codeTimeApi = CodeTimeApi.create(client)
-    val activity = runBlocking { codeTimeApi.getCodeTime("underwindfall","377ee88ba1fabd1e93516e48ca9c61eb") }.body()
-    val contentString = activity?.string()?.trimStart()
-    return contentString?.split(regex = "\n".toRegex())?.map { FeedItem("      $it") } ?: emptyList()
+  val codeTimeApi = CodeTimeApi.create(client)
+  val activity = runBlocking { codeTimeApi.getCodeTime("underwindfall", "377ee88ba1fabd1e93516e48ca9c61eb") }.body()
+  val contentString = activity?.string()?.trimStart()
+  return contentString?.split(regex = "\n".toRegex())?.map { FeedItem("      $it") } ?: emptyList()
 }
 
 private fun fetchGithubActivity(client: OkHttpClient): List<FeedItem> {
-    val moshi = Moshi.Builder().build()
-    val githubApi = GitHubApi.create(client, moshi)
-    val activity = runBlocking { githubApi.getUserActivity("underwindfall") }
-    return activity
-            .filter { it.public }
-            .mapNotNull { event ->
-                when (val payload = event.payload) {
-                    UnknownPayload, null -> return@mapNotNull null
-                    is IssuesEventPayload -> {
-                        FeedItem(
-                                "${payload.action} issue [#${payload.issue.number}](${payload.issue.url}) on ${event.repo?.markdownUrl()}: \"${payload.issue.title}\"",
-                                event.createdAt
-                        )
-                    }
-                    is IssueCommentEventPayload -> {
-                        FeedItem(
-                                "commented on [#${payload.issue.number}](${payload.comment.htmlUrl}) in ${event.repo?.markdownUrl()}",
-                                event.createdAt
-                        )
-                    }
-                    is PushEventPayload -> {
-                        FeedItem(
-                                payload.commitMessage(event),
-                                event.createdAt
-                        )
-                    }
-                    is PullRequestPayload -> {
-                        FeedItem(
-                                "${payload.action} PR [#${payload.number}](${payload.pullRequest.url}) to ${event.repo?.markdownUrl()}: \"${payload.pullRequest.title}\"",
-                                event.createdAt
-                        )
-                    }
-                    is CreateEvent -> {
-                        FeedItem(
-                                "created ${payload.refType}${payload.ref?.let { " \"$it\"" } ?: ""} on ${event.repo?.markdownUrl()}",
-                                event.createdAt
-                        )
-                    }
-                    is DeleteEvent -> {
-                        FeedItem(
-                                "deleted ${payload.refType}${payload.ref?.let { " \"$it\"" } ?: ""} on ${event.repo?.markdownUrl()}",
-                                event.createdAt
-                        )
-                    }
-                }
-            }
-            .take(10)
+  val moshi = Moshi.Builder().build()
+  val githubApi = GitHubApi.create(client, moshi)
+  val activity = runBlocking { githubApi.getUserActivity("underwindfall") }
+  return activity
+    .filter { it.public }
+    .mapNotNull { event ->
+      when (val payload = event.payload) {
+        UnknownPayload, null -> return@mapNotNull null
+        is IssuesEventPayload -> {
+          FeedItem(
+            "${payload.action} issue [#${payload.issue.number}](${payload.issue.url}) on ${event.repo?.markdownUrl()}: \"${payload.issue.title}\"",
+            event.createdAt
+          )
+        }
+        is IssueCommentEventPayload -> {
+          FeedItem(
+            "commented on [#${payload.issue.number}](${payload.comment.htmlUrl}) in ${event.repo?.markdownUrl()}",
+            event.createdAt
+          )
+        }
+        is PushEventPayload -> {
+          FeedItem(
+            payload.commitMessage(event),
+            event.createdAt
+          )
+        }
+        is PullRequestPayload -> {
+          FeedItem(
+            "${payload.action} PR [#${payload.number}](${payload.pullRequest.url}) to ${event.repo?.markdownUrl()}: \"${payload.pullRequest.title}\"",
+            event.createdAt
+          )
+        }
+        is CreateEvent -> {
+          FeedItem(
+            "created ${payload.refType}${payload.ref?.let { " \"$it\"" } ?: ""} on ${event.repo?.markdownUrl()}",
+            event.createdAt
+          )
+        }
+        is DeleteEvent -> {
+          FeedItem(
+            "deleted ${payload.refType}${payload.ref?.let { " \"$it\"" } ?: ""} on ${event.repo?.markdownUrl()}",
+            event.createdAt
+          )
+        }
+      }
+    }
+    .take(10)
 }
 
 fun main(argv: Array<String>) {
-    UpdateReadmeCommand().main(argv)
+  UpdateReadmeCommand().main(argv)
 }
 
-
 data class FeedItem(
-        val content: String,
-        val timestamp: Instant? = null
+  val content: String,
+  val timestamp: Instant? = null
 ) {
-    override fun toString(): String {
-        return if (timestamp == null) {
-            content
-        } else {
-            "**${timestamp.atZone(ZoneId.of("Asia/Shanghai")).toLocalDate()}** — $content"
-        }
+  override fun toString(): String {
+    return if (timestamp == null) {
+      content
+    } else {
+      "**${timestamp.atZone(ZoneId.of("Asia/Shanghai")).toLocalDate()}** — $content"
     }
+  }
 }

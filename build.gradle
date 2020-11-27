@@ -52,7 +52,7 @@ sourceSets {
         }
     }
 }
-apply from: rootProject.file('spotless/spotless.gradle')
+//apply from: rootProject.file('spotless/spotless.gradle')
 apply from: rootProject.file('version_plugin_config.gradle')
 
 mainClassName = 'underwindfall.qifan.UpdateReadmeKt'
