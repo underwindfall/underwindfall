@@ -9,8 +9,8 @@ import retrofit2.http.GET
 import retrofit2.http.Path
 
 interface CodeTimeApi {
-    @GET("underwindfall/{id}/raw")
-    suspend fun getCodeTime(@Path("id") id: String): Response<ResponseBody>
+    @GET("{name}/{id}/raw")
+    suspend fun getCodeTime(@Path("name") name: String, @Path("id") id: String): Response<ResponseBody>
 
     companion object {
         fun create(

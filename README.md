@@ -8,4 +8,4 @@ My name is Qifan, an Android software engineer.
 - 💬 Ask me about Android development
 - 📫 How to reach me: [@underwindfall](https://github.com/underwindfall)
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: my code is written by a cartoon character [walle](https://github.com/underwindfall)
+- ⚡ Fun fact: my code is being wrote by a cartoon character [walle](https://github.com/underwindfall)

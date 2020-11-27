@@ -33,16 +33,8 @@ class UpdateReadmeCommand : CliktCommand() {
         val okHttpClient = OkHttpClient.Builder()
                 .build()
         val githubActivity = fetchGithubActivity(okHttpClient)
-        val list = listOf(
-                FeedItem("Markdown           31 mins  ████████████████████▒░░░  71.1%\n"),
-                FeedItem("Bash               10 mins  █████████▒░░░░░░░░░░░░░░  24.6%\n"),
-                FeedItem("JavaScript          0 secs  ███▓░░░░░░░░░░░░░░░░░░░░   1.4%\n"),
-                FeedItem("HTML                0 secs  ███▓░░░░░░░░░░░░░░░░░░░░   1.0%\n"),
-                FeedItem("Other               0 secs  ███▓░░░░░░░░░░░░░░░░░░░░   0.8%\n"),
-                FeedItem("Java                0 secs  ███▓░░░░░░░░░░░░░░░░░░░░   0.7%"))
-
-
-        val newReadMe = createReadMe(githubActivity, list)
+        val codeTimeActivity = fetchCodeTimeActivity(okHttpClient)
+        val newReadMe = createReadMe(githubActivity, codeTimeActivity)
         outputFile.writeText(newReadMe)
 
         exitProcess(0)
@@ -51,8 +43,9 @@ class UpdateReadmeCommand : CliktCommand() {
 
 private fun fetchCodeTimeActivity(client: OkHttpClient): List<FeedItem> {
     val codeTimeApi = CodeTimeApi.create(client)
-    val activity = runBlocking { codeTimeApi.getCodeTime("377ee88ba1fabd1e93516e48ca9c61eb") }
-    return listOf(FeedItem(activity.body()?.string()?.replace("%", "%/n") ?: ""))
+    val activity = runBlocking { codeTimeApi.getCodeTime("underwindfall","377ee88ba1fabd1e93516e48ca9c61eb") }.body()
+    val contentString = activity?.string()?.trimStart()
+    return contentString?.split(regex = "\n".toRegex())?.map { FeedItem("      $it") } ?: emptyList()
 }
 
 private fun fetchGithubActivity(client: OkHttpClient): List<FeedItem> {
@@ -106,7 +99,7 @@ private fun fetchGithubActivity(client: OkHttpClient): List<FeedItem> {
 }
 
 fun main(argv: Array<String>) {
-    UpdateReadmeCommand().main(arrayOf("-o README.md"))
+    UpdateReadmeCommand().main(argv)
 }
 
 
