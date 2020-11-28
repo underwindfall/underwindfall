@@ -5,6 +5,8 @@
 
  ## Github Activity
  <!-- githubActivity starts -->
+  **2020-11-28** — pushed [`51b01039`](https://api.github.com/repos/underwindfall/underwindfall/commits/51b010398b426f78462967c1f70a38909519413f) to [underwindfall/underwindfall](https://api.github.com/repos/underwindfall/underwindfall): "fix typo error"
+
   **2020-11-28** — pushed [`6905aa49`](https://api.github.com/repos/underwindfall/underwindfall/commits/6905aa49967157c65d6b3f447b2bc7a4b36830f1) to [underwindfall/underwindfall](https://api.github.com/repos/underwindfall/underwindfall): "fix espace issue"
 
   **2020-11-28** — pushed [`0bae8e5b`](https://api.github.com/repos/underwindfall/wakabox-stats/commits/0bae8e5ba8c9d0999ae50cbe999465f819e7d012) to [underwindfall/wakabox-stats](https://api.github.com/repos/underwindfall/wakabox-stats): "change style"
@@ -22,8 +24,6 @@
   **2020-11-27** — opened PR [#2](https://api.github.com/repos/underwindfall/wakabox-stats/pulls/2) to [underwindfall/wakabox-stats](https://api.github.com/repos/underwindfall/wakabox-stats): "add main.yml"
 
   **2020-11-27** — pushed [`4f8f67b3`](https://api.github.com/repos/underwindfall/wakabox-stats/commits/4f8f67b318827735bafc6ec03a0068a93dbb86e1) to [underwindfall/wakabox-stats](https://api.github.com/repos/underwindfall/wakabox-stats): "add main.yml"
-
-  **2020-11-27** — pushed [`0debb639`](https://api.github.com/repos/underwindfall/wakabox-stats/commits/0debb639736b63cc81132be28e9d7a6c29759a8a) to [underwindfall/wakabox-stats](https://api.github.com/repos/underwindfall/wakabox-stats): "remove main.yml"}
  <!-- githubActivity ends -->
  </td><td valign="top">
 
