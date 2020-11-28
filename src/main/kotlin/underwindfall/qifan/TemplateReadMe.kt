@@ -22,7 +22,7 @@ fun createReadMe(githubContent: List<FeedItem>, codeTimeContent: List<FeedItem>)
 
    ## Github Activity
    <!-- githubActivity starts -->
-${githubContent.joinToString("\n\n") { "    $it" }}}
+${githubContent.joinToString("\n\n") { "    $it" }}
    <!-- githubActivity ends -->
    </td><td valign="top">
 
