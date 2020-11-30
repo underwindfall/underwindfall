@@ -110,7 +110,7 @@ data class FeedItem(
     return if (timestamp == null) {
       content
     } else {
-      "**${timestamp.atZone(ZoneId.of("Asia/Shanghai")).toLocalDate()}** — $content"
+      "**${timestamp.atZone(ZoneId.of("Europe/Paris")).toLocalDate()}** — $content"
     }
   }
 }
