@@ -5,6 +5,8 @@
 
  ## Github Activity
  <!-- githubActivity starts -->
+  **2020-12-01** — pushed 4 commits to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme).
+
   **2020-12-01** — pushed [`fcf2a1c6`](https://api.github.com/repos/underwindfall/OpenSourceTemplate/commits/fcf2a1c6d1981284c28da374362e7a73ff1ab7a1) to [underwindfall/OpenSourceTemplate](https://api.github.com/repos/underwindfall/OpenSourceTemplate): "Update ci-gradle.properties"
 
   **2020-12-01** — pushed [`694827c1`](https://api.github.com/repos/underwindfall/OpenSourceTemplate/commits/694827c13e5c292f02398d25050c847265f5f594) to [underwindfall/OpenSourceTemplate](https://api.github.com/repos/underwindfall/OpenSourceTemplate): "add scheduled workflow"
@@ -22,8 +24,6 @@
   **2020-11-30** — commented on [#117](https://github.com/gao-sun/eul/issues/117#issuecomment-736012574) in [gao-sun/eul](https://api.github.com/repos/gao-sun/eul)
 
   **2020-11-30** — pushed [`393b7025`](https://api.github.com/repos/underwindfall/Algorithme/commits/393b7025594016b91d01c9f673da106c09fbc6b1) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Leetcode 565 Array Nesting"
-
-  **2020-11-28** — opened issue [#117](https://api.github.com/repos/gao-sun/eul/issues/117) on [gao-sun/eul](https://api.github.com/repos/gao-sun/eul): "bug report : can not sroll in compoent view"
  <!-- githubActivity ends -->
  </td><td valign="top">
 
@@ -52,12 +52,12 @@
  ## 🏊‍♂️ <a href="https://gist.github.com/underwindfall/377ee88ba1fabd1e93516e48ca9c61eb" target="_blank">Weekly Development Breakdown</a>
   <!-- codeTime starts -->
   ```text
-    Java         4 hrs 38 mins  █████████████░░░░░░░░░░░  40.8%
-    Kotlin       2 hrs 15 mins  ████████░░░░░░░░░░░░░░░░  19.9%
-    XML           1 hr 47 mins  ███████░░░░░░░░░░░░░░░░░  15.7%
-    JavaScript    1 hr 17 mins  ██████░░░░░░░░░░░░░░░░░░  11.4%
-    Markdown           31 mins  ████░░░░░░░░░░░░░░░░░░░░   4.6%
-    YAML               28 mins  ████░░░░░░░░░░░░░░░░░░░░   4.2%
+    Java           8 hrs 1 min  ██████████████░░░░░░░░░░  44.9%
+    Kotlin       3 hrs 23 mins  ████████░░░░░░░░░░░░░░░░  19.0%
+    XML           1 hr 47 mins  ██████░░░░░░░░░░░░░░░░░░  10.0%
+    JavaScript    1 hr 17 mins  █████░░░░░░░░░░░░░░░░░░░   7.2%
+    Bash               57 mins  ████░░░░░░░░░░░░░░░░░░░░   5.3%
+    Markdown           38 mins  ████░░░░░░░░░░░░░░░░░░░░   3.6%
   ```
   <!-- codeTime starts -->
   </td></tr></table>
