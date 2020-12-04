@@ -5,6 +5,8 @@
 
  ## Github Activity
  <!-- githubActivity starts -->
+  **2020-12-03** — pushed [`f34919af`](https://api.github.com/repos/underwindfall/Algorithme/commits/f34919af23ee4a74095bbd9b88c90810beb2d393) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "LeetCode 204 count primies"
+
   **2020-12-02** — pushed [`b3b23d96`](https://api.github.com/repos/underwindfall/Algorithme/commits/b3b23d96b301a75614d81f96e82bd50266da301c) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Leetcode 25 reverse nodes in K group"
 
   **2020-12-02** — deleted branch "feature/scheduled" on [underwindfall/PowerPermission](https://api.github.com/repos/underwindfall/PowerPermission)
@@ -22,8 +24,6 @@
   **2020-12-02** — pushed [`93661fd1`](https://api.github.com/repos/underwindfall/Algorithme/commits/93661fd1228fd922f61c6caec73920e99f37e929) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "[剑指] 单例模式"
 
   **2020-12-02** — pushed [`ef0f6342`](https://api.github.com/repos/underwindfall/OpenSourceTemplate/commits/ef0f634243ac47f9ec2398244fcb485c40f28965) to [underwindfall/OpenSourceTemplate](https://api.github.com/repos/underwindfall/OpenSourceTemplate): "upgrade libs"
-
-  **2020-12-01** — pushed 4 commits to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme).
  <!-- githubActivity ends -->
  </td><td valign="top">
 
@@ -52,12 +52,12 @@
  ## 🏊‍♂️ <a href="https://gist.github.com/underwindfall/377ee88ba1fabd1e93516e48ca9c61eb" target="_blank">Weekly Development Breakdown</a>
   <!-- codeTime starts -->
   ```text
-    Java        11 hrs 20 mins  ██████████████░░░░░░░░░░  46.5%
-    Kotlin       5 hrs 49 mins  █████████░░░░░░░░░░░░░░░  23.9%
-    XML           1 hr 51 mins  █████░░░░░░░░░░░░░░░░░░░   7.6%
-    JavaScript    1 hr 17 mins  ████░░░░░░░░░░░░░░░░░░░░   5.3%
-    Bash           1 hr 2 mins  ████░░░░░░░░░░░░░░░░░░░░   4.3%
-    YAML               45 mins  ████░░░░░░░░░░░░░░░░░░░░   3.1%
+    Java        15 hrs 54 mins  ████████████████░░░░░░░░  52.8%
+    Kotlin       5 hrs 58 mins  ████████░░░░░░░░░░░░░░░░  19.8%
+    XML          2 hrs 50 mins  █████░░░░░░░░░░░░░░░░░░░   9.4%
+    Bash           1 hr 4 mins  ████░░░░░░░░░░░░░░░░░░░░   3.6%
+    JavaScript         57 mins  ████░░░░░░░░░░░░░░░░░░░░   3.2%
+    YAML               46 mins  ████░░░░░░░░░░░░░░░░░░░░   2.6%
   ```
   <!-- codeTime starts -->
   </td></tr></table>
