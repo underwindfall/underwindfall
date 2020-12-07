@@ -28,6 +28,11 @@ ${githubContent.joinToString("\n\n") { "    $it" }}
 
    ## Something about me
    <!-- profile starts -->
+   <a href="https://github.com/underwindfall" width="100%">
+    <img src="https://github-readme-stats.vercel.app/api?username=underwindfall&show_icons=true&count_private=true&theme=graywhite" width="100%"/>
+   </a>
+   <br/>
+   
    ```kotlin
    data class underwindfall(
         val pronouns: String = "he|him",
@@ -37,11 +42,6 @@ ${githubContent.joinToString("\n\n") { "    $it" }}
         val toLearn: () -> Unit = {
           "Flutter" to "For Fun",
           "Jetpack Compose" to "Future"
-        }
-        val dailyLife: Unit = (0..end).reduce { acc, new ->
-           study(new)
-           coding(new)
-           sumUp(acc) + haveFun(new)
         }
    )
    ```
