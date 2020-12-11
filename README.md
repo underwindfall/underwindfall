@@ -5,25 +5,25 @@
 
  ## Github Activity
  <!-- githubActivity starts -->
-  **2020-12-09** — pushed [`d8a96e11`](https://api.github.com/repos/underwindfall/Algorithme/commits/d8a96e11c4989f980c42321be7b9761b0d0d7dbc) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "FST CST PST"
+  **2020-12-11** — pushed [`1b4e9e60`](https://api.github.com/repos/underwindfall/Algorithme/commits/1b4e9e607df4676bd501c188e46d72b4104bd2b7) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Leetcode 112 Path sum"
 
-  **2020-12-09** — pushed [`3f854156`](https://api.github.com/repos/underwindfall/Algorithme/commits/3f8541561d8812fbf887382cdc7ffe440615bdf6) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Leetcode449 BST serialization deserailization"
+  **2020-12-11** — pushed [`06467b07`](https://api.github.com/repos/underwindfall/Algorithme/commits/06467b07625dd5937d7db47814d24241ec40fbd5) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Leetcode 617 merge binary tree"
 
-  **2020-12-08** — created branch "master" on [underwindfall/XZoom](https://api.github.com/repos/underwindfall/XZoom)
+  **2020-12-10** — pushed 2 commits to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme).
 
-  **2020-12-08** — created repository on [underwindfall/XZoom](https://api.github.com/repos/underwindfall/XZoom)
+  **2020-12-10** — pushed [`d6d99a5b`](https://api.github.com/repos/underwindfall/Algorithme/commits/d6d99a5b8086d3e83c2e48f32f9ea2400c543a43) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Leetcode 104 max tree depth"
 
-  **2020-12-08** — pushed [`2ea4d170`](https://api.github.com/repos/underwindfall/Algorithme/commits/2ea4d170d5479b29dd02fc7676b28a75525347ee) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Leetcode 106 construct tree from inorder and postorder"
+  **2020-12-10** — opened issue [#3](https://api.github.com/repos/underwindfall/XZoom/issues/3) on [underwindfall/XZoom](https://api.github.com/repos/underwindfall/XZoom): "make ci better such as use it with gradlew cache/deploy it with release notes etc."
 
-  **2020-12-08** — pushed [`d8caff3c`](https://api.github.com/repos/underwindfall/Algorithme/commits/d8caff3cc419b70b6247a1acc9a78ffe9bc0ec9d) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Leetcode 105 construct tree from preorder and inorder"
+  **2020-12-10** — opened issue [#2](https://api.github.com/repos/underwindfall/XZoom/issues/2) on [underwindfall/XZoom](https://api.github.com/repos/underwindfall/XZoom): "add changelog doc"
 
-  **2020-12-08** — pushed [`c130fb1e`](https://api.github.com/repos/underwindfall/underwindfall/commits/c130fb1e34f67b7bc8b77fe7fc52ee476a231ac1) to [underwindfall/underwindfall](https://api.github.com/repos/underwindfall/underwindfall): "add spacing to make it more elegant"
+  **2020-12-10** — opened issue [#1](https://api.github.com/repos/underwindfall/XZoom/issues/1) on [underwindfall/XZoom](https://api.github.com/repos/underwindfall/XZoom): "implement simple usage imageview"
 
-  **2020-12-08** — pushed [`614ac8b2`](https://api.github.com/repos/underwindfall/underwindfall/commits/614ac8b27776221e55ad26e29ccb20066629ff21) to [underwindfall/underwindfall](https://api.github.com/repos/underwindfall/underwindfall): "update github stats"
+  **2020-12-10** — pushed [`5cafda1d`](https://api.github.com/repos/underwindfall/XZoom/commits/5cafda1dec4b5c8af5fd36deca95f67422dc29c8) to [underwindfall/XZoom](https://api.github.com/repos/underwindfall/XZoom): "fix ci issue"
 
-  **2020-12-07** — pushed 4 commits to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme).
+  **2020-12-10** — pushed [`855c4e57`](https://api.github.com/repos/underwindfall/XZoom/commits/855c4e57a0e124abc941defbfd185eef946b879a) to [underwindfall/XZoom](https://api.github.com/repos/underwindfall/XZoom): "add local editor config"
 
-  **2020-12-07** — opened issue [#9](https://api.github.com/repos/underwindfall/webrtcsamples/issues/9) on [underwindfall/webrtcsamples](https://api.github.com/repos/underwindfall/webrtcsamples): "make server online"
+  **2020-12-10** — pushed [`a372970a`](https://api.github.com/repos/underwindfall/XZoom/commits/a372970ab4314e3eaf5c6ea69503618de2c1e451) to [underwindfall/XZoom](https://api.github.com/repos/underwindfall/XZoom): "modify kotlin version to remove kotlin-extensions"
  <!-- githubActivity ends -->
  </td><td valign="top">
 
@@ -59,12 +59,12 @@
  ## 🏊‍♂️ <a href="https://gist.github.com/underwindfall/377ee88ba1fabd1e93516e48ca9c61eb" target="_blank">Weekly Development Breakdown</a>
   <!-- codeTime starts -->
   ```text
-    Java        27 hrs 22 mins  ███████████████████░░░░░  67.8%
-    Kotlin       9 hrs 40 mins  █████████░░░░░░░░░░░░░░░  23.9%
-    XML           1 hr 48 mins  ████░░░░░░░░░░░░░░░░░░░░   4.5%
-    Groovy             41 mins  ████░░░░░░░░░░░░░░░░░░░░   1.7%
-    YAML               16 mins  ███░░░░░░░░░░░░░░░░░░░░░   0.7%
-    Markdown           12 mins  ███░░░░░░░░░░░░░░░░░░░░░   0.5%
+    Java         24 hrs 4 mins  ███████████████████░░░░░  68.2%
+    Kotlin       9 hrs 34 mins  ██████████░░░░░░░░░░░░░░  27.1%
+    XML                48 mins  ████░░░░░░░░░░░░░░░░░░░░   2.3%
+    Groovy             22 mins  ███░░░░░░░░░░░░░░░░░░░░░   1.1%
+    Markdown            7 mins  ███░░░░░░░░░░░░░░░░░░░░░   0.3%
+    Bash                6 mins  ███░░░░░░░░░░░░░░░░░░░░░   0.3%
   ```
   <!-- codeTime starts -->
   </td></tr></table>
