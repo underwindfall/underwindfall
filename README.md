@@ -5,25 +5,25 @@
 
  ## Github Activity
  <!-- githubActivity starts -->
+  **2020-12-15** — pushed [`18f857d1`](https://api.github.com/repos/underwindfall/Algorithme/commits/18f857d1b01c42dd1869b6d68baf88233d1ee474) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Leetcode 111 min depth"
+
+  **2020-12-15** — pushed [`4a152607`](https://api.github.com/repos/underwindfall/Algorithme/commits/4a15260787535ec17b01d796a8e6c891c6583e61) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Leetcode 111 min depth"
+
+  **2020-12-15** — pushed 2 commits to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme).
+
+  **2020-12-14** — pushed [`18a521ff`](https://api.github.com/repos/underwindfall/Algorithme/commits/18a521ff4d92897c4c5a6e2a00a7607121a0b17e) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Leetcode437 path sum ïïï"
+
+  **2020-12-14** — deleted branch "dependabot/npm_and_yarn/ini-1.3.7" on [underwindfall/resume](https://api.github.com/repos/underwindfall/resume)
+
+  **2020-12-14** — pushed [`eb65a68e`](https://api.github.com/repos/underwindfall/resume/commits/eb65a68e274a4dae269757118388e62ea86b92ae) to [underwindfall/resume](https://api.github.com/repos/underwindfall/resume): "Bump ini from 1.3.5 to 1.3.7"
+
+  **2020-12-14** — closed PR [#26](https://api.github.com/repos/underwindfall/resume/pulls/26) to [underwindfall/resume](https://api.github.com/repos/underwindfall/resume): "Bump ini from 1.3.5 to 1.3.7"
+
   **2020-12-11** — pushed [`1b4e9e60`](https://api.github.com/repos/underwindfall/Algorithme/commits/1b4e9e607df4676bd501c188e46d72b4104bd2b7) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Leetcode 112 Path sum"
 
   **2020-12-11** — pushed [`06467b07`](https://api.github.com/repos/underwindfall/Algorithme/commits/06467b07625dd5937d7db47814d24241ec40fbd5) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Leetcode 617 merge binary tree"
 
   **2020-12-10** — pushed 2 commits to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme).
-
-  **2020-12-10** — pushed [`d6d99a5b`](https://api.github.com/repos/underwindfall/Algorithme/commits/d6d99a5b8086d3e83c2e48f32f9ea2400c543a43) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Leetcode 104 max tree depth"
-
-  **2020-12-10** — opened issue [#3](https://api.github.com/repos/underwindfall/XZoom/issues/3) on [underwindfall/XZoom](https://api.github.com/repos/underwindfall/XZoom): "make ci better such as use it with gradlew cache/deploy it with release notes etc."
-
-  **2020-12-10** — opened issue [#2](https://api.github.com/repos/underwindfall/XZoom/issues/2) on [underwindfall/XZoom](https://api.github.com/repos/underwindfall/XZoom): "add changelog doc"
-
-  **2020-12-10** — opened issue [#1](https://api.github.com/repos/underwindfall/XZoom/issues/1) on [underwindfall/XZoom](https://api.github.com/repos/underwindfall/XZoom): "implement simple usage imageview"
-
-  **2020-12-10** — pushed [`5cafda1d`](https://api.github.com/repos/underwindfall/XZoom/commits/5cafda1dec4b5c8af5fd36deca95f67422dc29c8) to [underwindfall/XZoom](https://api.github.com/repos/underwindfall/XZoom): "fix ci issue"
-
-  **2020-12-10** — pushed [`855c4e57`](https://api.github.com/repos/underwindfall/XZoom/commits/855c4e57a0e124abc941defbfd185eef946b879a) to [underwindfall/XZoom](https://api.github.com/repos/underwindfall/XZoom): "add local editor config"
-
-  **2020-12-10** — pushed [`a372970a`](https://api.github.com/repos/underwindfall/XZoom/commits/a372970ab4314e3eaf5c6ea69503618de2c1e451) to [underwindfall/XZoom](https://api.github.com/repos/underwindfall/XZoom): "modify kotlin version to remove kotlin-extensions"
  <!-- githubActivity ends -->
  </td><td valign="top">
 
@@ -59,12 +59,12 @@
  ## 🏊‍♂️ <a href="https://gist.github.com/underwindfall/377ee88ba1fabd1e93516e48ca9c61eb" target="_blank">Weekly Development Breakdown</a>
   <!-- codeTime starts -->
   ```text
-    Java        20 hrs 34 mins  █████████████████████░░░  73.0%
-    Kotlin       5 hrs 20 mins  ████████░░░░░░░░░░░░░░░░  19.0%
-    XML                37 mins  ████░░░░░░░░░░░░░░░░░░░░   2.2%
-    Groovy             29 mins  ████░░░░░░░░░░░░░░░░░░░░   1.7%
-    Bash               17 mins  ███░░░░░░░░░░░░░░░░░░░░░   1.0%
-    YAML               12 mins  ███░░░░░░░░░░░░░░░░░░░░░   0.7%
+    Java        15 hrs 21 mins  █████████████████████░░░  73.5%
+    Kotlin       3 hrs 31 mins  ███████░░░░░░░░░░░░░░░░░  16.9%
+    Groovy             29 mins  ████░░░░░░░░░░░░░░░░░░░░   2.4%
+    XML                26 mins  ████░░░░░░░░░░░░░░░░░░░░   2.1%
+    Bash               17 mins  ███░░░░░░░░░░░░░░░░░░░░░   1.4%
+    YAML               12 mins  ███░░░░░░░░░░░░░░░░░░░░░   1.0%
   ```
   <!-- codeTime starts -->
   </td></tr></table>
