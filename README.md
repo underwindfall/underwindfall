@@ -5,6 +5,8 @@
 
  ## Github Activity
  <!-- githubActivity starts -->
+  **2020-12-15** — pushed [`dcdee759`](https://api.github.com/repos/underwindfall/Algorithme/commits/dcdee759d4077ce84918c688e2fa2131e67617e6) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Leetcode 404 sum left leaves"
+
   **2020-12-15** — pushed [`18f857d1`](https://api.github.com/repos/underwindfall/Algorithme/commits/18f857d1b01c42dd1869b6d68baf88233d1ee474) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Leetcode 111 min depth"
 
   **2020-12-15** — pushed [`4a152607`](https://api.github.com/repos/underwindfall/Algorithme/commits/4a15260787535ec17b01d796a8e6c891c6583e61) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Leetcode 111 min depth"
@@ -22,8 +24,6 @@
   **2020-12-11** — pushed [`1b4e9e60`](https://api.github.com/repos/underwindfall/Algorithme/commits/1b4e9e607df4676bd501c188e46d72b4104bd2b7) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Leetcode 112 Path sum"
 
   **2020-12-11** — pushed [`06467b07`](https://api.github.com/repos/underwindfall/Algorithme/commits/06467b07625dd5937d7db47814d24241ec40fbd5) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Leetcode 617 merge binary tree"
-
-  **2020-12-10** — pushed 2 commits to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme).
  <!-- githubActivity ends -->
  </td><td valign="top">
 
@@ -59,12 +59,12 @@
  ## 🏊‍♂️ <a href="https://gist.github.com/underwindfall/377ee88ba1fabd1e93516e48ca9c61eb" target="_blank">Weekly Development Breakdown</a>
   <!-- codeTime starts -->
   ```text
-    Java        15 hrs 21 mins  █████████████████████░░░  73.5%
-    Kotlin       3 hrs 31 mins  ███████░░░░░░░░░░░░░░░░░  16.9%
-    Groovy             29 mins  ████░░░░░░░░░░░░░░░░░░░░   2.4%
-    XML                26 mins  ████░░░░░░░░░░░░░░░░░░░░   2.1%
-    Bash               17 mins  ███░░░░░░░░░░░░░░░░░░░░░   1.4%
-    YAML               12 mins  ███░░░░░░░░░░░░░░░░░░░░░   1.0%
+    Java        10 hrs 29 mins  ████████████████░░░░░░░░  54.0%
+    Groovy       3 hrs 16 mins  ███████░░░░░░░░░░░░░░░░░  16.9%
+    Kotlin       2 hrs 19 mins  ██████░░░░░░░░░░░░░░░░░░  12.0%
+    XML                50 mins  ████░░░░░░░░░░░░░░░░░░░░   4.3%
+    Properties         38 mins  ████░░░░░░░░░░░░░░░░░░░░   3.3%
+    YAML               29 mins  ████░░░░░░░░░░░░░░░░░░░░   2.6%
   ```
   <!-- codeTime starts -->
   </td></tr></table>
