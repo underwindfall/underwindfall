@@ -5,6 +5,16 @@
 
  ## Github Activity
  <!-- githubActivity starts -->
+  **2020-12-17** — pushed [`4c27bfb6`](https://api.github.com/repos/underwindfall/OpenSourceTemplate/commits/4c27bfb6af662ceaf29ded9260c7894a97cec4c2) to [underwindfall/OpenSourceTemplate](https://api.github.com/repos/underwindfall/OpenSourceTemplate): "update workflow"
+
+  **2020-12-17** — pushed [`6130005f`](https://api.github.com/repos/underwindfall/OpenSourceTemplate/commits/6130005f10117d1b6a2e01370118ac36b0769e7e) to [underwindfall/OpenSourceTemplate](https://api.github.com/repos/underwindfall/OpenSourceTemplate): "upgrade deps"
+
+  **2020-12-17** — pushed 2 commits to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme).
+
+  **2020-12-17** — pushed [`e3c664b0`](https://api.github.com/repos/underwindfall/Algorithme/commits/e3c664b0bb51002aeeb00ba500c7d4225a21161e) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Leetcode 671 find second minum value"
+
+  **2020-12-17** — pushed 2 commits to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme).
+
   **2020-12-16** — pushed [`361eb173`](https://api.github.com/repos/underwindfall/PowerPermission/commits/361eb173a59dc59caba87d1092ca4358f054ee89) to [underwindfall/PowerPermission](https://api.github.com/repos/underwindfall/PowerPermission): "Upgrade deps and migrate kotlin 1.4.21"
 
   **2020-12-15** — pushed [`dcdee759`](https://api.github.com/repos/underwindfall/Algorithme/commits/dcdee759d4077ce84918c688e2fa2131e67617e6) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Leetcode 404 sum left leaves"
@@ -14,16 +24,6 @@
   **2020-12-15** — pushed [`4a152607`](https://api.github.com/repos/underwindfall/Algorithme/commits/4a15260787535ec17b01d796a8e6c891c6583e61) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Leetcode 111 min depth"
 
   **2020-12-15** — pushed 2 commits to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme).
-
-  **2020-12-14** — pushed [`18a521ff`](https://api.github.com/repos/underwindfall/Algorithme/commits/18a521ff4d92897c4c5a6e2a00a7607121a0b17e) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Leetcode437 path sum ïïï"
-
-  **2020-12-14** — deleted branch "dependabot/npm_and_yarn/ini-1.3.7" on [underwindfall/resume](https://api.github.com/repos/underwindfall/resume)
-
-  **2020-12-14** — pushed [`eb65a68e`](https://api.github.com/repos/underwindfall/resume/commits/eb65a68e274a4dae269757118388e62ea86b92ae) to [underwindfall/resume](https://api.github.com/repos/underwindfall/resume): "Bump ini from 1.3.5 to 1.3.7"
-
-  **2020-12-14** — closed PR [#26](https://api.github.com/repos/underwindfall/resume/pulls/26) to [underwindfall/resume](https://api.github.com/repos/underwindfall/resume): "Bump ini from 1.3.5 to 1.3.7"
-
-  **2020-12-11** — pushed [`1b4e9e60`](https://api.github.com/repos/underwindfall/Algorithme/commits/1b4e9e607df4676bd501c188e46d72b4104bd2b7) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Leetcode 112 Path sum"
  <!-- githubActivity ends -->
  </td><td valign="top">
 
@@ -59,12 +59,12 @@
  ## 🏊‍♂️ <a href="https://gist.github.com/underwindfall/377ee88ba1fabd1e93516e48ca9c61eb" target="_blank">Weekly Development Breakdown</a>
   <!-- codeTime starts -->
   ```text
-    Java        10 hrs 29 mins  ████████████████░░░░░░░░  54.0%
-    Groovy       3 hrs 16 mins  ███████░░░░░░░░░░░░░░░░░  16.9%
-    Kotlin       2 hrs 19 mins  ██████░░░░░░░░░░░░░░░░░░  12.0%
-    XML                50 mins  ████░░░░░░░░░░░░░░░░░░░░   4.3%
-    Properties         38 mins  ████░░░░░░░░░░░░░░░░░░░░   3.3%
-    YAML               29 mins  ████░░░░░░░░░░░░░░░░░░░░   2.6%
+    Java         11 hrs 6 mins  ██████████████░░░░░░░░░░  47.5%
+    Groovy       5 hrs 23 mins  █████████░░░░░░░░░░░░░░░  23.0%
+    Kotlin        1 hr 58 mins  █████░░░░░░░░░░░░░░░░░░░   8.4%
+    XML           1 hr 22 mins  █████░░░░░░░░░░░░░░░░░░░   5.9%
+    Properties         57 mins  ████░░░░░░░░░░░░░░░░░░░░   4.1%
+    Markdown           50 mins  ████░░░░░░░░░░░░░░░░░░░░   3.6%
   ```
   <!-- codeTime starts -->
   </td></tr></table>
