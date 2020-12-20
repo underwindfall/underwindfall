@@ -5,6 +5,12 @@
 
  ## Github Activity
  <!-- githubActivity starts -->
+  **2020-12-20** — pushed [`ba0baec2`](https://api.github.com/repos/underwindfall/Algorithme/commits/ba0baec2367402902a023e83689f47879cf95878) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Leetcode 501 find mode bst"
+
+  **2020-12-20** — pushed 5 commits to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme).
+
+  **2020-12-19** — pushed [`c6f6f5d2`](https://api.github.com/repos/underwindfall/Algorithme/commits/c6f6f5d20552da942c7692b2baa43129c20e976b) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Leetcode 235 lowest common ancestor"
+
   **2020-12-18** — pushed [`59e99bae`](https://api.github.com/repos/underwindfall/Algorithme/commits/59e99bae950745bdfbccc2be305115bcf00c0bca) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Leetcode 669 trimBST"
 
   **2020-12-18** — pushed [`59043c6e`](https://api.github.com/repos/underwindfall/Algorithme/commits/59043c6ee21aafc0b69ef9835f4d219f91013ff5) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Leetcode 94  inorderTraversal"
@@ -18,12 +24,6 @@
   **2020-12-17** — pushed [`419afeea`](https://api.github.com/repos/underwindfall/PowerPermission/commits/419afeeadc9ee0d68054a1c49459e43032e92c12) to [underwindfall/PowerPermission](https://api.github.com/repos/underwindfall/PowerPermission): "target SDK 30"
 
   **2020-12-17** — pushed [`5de6053e`](https://api.github.com/repos/underwindfall/PowerPermission/commits/5de6053e6602c4a5ad0ae28ba953e7d8cf723a1c) to [underwindfall/PowerPermission](https://api.github.com/repos/underwindfall/PowerPermission): "v1.4.1"
-
-  **2020-12-17** — created tag "v1.4.1" on [underwindfall/PowerPermission](https://api.github.com/repos/underwindfall/PowerPermission)
-
-  **2020-12-17** — created tag "v1.0.1" on [underwindfall/RotateLabelView](https://api.github.com/repos/underwindfall/RotateLabelView)
-
-  **2020-12-17** — pushed [`17ed4692`](https://api.github.com/repos/underwindfall/RotateLabelView/commits/17ed4692a96906bfcbe0df00d7d3e7bde151a09b) to [underwindfall/RotateLabelView](https://api.github.com/repos/underwindfall/RotateLabelView): "release 1.0.1"
  <!-- githubActivity ends -->
  </td><td valign="top">
 
@@ -59,12 +59,12 @@
  ## 🏊‍♂️ <a href="https://gist.github.com/underwindfall/377ee88ba1fabd1e93516e48ca9c61eb" target="_blank">Weekly Development Breakdown</a>
   <!-- codeTime starts -->
   ```text
-    Java         16 hrs 6 mins  ██████████████░░░░░░░░░░  43.6%
-    Groovy       9 hrs 35 mins  █████████░░░░░░░░░░░░░░░  26.0%
-    Kotlin       4 hrs 49 mins  ██████░░░░░░░░░░░░░░░░░░  13.0%
-    XML           2 hrs 2 mins  ████░░░░░░░░░░░░░░░░░░░░   5.5%
-    Markdown      1 hr 26 mins  ████░░░░░░░░░░░░░░░░░░░░   3.9%
-    Properties    1 hr 25 mins  ████░░░░░░░░░░░░░░░░░░░░   3.8%
+    Java        17 hrs 38 mins  █████████████░░░░░░░░░░░  40.3%
+    Groovy      11 hrs 26 mins  █████████░░░░░░░░░░░░░░░  26.1%
+    Kotlin       5 hrs 42 mins  ██████░░░░░░░░░░░░░░░░░░  13.0%
+    XML          2 hrs 31 mins  ████░░░░░░░░░░░░░░░░░░░░   5.8%
+    Markdown     2 hrs 16 mins  ████░░░░░░░░░░░░░░░░░░░░   5.2%
+    Properties    1 hr 27 mins  ████░░░░░░░░░░░░░░░░░░░░   3.3%
   ```
   <!-- codeTime starts -->
   </td></tr></table>
