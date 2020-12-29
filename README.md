@@ -5,6 +5,10 @@
 
  ## Github Activity
  <!-- githubActivity starts -->
+  **2020-12-28** — pushed 3 commits to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme).
+
+  **2020-12-28** — pushed 6 commits to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme).
+
   **2020-12-26** — pushed [`1d7b4cee`](https://api.github.com/repos/underwindfall/PowerPermission/commits/1d7b4ceeaf6994e96ddf71d490f4e355b88f13c6) to [underwindfall/PowerPermission](https://api.github.com/repos/underwindfall/PowerPermission): "Update CHANGELOG.md"
 
   **2020-12-26** — pushed [`15e60858`](https://api.github.com/repos/underwindfall/Algorithme/commits/15e60858c02dcac5473a983b1347fe6c7a1ad5d0) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Leetcode 208Trie Tree"
@@ -20,10 +24,6 @@
   **2020-12-19** — pushed [`c6f6f5d2`](https://api.github.com/repos/underwindfall/Algorithme/commits/c6f6f5d20552da942c7692b2baa43129c20e976b) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Leetcode 235 lowest common ancestor"
 
   **2020-12-18** — pushed [`59e99bae`](https://api.github.com/repos/underwindfall/Algorithme/commits/59e99bae950745bdfbccc2be305115bcf00c0bca) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Leetcode 669 trimBST"
-
-  **2020-12-18** — pushed [`59043c6e`](https://api.github.com/repos/underwindfall/Algorithme/commits/59043c6ee21aafc0b69ef9835f4d219f91013ff5) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Leetcode 94  inorderTraversal"
-
-  **2020-12-17** — pushed 2 commits to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme).
  <!-- githubActivity ends -->
  </td><td valign="top">
 
