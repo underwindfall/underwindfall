@@ -5,6 +5,8 @@
 
  ## Github Activity
  <!-- githubActivity starts -->
+  **2020-12-30** — pushed [`0a2af3d0`](https://api.github.com/repos/underwindfall/wakabox-stats/commits/0a2af3d099428f4a8b52c470eecb4b500350ea70) to [underwindfall/wakabox-stats](https://api.github.com/repos/underwindfall/wakabox-stats): "fix wrong 100 languages error"
+
   **2020-12-28** — pushed 3 commits to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme).
 
   **2020-12-28** — pushed 6 commits to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme).
@@ -22,8 +24,6 @@
   **2020-12-20** — pushed 5 commits to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme).
 
   **2020-12-19** — pushed [`c6f6f5d2`](https://api.github.com/repos/underwindfall/Algorithme/commits/c6f6f5d20552da942c7692b2baa43129c20e976b) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Leetcode 235 lowest common ancestor"
-
-  **2020-12-18** — pushed [`59e99bae`](https://api.github.com/repos/underwindfall/Algorithme/commits/59e99bae950745bdfbccc2be305115bcf00c0bca) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Leetcode 669 trimBST"
  <!-- githubActivity ends -->
  </td><td valign="top">
 
@@ -59,12 +59,8 @@
  ## 🏊‍♂️ <a href="https://gist.github.com/underwindfall/377ee88ba1fabd1e93516e48ca9c61eb" target="_blank">Weekly Development Breakdown</a>
   <!-- codeTime starts -->
   ```text
-    Java         5 hrs 36 mins  ██████████████░░░░░░░░░░  45.9%
-    Kotlin        2 hrs 8 mins  ███████░░░░░░░░░░░░░░░░░  17.5%
-    Groovy        1 hr 50 mins  ███████░░░░░░░░░░░░░░░░░  15.1%
-    Makefile           55 mins  █████░░░░░░░░░░░░░░░░░░░   7.6%
-    Markdown           50 mins  █████░░░░░░░░░░░░░░░░░░░   6.8%
-    XML                29 mins  ████░░░░░░░░░░░░░░░░░░░░   4.0%
+    Java         8 hrs 17 mins  ████████████████████████ 100.0%
+    Other               0 secs  ███░░░░░░░░░░░░░░░░░░░░░   0.0%
   ```
   <!-- codeTime starts -->
   </td></tr></table>
