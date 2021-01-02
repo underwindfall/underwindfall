@@ -1,10 +1,16 @@
 <h2> Hi 👋, I'm Qifan ! </h2>
-<p><em>Software engineer currently work @<a href="https://www.netatmo.com">Netatmo</a> 🔭
-</em></p>
+<p><em>Software engineer currently work @<a href="https://www.netatmo.com">Netatmo</a>
+</em></p><a href="https://qifanyang.com/resume" target="_blank"> Know more about me</a>🔭
 <table><tr><td valign="top" rowspan="2">
 
  ## Github Activity
  <!-- githubActivity starts -->
+  **2021-01-02** — pushed [`7ea8a6c8`](https://api.github.com/repos/underwindfall/underwindfall/commits/7ea8a6c8af78b5769f2b41e6b9bcdf15f97aac84) to [underwindfall/underwindfall](https://api.github.com/repos/underwindfall/underwindfall): "Update TemplateReadMe.kt"
+
+  **2021-01-02** — pushed [`31fc513b`](https://api.github.com/repos/underwindfall/Algorithme/commits/31fc513b6103c4180baa6864c71b7e6f6c26ea15) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Leetcode 706 hashmap"
+
+  **2021-01-02** — pushed 2 commits to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme).
+
   **2021-01-01** — pushed [`374b48cd`](https://api.github.com/repos/underwindfall/Algorithme/commits/374b48cd3ef03f46b01aa688c057abad179a69b5) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Leetcode 542 UpdateMatri"
 
   **2020-12-30** — pushed 7 commits to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme).
@@ -18,12 +24,6 @@
   **2020-12-28** — pushed 6 commits to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme).
 
   **2020-12-26** — pushed [`1d7b4cee`](https://api.github.com/repos/underwindfall/PowerPermission/commits/1d7b4ceeaf6994e96ddf71d490f4e355b88f13c6) to [underwindfall/PowerPermission](https://api.github.com/repos/underwindfall/PowerPermission): "Update CHANGELOG.md"
-
-  **2020-12-26** — pushed [`15e60858`](https://api.github.com/repos/underwindfall/Algorithme/commits/15e60858c02dcac5473a983b1347fe6c7a1ad5d0) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Leetcode 208Trie Tree"
-
-  **2020-12-26** — pushed 4 commits to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme).
-
-  **2020-12-26** — pushed [`ada2c34f`](https://api.github.com/repos/underwindfall/Algorithme/commits/ada2c34f344c56beca4b4ca988c19a4c74f38792) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Leetcode 198 house robber"
  <!-- githubActivity ends -->
  </td><td valign="top">
 
