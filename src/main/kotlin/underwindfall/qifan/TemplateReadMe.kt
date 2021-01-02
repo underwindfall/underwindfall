@@ -16,8 +16,8 @@ package underwindfall.qifan
 fun createReadMe(githubContent: List<FeedItem>, codeTimeContent: List<FeedItem>): String {
   return """
   <h2> Hi 👋, I'm Qifan ! </h2>
-  <p><em>Software engineer currently work @<a href="https://www.netatmo.com">Netatmo</a> 🔭
-  </em></p>
+  <p><em>Software engineer currently work @<a href="https://www.netatmo.com">Netatmo</a>
+  </em></p><a href="https://qifanyang.com/resume" target="_blank"> Know more about me</a>🔭
   <table><tr><td valign="top" rowspan="2">
 
    ## Github Activity
