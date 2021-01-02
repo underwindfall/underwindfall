@@ -5,6 +5,8 @@
 
  ## Github Activity
  <!-- githubActivity starts -->
+  **2021-01-01** — pushed [`374b48cd`](https://api.github.com/repos/underwindfall/Algorithme/commits/374b48cd3ef03f46b01aa688c057abad179a69b5) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Leetcode 542 UpdateMatri"
+
   **2020-12-30** — pushed 7 commits to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme).
 
   **2020-12-30** — pushed 8 commits to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme).
@@ -22,8 +24,6 @@
   **2020-12-26** — pushed 4 commits to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme).
 
   **2020-12-26** — pushed [`ada2c34f`](https://api.github.com/repos/underwindfall/Algorithme/commits/ada2c34f344c56beca4b4ca988c19a4c74f38792) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Leetcode 198 house robber"
-
-  **2020-12-20** — pushed [`ba0baec2`](https://api.github.com/repos/underwindfall/Algorithme/commits/ba0baec2367402902a023e83689f47879cf95878) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Leetcode 501 find mode bst"
  <!-- githubActivity ends -->
  </td><td valign="top">
 
