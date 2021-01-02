@@ -1,10 +1,12 @@
 <h2> Hi 👋, I'm Qifan ! </h2>
 <p><em>Software engineer currently work @<a href="https://www.netatmo.com">Netatmo</a>
-</em></p><br/><p><a href="https://qifanyang.com/resume" target="_blank"> Know more about me</a> 🔭</p>
+</em></p><p><a href="https://qifanyang.com/resume" target="_blank"> Know more about me</a> 🔭</p>
 <table><tr><td valign="top" rowspan="2">
 
  ## Github Activity
  <!-- githubActivity starts -->
+  **2021-01-02** — pushed [`8d80999e`](https://api.github.com/repos/underwindfall/underwindfall/commits/8d80999e45dc12655296ab1629fcf0d563aac6d4) to [underwindfall/underwindfall](https://api.github.com/repos/underwindfall/underwindfall): "Update TemplateReadMe.kt"
+
   **2021-01-02** — pushed [`9fb70cbf`](https://api.github.com/repos/underwindfall/underwindfall/commits/9fb70cbfe8c4a69ed25e145d59a35ef77b29bd4e) to [underwindfall/underwindfall](https://api.github.com/repos/underwindfall/underwindfall): "Update TemplateReadMe.kt"
 
   **2021-01-02** — pushed [`7ea8a6c8`](https://api.github.com/repos/underwindfall/underwindfall/commits/7ea8a6c8af78b5769f2b41e6b9bcdf15f97aac84) to [underwindfall/underwindfall](https://api.github.com/repos/underwindfall/underwindfall): "Update TemplateReadMe.kt"
@@ -22,8 +24,6 @@
   **2020-12-30** — pushed [`0a2af3d0`](https://api.github.com/repos/underwindfall/wakabox-stats/commits/0a2af3d099428f4a8b52c470eecb4b500350ea70) to [underwindfall/wakabox-stats](https://api.github.com/repos/underwindfall/wakabox-stats): "fix wrong 100 languages error"
 
   **2020-12-28** — pushed 3 commits to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme).
-
-  **2020-12-28** — pushed 6 commits to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme).
  <!-- githubActivity ends -->
  </td><td valign="top">
 
