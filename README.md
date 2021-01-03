@@ -5,6 +5,10 @@
 
  ## Github Activity
  <!-- githubActivity starts -->
+  **2021-01-02** — pushed [`44482007`](https://api.github.com/repos/underwindfall/Algorithme/commits/44482007ba1d703016d027293368051300b277df) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Leetcode 290 word pattern"
+
+  **2021-01-02** — pushed 5 commits to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme).
+
   **2021-01-02** — pushed [`8d80999e`](https://api.github.com/repos/underwindfall/underwindfall/commits/8d80999e45dc12655296ab1629fcf0d563aac6d4) to [underwindfall/underwindfall](https://api.github.com/repos/underwindfall/underwindfall): "Update TemplateReadMe.kt"
 
   **2021-01-02** — pushed [`9fb70cbf`](https://api.github.com/repos/underwindfall/underwindfall/commits/9fb70cbfe8c4a69ed25e145d59a35ef77b29bd4e) to [underwindfall/underwindfall](https://api.github.com/repos/underwindfall/underwindfall): "Update TemplateReadMe.kt"
@@ -20,10 +24,6 @@
   **2020-12-30** — pushed 7 commits to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme).
 
   **2020-12-30** — pushed 8 commits to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme).
-
-  **2020-12-30** — pushed [`0a2af3d0`](https://api.github.com/repos/underwindfall/wakabox-stats/commits/0a2af3d099428f4a8b52c470eecb4b500350ea70) to [underwindfall/wakabox-stats](https://api.github.com/repos/underwindfall/wakabox-stats): "fix wrong 100 languages error"
-
-  **2020-12-28** — pushed 3 commits to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme).
  <!-- githubActivity ends -->
  </td><td valign="top">
 
