@@ -5,6 +5,8 @@
 
  ## Github Activity
  <!-- githubActivity starts -->
+  **2021-01-04** — pushed 3 commits to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme).
+
   **2021-01-03** — pushed [`d7b5e61e`](https://api.github.com/repos/underwindfall/wakabox-stats/commits/d7b5e61eda6b5f9d962022a404940f123376f221) to [underwindfall/wakabox-stats](https://api.github.com/repos/underwindfall/wakabox-stats): "fix wrong issue"
 
   **2021-01-03** — pushed [`d8ca2550`](https://api.github.com/repos/underwindfall/wakabox-stats/commits/d8ca2550721a9ce00d46e5f46f420b90b961fa19) to [underwindfall/wakabox-stats](https://api.github.com/repos/underwindfall/wakabox-stats): "add debuging information"
@@ -22,8 +24,6 @@
   **2021-01-02** — pushed [`8d80999e`](https://api.github.com/repos/underwindfall/underwindfall/commits/8d80999e45dc12655296ab1629fcf0d563aac6d4) to [underwindfall/underwindfall](https://api.github.com/repos/underwindfall/underwindfall): "Update TemplateReadMe.kt"
 
   **2021-01-02** — pushed [`9fb70cbf`](https://api.github.com/repos/underwindfall/underwindfall/commits/9fb70cbfe8c4a69ed25e145d59a35ef77b29bd4e) to [underwindfall/underwindfall](https://api.github.com/repos/underwindfall/underwindfall): "Update TemplateReadMe.kt"
-
-  **2021-01-02** — pushed [`7ea8a6c8`](https://api.github.com/repos/underwindfall/underwindfall/commits/7ea8a6c8af78b5769f2b41e6b9bcdf15f97aac84) to [underwindfall/underwindfall](https://api.github.com/repos/underwindfall/underwindfall): "Update TemplateReadMe.kt"
  <!-- githubActivity ends -->
  </td><td valign="top">
 
