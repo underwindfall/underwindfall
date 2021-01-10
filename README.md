@@ -5,6 +5,10 @@
 
  ## Github Activity
  <!-- githubActivity starts -->
+  **2021-01-09** — pushed 2 commits to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme).
+
+  **2021-01-09** — pushed 3 commits to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme).
+
   **2021-01-08** — commented on [#2255](https://github.com/google/dagger/issues/2255#issuecomment-756466104) in [google/dagger](https://api.github.com/repos/google/dagger)
 
   **2021-01-08** — commented on [#2255](https://github.com/google/dagger/issues/2255#issuecomment-756453929) in [google/dagger](https://api.github.com/repos/google/dagger)
@@ -20,10 +24,6 @@
   **2021-01-07** — opened issue [#2255](https://api.github.com/repos/google/dagger/issues/2255) on [google/dagger](https://api.github.com/repos/google/dagger): "Dagger hilt kapt vs annotationProcessor issues"
 
   **2021-01-07** — created branch "main" on [underwindfall/dagger_issue_project](https://api.github.com/repos/underwindfall/dagger_issue_project)
-
-  **2021-01-07** — created repository on [underwindfall/dagger_issue_project](https://api.github.com/repos/underwindfall/dagger_issue_project)
-
-  **2021-01-07** — pushed 2 commits to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme).
  <!-- githubActivity ends -->
  </td><td valign="top">
 
@@ -59,12 +59,12 @@
  ## 🏊‍♂️ <a href="https://gist.github.com/underwindfall/377ee88ba1fabd1e93516e48ca9c61eb" target="_blank">Weekly Development Breakdown</a>
   <!-- codeTime starts -->
   ```text
-    Java         27 hrs 7 mins  ███████████████████░░░░░  66.3%
-    Kotlin       5 hrs 10 mins  ██████░░░░░░░░░░░░░░░░░░  12.7%
-    XML          4 hrs 29 mins  ██████░░░░░░░░░░░░░░░░░░  11.0%
-    Groovy       2 hrs 29 mins  █████░░░░░░░░░░░░░░░░░░░   6.1%
-    YAML               32 mins  ███░░░░░░░░░░░░░░░░░░░░░   1.3%
-    Bash               20 mins  ███░░░░░░░░░░░░░░░░░░░░░   0.8%
+    Java         31 hrs 4 mins  ███████████████████░░░░░  65.4%
+    Kotlin       7 hrs 24 mins  ███████░░░░░░░░░░░░░░░░░  15.6%
+    XML          4 hrs 40 mins  █████░░░░░░░░░░░░░░░░░░░   9.8%
+    Groovy       2 hrs 29 mins  ████░░░░░░░░░░░░░░░░░░░░   5.2%
+    YAML               34 mins  ███░░░░░░░░░░░░░░░░░░░░░   1.2%
+    Bash               20 mins  ███░░░░░░░░░░░░░░░░░░░░░   0.7%
   ```
   <!-- codeTime starts -->
   </td></tr></table>
