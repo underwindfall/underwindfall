@@ -5,6 +5,12 @@
 
  ## Github Activity
  <!-- githubActivity starts -->
+  **2021-01-11** — pushed [`da062315`](https://api.github.com/repos/underwindfall/Algorithme/commits/da0623154adbcba8bf2e1add04b87478b6354010) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Leetcode 779 reverseKth"
+
+  **2021-01-11** — pushed 2 commits to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme).
+
+  **2021-01-11** — commented on [#885](https://github.com/Triple-T/gradle-play-publisher/issues/885#issuecomment-758068853) in [Triple-T/gradle-play-publisher](https://api.github.com/repos/Triple-T/gradle-play-publisher)
+
   **2021-01-09** — pushed 2 commits to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme).
 
   **2021-01-09** — pushed 3 commits to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme).
@@ -18,12 +24,6 @@
   **2021-01-07** — commented on [#2255](https://github.com/google/dagger/issues/2255#issuecomment-756416806) in [google/dagger](https://api.github.com/repos/google/dagger)
 
   **2021-01-07** — commented on [#2255](https://github.com/google/dagger/issues/2255#issuecomment-756400070) in [google/dagger](https://api.github.com/repos/google/dagger)
-
-  **2021-01-07** — commented on [#2255](https://github.com/google/dagger/issues/2255#issuecomment-756385324) in [google/dagger](https://api.github.com/repos/google/dagger)
-
-  **2021-01-07** — opened issue [#2255](https://api.github.com/repos/google/dagger/issues/2255) on [google/dagger](https://api.github.com/repos/google/dagger): "Dagger hilt kapt vs annotationProcessor issues"
-
-  **2021-01-07** — created branch "main" on [underwindfall/dagger_issue_project](https://api.github.com/repos/underwindfall/dagger_issue_project)
  <!-- githubActivity ends -->
  </td><td valign="top">
 
@@ -59,12 +59,12 @@
  ## 🏊‍♂️ <a href="https://gist.github.com/underwindfall/377ee88ba1fabd1e93516e48ca9c61eb" target="_blank">Weekly Development Breakdown</a>
   <!-- codeTime starts -->
   ```text
-    Java         31 hrs 4 mins  ███████████████████░░░░░  65.4%
-    Kotlin       7 hrs 24 mins  ███████░░░░░░░░░░░░░░░░░  15.6%
-    XML          4 hrs 40 mins  █████░░░░░░░░░░░░░░░░░░░   9.8%
-    Groovy       2 hrs 29 mins  ████░░░░░░░░░░░░░░░░░░░░   5.2%
-    YAML               34 mins  ███░░░░░░░░░░░░░░░░░░░░░   1.2%
-    Bash               20 mins  ███░░░░░░░░░░░░░░░░░░░░░   0.7%
+    Java         29 hrs 5 mins  ███████████████████░░░░░  64.4%
+    Kotlin       7 hrs 24 mins  ███████░░░░░░░░░░░░░░░░░  16.4%
+    XML          4 hrs 40 mins  ██████░░░░░░░░░░░░░░░░░░  10.3%
+    Groovy       2 hrs 29 mins  ████░░░░░░░░░░░░░░░░░░░░   5.5%
+    YAML               32 mins  ███░░░░░░░░░░░░░░░░░░░░░   1.2%
+    Bash               20 mins  ███░░░░░░░░░░░░░░░░░░░░░   0.8%
   ```
   <!-- codeTime starts -->
   </td></tr></table>
