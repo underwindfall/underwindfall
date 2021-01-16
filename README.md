@@ -5,6 +5,16 @@
 
  ## Github Activity
  <!-- githubActivity starts -->
+  **2021-01-16** — pushed 3 commits to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme).
+
+  **2021-01-16** — pushed [`41e745ce`](https://api.github.com/repos/underwindfall/wakabox-stats/commits/41e745cebf787031135e24b52a7054a19de08649) to [underwindfall/wakabox-stats](https://api.github.com/repos/underwindfall/wakabox-stats): "Update index.js"
+
+  **2021-01-16** — pushed 2 commits to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme).
+
+  **2021-01-16** — pushed 2 commits to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme).
+
+  **2021-01-16** — pushed [`c0513bdf`](https://api.github.com/repos/underwindfall/Algorithme/commits/c0513bdfca7d9b03d8b53f17b253e7be13d7cf94) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Leetcode 779 reverseKth"
+
   **2021-01-11** — pushed [`da062315`](https://api.github.com/repos/underwindfall/Algorithme/commits/da0623154adbcba8bf2e1add04b87478b6354010) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Leetcode 779 reverseKth"
 
   **2021-01-11** — pushed 2 commits to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme).
@@ -14,16 +24,6 @@
   **2021-01-09** — pushed 2 commits to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme).
 
   **2021-01-09** — pushed 3 commits to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme).
-
-  **2021-01-08** — commented on [#2255](https://github.com/google/dagger/issues/2255#issuecomment-756466104) in [google/dagger](https://api.github.com/repos/google/dagger)
-
-  **2021-01-08** — commented on [#2255](https://github.com/google/dagger/issues/2255#issuecomment-756453929) in [google/dagger](https://api.github.com/repos/google/dagger)
-
-  **2021-01-07** — commented on [#878](https://github.com/Triple-T/gradle-play-publisher/issues/878#issuecomment-756422471) in [Triple-T/gradle-play-publisher](https://api.github.com/repos/Triple-T/gradle-play-publisher)
-
-  **2021-01-07** — commented on [#2255](https://github.com/google/dagger/issues/2255#issuecomment-756416806) in [google/dagger](https://api.github.com/repos/google/dagger)
-
-  **2021-01-07** — commented on [#2255](https://github.com/google/dagger/issues/2255#issuecomment-756400070) in [google/dagger](https://api.github.com/repos/google/dagger)
  <!-- githubActivity ends -->
  </td><td valign="top">
 
@@ -59,12 +59,12 @@
  ## 🏊‍♂️ <a href="https://gist.github.com/underwindfall/377ee88ba1fabd1e93516e48ca9c61eb" target="_blank">Weekly Development Breakdown</a>
   <!-- codeTime starts -->
   ```text
-    Java        15 hrs 44 mins  ██████████████░░░░░░░░░░  47.2%
-    Kotlin         8 hrs 1 min  █████████░░░░░░░░░░░░░░░  24.1%
-    Bash         3 hrs 42 mins  ██████░░░░░░░░░░░░░░░░░░  11.1%
-    XML          2 hrs 30 mins  █████░░░░░░░░░░░░░░░░░░░   7.5%
-    Groovy        1 hr 10 mins  ████░░░░░░░░░░░░░░░░░░░░   3.5%
-    YAML               54 mins  ████░░░░░░░░░░░░░░░░░░░░   2.7%
+    Java         9 hrs 52 mins  ■■■■■■■■■■■■■■▥□□□□□□□□□  45.9%
+    Kotlin       4 hrs 53 mins  ■■■■■■■■■□□□□□□□□□□□□□□□  22.7%
+    Bash         3 hrs 34 mins  ■■■■■■■▥□□□□□□□□□□□□□□□□  16.6%
+    XML                57 mins  ■■■■▥□□□□□□□□□□□□□□□□□□□   4.4%
+    Groovy             46 mins  ■■■■◱□□□□□□□□□□□□□□□□□□□   3.6%
+    Text               31 mins  ■■■■□□□□□□□□□□□□□□□□□□□□   2.4%
   ```
   <!-- codeTime starts -->
   </td></tr></table>
