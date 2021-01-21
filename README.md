@@ -5,6 +5,8 @@
 
  ## Github Activity
  <!-- githubActivity starts -->
+  **2021-01-20** — pushed [`75ce4bd2`](https://api.github.com/repos/underwindfall/Algorithme/commits/75ce4bd23505bc1c6637c503c3aa5c2154a164fc) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Leetcode 154 findminII"
+
   **2021-01-19** — pushed [`27a8bd51`](https://api.github.com/repos/underwindfall/underwindfall/commits/27a8bd5138ffe6475a6c7d638fde1d981367a8fb) to [underwindfall/underwindfall](https://api.github.com/repos/underwindfall/underwindfall): "Update build.yml"
 
   **2021-01-19** — pushed 2 commits to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme).
@@ -20,8 +22,6 @@
   **2021-01-16** — pushed 3 commits to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme).
 
   **2021-01-16** — pushed [`41e745ce`](https://api.github.com/repos/underwindfall/wakabox-stats/commits/41e745cebf787031135e24b52a7054a19de08649) to [underwindfall/wakabox-stats](https://api.github.com/repos/underwindfall/wakabox-stats): "Update index.js"
-
-  **2021-01-16** — pushed 2 commits to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme).
 
   **2021-01-16** — pushed 2 commits to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme).
  <!-- githubActivity ends -->
