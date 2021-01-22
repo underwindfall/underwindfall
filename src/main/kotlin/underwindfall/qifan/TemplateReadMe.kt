@@ -29,7 +29,7 @@ ${githubContent.joinToString("\n\n") { "    $it" }}
    ## Something about me
    <!-- profile starts -->
    <a href="https://github.com/underwindfall" width="100%">
-    <img src="https://github-readme-stats.vercel.app/api?username=underwindfall&show_icons=true&count_private=true&theme=onedark&bg_color=transparent" width="100%"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=underwindfall&show_icons=true&count_private=true&bg_color=transparent&title_color=00AEFF&icon_color=2DDE98&text_color=2DDE98" width="100%"/>
    </a>
    <br/>
    <br/>
