@@ -5,6 +5,8 @@
 
  ## Github Activity
  <!-- githubActivity starts -->
+  **2021-01-22** — pushed [`46866c32`](https://api.github.com/repos/underwindfall/underwindfall/commits/46866c32f3553e37125932267f760122b2cf4070) to [underwindfall/underwindfall](https://api.github.com/repos/underwindfall/underwindfall): "Update TemplateReadMe.kt"
+
   **2021-01-22** — pushed 2 commits to [underwindfall/underwindfall](https://api.github.com/repos/underwindfall/underwindfall).
 
   **2021-01-21** — pushed [`91e45782`](https://api.github.com/repos/underwindfall/Algorithme/commits/91e45782a3db3e08e16e2d233e5f901d1d96a740) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Leetcode 4 Sorted Array"
@@ -22,15 +24,13 @@
   **2021-01-19** — pushed 2 commits to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme).
 
   **2021-01-19** — pushed 2 commits to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme).
-
-  **2021-01-18** — pushed 2 commits to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme).
  <!-- githubActivity ends -->
  </td><td valign="top">
 
  ## Something about me
  <!-- profile starts -->
  <a href="https://github.com/underwindfall" width="100%">
-  <img src="https://github-readme-stats.vercel.app/api?username=underwindfall&show_icons=true&count_private=true&bg_color=transparent&theme=algolia" width="100%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=underwindfall&show_icons=true&count_private=true&bg_color=transparent&theme=onedark" width="100%"/>
  </a>
  <br/>
  <br/>
