@@ -5,6 +5,8 @@
 
  ## Github Activity
  <!-- githubActivity starts -->
+  **2021-01-22** — pushed [`25325c58`](https://api.github.com/repos/underwindfall/underwindfall/commits/25325c5803b5db96a07073bdda5ab96706694f07) to [underwindfall/underwindfall](https://api.github.com/repos/underwindfall/underwindfall): "Update TemplateReadMe.kt"
+
   **2021-01-22** — pushed [`a25986d7`](https://api.github.com/repos/underwindfall/underwindfall/commits/a25986d77e97f4222cedf421516d3c623fdc8c12) to [underwindfall/underwindfall](https://api.github.com/repos/underwindfall/underwindfall): "Update TemplateReadMe.kt"
 
   **2021-01-22** — pushed [`46866c32`](https://api.github.com/repos/underwindfall/underwindfall/commits/46866c32f3553e37125932267f760122b2cf4070) to [underwindfall/underwindfall](https://api.github.com/repos/underwindfall/underwindfall): "Update TemplateReadMe.kt"
@@ -22,15 +24,13 @@
   **2021-01-19** — pushed [`27a8bd51`](https://api.github.com/repos/underwindfall/underwindfall/commits/27a8bd5138ffe6475a6c7d638fde1d981367a8fb) to [underwindfall/underwindfall](https://api.github.com/repos/underwindfall/underwindfall): "Update build.yml"
 
   **2021-01-19** — pushed 2 commits to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme).
-
-  **2021-01-19** — pushed 2 commits to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme).
  <!-- githubActivity ends -->
  </td><td valign="top">
 
  ## Something about me
  <!-- profile starts -->
  <a href="https://github.com/underwindfall" width="100%">
-  <img src="https://github-readme-stats.vercel.app/api?username=underwindfall&show_icons=true&count_private=true&theme=onedark&bg_color=transparent" width="100%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=underwindfall&show_icons=true&count_private=true&bg_color=transparent&title_color=00AEFF&icon_color=2DDE98&text_color=2DDE98" width="100%"/>
  </a>
  <br/>
  <br/>
