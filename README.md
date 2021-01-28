@@ -5,6 +5,10 @@
 
  ## Github Activity
  <!-- githubActivity starts -->
+  **2021-01-27** — pushed [`a59921ab`](https://api.github.com/repos/underwindfall/Algorithme/commits/a59921abde128c5feefd2f64c2bb69ce6cf0ed3e) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Leetcode 300 length LIS"
+
+  **2021-01-27** — pushed [`99d735cd`](https://api.github.com/repos/underwindfall/Algorithme/commits/99d735cd3c09a8449358f0739df84b65943e250e) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Leetcode 300 length LIS"
+
   **2021-01-26** — pushed [`16bb0208`](https://api.github.com/repos/underwindfall/underwindfall.github.io/commits/16bb02087ec0546f92589b9412ddea775f42e637) to [underwindfall/underwindfall.github.io](https://api.github.com/repos/underwindfall/underwindfall.github.io): "update about page"
 
   **2021-01-26** — pushed 2 commits to [underwindfall/underwindfall.github.io](https://api.github.com/repos/underwindfall/underwindfall.github.io).
@@ -20,10 +24,6 @@
   **2021-01-24** — pushed [`e177658d`](https://api.github.com/repos/underwindfall/Algorithme/commits/e177658d2dbe05c1782cc09010734aeac05fa24f) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Leetcode 3 length of longest substring 滑动窗口解法"
 
   **2021-01-24** — pushed 2 commits to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme).
-
-  **2021-01-24** — pushed [`46ea0845`](https://api.github.com/repos/underwindfall/Algorithme/commits/46ea0845c612832204fdf7b703983ac5a5dc78dc) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Leetcode 567 permuation string"
-
-  **2021-01-24** — pushed [`6e1a4b03`](https://api.github.com/repos/underwindfall/Algorithme/commits/6e1a4b0306b8e4c3493ba19dc878fa7a538d7b85) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Leetcode 76 minwindow"
  <!-- githubActivity ends -->
  </td><td valign="top">
 
