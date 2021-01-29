@@ -5,6 +5,8 @@
 
  ## Github Activity
  <!-- githubActivity starts -->
+  **2021-01-28** — pushed [`637885c3`](https://api.github.com/repos/underwindfall/Algorithme/commits/637885c379e12ff1fede8c2e8a475988a8e14d1a) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Leetcode 801 min swap"
+
   **2021-01-27** — pushed [`a59921ab`](https://api.github.com/repos/underwindfall/Algorithme/commits/a59921abde128c5feefd2f64c2bb69ce6cf0ed3e) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Leetcode 300 length LIS"
 
   **2021-01-27** — pushed [`99d735cd`](https://api.github.com/repos/underwindfall/Algorithme/commits/99d735cd3c09a8449358f0739df84b65943e250e) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Leetcode 300 length LIS"
@@ -22,8 +24,6 @@
   **2021-01-24** — pushed [`321c4c39`](https://api.github.com/repos/underwindfall/Algorithme/commits/321c4c39239441c4eeb084940e4b3304cc3844e2) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Leetcode 239 max siliding window"
 
   **2021-01-24** — pushed [`e177658d`](https://api.github.com/repos/underwindfall/Algorithme/commits/e177658d2dbe05c1782cc09010734aeac05fa24f) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Leetcode 3 length of longest substring 滑动窗口解法"
-
-  **2021-01-24** — pushed 2 commits to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme).
  <!-- githubActivity ends -->
  </td><td valign="top">
 
