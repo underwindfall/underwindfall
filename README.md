@@ -5,6 +5,8 @@
 
  ## Github Activity
  <!-- githubActivity starts -->
+  **2021-02-05** — pushed 4 commits to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme).
+
   **2021-02-04** — pushed [`56f09e7e`](https://api.github.com/repos/underwindfall/Algorithme/commits/56f09e7e21d92f6d8ab65075696fa15f29531817) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Leetcode 300 贪心+二分"
 
   **2021-02-02** — pushed 2 commits to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme).
@@ -22,8 +24,6 @@
   **2021-01-27** — pushed [`a59921ab`](https://api.github.com/repos/underwindfall/Algorithme/commits/a59921abde128c5feefd2f64c2bb69ce6cf0ed3e) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Leetcode 300 length LIS"
 
   **2021-01-27** — pushed [`99d735cd`](https://api.github.com/repos/underwindfall/Algorithme/commits/99d735cd3c09a8449358f0739df84b65943e250e) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Leetcode 300 length LIS"
-
-  **2021-01-26** — pushed [`16bb0208`](https://api.github.com/repos/underwindfall/underwindfall.github.io/commits/16bb02087ec0546f92589b9412ddea775f42e637) to [underwindfall/underwindfall.github.io](https://api.github.com/repos/underwindfall/underwindfall.github.io): "update about page"
  <!-- githubActivity ends -->
  </td><td valign="top">
 
@@ -59,12 +59,12 @@
  ## 🏊‍♂️ <a href="https://gist.github.com/underwindfall/377ee88ba1fabd1e93516e48ca9c61eb" target="_blank">Weekly Development Breakdown</a>
   <!-- codeTime starts -->
   ```text
-    Java         17 hrs 5 mins  ■■■■■■■■■■■■■■■■■■■▥□□□□  66.3%
-    Kotlin       4 hrs 51 mins  ■■■■■■■■□□□□□□□□□□□□□□□□  18.8%
-    Groovy        1 hr 47 mins  ■■■■■◱□□□□□□□□□□□□□□□□□□   6.9%
-    Properties     1 hr 8 mins  ■■■■▥□□□□□□□□□□□□□□□□□□□   4.5%
-    Other              13 mins  ■■■▦□□□□□□□□□□□□□□□□□□□□   0.9%
-    XML                13 mins  ■■■▦□□□□□□□□□□□□□□□□□□□□   0.8%
+    Java        12 hrs 58 mins  ■■■■■■■■■■■■■■■■■▥□□□□□□  58.4%
+    Kotlin       3 hrs 42 mins  ■■■■■■■▥□□□□□□□□□□□□□□□□  16.7%
+    Groovy       2 hrs 20 mins  ■■■■■■□□□□□□□□□□□□□□□□□□  10.6%
+    XML           1 hr 38 mins  ■■■■■◱□□□□□□□□□□□□□□□□□□   7.4%
+    YAML               31 mins  ■■■■□□□□□□□□□□□□□□□□□□□□   2.4%
+    JSON               25 mins  ■■■■□□□□□□□□□□□□□□□□□□□□   1.9%
   ```
   <!-- codeTime starts -->
   </td></tr></table>
