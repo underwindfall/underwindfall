@@ -5,6 +5,14 @@
 
  ## Github Activity
  <!-- githubActivity starts -->
+  **2021-02-26** — pushed [`95e7889d`](https://api.github.com/repos/underwindfall/Algorithme/commits/95e7889d6ea2b7f22204c0736f506134ffc93485) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Leetcode CutRod"
+
+  **2021-02-25** — pushed [`03534827`](https://api.github.com/repos/underwindfall/Algorithme/commits/03534827321f5df790dd890384db41df8a2c8670) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Leetcode 132 mincut"
+
+  **2021-02-25** — pushed [`1fff78da`](https://api.github.com/repos/underwindfall/Algorithme/commits/1fff78dafe8d0bb889904b0a130711253a2f11dc) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Leetcode 132 mincut"
+
+  **2021-02-25** — pushed [`3d475a80`](https://api.github.com/repos/underwindfall/Algorithme/commits/3d475a8081939bcd315430ef58f132a2efaadc52) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Leetcode 583 Delete two operations in string"
+
   **2021-02-25** — pushed 2 commits to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme).
 
   **2021-02-24** — pushed 2 commits to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme).
@@ -16,14 +24,6 @@
   **2021-02-05** — pushed 4 commits to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme).
 
   **2021-02-04** — pushed [`56f09e7e`](https://api.github.com/repos/underwindfall/Algorithme/commits/56f09e7e21d92f6d8ab65075696fa15f29531817) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Leetcode 300 贪心+二分"
-
-  **2021-02-02** — pushed 2 commits to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme).
-
-  **2021-02-01** — pushed 3 commits to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme).
-
-  **2021-01-29** — pushed [`b55452b3`](https://api.github.com/repos/underwindfall/Algorithme/commits/b55452b3ffa93e87fadfe47834af6b5f9ebaa7a3) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Leetcode 790 num tillings"
-
-  **2021-01-29** — pushed [`fb381979`](https://api.github.com/repos/underwindfall/blogAssets/commits/fb38197998f46f609a300c8b7c46f9335bbeb2c1) to [underwindfall/blogAssets](https://api.github.com/repos/underwindfall/blogAssets): "upload from Picee"
  <!-- githubActivity ends -->
  </td><td valign="top">
 
@@ -59,12 +59,12 @@
  ## 🏊‍♂️ <a href="https://gist.github.com/underwindfall/377ee88ba1fabd1e93516e48ca9c61eb" target="_blank">Weekly Development Breakdown</a>
   <!-- codeTime starts -->
   ```text
-    Kotlin       33 hrs 2 mins  ■■■■■■■■■■■■■■■■■▦□□□□□□  60.0%
-    Java        12 hrs 19 mins  ■■■■■■■■▦□□□□□□□□□□□□□□□  22.4%
-    XML          5 hrs 26 mins  ■■■■■▦□□□□□□□□□□□□□□□□□□   9.9%
-    Groovy        1 hr 34 mins  ■■■■◱□□□□□□□□□□□□□□□□□□□   2.9%
-    Markdown      1 hr 13 mins  ■■■■□□□□□□□□□□□□□□□□□□□□   2.2%
-    JSON               27 mins  ■■■▦□□□□□□□□□□□□□□□□□□□□   0.8%
+    Kotlin      26 hrs 40 mins  ■■■■■■■■■■■■■■■■▦□□□□□□□  55.5%
+    Java        10 hrs 57 mins  ■■■■■■■■■□□□□□□□□□□□□□□□  22.8%
+    XML          5 hrs 37 mins  ■■■■■■◱□□□□□□□□□□□□□□□□□  11.7%
+    Markdown     2 hrs 26 mins  ■■■■▦□□□□□□□□□□□□□□□□□□□   5.1%
+    Groovy             56 mins  ■■■■□□□□□□□□□□□□□□□□□□□□   1.9%
+    Properties         27 mins  ■■■▦□□□□□□□□□□□□□□□□□□□□   0.9%
   ```
   <!-- codeTime starts -->
   </td></tr></table>
