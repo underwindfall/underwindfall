@@ -5,25 +5,25 @@
 
  ## Github Activity
  <!-- githubActivity starts -->
-  **2021-03-11** — pushed [`df8314f1`](https://api.github.com/repos/underwindfall/Algorithme/commits/df8314f1b053b56027a9ad93ea752d57bd6449b3) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Leetcode 123 BuyStockIII"
-
-  **2021-03-11** — pushed 3 commits to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme).
-
   **2021-03-10** — closed issue [#118143](https://api.github.com/repos/microsoft/vscode/issues/118143) on [microsoft/vscode](https://api.github.com/repos/microsoft/vscode): "use command +click link in macOS not wokring anymore"
 
   **2021-03-10** — commented on [#118143](https://github.com/microsoft/vscode/issues/118143#issuecomment-796260789) in [microsoft/vscode](https://api.github.com/repos/microsoft/vscode)
 
-  **2021-03-09** — pushed [`376f5120`](https://api.github.com/repos/underwindfall/Algorithme/commits/376f51207fb91423bd2b1300f7f1a93d34afcb3f) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Leetcode 410 dp"
-
-  **2021-03-05** — pushed 2 commits to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme).
-
   **2021-03-04** — opened issue [#118143](https://api.github.com/repos/microsoft/vscode/issues/118143) on [microsoft/vscode](https://api.github.com/repos/microsoft/vscode): "use command +click link in macOS not wokring anymore"
 
-  **2021-03-03** — pushed [`a4538e8c`](https://api.github.com/repos/underwindfall/Algorithme/commits/a4538e8c52ae7b9a7a76572e375ad91a1114e26a) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Leetcode 403 can cross"
+  **2021-02-27** — pushed [`cf7fe9f7`](https://api.github.com/repos/underwindfall/blogAssets/commits/cf7fe9f7156cb48a77851b7bd4aee645f7f20d97) to [underwindfall/blogAssets](https://api.github.com/repos/underwindfall/blogAssets): "Add files via upload"
 
-  **2021-03-03** — pushed 2 commits to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme).
+  **2021-01-29** — pushed [`fb381979`](https://api.github.com/repos/underwindfall/blogAssets/commits/fb38197998f46f609a300c8b7c46f9335bbeb2c1) to [underwindfall/blogAssets](https://api.github.com/repos/underwindfall/blogAssets): "upload from Picee"
 
-  **2021-03-02** — pushed [`1b353585`](https://api.github.com/repos/underwindfall/Algorithme/commits/1b35358509774c1426bedf40229c012c1c3bccc4) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Leetcode 887 dp+binearysearch"
+  **2021-01-26** — pushed [`16bb0208`](https://api.github.com/repos/underwindfall/underwindfall.github.io/commits/16bb02087ec0546f92589b9412ddea775f42e637) to [underwindfall/underwindfall.github.io](https://api.github.com/repos/underwindfall/underwindfall.github.io): "update about page"
+
+  **2021-01-26** — pushed 2 commits to [underwindfall/underwindfall.github.io](https://api.github.com/repos/underwindfall/underwindfall.github.io).
+
+  **2021-01-22** — pushed [`e926d2eb`](https://api.github.com/repos/underwindfall/underwindfall/commits/e926d2eb2f0f9e6091fa0e18c0d80345a5ae4231) to [underwindfall/underwindfall](https://api.github.com/repos/underwindfall/underwindfall): "Update TemplateReadMe.kt"
+
+  **2021-01-22** — pushed [`25325c58`](https://api.github.com/repos/underwindfall/underwindfall/commits/25325c5803b5db96a07073bdda5ab96706694f07) to [underwindfall/underwindfall](https://api.github.com/repos/underwindfall/underwindfall): "Update TemplateReadMe.kt"
+
+  **2021-01-22** — pushed [`a25986d7`](https://api.github.com/repos/underwindfall/underwindfall/commits/a25986d77e97f4222cedf421516d3c623fdc8c12) to [underwindfall/underwindfall](https://api.github.com/repos/underwindfall/underwindfall): "Update TemplateReadMe.kt"
  <!-- githubActivity ends -->
  </td><td valign="top">
 
@@ -59,12 +59,12 @@
  ## 🏊‍♂️ <a href="https://gist.github.com/underwindfall/377ee88ba1fabd1e93516e48ca9c61eb" target="_blank">Weekly Development Breakdown</a>
   <!-- codeTime starts -->
   ```text
-    Kotlin       19 hrs 6 mins  ■■■■■■■■■■■■■■■■◱□□□□□□□  53.0%
-    Java        10 hrs 34 mins  ■■■■■■■■■■▥□□□□□□□□□□□□□  29.3%
-    Groovy       4 hrs 49 mins  ■■■■■■▦□□□□□□□□□□□□□□□□□  13.4%
-    XML             1 hr 1 min  ■■■■◱□□□□□□□□□□□□□□□□□□□   2.9%
-    Markdown            9 mins  ■■■▥□□□□□□□□□□□□□□□□□□□□   0.5%
-    Text                9 mins  ■■■▥□□□□□□□□□□□□□□□□□□□□   0.4%
+    Kotlin       18 hrs 2 mins  ■■■■■■■■■■■■■■■■■□□□□□□□  56.7%
+    Java        10 hrs 55 mins  ■■■■■■■■■■■▦□□□□□□□□□□□□  34.4%
+    XML           1 hr 30 mins  ■■■■▥□□□□□□□□□□□□□□□□□□□   4.7%
+    Groovy             51 mins  ■■■■◱□□□□□□□□□□□□□□□□□□□   2.7%
+    Markdown           22 mins  ■■■▦□□□□□□□□□□□□□□□□□□□□   1.2%
+    JavaScript          2 mins  ■■■▥□□□□□□□□□□□□□□□□□□□□   0.1%
   ```
   <!-- codeTime starts -->
   </td></tr></table>
