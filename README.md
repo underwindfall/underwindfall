@@ -5,6 +5,8 @@
 
  ## Github Activity
  <!-- githubActivity starts -->
+  **2021-03-24** — pushed [`a1cb1c93`](https://api.github.com/repos/underwindfall/wakabox-stats/commits/a1cb1c9390819d2f49d631d36c81fbb8d9b811a3) to [underwindfall/wakabox-stats](https://api.github.com/repos/underwindfall/wakabox-stats): "Create dev.env"
+
   **2021-03-22** — deleted branch "dependabot/npm_and_yarn/server/socket.io-2.4.0" on [underwindfall/webrtcsamples](https://api.github.com/repos/underwindfall/webrtcsamples)
 
   **2021-03-22** — closed PR [#10](https://api.github.com/repos/underwindfall/webrtcsamples/pulls/10) to [underwindfall/webrtcsamples](https://api.github.com/repos/underwindfall/webrtcsamples): "Bump socket.io from 2.3.0 to 2.4.0 in /server"
@@ -22,8 +24,6 @@
   **2021-03-04** — opened issue [#118143](https://api.github.com/repos/microsoft/vscode/issues/118143) on [microsoft/vscode](https://api.github.com/repos/microsoft/vscode): "use command +click link in macOS not wokring anymore"
 
   **2021-02-27** — pushed [`cf7fe9f7`](https://api.github.com/repos/underwindfall/blogAssets/commits/cf7fe9f7156cb48a77851b7bd4aee645f7f20d97) to [underwindfall/blogAssets](https://api.github.com/repos/underwindfall/blogAssets): "Add files via upload"
-
-  **2021-01-29** — pushed [`fb381979`](https://api.github.com/repos/underwindfall/blogAssets/commits/fb38197998f46f609a300c8b7c46f9335bbeb2c1) to [underwindfall/blogAssets](https://api.github.com/repos/underwindfall/blogAssets): "upload from Picee"
  <!-- githubActivity ends -->
  </td><td valign="top">
 
@@ -59,12 +59,12 @@
  ## 🏊‍♂️ <a href="https://gist.github.com/underwindfall/377ee88ba1fabd1e93516e48ca9c61eb" target="_blank">Weekly Development Breakdown</a>
   <!-- codeTime starts -->
   ```text
-    Kotlin       7 hrs 50 mins  ■■■■■■■■■■■■■▦□□□□□□□□□□  43.1%
-    Java          7 hrs 2 mins  ■■■■■■■■■■■■▦□□□□□□□□□□□  38.7%
-    Markdown        1 hr 1 min  ■■■■▦□□□□□□□□□□□□□□□□□□□   5.6%
-    Groovy             56 mins  ■■■■▦□□□□□□□□□□□□□□□□□□□   5.2%
-    JSON               49 mins  ■■■■▥□□□□□□□□□□□□□□□□□□□   4.6%
-    XML                30 mins  ■■■■◱□□□□□□□□□□□□□□□□□□□   2.8%
+    Java         9 hrs 59 mins  ■■■■■■■■■■■■■■■■▥□□□□□□□  53.8%
+    Kotlin       5 hrs 31 mins  ■■■■■■■■■■▦□□□□□□□□□□□□□  29.8%
+    Markdown              1 hr  ■■■■▦□□□□□□□□□□□□□□□□□□□   5.4%
+    Prolog             42 mins  ■■■■▥□□□□□□□□□□□□□□□□□□□   3.8%
+    Groovy             39 mins  ■■■■◱□□□□□□□□□□□□□□□□□□□   3.5%
+    XML                35 mins  ■■■■◱□□□□□□□□□□□□□□□□□□□   3.2%
   ```
   <!-- codeTime starts -->
   </td></tr></table>
