@@ -5,6 +5,10 @@
 
  ## Github Activity
  <!-- githubActivity starts -->
+  **2021-03-31** — pushed [`d7fbc8b8`](https://api.github.com/repos/underwindfall/create-release-with-debugapk/commits/d7fbc8b8a1f88c6317f276d016509ebf2ba5edbe) to [underwindfall/create-release-with-debugapk](https://api.github.com/repos/underwindfall/create-release-with-debugapk): "Bump y18n from 4.0.0 to 4.0.1"
+
+  **2021-03-31** — closed PR [#5](https://api.github.com/repos/underwindfall/create-release-with-debugapk/pulls/5) to [underwindfall/create-release-with-debugapk](https://api.github.com/repos/underwindfall/create-release-with-debugapk): "Bump y18n from 4.0.0 to 4.0.1"
+
   **2021-03-24** — pushed [`a1cb1c93`](https://api.github.com/repos/underwindfall/wakabox-stats/commits/a1cb1c9390819d2f49d631d36c81fbb8d9b811a3) to [underwindfall/wakabox-stats](https://api.github.com/repos/underwindfall/wakabox-stats): "Create dev.env"
 
   **2021-03-22** — deleted branch "dependabot/npm_and_yarn/server/socket.io-2.4.0" on [underwindfall/webrtcsamples](https://api.github.com/repos/underwindfall/webrtcsamples)
@@ -20,10 +24,6 @@
   **2021-03-10** — closed issue [#118143](https://api.github.com/repos/microsoft/vscode/issues/118143) on [microsoft/vscode](https://api.github.com/repos/microsoft/vscode): "use command +click link in macOS not wokring anymore"
 
   **2021-03-10** — commented on [#118143](https://github.com/microsoft/vscode/issues/118143#issuecomment-796260789) in [microsoft/vscode](https://api.github.com/repos/microsoft/vscode)
-
-  **2021-03-04** — opened issue [#118143](https://api.github.com/repos/microsoft/vscode/issues/118143) on [microsoft/vscode](https://api.github.com/repos/microsoft/vscode): "use command +click link in macOS not wokring anymore"
-
-  **2021-02-27** — pushed [`cf7fe9f7`](https://api.github.com/repos/underwindfall/blogAssets/commits/cf7fe9f7156cb48a77851b7bd4aee645f7f20d97) to [underwindfall/blogAssets](https://api.github.com/repos/underwindfall/blogAssets): "Add files via upload"
  <!-- githubActivity ends -->
  </td><td valign="top">
 
@@ -59,12 +59,12 @@
  ## 🏊‍♂️ <a href="https://gist.github.com/underwindfall/377ee88ba1fabd1e93516e48ca9c61eb" target="_blank">Weekly Development Breakdown</a>
   <!-- codeTime starts -->
   ```text
-    Kotlin      15 hrs 30 mins  ■■■■■■■■■■■■■■■◱□□□□□□□□  49.2%
-    Java         7 hrs 27 mins  ■■■■■■■■■◱□□□□□□□□□□□□□□  23.6%
-    XML           7 hrs 9 mins  ■■■■■■■■■□□□□□□□□□□□□□□□  22.7%
-    Groovy             47 mins  ■■■■□□□□□□□□□□□□□□□□□□□□   2.5%
-    YAML               16 mins  ■■■▦□□□□□□□□□□□□□□□□□□□□   0.9%
-    Markdown           13 mins  ■■■▦□□□□□□□□□□□□□□□□□□□□   0.7%
+    Kotlin      18 hrs 11 mins  ■■■■■■■■■■■■■■■▥□□□□□□□□  50.5%
+    XML          8 hrs 31 mins  ■■■■■■■■■◱□□□□□□□□□□□□□□  23.7%
+    Java         7 hrs 25 mins  ■■■■■■■■▥□□□□□□□□□□□□□□□  20.6%
+    Groovy        1 hr 15 mins  ■■■■◱□□□□□□□□□□□□□□□□□□□   3.5%
+    YAML               16 mins  ■■■▦□□□□□□□□□□□□□□□□□□□□   0.8%
+    Markdown            8 mins  ■■■▥□□□□□□□□□□□□□□□□□□□□   0.4%
   ```
   <!-- codeTime starts -->
   </td></tr></table>
