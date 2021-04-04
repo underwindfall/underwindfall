@@ -5,6 +5,10 @@
 
  ## Github Activity
  <!-- githubActivity starts -->
+  **2021-04-04** — created branch "main" on [underwindfall/Learn-iOS](https://api.github.com/repos/underwindfall/Learn-iOS)
+
+  **2021-04-04** — created repository on [underwindfall/Learn-iOS](https://api.github.com/repos/underwindfall/Learn-iOS)
+
   **2021-03-31** — pushed [`d7fbc8b8`](https://api.github.com/repos/underwindfall/create-release-with-debugapk/commits/d7fbc8b8a1f88c6317f276d016509ebf2ba5edbe) to [underwindfall/create-release-with-debugapk](https://api.github.com/repos/underwindfall/create-release-with-debugapk): "Bump y18n from 4.0.0 to 4.0.1"
 
   **2021-03-31** — closed PR [#5](https://api.github.com/repos/underwindfall/create-release-with-debugapk/pulls/5) to [underwindfall/create-release-with-debugapk](https://api.github.com/repos/underwindfall/create-release-with-debugapk): "Bump y18n from 4.0.0 to 4.0.1"
@@ -20,10 +24,6 @@
   **2021-03-18** — pushed [`692bdc41`](https://api.github.com/repos/underwindfall/hilt_vs_dagger/commits/692bdc4150e12e519b3630436cb4f262a3cd219b) to [underwindfall/hilt_vs_dagger](https://api.github.com/repos/underwindfall/hilt_vs_dagger): "Update README.md"
 
   **2021-03-18** — pushed [`cd827f55`](https://api.github.com/repos/underwindfall/hilt_vs_dagger/commits/cd827f554290828fa813c696fe85aa7818754d3f) to [underwindfall/hilt_vs_dagger](https://api.github.com/repos/underwindfall/hilt_vs_dagger): "Update README.md"
-
-  **2021-03-10** — closed issue [#118143](https://api.github.com/repos/microsoft/vscode/issues/118143) on [microsoft/vscode](https://api.github.com/repos/microsoft/vscode): "use command +click link in macOS not wokring anymore"
-
-  **2021-03-10** — commented on [#118143](https://github.com/microsoft/vscode/issues/118143#issuecomment-796260789) in [microsoft/vscode](https://api.github.com/repos/microsoft/vscode)
  <!-- githubActivity ends -->
  </td><td valign="top">
 
