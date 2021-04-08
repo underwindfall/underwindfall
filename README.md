@@ -5,6 +5,10 @@
 
  ## Github Activity
  <!-- githubActivity starts -->
+  **2021-04-07** — closed issue [#8](https://api.github.com/repos/underwindfall/Algorithme/issues/8) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "FindDuplicateNumber287"
+
+  **2021-04-07** — closed issue [#9](https://api.github.com/repos/underwindfall/Algorithme/issues/9) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "FindShortestSubArray697"
+
   **2021-04-06** — pushed [`b915ae61`](https://api.github.com/repos/underwindfall/Algorithme/commits/b915ae61ab28f8f91d850dc4f3c5832f69770ab1) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Leetcode 数组复习"
 
   **2021-04-05** — closed issue [#10](https://api.github.com/repos/underwindfall/Algorithme/issues/10) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "KthSmallestArray378"
@@ -20,10 +24,6 @@
   **2021-03-24** — pushed [`a1cb1c93`](https://api.github.com/repos/underwindfall/wakabox-stats/commits/a1cb1c9390819d2f49d631d36c81fbb8d9b811a3) to [underwindfall/wakabox-stats](https://api.github.com/repos/underwindfall/wakabox-stats): "Create dev.env"
 
   **2021-03-22** — deleted branch "dependabot/npm_and_yarn/server/socket.io-2.4.0" on [underwindfall/webrtcsamples](https://api.github.com/repos/underwindfall/webrtcsamples)
-
-  **2021-03-22** — closed PR [#10](https://api.github.com/repos/underwindfall/webrtcsamples/pulls/10) to [underwindfall/webrtcsamples](https://api.github.com/repos/underwindfall/webrtcsamples): "Bump socket.io from 2.3.0 to 2.4.0 in /server"
-
-  **2021-03-22** — pushed [`246e2a77`](https://api.github.com/repos/underwindfall/webrtcsamples/commits/246e2a77c7d0e26fba8921e893aa70ce05729b4e) to [underwindfall/webrtcsamples](https://api.github.com/repos/underwindfall/webrtcsamples): "Bump socket.io from 2.3.0 to 2.4.0 in /server"
  <!-- githubActivity ends -->
  </td><td valign="top">
 
