@@ -5,6 +5,10 @@
 
  ## Github Activity
  <!-- githubActivity starts -->
+  **2021-04-09** — closed issue [#35](https://api.github.com/repos/underwindfall/Algorithme/issues/35) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "ReverseList206"
+
+  **2021-04-09** — commented on [#35](https://github.com/underwindfall/Algorithme/issues/35#issuecomment-816535020) in [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme)
+
   **2021-04-09** — opened issue [#39](https://api.github.com/repos/underwindfall/Algorithme/issues/39) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "SwapNodeParis24"
 
   **2021-04-09** — opened issue [#38](https://api.github.com/repos/underwindfall/Algorithme/issues/38) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "SplitListInParts725"
@@ -20,10 +24,6 @@
   **2021-04-09** — opened issue [#33](https://api.github.com/repos/underwindfall/Algorithme/issues/33) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "PalindromeList234"
 
   **2021-04-09** — opened issue [#32](https://api.github.com/repos/underwindfall/Algorithme/issues/32) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "OddEvenLinkedList328"
-
-  **2021-04-09** — opened issue [#31](https://api.github.com/repos/underwindfall/Algorithme/issues/31) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "MiddleNode876"
-
-  **2021-04-09** — opened issue [#30](https://api.github.com/repos/underwindfall/Algorithme/issues/30) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "MergeTwoSortedList21"
  <!-- githubActivity ends -->
  </td><td valign="top">
 
@@ -59,12 +59,12 @@
  ## 🏊‍♂️ <a href="https://gist.github.com/underwindfall/377ee88ba1fabd1e93516e48ca9c61eb" target="_blank">Weekly Development Breakdown</a>
   <!-- codeTime starts -->
   ```text
-    Kotlin       11 hrs 5 mins  ■■■■■■■■■■■■■◱□□□□□□□□□□  40.5%
-    Java         11 hrs 4 mins  ■■■■■■■■■■■■■◱□□□□□□□□□□  40.4%
-    XML          2 hrs 17 mins  ■■■■■▥□□□□□□□□□□□□□□□□□□   8.4%
-    C             1 hr 44 mins  ■■■■■□□□□□□□□□□□□□□□□□□□   6.4%
-    Groovy             43 mins  ■■■■□□□□□□□□□□□□□□□□□□□□   2.7%
-    Bash               11 mins  ■■■▦□□□□□□□□□□□□□□□□□□□□   0.7%
+    Kotlin      16 hrs 17 mins  ■■■■■■■■■■■■■■▥□□□□□□□□□  46.4%
+    Java          11 hrs 1 min  ■■■■■■■■■■■□□□□□□□□□□□□□  31.4%
+    XML          3 hrs 42 mins  ■■■■■■□□□□□□□□□□□□□□□□□□  10.6%
+    Groovy        1 hr 49 mins  ■■■■▦□□□□□□□□□□□□□□□□□□□   5.2%
+    C             1 hr 44 mins  ■■■■▦□□□□□□□□□□□□□□□□□□□   5.0%
+    Bash               13 mins  ■■■▦□□□□□□□□□□□□□□□□□□□□   0.6%
   ```
   <!-- codeTime starts -->
   </td></tr></table>
