@@ -5,25 +5,25 @@
 
  ## Github Activity
  <!-- githubActivity starts -->
+  **2021-04-10** — closed issue [#18](https://api.github.com/repos/underwindfall/Algorithme/issues/18) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "反转链表（递归 / 迭代）"
+
+  **2021-04-10** — commented on [#18](https://github.com/underwindfall/Algorithme/issues/18#issuecomment-817190444) in [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme)
+
+  **2021-04-10** — closed issue [#29](https://api.github.com/repos/underwindfall/Algorithme/issues/29) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "LinkedList142"
+
+  **2021-04-10** — commented on [#29](https://github.com/underwindfall/Algorithme/issues/29#issuecomment-817190237) in [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme)
+
+  **2021-04-10** — closed issue [#28](https://api.github.com/repos/underwindfall/Algorithme/issues/28) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "LinkedList141"
+
+  **2021-04-10** — commented on [#28](https://github.com/underwindfall/Algorithme/issues/28#issuecomment-817186299) in [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme)
+
+  **2021-04-10** — commented on [#28](https://github.com/underwindfall/Algorithme/issues/28#issuecomment-817186234) in [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme)
+
+  **2021-04-10** — pushed 5 commits to [underwindfall/Learn-iOS](https://api.github.com/repos/underwindfall/Learn-iOS).
+
   **2021-04-09** — closed issue [#35](https://api.github.com/repos/underwindfall/Algorithme/issues/35) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "ReverseList206"
 
   **2021-04-09** — commented on [#35](https://github.com/underwindfall/Algorithme/issues/35#issuecomment-816535020) in [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme)
-
-  **2021-04-09** — opened issue [#39](https://api.github.com/repos/underwindfall/Algorithme/issues/39) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "SwapNodeParis24"
-
-  **2021-04-09** — opened issue [#38](https://api.github.com/repos/underwindfall/Algorithme/issues/38) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "SplitListInParts725"
-
-  **2021-04-09** — opened issue [#37](https://api.github.com/repos/underwindfall/Algorithme/issues/37) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "RotateList61"
-
-  **2021-04-09** — opened issue [#36](https://api.github.com/repos/underwindfall/Algorithme/issues/36) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "ReverseNodesInKGroup25"
-
-  **2021-04-09** — opened issue [#35](https://api.github.com/repos/underwindfall/Algorithme/issues/35) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "ReverseList206"
-
-  **2021-04-09** — opened issue [#34](https://api.github.com/repos/underwindfall/Algorithme/issues/34) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "RemoveNthFromEnd19"
-
-  **2021-04-09** — opened issue [#33](https://api.github.com/repos/underwindfall/Algorithme/issues/33) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "PalindromeList234"
-
-  **2021-04-09** — opened issue [#32](https://api.github.com/repos/underwindfall/Algorithme/issues/32) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "OddEvenLinkedList328"
  <!-- githubActivity ends -->
  </td><td valign="top">
 
@@ -59,12 +59,12 @@
  ## 🏊‍♂️ <a href="https://gist.github.com/underwindfall/377ee88ba1fabd1e93516e48ca9c61eb" target="_blank">Weekly Development Breakdown</a>
   <!-- codeTime starts -->
   ```text
-    Kotlin      16 hrs 17 mins  ■■■■■■■■■■■■■■▥□□□□□□□□□  46.4%
-    Java          11 hrs 1 min  ■■■■■■■■■■■□□□□□□□□□□□□□  31.4%
-    XML          3 hrs 42 mins  ■■■■■■□□□□□□□□□□□□□□□□□□  10.6%
-    Groovy        1 hr 49 mins  ■■■■▦□□□□□□□□□□□□□□□□□□□   5.2%
-    C             1 hr 44 mins  ■■■■▦□□□□□□□□□□□□□□□□□□□   5.0%
-    Bash               13 mins  ■■■▦□□□□□□□□□□□□□□□□□□□□   0.6%
+    Kotlin      16 hrs 17 mins  ■■■■■■■■■■■■■■■◱□□□□□□□□  48.8%
+    Java         9 hrs 19 mins  ■■■■■■■■■■◱□□□□□□□□□□□□□  27.9%
+    XML          3 hrs 42 mins  ■■■■■■◱□□□□□□□□□□□□□□□□□  11.1%
+    Groovy        1 hr 49 mins  ■■■■▦□□□□□□□□□□□□□□□□□□□   5.5%
+    C             1 hr 44 mins  ■■■■▦□□□□□□□□□□□□□□□□□□□   5.2%
+    Bash               13 mins  ■■■▦□□□□□□□□□□□□□□□□□□□□   0.7%
   ```
   <!-- codeTime starts -->
   </td></tr></table>
