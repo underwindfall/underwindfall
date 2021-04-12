@@ -5,25 +5,25 @@
 
  ## Github Activity
  <!-- githubActivity starts -->
-  **2021-04-10** — closed issue [#18](https://api.github.com/repos/underwindfall/Algorithme/issues/18) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "反转链表（递归 / 迭代）"
+  **2021-04-12** — pushed [`b8d10fe7`](https://api.github.com/repos/underwindfall/Algorithme/commits/b8d10fe79041d615b485c52807c3bfa12b0aad05) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "链表 复习"
 
-  **2021-04-10** — commented on [#18](https://github.com/underwindfall/Algorithme/issues/18#issuecomment-817190444) in [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme)
+  **2021-04-12** — closed issue [#26](https://api.github.com/repos/underwindfall/Algorithme/issues/26) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "FlattenList430"
 
-  **2021-04-10** — closed issue [#29](https://api.github.com/repos/underwindfall/Algorithme/issues/29) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "LinkedList142"
+  **2021-04-12** — commented on [#26](https://github.com/underwindfall/Algorithme/issues/26#issuecomment-817389541) in [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme)
 
-  **2021-04-10** — commented on [#29](https://github.com/underwindfall/Algorithme/issues/29#issuecomment-817190237) in [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme)
+  **2021-04-12** — closed issue [#23](https://api.github.com/repos/underwindfall/Algorithme/issues/23) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "CopyRandomList138"
 
-  **2021-04-10** — closed issue [#28](https://api.github.com/repos/underwindfall/Algorithme/issues/28) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "LinkedList141"
+  **2021-04-12** — commented on [#23](https://github.com/underwindfall/Algorithme/issues/23#issuecomment-817385530) in [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme)
 
-  **2021-04-10** — commented on [#28](https://github.com/underwindfall/Algorithme/issues/28#issuecomment-817186299) in [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme)
+  **2021-04-12** — pushed [`d88aa605`](https://api.github.com/repos/underwindfall/Algorithme/commits/d88aa6050dc3fc0eb5bd7967969b158cf3295dce) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "链表 复习"
 
-  **2021-04-10** — commented on [#28](https://github.com/underwindfall/Algorithme/issues/28#issuecomment-817186234) in [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme)
+  **2021-04-12** — closed issue [#38](https://api.github.com/repos/underwindfall/Algorithme/issues/38) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "SplitListInParts725"
 
-  **2021-04-10** — pushed 5 commits to [underwindfall/Learn-iOS](https://api.github.com/repos/underwindfall/Learn-iOS).
+  **2021-04-12** — pushed 2 commits to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme).
 
-  **2021-04-09** — closed issue [#35](https://api.github.com/repos/underwindfall/Algorithme/issues/35) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "ReverseList206"
+  **2021-04-12** — closed issue [#20](https://api.github.com/repos/underwindfall/Algorithme/issues/20) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "翻转链表一部分【M，N】"
 
-  **2021-04-09** — commented on [#35](https://github.com/underwindfall/Algorithme/issues/35#issuecomment-816535020) in [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme)
+  **2021-04-11** — closed issue [#41](https://api.github.com/repos/underwindfall/Algorithme/issues/41) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "ReverseListII92"
  <!-- githubActivity ends -->
  </td><td valign="top">
 
@@ -59,12 +59,12 @@
  ## 🏊‍♂️ <a href="https://gist.github.com/underwindfall/377ee88ba1fabd1e93516e48ca9c61eb" target="_blank">Weekly Development Breakdown</a>
   <!-- codeTime starts -->
   ```text
-    Kotlin      16 hrs 17 mins  ■■■■■■■■■■■■■■■◱□□□□□□□□  48.8%
-    Java         9 hrs 19 mins  ■■■■■■■■■■◱□□□□□□□□□□□□□  27.9%
-    XML          3 hrs 42 mins  ■■■■■■◱□□□□□□□□□□□□□□□□□  11.1%
-    Groovy        1 hr 49 mins  ■■■■▦□□□□□□□□□□□□□□□□□□□   5.5%
-    C             1 hr 44 mins  ■■■■▦□□□□□□□□□□□□□□□□□□□   5.2%
-    Bash               13 mins  ■■■▦□□□□□□□□□□□□□□□□□□□□   0.7%
+    Kotlin      16 hrs 17 mins  ■■■■■■■■■■■■■◱□□□□□□□□□□  40.5%
+    Java        16 hrs 13 mins  ■■■■■■■■■■■■■◱□□□□□□□□□□  40.3%
+    XML          3 hrs 42 mins  ■■■■■▦□□□□□□□□□□□□□□□□□□   9.2%
+    Groovy        1 hr 49 mins  ■■■■▥□□□□□□□□□□□□□□□□□□□   4.5%
+    C             1 hr 44 mins  ■■■■▥□□□□□□□□□□□□□□□□□□□   4.3%
+    Bash               13 mins  ■■■▥□□□□□□□□□□□□□□□□□□□□   0.6%
   ```
   <!-- codeTime starts -->
   </td></tr></table>
