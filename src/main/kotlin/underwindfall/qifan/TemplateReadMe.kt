@@ -39,7 +39,9 @@ ${githubContent.joinToString("\n\n") { "    $it" }}
    data class underwindfall(
         val pronouns: String = "he|him",
         val askMeAbout: List<String> = listOf(
-        "Kotlin", "Java", "Dart","Javascript", "Typescript"
+          "Kotlin", "Java", 
+          "Dart","Javascript", "Typescript",
+          "Swift"
         )
         val toLearn: () -> Unit = {
           "Flutter" to "For Fun",
