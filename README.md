@@ -5,6 +5,12 @@
 
  ## Github Activity
  <!-- githubActivity starts -->
+  **2021-04-21** — pushed [`fbe7ee71`](https://api.github.com/repos/underwindfall/Algorithme/commits/fbe7ee7150dfe705304feb73bf6f3d985ac58cca) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Leetcode 1039 TriangulationOfPolygon"
+
+  **2021-04-21** — pushed [`070b92b9`](https://api.github.com/repos/underwindfall/Algorithme/commits/070b92b99dec9e7ea04f9db443bb45d0e0fe91df) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Leetcode 516 longest-palindromic-subsequence"
+
+  **2021-04-21** — pushed 3 commits to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme).
+
   **2021-04-12** — pushed [`5f2a8669`](https://api.github.com/repos/underwindfall/Algorithme/commits/5f2a8669b4c26b782eef8aff7c9466fedfa0191b) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "[InserNode] head/tail insert mode"
 
   **2021-04-12** — commented on [#41](https://github.com/underwindfall/Algorithme/issues/41#issuecomment-817563317) in [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme)
@@ -18,12 +24,6 @@
   **2021-04-12** — commented on [#26](https://github.com/underwindfall/Algorithme/issues/26#issuecomment-817389541) in [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme)
 
   **2021-04-12** — closed issue [#23](https://api.github.com/repos/underwindfall/Algorithme/issues/23) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "CopyRandomList138"
-
-  **2021-04-12** — commented on [#23](https://github.com/underwindfall/Algorithme/issues/23#issuecomment-817385530) in [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme)
-
-  **2021-04-12** — pushed [`d88aa605`](https://api.github.com/repos/underwindfall/Algorithme/commits/d88aa6050dc3fc0eb5bd7967969b158cf3295dce) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "链表 复习"
-
-  **2021-04-12** — closed issue [#38](https://api.github.com/repos/underwindfall/Algorithme/issues/38) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "SplitListInParts725"
  <!-- githubActivity ends -->
  </td><td valign="top">
 
@@ -59,12 +59,12 @@
  ## 🏊‍♂️ <a href="https://gist.github.com/underwindfall/377ee88ba1fabd1e93516e48ca9c61eb" target="_blank">Weekly Development Breakdown</a>
   <!-- codeTime starts -->
   ```text
-    Kotlin      14 hrs 37 mins  ■■■■■■■■■■■■■■■■■■■■■◱□□  74.1%
-    Java          1 hr 48 mins  ■■■■■▦□□□□□□□□□□□□□□□□□□   9.2%
-    Bash          1 hr 24 mins  ■■■■■◱□□□□□□□□□□□□□□□□□□   7.2%
-    XML                48 mins  ■■■■▥□□□□□□□□□□□□□□□□□□□   4.1%
-    JSON               28 mins  ■■■■□□□□□□□□□□□□□□□□□□□□   2.4%
-    Groovy             12 mins  ■■■▦□□□□□□□□□□□□□□□□□□□□   1.1%
+    Kotlin      12 hrs 42 mins  ■■■■■■■■■■■■■■■■■■◱□□□□□  61.7%
+    Java         4 hrs 34 mins  ■■■■■■■■▦□□□□□□□□□□□□□□□  22.1%
+    Bash          1 hr 24 mins  ■■■■■□□□□□□□□□□□□□□□□□□□   6.8%
+    XML                48 mins  ■■■■▥□□□□□□□□□□□□□□□□□□□   4.0%
+    JSON               29 mins  ■■■■□□□□□□□□□□□□□□□□□□□□   2.4%
+    Groovy             14 mins  ■■■▦□□□□□□□□□□□□□□□□□□□□   1.2%
   ```
   <!-- codeTime starts -->
   </td></tr></table>
