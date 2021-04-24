@@ -5,6 +5,10 @@
 
  ## Github Activity
  <!-- githubActivity starts -->
+  **2021-04-24** — pushed [`202296be`](https://api.github.com/repos/underwindfall/underwindfall/commits/202296be73f6bca53c6272c361fb21cdba5229e8) to [underwindfall/underwindfall](https://api.github.com/repos/underwindfall/underwindfall): "update README template"
+
+  **2021-04-24** — pushed 2 commits to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme).
+
   **2021-04-24** — pushed [`a2bf0d8a`](https://api.github.com/repos/underwindfall/resume/commits/a2bf0d8a7b6357a93a115ea5060445fc615a3599) to [underwindfall/resume](https://api.github.com/repos/underwindfall/resume): "fix verison"
 
   **2021-04-24** — pushed [`675c445f`](https://api.github.com/repos/underwindfall/resume/commits/675c445f69e516ae6d4091ceaf785b02ae11eb79) to [underwindfall/resume](https://api.github.com/repos/underwindfall/resume): "Delete yarn.lock"
@@ -20,10 +24,6 @@
   **2021-04-24** — pushed 5 commits to [underwindfall/resume](https://api.github.com/repos/underwindfall/resume).
 
   **2021-04-24** — pushed [`cd7ddb07`](https://api.github.com/repos/underwindfall/resume/commits/cd7ddb07dfdc6b9cafb42ce954e77d998b693716) to [underwindfall/resume](https://api.github.com/repos/underwindfall/resume): "update other languages"
-
-  **2021-04-24** — deleted branch "dependabot/npm_and_yarn/elliptic-6.5.4" on [underwindfall/resume](https://api.github.com/repos/underwindfall/resume)
-
-  **2021-04-24** — pushed [`0406afa7`](https://api.github.com/repos/underwindfall/resume/commits/0406afa78d1cba1bdd8c95bc741021661e4263e5) to [underwindfall/resume](https://api.github.com/repos/underwindfall/resume): "Bump elliptic from 6.5.3 to 6.5.4"
  <!-- githubActivity ends -->
  </td><td valign="top">
 
@@ -40,7 +40,9 @@
  data class underwindfall(
       val pronouns: String = "he|him",
       val askMeAbout: List<String> = listOf(
-      "Kotlin", "Java", "Dart","Javascript", "Typescript"
+        "Kotlin", "Java", 
+        "Dart","Javascript", "Typescript",
+        "Swift"
       )
       val toLearn: () -> Unit = {
         "Flutter" to "For Fun",
