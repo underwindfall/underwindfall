@@ -5,6 +5,8 @@
 
  ## Github Activity
  <!-- githubActivity starts -->
+  **2021-04-24** — pushed 2 commits to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme).
+
   **2021-04-24** — pushed [`202296be`](https://api.github.com/repos/underwindfall/underwindfall/commits/202296be73f6bca53c6272c361fb21cdba5229e8) to [underwindfall/underwindfall](https://api.github.com/repos/underwindfall/underwindfall): "update README template"
 
   **2021-04-24** — pushed 2 commits to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme).
@@ -22,8 +24,6 @@
   **2021-04-24** — pushed [`d0495391`](https://api.github.com/repos/underwindfall/resume/commits/d04953910ed493f1beb038b23e8659efbb669e53) to [underwindfall/resume](https://api.github.com/repos/underwindfall/resume): "test CI"
 
   **2021-04-24** — pushed 5 commits to [underwindfall/resume](https://api.github.com/repos/underwindfall/resume).
-
-  **2021-04-24** — pushed [`cd7ddb07`](https://api.github.com/repos/underwindfall/resume/commits/cd7ddb07dfdc6b9cafb42ce954e77d998b693716) to [underwindfall/resume](https://api.github.com/repos/underwindfall/resume): "update other languages"
  <!-- githubActivity ends -->
  </td><td valign="top">
 
@@ -61,12 +61,12 @@
  ## 🏊‍♂️ <a href="https://gist.github.com/underwindfall/377ee88ba1fabd1e93516e48ca9c61eb" target="_blank">Weekly Development Breakdown</a>
   <!-- codeTime starts -->
   ```text
-    Kotlin      26 hrs 12 mins  ■■■■■■■■■■■■■■■■■■■■□□□□  69.0%
-    Java                 6 hrs  ■■■■■■■◱□□□□□□□□□□□□□□□□  15.8%
-    XML            2 hrs 1 min  ■■■■▦□□□□□□□□□□□□□□□□□□□   5.3%
-    Bash          1 hr 24 mins  ■■■■◱□□□□□□□□□□□□□□□□□□□   3.7%
-    YAML               54 mins  ■■■■□□□□□□□□□□□□□□□□□□□□   2.4%
-    JSON               34 mins  ■■■▦□□□□□□□□□□□□□□□□□□□□   1.5%
+    Kotlin      26 hrs 22 mins  ■■■■■■■■■■■■■■■■■■■▥□□□□  66.9%
+    Java         6 hrs 42 mins  ■■■■■■■▥□□□□□□□□□□□□□□□□  17.0%
+    XML           2 hrs 5 mins  ■■■■▦□□□□□□□□□□□□□□□□□□□   5.3%
+    Bash          1 hr 24 mins  ■■■■◱□□□□□□□□□□□□□□□□□□□   3.6%
+    YAML           1 hr 6 mins  ■■■■◱□□□□□□□□□□□□□□□□□□□   2.8%
+    JSON               55 mins  ■■■■□□□□□□□□□□□□□□□□□□□□   2.4%
   ```
   <!-- codeTime starts -->
   </td></tr></table>
