@@ -5,6 +5,10 @@
 
  ## Github Activity
  <!-- githubActivity starts -->
+  **2021-04-27** — pushed 2 commits to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme).
+
+  **2021-04-27** — pushed [`28af8a22`](https://api.github.com/repos/underwindfall/Algorithme/commits/28af8a220aaedf3e0beefc6c22df7dad886032ae) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Leetcode longestDecomposition 1147"
+
   **2021-04-24** — pushed 2 commits to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme).
 
   **2021-04-24** — pushed [`202296be`](https://api.github.com/repos/underwindfall/underwindfall/commits/202296be73f6bca53c6272c361fb21cdba5229e8) to [underwindfall/underwindfall](https://api.github.com/repos/underwindfall/underwindfall): "update README template"
@@ -20,10 +24,6 @@
   **2021-04-24** — pushed [`49540cc5`](https://api.github.com/repos/underwindfall/resume/commits/49540cc5626f9cc2dd8ab1855c04b6955539ee53) to [underwindfall/resume](https://api.github.com/repos/underwindfall/resume): "Update data.json"
 
   **2021-04-24** — closed PR [#29](https://api.github.com/repos/underwindfall/resume/pulls/29) to [underwindfall/resume](https://api.github.com/repos/underwindfall/resume): "Update data.json"
-
-  **2021-04-24** — pushed [`d0495391`](https://api.github.com/repos/underwindfall/resume/commits/d04953910ed493f1beb038b23e8659efbb669e53) to [underwindfall/resume](https://api.github.com/repos/underwindfall/resume): "test CI"
-
-  **2021-04-24** — pushed 5 commits to [underwindfall/resume](https://api.github.com/repos/underwindfall/resume).
  <!-- githubActivity ends -->
  </td><td valign="top">
 
@@ -61,12 +61,12 @@
  ## 🏊‍♂️ <a href="https://gist.github.com/underwindfall/377ee88ba1fabd1e93516e48ca9c61eb" target="_blank">Weekly Development Breakdown</a>
   <!-- codeTime starts -->
   ```text
-    Kotlin      25 hrs 48 mins  ■■■■■■■■■■■■■■■■■■■▦□□□□  67.3%
-    Java         6 hrs 15 mins  ■■■■■■■▥□□□□□□□□□□□□□□□□  16.3%
-    XML          2 hrs 54 mins  ■■■■■◱□□□□□□□□□□□□□□□□□□   7.6%
-    YAML          1 hr 42 mins  ■■■■▥□□□□□□□□□□□□□□□□□□□   4.5%
-    JSON           1 hr 2 mins  ■■■■◱□□□□□□□□□□□□□□□□□□□   2.7%
-    JavaScript         11 mins  ■■■▥□□□□□□□□□□□□□□□□□□□□   0.5%
+    Kotlin      30 hrs 29 mins  ■■■■■■■■■■■■■■■■■■■■▥□□□  70.9%
+    Java         6 hrs 40 mins  ■■■■■■■◱□□□□□□□□□□□□□□□□  15.6%
+    XML          2 hrs 55 mins  ■■■■■□□□□□□□□□□□□□□□□□□□   6.8%
+    YAML          1 hr 42 mins  ■■■■▥□□□□□□□□□□□□□□□□□□□   4.0%
+    JSON               43 mins  ■■■■□□□□□□□□□□□□□□□□□□□□   1.7%
+    JavaScript         11 mins  ■■■▥□□□□□□□□□□□□□□□□□□□□   0.4%
   ```
   <!-- codeTime starts -->
   </td></tr></table>
