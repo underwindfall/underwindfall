@@ -5,6 +5,10 @@
 
  ## Github Activity
  <!-- githubActivity starts -->
+  **2021-04-30** — deleted branch "feature/kotlin" on [underwindfall/resume](https://api.github.com/repos/underwindfall/resume)
+
+  **2021-04-30** — deleted branch "develop" on [underwindfall/resume](https://api.github.com/repos/underwindfall/resume)
+
   **2021-04-30** — created tag "v2.3" on [underwindfall/resume](https://api.github.com/repos/underwindfall/resume)
 
   **2021-04-30** — deleted tag "v2.3" on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme)
@@ -20,10 +24,6 @@
   **2021-04-30** — pushed [`fd520426`](https://api.github.com/repos/underwindfall/resume/commits/fd5204267b568a233c759e3024c599ec690cbf13) to [underwindfall/resume](https://api.github.com/repos/underwindfall/resume): "fix CI"
 
   **2021-04-29** — created tag "v2.3" on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme)
-
-  **2021-04-29** — deleted branch "qy/fix/build_issue" on [underwindfall/resume](https://api.github.com/repos/underwindfall/resume)
-
-  **2021-04-29** — pushed [`a7694f1d`](https://api.github.com/repos/underwindfall/resume/commits/a7694f1de9b9302c4a483bca10c5c026760620aa) to [underwindfall/resume](https://api.github.com/repos/underwindfall/resume): "fix build issue"
  <!-- githubActivity ends -->
  </td><td valign="top">
 
@@ -61,12 +61,12 @@
  ## 🏊‍♂️ <a href="https://gist.github.com/underwindfall/377ee88ba1fabd1e93516e48ca9c61eb" target="_blank">Weekly Development Breakdown</a>
   <!-- codeTime starts -->
   ```text
-    Kotlin      29 hrs 15 mins  ■■■■■■■■■■■■■■■■■■■□□□□□  64.9%
-    Java         7 hrs 52 mins  ■■■■■■■▦□□□□□□□□□□□□□□□□  17.4%
-    XML           5 hrs 7 mins  ■■■■■■◱□□□□□□□□□□□□□□□□□  11.3%
-    YAML                  1 hr  ■■■■□□□□□□□□□□□□□□□□□□□□   2.2%
-    JSON               58 mins  ■■■■□□□□□□□□□□□□□□□□□□□□   2.1%
-    Groovy             35 mins  ■■■▦□□□□□□□□□□□□□□□□□□□□   1.3%
+    Kotlin      21 hrs 29 mins  ■■■■■■■■■■■■■■■■▥□□□□□□□  54.6%
+    Java        10 hrs 18 mins  ■■■■■■■■■▦□□□□□□□□□□□□□□  26.2%
+    XML          4 hrs 20 mins  ■■■■■■□□□□□□□□□□□□□□□□□□  11.0%
+    JSON           1 hr 3 mins  ■■■■◱□□□□□□□□□□□□□□□□□□□   2.7%
+    YAML                  1 hr  ■■■■□□□□□□□□□□□□□□□□□□□□   2.5%
+    Groovy             37 mins  ■■■▦□□□□□□□□□□□□□□□□□□□□   1.6%
   ```
   <!-- codeTime starts -->
   </td></tr></table>
