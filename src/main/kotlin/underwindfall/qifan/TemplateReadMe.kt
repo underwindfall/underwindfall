@@ -17,7 +17,7 @@ fun createReadMe(githubContent: List<FeedItem>, codeTimeContent: List<FeedItem>)
   return """
   <h2> Hi 👋, I'm Qifan ! </h2>
   <p><em>Software engineer currently work @<a href="https://www.netatmo.com">Netatmo</a>
-  </em></p><p><a href="https://qifanyang.com/resume" target="_blank"> Know more about me</a> 🔭</p>
+  </em></p><p><a href="https://qifanyang.com/resume" target="_blank"> 🔭 Know more about me</a> This is my personal resume site, I built it for fun.</p>
   <table><tr><td valign="top" rowspan="2">
 
    ## Github Activity
