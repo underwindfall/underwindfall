@@ -1,10 +1,12 @@
 <h2> Hi 👋, I'm Qifan ! </h2>
 <p><em>Software engineer currently work @<a href="https://www.netatmo.com">Netatmo</a>
-</em></p><p><a href="https://qifanyang.com/resume" target="_blank"> Know more about me</a> 🔭</p>
+</em></p><p><a href="https://qifanyang.com/resume" target="_blank"> 🔭 Know more about me</a> This is my personal resume site, I built it for fun.</p>
 <table><tr><td valign="top" rowspan="2">
 
  ## Github Activity
  <!-- githubActivity starts -->
+  **2021-05-04** — pushed [`c67a1db3`](https://api.github.com/repos/underwindfall/underwindfall/commits/c67a1db3dd4329c08b53e3fed6be2cdec966e9d7) to [underwindfall/underwindfall](https://api.github.com/repos/underwindfall/underwindfall): "Update TemplateReadMe.kt"
+
   **2021-05-04** — pushed [`f666edf5`](https://api.github.com/repos/underwindfall/Algorithme/commits/f666edf546e89c2efec1eb154c472c8e57225df3) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Leetcode 459 repeatedstring"
 
   **2021-05-03** — pushed 2 commits to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme).
@@ -22,8 +24,6 @@
   **2021-04-30** — pushed [`6cdc239b`](https://api.github.com/repos/underwindfall/resume/commits/6cdc239bcb20a4f734a7e82d73fb0db6763df6d3) to [underwindfall/resume](https://api.github.com/repos/underwindfall/resume): "Update ci.yml"
 
   **2021-04-30** — pushed [`a96908f2`](https://api.github.com/repos/underwindfall/resume/commits/a96908f259ee9814a9efd9d49ee7aa8037a1ed4e) to [underwindfall/resume](https://api.github.com/repos/underwindfall/resume): "Update ci.yml"
-
-  **2021-04-30** — pushed [`74a3bb1d`](https://api.github.com/repos/underwindfall/resume/commits/74a3bb1d86fb8ec54f885b395fa700c2c8dcfc0c) to [underwindfall/resume](https://api.github.com/repos/underwindfall/resume): "Updates"
  <!-- githubActivity ends -->
  </td><td valign="top">
 
