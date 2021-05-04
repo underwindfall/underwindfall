@@ -5,6 +5,12 @@
 
  ## Github Activity
  <!-- githubActivity starts -->
+  **2021-05-04** — pushed [`f666edf5`](https://api.github.com/repos/underwindfall/Algorithme/commits/f666edf546e89c2efec1eb154c472c8e57225df3) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Leetcode 459 repeatedstring"
+
+  **2021-05-03** — pushed 2 commits to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme).
+
+  **2021-05-03** — pushed 2 commits to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme).
+
   **2021-04-30** — deleted branch "feature/kotlin" on [underwindfall/resume](https://api.github.com/repos/underwindfall/resume)
 
   **2021-04-30** — deleted branch "develop" on [underwindfall/resume](https://api.github.com/repos/underwindfall/resume)
@@ -18,12 +24,6 @@
   **2021-04-30** — pushed [`a96908f2`](https://api.github.com/repos/underwindfall/resume/commits/a96908f259ee9814a9efd9d49ee7aa8037a1ed4e) to [underwindfall/resume](https://api.github.com/repos/underwindfall/resume): "Update ci.yml"
 
   **2021-04-30** — pushed [`74a3bb1d`](https://api.github.com/repos/underwindfall/resume/commits/74a3bb1d86fb8ec54f885b395fa700c2c8dcfc0c) to [underwindfall/resume](https://api.github.com/repos/underwindfall/resume): "Updates"
-
-  **2021-04-30** — pushed [`1764c461`](https://api.github.com/repos/underwindfall/resume/commits/1764c4610e577fb98c92ace2b159f27d214f6e9f) to [underwindfall/resume](https://api.github.com/repos/underwindfall/resume): "fix CI"
-
-  **2021-04-30** — pushed [`fd520426`](https://api.github.com/repos/underwindfall/resume/commits/fd5204267b568a233c759e3024c599ec690cbf13) to [underwindfall/resume](https://api.github.com/repos/underwindfall/resume): "fix CI"
-
-  **2021-04-29** — created tag "v2.3" on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme)
  <!-- githubActivity ends -->
  </td><td valign="top">
 
@@ -61,12 +61,12 @@
  ## 🏊‍♂️ <a href="https://gist.github.com/underwindfall/377ee88ba1fabd1e93516e48ca9c61eb" target="_blank">Weekly Development Breakdown</a>
   <!-- codeTime starts -->
   ```text
-    Kotlin      21 hrs 19 mins  ■■■■■■■■■■■■■■■■■□□□□□□□  56.6%
-    Java         9 hrs 26 mins  ■■■■■■■■■▥□□□□□□□□□□□□□□  25.1%
-    XML          4 hrs 16 mins  ■■■■■■◱□□□□□□□□□□□□□□□□□  11.3%
-    YAML               48 mins  ■■■■□□□□□□□□□□□□□□□□□□□□   2.2%
-    JSON               42 mins  ■■■■□□□□□□□□□□□□□□□□□□□□   1.9%
-    Groovy             37 mins  ■■■▦□□□□□□□□□□□□□□□□□□□□   1.7%
+    Kotlin      19 hrs 36 mins  ■■■■■■■■■■■■■■■■□□□□□□□□  51.7%
+    Java        12 hrs 24 mins  ■■■■■■■■■■■◱□□□□□□□□□□□□  32.7%
+    XML            4 hrs 1 min  ■■■■■■□□□□□□□□□□□□□□□□□□  10.6%
+    Groovy             43 mins  ■■■■□□□□□□□□□□□□□□□□□□□□   1.9%
+    JSON               32 mins  ■■■▦□□□□□□□□□□□□□□□□□□□□   1.4%
+    JavaScript         17 mins  ■■■▦□□□□□□□□□□□□□□□□□□□□   0.8%
   ```
   <!-- codeTime starts -->
   </td></tr></table>
