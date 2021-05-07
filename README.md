@@ -5,6 +5,12 @@
 
  ## Github Activity
  <!-- githubActivity starts -->
+  **2021-05-06** — commented on [#42](https://github.com/underwindfall/Algorithme/issues/42#issuecomment-833302423) in [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme)
+
+  **2021-05-06** — commented on [#42](https://github.com/underwindfall/Algorithme/issues/42#issuecomment-833301516) in [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme)
+
+  **2021-05-06** — opened issue [#42](https://api.github.com/repos/underwindfall/Algorithme/issues/42) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "队列Queue"
+
   **2021-05-06** — pushed [`fa0303dc`](https://api.github.com/repos/underwindfall/resume/commits/fa0303dc161c3cd92f16865059e37fb2d4e196e9) to [underwindfall/resume](https://api.github.com/repos/underwindfall/resume): "update the copyright year"
 
   **2021-05-05** — pushed [`16f26801`](https://api.github.com/repos/underwindfall/Algorithme/commits/16f268019f5e7eb9ad3b7341a099e09da85db033) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Leetcode 368"
@@ -18,12 +24,6 @@
   **2021-05-04** — pushed [`c67a1db3`](https://api.github.com/repos/underwindfall/underwindfall/commits/c67a1db3dd4329c08b53e3fed6be2cdec966e9d7) to [underwindfall/underwindfall](https://api.github.com/repos/underwindfall/underwindfall): "Update TemplateReadMe.kt"
 
   **2021-05-04** — pushed [`f666edf5`](https://api.github.com/repos/underwindfall/Algorithme/commits/f666edf546e89c2efec1eb154c472c8e57225df3) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Leetcode 459 repeatedstring"
-
-  **2021-05-03** — pushed 2 commits to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme).
-
-  **2021-05-03** — pushed 2 commits to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme).
-
-  **2021-04-30** — deleted branch "feature/kotlin" on [underwindfall/resume](https://api.github.com/repos/underwindfall/resume)
  <!-- githubActivity ends -->
  </td><td valign="top">
 
@@ -61,12 +61,12 @@
  ## 🏊‍♂️ <a href="https://gist.github.com/underwindfall/377ee88ba1fabd1e93516e48ca9c61eb" target="_blank">Weekly Development Breakdown</a>
   <!-- codeTime starts -->
   ```text
-    Kotlin      16 hrs 25 mins  ■■■■■■■■■■■■■▦□□□□□□□□□□  42.5%
-    Java        15 hrs 52 mins  ■■■■■■■■■■■■■◱□□□□□□□□□□  41.1%
-    XML          3 hrs 52 mins  ■■■■■■□□□□□□□□□□□□□□□□□□  10.0%
-    CSV                51 mins  ■■■■□□□□□□□□□□□□□□□□□□□□   2.2%
-    Groovy             31 mins  ■■■▦□□□□□□□□□□□□□□□□□□□□   1.3%
-    JSON               29 mins  ■■■▦□□□□□□□□□□□□□□□□□□□□   1.3%
+    Kotlin      16 hrs 50 mins  ■■■■■■■■■■■■■■▥□□□□□□□□□  46.2%
+    Java        14 hrs 39 mins  ■■■■■■■■■■■■■□□□□□□□□□□□  40.2%
+    XML          2 hrs 35 mins  ■■■■■◱□□□□□□□□□□□□□□□□□□   7.1%
+    CSV                59 mins  ■■■■◱□□□□□□□□□□□□□□□□□□□   2.7%
+    Groovy             33 mins  ■■■▦□□□□□□□□□□□□□□□□□□□□   1.5%
+    JavaScript         19 mins  ■■■▦□□□□□□□□□□□□□□□□□□□□   0.9%
   ```
   <!-- codeTime starts -->
   </td></tr></table>
