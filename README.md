@@ -5,6 +5,12 @@
 
  ## Github Activity
  <!-- githubActivity starts -->
+  **2021-05-07** — commented on [#43](https://github.com/underwindfall/Algorithme/issues/43#issuecomment-834471987) in [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme)
+
+  **2021-05-07** — opened issue [#43](https://api.github.com/repos/underwindfall/Algorithme/issues/43) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "BFS DFS"
+
+  **2021-05-07** — commented on [#42](https://github.com/underwindfall/Algorithme/issues/42#issuecomment-834470008) in [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme)
+
   **2021-05-06** — commented on [#42](https://github.com/underwindfall/Algorithme/issues/42#issuecomment-833302423) in [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme)
 
   **2021-05-06** — commented on [#42](https://github.com/underwindfall/Algorithme/issues/42#issuecomment-833301516) in [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme)
@@ -18,12 +24,6 @@
   **2021-05-05** — pushed [`d6ac74fb`](https://api.github.com/repos/underwindfall/Algorithme/commits/d6ac74fb2d0028bfeb09919b1701c6973eb7abe7) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Leetcode 1055 shortestway LIS"
 
   **2021-05-05** — opened issue [#1074](https://api.github.com/repos/ovity/octotree/issues/1074) on [ovity/octotree](https://api.github.com/repos/ovity/octotree): "Check Icon about selected theme  is not in the correct position"
-
-  **2021-05-05** — pushed 4 commits to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme).
-
-  **2021-05-04** — pushed [`c67a1db3`](https://api.github.com/repos/underwindfall/underwindfall/commits/c67a1db3dd4329c08b53e3fed6be2cdec966e9d7) to [underwindfall/underwindfall](https://api.github.com/repos/underwindfall/underwindfall): "Update TemplateReadMe.kt"
-
-  **2021-05-04** — pushed [`f666edf5`](https://api.github.com/repos/underwindfall/Algorithme/commits/f666edf546e89c2efec1eb154c472c8e57225df3) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Leetcode 459 repeatedstring"
  <!-- githubActivity ends -->
  </td><td valign="top">
 
@@ -61,12 +61,12 @@
  ## 🏊‍♂️ <a href="https://gist.github.com/underwindfall/377ee88ba1fabd1e93516e48ca9c61eb" target="_blank">Weekly Development Breakdown</a>
   <!-- codeTime starts -->
   ```text
-    Kotlin      16 hrs 50 mins  ■■■■■■■■■■■■■■▥□□□□□□□□□  46.2%
-    Java        14 hrs 39 mins  ■■■■■■■■■■■■■□□□□□□□□□□□  40.2%
-    XML          2 hrs 35 mins  ■■■■■◱□□□□□□□□□□□□□□□□□□   7.1%
-    CSV                59 mins  ■■■■◱□□□□□□□□□□□□□□□□□□□   2.7%
-    Groovy             33 mins  ■■■▦□□□□□□□□□□□□□□□□□□□□   1.5%
-    JavaScript         19 mins  ■■■▦□□□□□□□□□□□□□□□□□□□□   0.9%
+    Kotlin       14 hrs 6 mins  ■■■■■■■■■■■■■■▥□□□□□□□□□  46.4%
+    Java        12 hrs 11 mins  ■■■■■■■■■■■■■□□□□□□□□□□□  40.1%
+    XML          2 hrs 10 mins  ■■■■■◱□□□□□□□□□□□□□□□□□□   7.1%
+    CSV                59 mins  ■■■■◱□□□□□□□□□□□□□□□□□□□   3.3%
+    Groovy             31 mins  ■■■■□□□□□□□□□□□□□□□□□□□□   1.7%
+    JavaScript         14 mins  ■■■▦□□□□□□□□□□□□□□□□□□□□   0.8%
   ```
   <!-- codeTime starts -->
   </td></tr></table>
