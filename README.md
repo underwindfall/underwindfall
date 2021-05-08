@@ -3,8 +3,10 @@
 </em></p><p><a href="https://qifanyang.com/resume" target="_blank"> 🔭 Know more about me</a> This is my personal resume site, I built it for fun.</p>
 <table><tr><td valign="top" rowspan="2">
 
- ##🎯 Github Activity
+ ## 📷Github Activity
  <!-- githubActivity starts -->
+  **2021-05-08** — pushed [`5574fd7b`](https://api.github.com/repos/underwindfall/underwindfall/commits/5574fd7b0282c979b58f2fdfbb79b93d3b33e012) to [underwindfall/underwindfall](https://api.github.com/repos/underwindfall/underwindfall): "Update TemplateReadMe.kt"
+
   **2021-05-08** — pushed [`1b785d2e`](https://api.github.com/repos/underwindfall/underwindfall/commits/1b785d2ef04e86cc3acd393e683a1d99edec242e) to [underwindfall/underwindfall](https://api.github.com/repos/underwindfall/underwindfall): "Update TemplateReadMe.kt"
 
   **2021-05-08** — pushed [`a39cbac2`](https://api.github.com/repos/underwindfall/resume/commits/a39cbac21d5fe23566e20c2e183f99a8a003eee2) to [underwindfall/resume](https://api.github.com/repos/underwindfall/resume): "fix prettier command"
@@ -22,12 +24,10 @@
   **2021-05-08** — commented on [#44](https://github.com/underwindfall/Algorithme/issues/44#issuecomment-835387107) in [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme)
 
   **2021-05-08** — pushed [`953739ad`](https://api.github.com/repos/underwindfall/Algorithme/commits/953739adb57911cf47ffbd5081ab226649131468) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Update issue templates"
-
-  **2021-05-08** — opened issue [#44](https://api.github.com/repos/underwindfall/Algorithme/issues/44) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "WallsAndGates286"
  <!-- githubActivity ends -->
  </td><td valign="top">
 
- ##♟ Something about me
+ ## 🌏Something about me
  <!-- profile starts -->
  <a href="https://github.com/underwindfall" width="100%">
   <img src="https://github-readme-stats.vercel.app/api?username=underwindfall&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff00&hide_title=true&include_all_commits=true&count_private=true&hide_border=true" width="100%"/>
