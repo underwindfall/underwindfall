@@ -20,13 +20,13 @@ fun createReadMe(githubContent: List<FeedItem>, codeTimeContent: List<FeedItem>)
   </em></p><p><a href="https://qifanyang.com/resume" target="_blank"> 🔭 Know more about me</a> This is my personal resume site, I built it for fun.</p>
   <table><tr><td valign="top" rowspan="2">
 
-   ## 📷Github Activity
+   ## 📷 Github Activity
    <!-- githubActivity starts -->
 ${githubContent.joinToString("\n\n") { "    $it" }}
    <!-- githubActivity ends -->
    </td><td valign="top">
 
-   ## 🌏Something about me
+   ## 🌏 Something about me
    <!-- profile starts -->
    <a href="https://github.com/underwindfall" width="100%">
     <img src="https://github-readme-stats.vercel.app/api?username=underwindfall&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff00&hide_title=true&include_all_commits=true&count_private=true&hide_border=true" width="100%"/>
