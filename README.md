@@ -5,6 +5,12 @@
 
  ## 📷 Github Activity
  <!-- githubActivity starts -->
+  **2021-05-09** — deleted branch "develop" on [underwindfall/resume](https://api.github.com/repos/underwindfall/resume)
+
+  **2021-05-09** — pushed [`4fe44f7f`](https://api.github.com/repos/underwindfall/resume/commits/4fe44f7fd16d06c090fd77c34fa2a435ff731318) to [underwindfall/resume](https://api.github.com/repos/underwindfall/resume): "add more skills"
+
+  **2021-05-09** — closed PR [#31](https://api.github.com/repos/underwindfall/resume/pulls/31) to [underwindfall/resume](https://api.github.com/repos/underwindfall/resume): "deal with mobile skills + husk precommit"
+
   **2021-05-08** — pushed [`f5f58764`](https://api.github.com/repos/underwindfall/underwindfall/commits/f5f587645e784bc597419b13af93781f095f70e1) to [underwindfall/underwindfall](https://api.github.com/repos/underwindfall/underwindfall): "Update TemplateReadMe.kt"
 
   **2021-05-08** — pushed [`5574fd7b`](https://api.github.com/repos/underwindfall/underwindfall/commits/5574fd7b0282c979b58f2fdfbb79b93d3b33e012) to [underwindfall/underwindfall](https://api.github.com/repos/underwindfall/underwindfall): "Update TemplateReadMe.kt"
@@ -18,12 +24,6 @@
   **2021-05-08** — opened PR [#31](https://api.github.com/repos/underwindfall/resume/pulls/31) to [underwindfall/resume](https://api.github.com/repos/underwindfall/resume): "Develop"
 
   **2021-05-08** — created branch "develop" on [underwindfall/resume](https://api.github.com/repos/underwindfall/resume)
-
-  **2021-05-08** — pushed [`d5a4f30f`](https://api.github.com/repos/underwindfall/Algorithme/commits/d5a4f30fe04b169dbfbb511ed66db1157f76064a) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Leetcode 286 WallsAndGates"
-
-  **2021-05-08** — opened issue [#45](https://api.github.com/repos/underwindfall/Algorithme/issues/45) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "NumberOfIsLands200"
-
-  **2021-05-08** — commented on [#44](https://github.com/underwindfall/Algorithme/issues/44#issuecomment-835387107) in [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme)
  <!-- githubActivity ends -->
  </td><td valign="top">
 
