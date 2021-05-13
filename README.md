@@ -5,6 +5,14 @@
 
  ## 📷 Github Activity
  <!-- githubActivity starts -->
+  **2021-05-12** — opened issue [#46](https://api.github.com/repos/underwindfall/Algorithme/issues/46) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "OrangesRotting994"
+
+  **2021-05-12** — pushed [`ea034936`](https://api.github.com/repos/underwindfall/Algorithme/commits/ea0349369e6910ca20e6a05e5a32e1a6df380f2b) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Update issue templates"
+
+  **2021-05-12** — pushed [`3a24e2e9`](https://api.github.com/repos/underwindfall/Algorithme/commits/3a24e2e9fac46cacd022a599f83f7446828ca043) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Leetcode 994 oranges rotting bfs"
+
+  **2021-05-12** — commented on [#3557](https://github.com/square/retrofit/issues/3557#issuecomment-839747703) in [square/retrofit](https://api.github.com/repos/square/retrofit)
+
   **2021-05-11** — deleted branch "dependabot/npm_and_yarn/lodash-4.17.21" on [underwindfall/create-release-with-debugapk](https://api.github.com/repos/underwindfall/create-release-with-debugapk)
 
   **2021-05-11** — pushed [`6fb9b330`](https://api.github.com/repos/underwindfall/create-release-with-debugapk/commits/6fb9b3308feff33f8a28cde2e3a036e012699f49) to [underwindfall/create-release-with-debugapk](https://api.github.com/repos/underwindfall/create-release-with-debugapk): "Bump lodash from 4.17.19 to 4.17.21"
@@ -16,14 +24,6 @@
   **2021-05-09** — pushed [`4fe44f7f`](https://api.github.com/repos/underwindfall/resume/commits/4fe44f7fd16d06c090fd77c34fa2a435ff731318) to [underwindfall/resume](https://api.github.com/repos/underwindfall/resume): "add more skills"
 
   **2021-05-09** — closed PR [#31](https://api.github.com/repos/underwindfall/resume/pulls/31) to [underwindfall/resume](https://api.github.com/repos/underwindfall/resume): "deal with mobile skills + husk precommit"
-
-  **2021-05-08** — pushed [`f5f58764`](https://api.github.com/repos/underwindfall/underwindfall/commits/f5f587645e784bc597419b13af93781f095f70e1) to [underwindfall/underwindfall](https://api.github.com/repos/underwindfall/underwindfall): "Update TemplateReadMe.kt"
-
-  **2021-05-08** — pushed [`5574fd7b`](https://api.github.com/repos/underwindfall/underwindfall/commits/5574fd7b0282c979b58f2fdfbb79b93d3b33e012) to [underwindfall/underwindfall](https://api.github.com/repos/underwindfall/underwindfall): "Update TemplateReadMe.kt"
-
-  **2021-05-08** — pushed [`1b785d2e`](https://api.github.com/repos/underwindfall/underwindfall/commits/1b785d2ef04e86cc3acd393e683a1d99edec242e) to [underwindfall/underwindfall](https://api.github.com/repos/underwindfall/underwindfall): "Update TemplateReadMe.kt"
-
-  **2021-05-08** — pushed [`a39cbac2`](https://api.github.com/repos/underwindfall/resume/commits/a39cbac21d5fe23566e20c2e183f99a8a003eee2) to [underwindfall/resume](https://api.github.com/repos/underwindfall/resume): "fix prettier command"
  <!-- githubActivity ends -->
  </td><td valign="top">
 
@@ -61,12 +61,12 @@
  ## 🏊‍♂️ <a href="https://gist.github.com/underwindfall/377ee88ba1fabd1e93516e48ca9c61eb" target="_blank">Weekly Development Breakdown</a>
   <!-- codeTime starts -->
   ```text
-    Kotlin      21 hrs 46 mins  ■■■■■■■■■■■■■■■■■◱□□□□□□  57.0%
-    Java         8 hrs 23 mins  ■■■■■■■■▦□□□□□□□□□□□□□□□  22.0%
-    XML          5 hrs 36 mins  ■■■■■■■□□□□□□□□□□□□□□□□□  14.7%
-    JavaScript         59 mins  ■■■■□□□□□□□□□□□□□□□□□□□□   2.6%
-    JSON               33 mins  ■■■▦□□□□□□□□□□□□□□□□□□□□   1.4%
-    Groovy             27 mins  ■■■▦□□□□□□□□□□□□□□□□□□□□   1.2%
+    Kotlin      22 hrs 12 mins  ■■■■■■■■■■■■■■■■■◱□□□□□□  57.6%
+    Java         8 hrs 16 mins  ■■■■■■■■▦□□□□□□□□□□□□□□□  21.5%
+    XML          5 hrs 32 mins  ■■■■■■■□□□□□□□□□□□□□□□□□  14.4%
+    JavaScript         58 mins  ■■■■□□□□□□□□□□□□□□□□□□□□   2.5%
+    JSON               32 mins  ■■■▦□□□□□□□□□□□□□□□□□□□□   1.4%
+    Properties         17 mins  ■■■▦□□□□□□□□□□□□□□□□□□□□   0.8%
   ```
   <!-- codeTime starts -->
   </td></tr></table>
