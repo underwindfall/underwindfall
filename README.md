@@ -5,25 +5,25 @@
 
  ## 📷 Github Activity
  <!-- githubActivity starts -->
+  **2021-05-13** — opened issue [#50](https://api.github.com/repos/underwindfall/Algorithme/issues/50) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "MakeLargestIsland827"
+
+  **2021-05-13** — opened issue [#49](https://api.github.com/repos/underwindfall/Algorithme/issues/49) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "MaxAreaOfIsland695"
+
+  **2021-05-13** — pushed [`49f9350c`](https://api.github.com/repos/underwindfall/Algorithme/commits/49f9350ce7f3ba608467593b4148cb4f8a86d65c) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Leetcode 463 island perimeter"
+
+  **2021-05-13** — opened issue [#48](https://api.github.com/repos/underwindfall/Algorithme/issues/48) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "IslandPerimeter463"
+
+  **2021-05-13** — pushed [`cd42d03f`](https://api.github.com/repos/underwindfall/Algorithme/commits/cd42d03f3b12202dd9c69db08fb0e804e193d4ed) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Leetcode 200 number of islands"
+
+  **2021-05-13** — pushed [`6f506f27`](https://api.github.com/repos/underwindfall/Algorithme/commits/6f506f272bd0612c856b9483255e8a01702a5664) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Leetcode 1765 HighestPeak"
+
+  **2021-05-13** — opened issue [#47](https://api.github.com/repos/underwindfall/Algorithme/issues/47) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "HighestPeak1765"
+
   **2021-05-12** — opened issue [#46](https://api.github.com/repos/underwindfall/Algorithme/issues/46) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "OrangesRotting994"
 
   **2021-05-12** — pushed [`ea034936`](https://api.github.com/repos/underwindfall/Algorithme/commits/ea0349369e6910ca20e6a05e5a32e1a6df380f2b) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Update issue templates"
 
   **2021-05-12** — pushed [`3a24e2e9`](https://api.github.com/repos/underwindfall/Algorithme/commits/3a24e2e9fac46cacd022a599f83f7446828ca043) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Leetcode 994 oranges rotting bfs"
-
-  **2021-05-12** — commented on [#3557](https://github.com/square/retrofit/issues/3557#issuecomment-839747703) in [square/retrofit](https://api.github.com/repos/square/retrofit)
-
-  **2021-05-11** — deleted branch "dependabot/npm_and_yarn/lodash-4.17.21" on [underwindfall/create-release-with-debugapk](https://api.github.com/repos/underwindfall/create-release-with-debugapk)
-
-  **2021-05-11** — pushed [`6fb9b330`](https://api.github.com/repos/underwindfall/create-release-with-debugapk/commits/6fb9b3308feff33f8a28cde2e3a036e012699f49) to [underwindfall/create-release-with-debugapk](https://api.github.com/repos/underwindfall/create-release-with-debugapk): "Bump lodash from 4.17.19 to 4.17.21"
-
-  **2021-05-11** — closed PR [#6](https://api.github.com/repos/underwindfall/create-release-with-debugapk/pulls/6) to [underwindfall/create-release-with-debugapk](https://api.github.com/repos/underwindfall/create-release-with-debugapk): "Bump lodash from 4.17.19 to 4.17.21"
-
-  **2021-05-09** — deleted branch "develop" on [underwindfall/resume](https://api.github.com/repos/underwindfall/resume)
-
-  **2021-05-09** — pushed [`4fe44f7f`](https://api.github.com/repos/underwindfall/resume/commits/4fe44f7fd16d06c090fd77c34fa2a435ff731318) to [underwindfall/resume](https://api.github.com/repos/underwindfall/resume): "add more skills"
-
-  **2021-05-09** — closed PR [#31](https://api.github.com/repos/underwindfall/resume/pulls/31) to [underwindfall/resume](https://api.github.com/repos/underwindfall/resume): "deal with mobile skills + husk precommit"
  <!-- githubActivity ends -->
  </td><td valign="top">
 
@@ -61,11 +61,11 @@
  ## 🏊‍♂️ <a href="https://gist.github.com/underwindfall/377ee88ba1fabd1e93516e48ca9c61eb" target="_blank">Weekly Development Breakdown</a>
   <!-- codeTime starts -->
   ```text
-    Kotlin      22 hrs 12 mins  ■■■■■■■■■■■■■■■■■◱□□□□□□  57.6%
-    Java         8 hrs 16 mins  ■■■■■■■■▦□□□□□□□□□□□□□□□  21.5%
-    XML          5 hrs 32 mins  ■■■■■■■□□□□□□□□□□□□□□□□□  14.4%
-    JavaScript         58 mins  ■■■■□□□□□□□□□□□□□□□□□□□□   2.5%
-    JSON               32 mins  ■■■▦□□□□□□□□□□□□□□□□□□□□   1.4%
+    Kotlin      18 hrs 21 mins  ■■■■■■■■■■■■■■■▥□□□□□□□□  50.2%
+    Java        10 hrs 24 mins  ■■■■■■■■■■◱□□□□□□□□□□□□□  28.5%
+    XML          5 hrs 42 mins  ■■■■■■■◱□□□□□□□□□□□□□□□□  15.6%
+    JavaScript         44 mins  ■■■■□□□□□□□□□□□□□□□□□□□□   2.0%
+    JSON               32 mins  ■■■▦□□□□□□□□□□□□□□□□□□□□   1.5%
     Properties         17 mins  ■■■▦□□□□□□□□□□□□□□□□□□□□   0.8%
   ```
   <!-- codeTime starts -->
