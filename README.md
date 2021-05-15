@@ -5,6 +5,8 @@
 
  ## 📷 Github Activity
  <!-- githubActivity starts -->
+  **2021-05-14** — pushed 3 commits to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme).
+
   **2021-05-13** — opened issue [#50](https://api.github.com/repos/underwindfall/Algorithme/issues/50) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "MakeLargestIsland827"
 
   **2021-05-13** — opened issue [#49](https://api.github.com/repos/underwindfall/Algorithme/issues/49) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "MaxAreaOfIsland695"
@@ -22,8 +24,6 @@
   **2021-05-12** — opened issue [#46](https://api.github.com/repos/underwindfall/Algorithme/issues/46) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "OrangesRotting994"
 
   **2021-05-12** — pushed [`ea034936`](https://api.github.com/repos/underwindfall/Algorithme/commits/ea0349369e6910ca20e6a05e5a32e1a6df380f2b) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Update issue templates"
-
-  **2021-05-12** — pushed [`3a24e2e9`](https://api.github.com/repos/underwindfall/Algorithme/commits/3a24e2e9fac46cacd022a599f83f7446828ca043) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Leetcode 994 oranges rotting bfs"
  <!-- githubActivity ends -->
  </td><td valign="top">
 
@@ -61,12 +61,12 @@
  ## 🏊‍♂️ <a href="https://gist.github.com/underwindfall/377ee88ba1fabd1e93516e48ca9c61eb" target="_blank">Weekly Development Breakdown</a>
   <!-- codeTime starts -->
   ```text
-    Kotlin      18 hrs 21 mins  ■■■■■■■■■■■■■■■▥□□□□□□□□  50.2%
-    Java        10 hrs 24 mins  ■■■■■■■■■■◱□□□□□□□□□□□□□  28.5%
-    XML          5 hrs 42 mins  ■■■■■■■◱□□□□□□□□□□□□□□□□  15.6%
-    JavaScript         44 mins  ■■■■□□□□□□□□□□□□□□□□□□□□   2.0%
-    JSON               32 mins  ■■■▦□□□□□□□□□□□□□□□□□□□□   1.5%
-    Properties         17 mins  ■■■▦□□□□□□□□□□□□□□□□□□□□   0.8%
+    Kotlin      19 hrs 50 mins  ■■■■■■■■■■■■■■■▥□□□□□□□□  49.9%
+    Java        10 hrs 51 mins  ■■■■■■■■■■□□□□□□□□□□□□□□  27.3%
+    XML          6 hrs 58 mins  ■■■■■■■▦□□□□□□□□□□□□□□□□  17.5%
+    JavaScript         44 mins  ■■■■□□□□□□□□□□□□□□□□□□□□   1.9%
+    JSON               32 mins  ■■■▦□□□□□□□□□□□□□□□□□□□□   1.4%
+    Properties         18 mins  ■■■▦□□□□□□□□□□□□□□□□□□□□   0.8%
   ```
   <!-- codeTime starts -->
   </td></tr></table>
