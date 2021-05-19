@@ -5,6 +5,18 @@
 
  ## 📷 Github Activity
  <!-- githubActivity starts -->
+  **2021-05-19** — opened issue [#56](https://api.github.com/repos/underwindfall/Algorithme/issues/56) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "OpenLock752"
+
+  **2021-05-19** — opened issue [#55](https://api.github.com/repos/underwindfall/Algorithme/issues/55) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "FindMinHeightTrees310"
+
+  **2021-05-18** — pushed [`c3a60209`](https://api.github.com/repos/underwindfall/Algorithme/commits/c3a6020919a9c628cf0ee9daf6d7de4283704da0) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Leetcode 1162 AsFarLandAsPossible"
+
+  **2021-05-18** — opened issue [#54](https://api.github.com/repos/underwindfall/Algorithme/issues/54) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "AsFarLandAsPossible1162"
+
+  **2021-05-18** — opened issue [#53](https://api.github.com/repos/underwindfall/Algorithme/issues/53) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "HighestPeak1765"
+
+  **2021-05-18** — pushed 4 commits to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme).
+
   **2021-05-18** — opened issue [#52](https://api.github.com/repos/underwindfall/Algorithme/issues/52) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "UpdateMatrix542"
 
   **2021-05-17** — pushed [`61334731`](https://api.github.com/repos/underwindfall/Algorithme/commits/61334731034823200f689838e5df4578edd40796) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Leetcode 733 floodfill"
@@ -12,18 +24,6 @@
   **2021-05-17** — pushed [`9471265f`](https://api.github.com/repos/underwindfall/Algorithme/commits/9471265f43fefe59f85df75bda9e73b3f9351df1) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Leetcode 733 floodfill"
 
   **2021-05-17** — opened issue [#51](https://api.github.com/repos/underwindfall/Algorithme/issues/51) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "FloodFill733"
-
-  **2021-05-17** — pushed [`51f4296c`](https://api.github.com/repos/underwindfall/fontmertics/commits/51f4296c0df76e82167b50a415578c36d52a5175) to [underwindfall/fontmertics](https://api.github.com/repos/underwindfall/fontmertics): ":art: improve code styles with spotless"
-
-  **2021-05-17** — pushed [`4fd18281`](https://api.github.com/repos/underwindfall/fontmertics/commits/4fd18281fc47b68ea410319204d18d4756e16e85) to [underwindfall/fontmertics](https://api.github.com/repos/underwindfall/fontmertics): ":art: improve code styles with spotless"
-
-  **2021-05-17** — pushed [`13f18088`](https://api.github.com/repos/underwindfall/fontmertics/commits/13f180886e8adf497016abd6233e0890b60f0c99) to [underwindfall/fontmertics](https://api.github.com/repos/underwindfall/fontmertics): ":sparkles: add fontmetrics view"
-
-  **2021-05-17** — created branch "main" on [underwindfall/fontmertics](https://api.github.com/repos/underwindfall/fontmertics)
-
-  **2021-05-17** — created repository on [underwindfall/fontmertics](https://api.github.com/repos/underwindfall/fontmertics)
-
-  **2021-05-14** — pushed 3 commits to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme).
  <!-- githubActivity ends -->
  </td><td valign="top">
 
@@ -61,11 +61,11 @@
  ## 🏊‍♂️ <a href="https://gist.github.com/underwindfall/377ee88ba1fabd1e93516e48ca9c61eb" target="_blank">Weekly Development Breakdown</a>
   <!-- codeTime starts -->
   ```text
-    Kotlin      17 hrs 48 mins  ■■■■■■■■■■■■■■■■□□□□□□□□  51.7%
-    Java        10 hrs 11 mins  ■■■■■■■■■■▥□□□□□□□□□□□□□  29.6%
-    XML          5 hrs 10 mins  ■■■■■■■□□□□□□□□□□□□□□□□□  15.0%
-    Groovy             21 mins  ■■■▦□□□□□□□□□□□□□□□□□□□□   1.0%
+    Kotlin      20 hrs 27 mins  ■■■■■■■■■■■■■■■■■▥□□□□□□  58.7%
+    Java        10 hrs 44 mins  ■■■■■■■■■■▦□□□□□□□□□□□□□  30.8%
+    XML          2 hrs 32 mins  ■■■■■◱□□□□□□□□□□□□□□□□□□   7.3%
     Properties         20 mins  ■■■▦□□□□□□□□□□□□□□□□□□□□   1.0%
+    Groovy             18 mins  ■■■▦□□□□□□□□□□□□□□□□□□□□   0.9%
     JSON               18 mins  ■■■▦□□□□□□□□□□□□□□□□□□□□   0.9%
   ```
   <!-- codeTime starts -->
