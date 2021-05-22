@@ -5,6 +5,8 @@
 
  ## 📷 Github Activity
  <!-- githubActivity starts -->
+  **2021-05-21** — pushed [`993d4f19`](https://api.github.com/repos/underwindfall/Algorithme/commits/993d4f193170eab4c058ee43e4486cf1f4ddc133) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Leetcode 394 decoding string"
+
   **2021-05-20** — opened issue [#61](https://api.github.com/repos/underwindfall/Algorithme/issues/61) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "EvalRPN150"
 
   **2021-05-20** — pushed [`159048ac`](https://api.github.com/repos/underwindfall/Algorithme/commits/159048ac20658879aff74adc643b9779c82efb1b) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Update config.yml"
@@ -22,8 +24,6 @@
   **2021-05-19** — opened issue [#58](https://api.github.com/repos/underwindfall/Algorithme/issues/58) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "OrangesRotting994"
 
   **2021-05-19** — opened issue [#57](https://api.github.com/repos/underwindfall/Algorithme/issues/57) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "SqrtNumber279"
-
-  **2021-05-19** — opened issue [#282](https://api.github.com/repos/rozierguillaume/covidtracker-tools/issues/282) on [rozierguillaume/covidtracker-tools](https://api.github.com/repos/rozierguillaume/covidtracker-tools): "[proposition] group github comme CovidTracker"
  <!-- githubActivity ends -->
  </td><td valign="top">
 
@@ -61,12 +61,12 @@
  ## 🏊‍♂️ <a href="https://gist.github.com/underwindfall/377ee88ba1fabd1e93516e48ca9c61eb" target="_blank">Weekly Development Breakdown</a>
   <!-- codeTime starts -->
   ```text
-    Kotlin      26 hrs 41 mins  ■■■■■■■■■■■■■■■■■■■▦□□□□  67.9%
-    Java         7 hrs 49 mins  ■■■■■■■■◱□□□□□□□□□□□□□□□  19.9%
-    XML          2 hrs 52 mins  ■■■■■◱□□□□□□□□□□□□□□□□□□   7.3%
-    Properties         56 mins  ■■■■□□□□□□□□□□□□□□□□□□□□   2.4%
-    JSON               23 mins  ■■■▦□□□□□□□□□□□□□□□□□□□□   1.0%
-    Groovy             21 mins  ■■■▦□□□□□□□□□□□□□□□□□□□□   0.9%
+    Kotlin       31 hrs 3 mins  ■■■■■■■■■■■■■■■■■■■■▥□□□  71.4%
+    Java          8 hrs 9 mins  ■■■■■■■■□□□□□□□□□□□□□□□□  18.8%
+    XML          2 hrs 10 mins  ■■■■▦□□□□□□□□□□□□□□□□□□□   5.0%
+    Properties         54 mins  ■■■■□□□□□□□□□□□□□□□□□□□□   2.1%
+    JSON               36 mins  ■■■▦□□□□□□□□□□□□□□□□□□□□   1.4%
+    Groovy             21 mins  ■■■▦□□□□□□□□□□□□□□□□□□□□   0.8%
   ```
   <!-- codeTime starts -->
   </td></tr></table>
