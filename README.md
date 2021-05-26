@@ -5,6 +5,18 @@
 
  ## 📷 Github Activity
  <!-- githubActivity starts -->
+  **2021-05-26** — opened issue [#67](https://api.github.com/repos/underwindfall/Algorithme/issues/67) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "MaxDepthBinaryTree104"
+
+  **2021-05-25** — pushed [`759c73db`](https://api.github.com/repos/underwindfall/Algorithme/commits/759c73db189a92af6336959a9afa86bd7a22ec18) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Leetcode 1190 revers parentheses"
+
+  **2021-05-25** — closed issue [#66](https://api.github.com/repos/underwindfall/Algorithme/issues/66) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Reversesubstring1190"
+
+  **2021-05-25** — opened issue [#66](https://api.github.com/repos/underwindfall/Algorithme/issues/66) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Reversesubstring1190"
+
+  **2021-05-25** — closed issue [#63](https://api.github.com/repos/underwindfall/Algorithme/issues/63) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "DailyTemperatures739"
+
+  **2021-05-25** — closed issue [#65](https://api.github.com/repos/underwindfall/Algorithme/issues/65) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "CloneGraph133"
+
   **2021-05-25** — opened issue [#65](https://api.github.com/repos/underwindfall/Algorithme/issues/65) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "CloneGraph133"
 
   **2021-05-25** — pushed [`2f2f4719`](https://api.github.com/repos/underwindfall/Algorithme/commits/2f2f47198b3454c942e86e49c1e6848f7eee069b) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Leetcode 133 cloned graph"
@@ -12,18 +24,6 @@
   **2021-05-25** — pushed [`f30e0016`](https://api.github.com/repos/underwindfall/Algorithme/commits/f30e0016b19970db65e39d29901a1a25e32738a4) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Leetcode 494 find targetSum way"
 
   **2021-05-25** — opened issue [#64](https://api.github.com/repos/underwindfall/Algorithme/issues/64) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "FindTargetSumWays494"
-
-  **2021-05-24** — closed issue [#44](https://api.github.com/repos/underwindfall/Algorithme/issues/44) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "WallsAndGates286"
-
-  **2021-05-24** — pushed [`32a1ba0e`](https://api.github.com/repos/underwindfall/Algorithme/commits/32a1ba0eb0acdbe14776394e92a8e3c5c7f8e58a) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Leetcode 286 walls and gates"
-
-  **2021-05-24** — commented on [#4](https://github.com/underwindfall/NFCAndroid/issues/4#issuecomment-847292705) in [underwindfall/NFCAndroid](https://api.github.com/repos/underwindfall/NFCAndroid)
-
-  **2021-05-24** — pushed [`c61c45ad`](https://api.github.com/repos/underwindfall/Algorithme/commits/c61c45ad9846cecf1a113e8bce47f2ef52652a27) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Leetcode 739 daily tempeature"
-
-  **2021-05-24** — opened issue [#63](https://api.github.com/repos/underwindfall/Algorithme/issues/63) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "DailyTemperatures739"
-
-  **2021-05-24** — opened issue [#62](https://api.github.com/repos/underwindfall/Algorithme/issues/62) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "DecodeString394"
  <!-- githubActivity ends -->
  </td><td valign="top">
 
@@ -61,12 +61,12 @@
  ## 🏊‍♂️ <a href="https://gist.github.com/underwindfall/377ee88ba1fabd1e93516e48ca9c61eb" target="_blank">Weekly Development Breakdown</a>
   <!-- codeTime starts -->
   ```text
-    Kotlin      27 hrs 32 mins  ■■■■■■■■■■■■■■■■■■■◱□□□□  65.8%
-    Java                 9 hrs  ■■■■■■■■▦□□□□□□□□□□□□□□□  21.5%
-    XML          3 hrs 12 mins  ■■■■■◱□□□□□□□□□□□□□□□□□□   7.7%
+    Kotlin      21 hrs 59 mins  ■■■■■■■■■■■■■■■■□□□□□□□□  52.5%
+    Java         9 hrs 19 mins  ■■■■■■■■▦□□□□□□□□□□□□□□□  22.3%
+    XML          6 hrs 45 mins  ■■■■■■■◱□□□□□□□□□□□□□□□□  16.2%
+    Groovy        1 hr 55 mins  ■■■■▥□□□□□□□□□□□□□□□□□□□   4.6%
     Properties         53 mins  ■■■■□□□□□□□□□□□□□□□□□□□□   2.1%
-    Groovy             31 mins  ■■■▦□□□□□□□□□□□□□□□□□□□□   1.3%
-    JSON               21 mins  ■■■▦□□□□□□□□□□□□□□□□□□□□   0.9%
+    JSON               32 mins  ■■■▦□□□□□□□□□□□□□□□□□□□□   1.3%
   ```
   <!-- codeTime starts -->
   </td></tr></table>
