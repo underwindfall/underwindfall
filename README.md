@@ -5,25 +5,25 @@
 
  ## 📷 Github Activity
  <!-- githubActivity starts -->
-  **2021-05-26** — opened issue [#67](https://api.github.com/repos/underwindfall/Algorithme/issues/67) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "MaxDepthBinaryTree104"
+  **2021-05-27** — pushed [`8fc82354`](https://api.github.com/repos/underwindfall/Algorithme/commits/8fc82354796750ae630d5abdb24fc77b07bb6fad) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Leetcode 129 sum root to leaf"
 
-  **2021-05-25** — pushed [`759c73db`](https://api.github.com/repos/underwindfall/Algorithme/commits/759c73db189a92af6336959a9afa86bd7a22ec18) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Leetcode 1190 revers parentheses"
+  **2021-05-27** — closed issue [#73](https://api.github.com/repos/underwindfall/Algorithme/issues/73) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "SumNumbers129"
 
-  **2021-05-25** — closed issue [#66](https://api.github.com/repos/underwindfall/Algorithme/issues/66) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Reversesubstring1190"
+  **2021-05-27** — opened issue [#73](https://api.github.com/repos/underwindfall/Algorithme/issues/73) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "SumNumbers129"
 
-  **2021-05-25** — opened issue [#66](https://api.github.com/repos/underwindfall/Algorithme/issues/66) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Reversesubstring1190"
+  **2021-05-27** — opened PR [#6](https://api.github.com/repos/vczh/GacUIBlog/pulls/6) to [vczh/GacUIBlog](https://api.github.com/repos/vczh/GacUIBlog): "添加关于下载界面的截屏连接，以便更加直观查看"
 
-  **2021-05-25** — closed issue [#63](https://api.github.com/repos/underwindfall/Algorithme/issues/63) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "DailyTemperatures739"
+  **2021-05-27** — pushed [`eff76adf`](https://api.github.com/repos/underwindfall/GacUIBlog/commits/eff76adf527515df8844a0caf0865fe543b07d48) to [underwindfall/GacUIBlog](https://api.github.com/repos/underwindfall/GacUIBlog): "添加关于下载界面的截屏连接，以便更加直观查看"
 
-  **2021-05-25** — closed issue [#65](https://api.github.com/repos/underwindfall/Algorithme/issues/65) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "CloneGraph133"
+  **2021-05-27** — commented on [#3](https://github.com/vczh/GacUIBlog/issues/3#issuecomment-849182910) in [vczh/GacUIBlog](https://api.github.com/repos/vczh/GacUIBlog)
 
-  **2021-05-25** — opened issue [#65](https://api.github.com/repos/underwindfall/Algorithme/issues/65) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "CloneGraph133"
+  **2021-05-27** — pushed [`327f57d5`](https://api.github.com/repos/underwindfall/Algorithme/commits/327f57d5227882f8faa21bf33c75a40949726e55) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Leetcode 101 isSymmetric"
 
-  **2021-05-25** — pushed [`2f2f4719`](https://api.github.com/repos/underwindfall/Algorithme/commits/2f2f47198b3454c942e86e49c1e6848f7eee069b) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Leetcode 133 cloned graph"
+  **2021-05-27** — closed issue [#72](https://api.github.com/repos/underwindfall/Algorithme/issues/72) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "isSymmetric101"
 
-  **2021-05-25** — pushed [`f30e0016`](https://api.github.com/repos/underwindfall/Algorithme/commits/f30e0016b19970db65e39d29901a1a25e32738a4) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Leetcode 494 find targetSum way"
+  **2021-05-27** — opened issue [#72](https://api.github.com/repos/underwindfall/Algorithme/issues/72) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "isSymmetric101"
 
-  **2021-05-25** — opened issue [#64](https://api.github.com/repos/underwindfall/Algorithme/issues/64) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "FindTargetSumWays494"
+  **2021-05-27** — closed issue [#71](https://api.github.com/repos/underwindfall/Algorithme/issues/71) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "IsSameTree100"
  <!-- githubActivity ends -->
  </td><td valign="top">
 
@@ -61,12 +61,12 @@
  ## 🏊‍♂️ <a href="https://gist.github.com/underwindfall/377ee88ba1fabd1e93516e48ca9c61eb" target="_blank">Weekly Development Breakdown</a>
   <!-- codeTime starts -->
   ```text
-    Kotlin      21 hrs 59 mins  ■■■■■■■■■■■■■■■■□□□□□□□□  52.5%
-    Java         9 hrs 19 mins  ■■■■■■■■▦□□□□□□□□□□□□□□□  22.3%
-    XML          6 hrs 45 mins  ■■■■■■■◱□□□□□□□□□□□□□□□□  16.2%
-    Groovy        1 hr 55 mins  ■■■■▥□□□□□□□□□□□□□□□□□□□   4.6%
-    Properties         53 mins  ■■■■□□□□□□□□□□□□□□□□□□□□   2.1%
-    JSON               32 mins  ■■■▦□□□□□□□□□□□□□□□□□□□□   1.3%
+    Kotlin      20 hrs 48 mins  ■■■■■■■■■■■■■■■▥□□□□□□□□  49.8%
+    XML           9 hrs 4 mins  ■■■■■■■■▦□□□□□□□□□□□□□□□  21.7%
+    Java         8 hrs 36 mins  ■■■■■■■■▥□□□□□□□□□□□□□□□  20.6%
+    Groovy        1 hr 49 mins  ■■■■▥□□□□□□□□□□□□□□□□□□□   4.4%
+    JSON               37 mins  ■■■▦□□□□□□□□□□□□□□□□□□□□   1.5%
+    Properties         25 mins  ■■■▦□□□□□□□□□□□□□□□□□□□□   1.0%
   ```
   <!-- codeTime starts -->
   </td></tr></table>
