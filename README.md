@@ -5,25 +5,25 @@
 
  ## 📷 Github Activity
  <!-- githubActivity starts -->
-  **2021-05-28** — opened issue [#78](https://api.github.com/repos/underwindfall/Algorithme/issues/78) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "RecoverFromPreorder1028"
+  **2021-05-29** — pushed [`353a9876`](https://api.github.com/repos/underwindfall/Algorithme/commits/353a9876d577de1bafd7403edd2d9c3eb5d37982) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Update README.md"
 
-  **2021-05-28** — pushed [`6d82d0b1`](https://api.github.com/repos/underwindfall/Algorithme/commits/6d82d0b1e86ec351168a4d2cf13e3ba4ce43ec18) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Leetcode 1028 revoer from preorder"
+  **2021-05-29** — pushed [`de9a23a6`](https://api.github.com/repos/underwindfall/Algorithme/commits/de9a23a6e6ef1c24aed8051ac41c684b03511a4b) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Leetcode bicontest 53"
 
-  **2021-05-28** — commented on [#79](https://github.com/CovidTrackerFr/vitemadose-android/pull/79#issuecomment-850573412) in [CovidTrackerFr/vitemadose-android](https://api.github.com/repos/CovidTrackerFr/vitemadose-android)
+  **2021-05-29** — pushed [`e858d82f`](https://api.github.com/repos/underwindfall/Algorithme/commits/e858d82f84f51dbf76a7860f6a520305fce9c60b) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Leetcode bicontest 53"
 
-  **2021-05-28** — pushed [`3097ef3a`](https://api.github.com/repos/underwindfall/vitemadose-android/commits/3097ef3a36ba4abfc3c84975b32a467cd60824e4) to [underwindfall/vitemadose-android](https://api.github.com/repos/underwindfall/vitemadose-android): "add job cancelation before doing request"
+  **2021-05-29** — pushed [`4800bb0d`](https://api.github.com/repos/underwindfall/Algorithme/commits/4800bb0d3c0e74ddc2881947c5003c7bef0a4e23) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Leetcode bicontest 53"
 
-  **2021-05-28** — pushed [`b3e1643d`](https://api.github.com/repos/underwindfall/Algorithme/commits/b3e1643d9a37cad129d0c4d22b6b42cdd04ccce9) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Leetcode 1008 buildBSTTreeFromPreOrder"
+  **2021-05-29** — pushed [`4eecd92a`](https://api.github.com/repos/underwindfall/Algorithme/commits/4eecd92a5515da93306a414e22137acddf0710da) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "add REF"
 
-  **2021-05-28** — opened issue [#77](https://api.github.com/repos/underwindfall/Algorithme/issues/77) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "BstFromPreorder1008"
+  **2021-05-29** — pushed [`b9f034a4`](https://api.github.com/repos/underwindfall/Algorithme/commits/b9f034a468c12057021ce28d7e0b2463c4d54bd0) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Leetcode 450 deleteNode"
 
-  **2021-05-28** — opened issue [#76](https://api.github.com/repos/underwindfall/Algorithme/issues/76) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "In_Post_Order_BuildTree106"
+  **2021-05-29** — opened issue [#82](https://api.github.com/repos/underwindfall/Algorithme/issues/82) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "[BST] DeleteNodeBST450"
 
-  **2021-05-28** — pushed [`b49660b5`](https://api.github.com/repos/underwindfall/Algorithme/commits/b49660b5f2bece249e2b39cfca5996a0879f0bd8) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Leetcode 106 In_Post_Order_BuildTree"
+  **2021-05-29** — opened issue [#81](https://api.github.com/repos/underwindfall/Algorithme/issues/81) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "[BST] IsValidBST98"
 
-  **2021-05-28** — opened issue [#75](https://api.github.com/repos/underwindfall/Algorithme/issues/75) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Pre_In_Order_BuildTree105"
+  **2021-05-29** — pushed [`ee88be78`](https://api.github.com/repos/underwindfall/Algorithme/commits/ee88be78b302608fe12b717f06ec26a961332ca7) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Leetcode 98 isValidBST"
 
-  **2021-05-28** — closed issue [#74](https://api.github.com/repos/underwindfall/Algorithme/issues/74) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "LowestCommonAncestor236"
+  **2021-05-29** — pushed [`14e67133`](https://api.github.com/repos/underwindfall/Algorithme/commits/14e67133c58e7cf46e4fbcab411d499667c159ec) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Leetcode 700 SearchBST"
  <!-- githubActivity ends -->
  </td><td valign="top">
 
@@ -61,12 +61,12 @@
  ## 🏊‍♂️ <a href="https://gist.github.com/underwindfall/377ee88ba1fabd1e93516e48ca9c61eb" target="_blank">Weekly Development Breakdown</a>
   <!-- codeTime starts -->
   ```text
-    XML         12 hrs 48 mins  ■■■■■■■■■■■▦□□□□□□□□□□□□  34.9%
-    Java        10 hrs 57 mins  ■■■■■■■■■■▦□□□□□□□□□□□□□  29.9%
-    Kotlin      10 hrs 21 mins  ■■■■■■■■■■◱□□□□□□□□□□□□□  28.2%
-    Groovy        1 hr 47 mins  ■■■■▦□□□□□□□□□□□□□□□□□□□   4.9%
+    XML         12 hrs 48 mins  ■■■■■■■■■■■▥□□□□□□□□□□□□  33.0%
+    Java        12 hrs 47 mins  ■■■■■■■■■■■▥□□□□□□□□□□□□  32.9%
+    Kotlin      10 hrs 23 mins  ■■■■■■■■■■□□□□□□□□□□□□□□  26.7%
+    Groovy        1 hr 47 mins  ■■■■▥□□□□□□□□□□□□□□□□□□□   4.6%
+    Markdown           28 mins  ■■■▦□□□□□□□□□□□□□□□□□□□□   1.2%
     JSON               25 mins  ■■■▦□□□□□□□□□□□□□□□□□□□□   1.1%
-    Markdown           11 mins  ■■■▥□□□□□□□□□□□□□□□□□□□□   0.5%
   ```
   <!-- codeTime starts -->
   </td></tr></table>
