@@ -5,25 +5,25 @@
 
  ## 📷 Github Activity
  <!-- githubActivity starts -->
+  **2021-05-30** — pushed [`4223e360`](https://api.github.com/repos/underwindfall/Algorithme/commits/4223e3609219ee1d1076777e92bbe2e7b839f46f) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Leetcode weekly 243"
+
+  **2021-05-30** — opened issue [#85](https://api.github.com/repos/underwindfall/Algorithme/issues/85) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "PreorderTraversal144"
+
+  **2021-05-30** — pushed [`7d0b8f5a`](https://api.github.com/repos/underwindfall/Algorithme/commits/7d0b8f5aaa316f5c928a9476fcfc5065c595cb6b) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Leetcode 145 postorder traversal"
+
+  **2021-05-30** — opened issue [#84](https://api.github.com/repos/underwindfall/Algorithme/issues/84) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "InorderTraversal94"
+
+  **2021-05-30** — pushed 2 commits to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme).
+
+  **2021-05-30** — opened issue [#83](https://api.github.com/repos/underwindfall/Algorithme/issues/83) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "PreorderTraversal144"
+
+  **2021-05-30** — deleted branch "dependabot/npm_and_yarn/ws-7.4.6" on [underwindfall/create-release-with-debugapk](https://api.github.com/repos/underwindfall/create-release-with-debugapk)
+
+  **2021-05-30** — pushed [`9dd97e3c`](https://api.github.com/repos/underwindfall/create-release-with-debugapk/commits/9dd97e3c2b5f54e699d724cfcf3bf22a6783efa2) to [underwindfall/create-release-with-debugapk](https://api.github.com/repos/underwindfall/create-release-with-debugapk): "Bump ws from 7.2.3 to 7.4.6"
+
+  **2021-05-30** — closed PR [#7](https://api.github.com/repos/underwindfall/create-release-with-debugapk/pulls/7) to [underwindfall/create-release-with-debugapk](https://api.github.com/repos/underwindfall/create-release-with-debugapk): "Bump ws from 7.2.3 to 7.4.6"
+
   **2021-05-29** — pushed [`353a9876`](https://api.github.com/repos/underwindfall/Algorithme/commits/353a9876d577de1bafd7403edd2d9c3eb5d37982) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Update README.md"
-
-  **2021-05-29** — pushed [`de9a23a6`](https://api.github.com/repos/underwindfall/Algorithme/commits/de9a23a6e6ef1c24aed8051ac41c684b03511a4b) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Leetcode bicontest 53"
-
-  **2021-05-29** — pushed [`e858d82f`](https://api.github.com/repos/underwindfall/Algorithme/commits/e858d82f84f51dbf76a7860f6a520305fce9c60b) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Leetcode bicontest 53"
-
-  **2021-05-29** — pushed [`4800bb0d`](https://api.github.com/repos/underwindfall/Algorithme/commits/4800bb0d3c0e74ddc2881947c5003c7bef0a4e23) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Leetcode bicontest 53"
-
-  **2021-05-29** — pushed [`4eecd92a`](https://api.github.com/repos/underwindfall/Algorithme/commits/4eecd92a5515da93306a414e22137acddf0710da) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "add REF"
-
-  **2021-05-29** — pushed [`b9f034a4`](https://api.github.com/repos/underwindfall/Algorithme/commits/b9f034a468c12057021ce28d7e0b2463c4d54bd0) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Leetcode 450 deleteNode"
-
-  **2021-05-29** — opened issue [#82](https://api.github.com/repos/underwindfall/Algorithme/issues/82) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "[BST] DeleteNodeBST450"
-
-  **2021-05-29** — opened issue [#81](https://api.github.com/repos/underwindfall/Algorithme/issues/81) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "[BST] IsValidBST98"
-
-  **2021-05-29** — pushed [`ee88be78`](https://api.github.com/repos/underwindfall/Algorithme/commits/ee88be78b302608fe12b717f06ec26a961332ca7) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Leetcode 98 isValidBST"
-
-  **2021-05-29** — pushed [`14e67133`](https://api.github.com/repos/underwindfall/Algorithme/commits/14e67133c58e7cf46e4fbcab411d499667c159ec) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Leetcode 700 SearchBST"
  <!-- githubActivity ends -->
  </td><td valign="top">
 
@@ -61,12 +61,12 @@
  ## 🏊‍♂️ <a href="https://gist.github.com/underwindfall/377ee88ba1fabd1e93516e48ca9c61eb" target="_blank">Weekly Development Breakdown</a>
   <!-- codeTime starts -->
   ```text
-    XML         12 hrs 48 mins  ■■■■■■■■■■■▥□□□□□□□□□□□□  33.0%
-    Java        12 hrs 47 mins  ■■■■■■■■■■■▥□□□□□□□□□□□□  32.9%
-    Kotlin      10 hrs 23 mins  ■■■■■■■■■■□□□□□□□□□□□□□□  26.7%
-    Groovy        1 hr 47 mins  ■■■■▥□□□□□□□□□□□□□□□□□□□   4.6%
-    Markdown           28 mins  ■■■▦□□□□□□□□□□□□□□□□□□□□   1.2%
-    JSON               25 mins  ■■■▦□□□□□□□□□□□□□□□□□□□□   1.1%
+    Java        14 hrs 34 mins  ■■■■■■■■■■■▦□□□□□□□□□□□□  34.7%
+    XML         12 hrs 55 mins  ■■■■■■■■■■▦□□□□□□□□□□□□□  30.8%
+    Kotlin      11 hrs 39 mins  ■■■■■■■■■■◱□□□□□□□□□□□□□  27.8%
+    Groovy        1 hr 47 mins  ■■■■▥□□□□□□□□□□□□□□□□□□□   4.3%
+    Markdown           28 mins  ■■■▦□□□□□□□□□□□□□□□□□□□□   1.1%
+    JSON               25 mins  ■■■▦□□□□□□□□□□□□□□□□□□□□   1.0%
   ```
   <!-- codeTime starts -->
   </td></tr></table>
