@@ -5,6 +5,10 @@
 
  ## 📷 Github Activity
  <!-- githubActivity starts -->
+  **2021-05-31** — pushed [`924ec978`](https://api.github.com/repos/underwindfall/vitemadose-android/commits/924ec97849e510cf32e920235c43473e23b2f32f) to [underwindfall/vitemadose-android](https://api.github.com/repos/underwindfall/vitemadose-android): "use CoroutineScope in presenter instead of GlobalScope"
+
+  **2021-05-31** — commented on [#79](https://github.com/CovidTrackerFr/vitemadose-android/pull/79#issuecomment-851533502) in [CovidTrackerFr/vitemadose-android](https://api.github.com/repos/CovidTrackerFr/vitemadose-android)
+
   **2021-05-30** — pushed [`4223e360`](https://api.github.com/repos/underwindfall/Algorithme/commits/4223e3609219ee1d1076777e92bbe2e7b839f46f) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Leetcode weekly 243"
 
   **2021-05-30** — opened issue [#85](https://api.github.com/repos/underwindfall/Algorithme/issues/85) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "PreorderTraversal144"
@@ -20,10 +24,6 @@
   **2021-05-30** — deleted branch "dependabot/npm_and_yarn/ws-7.4.6" on [underwindfall/create-release-with-debugapk](https://api.github.com/repos/underwindfall/create-release-with-debugapk)
 
   **2021-05-30** — pushed [`9dd97e3c`](https://api.github.com/repos/underwindfall/create-release-with-debugapk/commits/9dd97e3c2b5f54e699d724cfcf3bf22a6783efa2) to [underwindfall/create-release-with-debugapk](https://api.github.com/repos/underwindfall/create-release-with-debugapk): "Bump ws from 7.2.3 to 7.4.6"
-
-  **2021-05-30** — closed PR [#7](https://api.github.com/repos/underwindfall/create-release-with-debugapk/pulls/7) to [underwindfall/create-release-with-debugapk](https://api.github.com/repos/underwindfall/create-release-with-debugapk): "Bump ws from 7.2.3 to 7.4.6"
-
-  **2021-05-29** — pushed [`353a9876`](https://api.github.com/repos/underwindfall/Algorithme/commits/353a9876d577de1bafd7403edd2d9c3eb5d37982) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Update README.md"
  <!-- githubActivity ends -->
  </td><td valign="top">
 
@@ -61,12 +61,12 @@
  ## 🏊‍♂️ <a href="https://gist.github.com/underwindfall/377ee88ba1fabd1e93516e48ca9c61eb" target="_blank">Weekly Development Breakdown</a>
   <!-- codeTime starts -->
   ```text
-    Java        14 hrs 34 mins  ■■■■■■■■■■■▦□□□□□□□□□□□□  34.7%
-    XML         12 hrs 55 mins  ■■■■■■■■■■▦□□□□□□□□□□□□□  30.8%
-    Kotlin      11 hrs 39 mins  ■■■■■■■■■■◱□□□□□□□□□□□□□  27.8%
-    Groovy        1 hr 47 mins  ■■■■▥□□□□□□□□□□□□□□□□□□□   4.3%
-    Markdown           28 mins  ■■■▦□□□□□□□□□□□□□□□□□□□□   1.1%
-    JSON               25 mins  ■■■▦□□□□□□□□□□□□□□□□□□□□   1.0%
+    Java        13 hrs 13 mins  ■■■■■■■■■■■◱□□□□□□□□□□□□  32.5%
+    XML         12 hrs 37 mins  ■■■■■■■■■■■□□□□□□□□□□□□□  31.0%
+    Kotlin      11 hrs 34 mins  ■■■■■■■■■■◱□□□□□□□□□□□□□  28.4%
+    Groovy        2 hrs 8 mins  ■■■■▦□□□□□□□□□□□□□□□□□□□   5.3%
+    JSON               22 mins  ■■■▦□□□□□□□□□□□□□□□□□□□□   0.9%
+    Markdown           19 mins  ■■■▦□□□□□□□□□□□□□□□□□□□□   0.8%
   ```
   <!-- codeTime starts -->
   </td></tr></table>
