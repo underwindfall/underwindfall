@@ -5,25 +5,25 @@
 
  ## 📷 Github Activity
  <!-- githubActivity starts -->
+  **2021-06-03** — pushed [`69d4be54`](https://api.github.com/repos/underwindfall/Algorithme/commits/69d4be54912a8ec436bc8dfb767d7f267e745617) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Leetcode 323 CountComponents"
+
+  **2021-06-02** — opened issue [#88](https://api.github.com/repos/underwindfall/Algorithme/issues/88) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "SumRootToLeaf129"
+
+  **2021-06-02** — pushed [`e3467e4e`](https://api.github.com/repos/underwindfall/Algorithme/commits/e3467e4e3cd473a8ebb2f56cacddc5fdb3b209c6) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Leetcode 590 postorder ntree"
+
+  **2021-06-02** — opened issue [#87](https://api.github.com/repos/underwindfall/Algorithme/issues/87) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "PostOrderNTree590"
+
+  **2021-06-02** — opened issue [#86](https://api.github.com/repos/underwindfall/Algorithme/issues/86) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "PreorderNTree589"
+
+  **2021-06-02** — pushed [`1a149ba1`](https://api.github.com/repos/underwindfall/Algorithme/commits/1a149ba15afcbd0fed9c5e0aa451dff141ab46e7) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Leetcode 589 PreOrderNTree"
+
+  **2021-06-02** — pushed [`be9b5e01`](https://api.github.com/repos/underwindfall/Learn-iOS/commits/be9b5e01e868f95a8e9d8ea5179cfb56f23d21b0) to [underwindfall/Learn-iOS](https://api.github.com/repos/underwindfall/Learn-iOS): "finish bullseye phares one"
+
+  **2021-06-02** — pushed 2 commits to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme).
+
+  **2021-06-02** — pushed [`215bc16d`](https://api.github.com/repos/underwindfall/Algorithme/commits/215bc16d8bb87087900c0d824356d2bef0a82633) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Leetcode 1744"
+
   **2021-05-31** — pushed [`924ec978`](https://api.github.com/repos/underwindfall/vitemadose-android/commits/924ec97849e510cf32e920235c43473e23b2f32f) to [underwindfall/vitemadose-android](https://api.github.com/repos/underwindfall/vitemadose-android): "use CoroutineScope in presenter instead of GlobalScope"
-
-  **2021-05-31** — commented on [#79](https://github.com/CovidTrackerFr/vitemadose-android/pull/79#issuecomment-851533502) in [CovidTrackerFr/vitemadose-android](https://api.github.com/repos/CovidTrackerFr/vitemadose-android)
-
-  **2021-05-30** — pushed [`4223e360`](https://api.github.com/repos/underwindfall/Algorithme/commits/4223e3609219ee1d1076777e92bbe2e7b839f46f) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Leetcode weekly 243"
-
-  **2021-05-30** — opened issue [#85](https://api.github.com/repos/underwindfall/Algorithme/issues/85) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "PreorderTraversal144"
-
-  **2021-05-30** — pushed [`7d0b8f5a`](https://api.github.com/repos/underwindfall/Algorithme/commits/7d0b8f5aaa316f5c928a9476fcfc5065c595cb6b) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Leetcode 145 postorder traversal"
-
-  **2021-05-30** — opened issue [#84](https://api.github.com/repos/underwindfall/Algorithme/issues/84) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "InorderTraversal94"
-
-  **2021-05-30** — pushed 2 commits to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme).
-
-  **2021-05-30** — opened issue [#83](https://api.github.com/repos/underwindfall/Algorithme/issues/83) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "PreorderTraversal144"
-
-  **2021-05-30** — deleted branch "dependabot/npm_and_yarn/ws-7.4.6" on [underwindfall/create-release-with-debugapk](https://api.github.com/repos/underwindfall/create-release-with-debugapk)
-
-  **2021-05-30** — pushed [`9dd97e3c`](https://api.github.com/repos/underwindfall/create-release-with-debugapk/commits/9dd97e3c2b5f54e699d724cfcf3bf22a6783efa2) to [underwindfall/create-release-with-debugapk](https://api.github.com/repos/underwindfall/create-release-with-debugapk): "Bump ws from 7.2.3 to 7.4.6"
  <!-- githubActivity ends -->
  </td><td valign="top">
 
@@ -61,12 +61,12 @@
  ## 🏊‍♂️ <a href="https://gist.github.com/underwindfall/377ee88ba1fabd1e93516e48ca9c61eb" target="_blank">Weekly Development Breakdown</a>
   <!-- codeTime starts -->
   ```text
-    Kotlin       15 hrs 2 mins  ■■■■■■■■■■■■■□□□□□□□□□□□  39.8%
-    Java        10 hrs 56 mins  ■■■■■■■■■■▥□□□□□□□□□□□□□  29.0%
-    XML          9 hrs 42 mins  ■■■■■■■■■▦□□□□□□□□□□□□□□  25.7%
-    Groovy             44 mins  ■■■■□□□□□□□□□□□□□□□□□□□□   2.0%
-    JSON               36 mins  ■■■▦□□□□□□□□□□□□□□□□□□□□   1.6%
-    Markdown           16 mins  ■■■▦□□□□□□□□□□□□□□□□□□□□   0.7%
+    Kotlin      18 hrs 25 mins  ■■■■■■■■■■■■■■■□□□□□□□□□  47.9%
+    Java        11 hrs 10 mins  ■■■■■■■■■■▥□□□□□□□□□□□□□  29.0%
+    XML          6 hrs 26 mins  ■■■■■■■▥□□□□□□□□□□□□□□□□  16.7%
+    Groovy             51 mins  ■■■■□□□□□□□□□□□□□□□□□□□□   2.2%
+    JSON               31 mins  ■■■▦□□□□□□□□□□□□□□□□□□□□   1.4%
+    CSV                23 mins  ■■■▦□□□□□□□□□□□□□□□□□□□□   1.0%
   ```
   <!-- codeTime starts -->
   </td></tr></table>
