@@ -5,25 +5,25 @@
 
  ## 📷 Github Activity
  <!-- githubActivity starts -->
-  **2021-06-04** — opened PR [#84](https://api.github.com/repos/CovidTrackerFr/vitemadose-android/pulls/84) to [CovidTrackerFr/vitemadose-android](https://api.github.com/repos/CovidTrackerFr/vitemadose-android): "[Feature] implementation contributors view to fix issue #29"
+  **2021-06-05** — pushed [`2c27f8a5`](https://api.github.com/repos/underwindfall/vitemadose-android/commits/2c27f8a533b75fb30d96bc30905d364bcf67f767) to [underwindfall/vitemadose-android](https://api.github.com/repos/underwindfall/vitemadose-android): "improvement of UI"
 
-  **2021-06-04** — created branch "qy/feature/contributor" on [underwindfall/vitemadose-android](https://api.github.com/repos/underwindfall/vitemadose-android)
+  **2021-06-05** — pushed [`3045fecb`](https://api.github.com/repos/underwindfall/vitemadose-android/commits/3045fecb7690c9bfcaab595b9a5c6383a4181da5) to [underwindfall/vitemadose-android](https://api.github.com/repos/underwindfall/vitemadose-android): "Update DataManager.kt"
 
-  **2021-06-04** — pushed 9 commits to [underwindfall/vitemadose-android](https://api.github.com/repos/underwindfall/vitemadose-android).
+  **2021-06-05** — pushed [`a014e878`](https://api.github.com/repos/underwindfall/Algorithme/commits/a014e878e0d717924c6753b5601296d711a767d0) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Leetcode 1136 MinimumSemesters"
 
-  **2021-06-03** — pushed [`51fb859c`](https://api.github.com/repos/underwindfall/Algorithme/commits/51fb859cc39c6b9e00d9719dc99cc07cebf40958) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Leetcode 684 FindRedundantConnection"
+  **2021-06-05** — opened issue [#95](https://api.github.com/repos/underwindfall/Algorithme/issues/95) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "PossibleBipartition886"
 
-  **2021-06-03** — commented on [#91](https://github.com/underwindfall/Algorithme/issues/91#issuecomment-854026300) in [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme)
+  **2021-06-05** — pushed [`b3765249`](https://api.github.com/repos/underwindfall/Algorithme/commits/b3765249158f3f4974a24e09e8243b85c66c1031) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Leetcode 886PossibleBipartition"
 
-  **2021-06-03** — opened issue [#91](https://api.github.com/repos/underwindfall/Algorithme/issues/91) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "FindRedundantConnection684"
+  **2021-06-05** — pushed [`c034d2b8`](https://api.github.com/repos/underwindfall/Algorithme/commits/c034d2b8112d99b6bcfdebe36f8e88d3a4048896) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Leetcode 207 CourseSchedule"
 
-  **2021-06-03** — opened issue [#90](https://api.github.com/repos/underwindfall/Algorithme/issues/90) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Union Find 并查集"
+  **2021-06-05** — opened issue [#94](https://api.github.com/repos/underwindfall/Algorithme/issues/94) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "CanFinish207"
 
-  **2021-06-03** — pushed [`936b125c`](https://api.github.com/repos/underwindfall/Algorithme/commits/936b125cc2d442a7041c41de991709703e5e4bdd) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Leetcode 684 FindRedundantConnection"
+  **2021-06-05** — pushed [`73e2bf70`](https://api.github.com/repos/underwindfall/Algorithme/commits/73e2bf708898098ad1a72ea020520f8c9677ca86) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Leetcode 210 courseshedule"
 
-  **2021-06-03** — opened issue [#89](https://api.github.com/repos/underwindfall/Algorithme/issues/89) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "CountComponents323"
+  **2021-06-05** — opened issue [#93](https://api.github.com/repos/underwindfall/Algorithme/issues/93) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "CourseScheduleII210"
 
-  **2021-06-03** — pushed [`401666af`](https://api.github.com/repos/underwindfall/Algorithme/commits/401666afef9ac52b300cc569a620286cedc25e79) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Leetcode 323 并查集解法"
+  **2021-06-05** — pushed [`ffcc99cf`](https://api.github.com/repos/underwindfall/resume/commits/ffcc99cfe1e8e3e8edac761b44a24275b14fc644) to [underwindfall/resume](https://api.github.com/repos/underwindfall/resume): "update title"
  <!-- githubActivity ends -->
  </td><td valign="top">
 
