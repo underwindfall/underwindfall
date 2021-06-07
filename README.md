@@ -5,25 +5,25 @@
 
  ## 📷 Github Activity
  <!-- githubActivity starts -->
-  **2021-06-05** — pushed [`2c27f8a5`](https://api.github.com/repos/underwindfall/vitemadose-android/commits/2c27f8a533b75fb30d96bc30905d364bcf67f767) to [underwindfall/vitemadose-android](https://api.github.com/repos/underwindfall/vitemadose-android): "improvement of UI"
+  **2021-06-07** — pushed [`85c412f0`](https://api.github.com/repos/underwindfall/Algorithme/commits/85c412f0ff47d254d147b496b9b92e31bfc7275c) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Leetcode 494 find target sum ways"
 
-  **2021-06-05** — pushed [`3045fecb`](https://api.github.com/repos/underwindfall/vitemadose-android/commits/3045fecb7690c9bfcaab595b9a5c6383a4181da5) to [underwindfall/vitemadose-android](https://api.github.com/repos/underwindfall/vitemadose-android): "Update DataManager.kt"
+  **2021-06-07** — pushed 4 commits to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme).
 
-  **2021-06-05** — pushed [`a014e878`](https://api.github.com/repos/underwindfall/Algorithme/commits/a014e878e0d717924c6753b5601296d711a767d0) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Leetcode 1136 MinimumSemesters"
+  **2021-06-06** — opened issue [#101](https://api.github.com/repos/underwindfall/Algorithme/issues/101) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "SolveSudoKu37"
 
-  **2021-06-05** — opened issue [#95](https://api.github.com/repos/underwindfall/Algorithme/issues/95) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "PossibleBipartition886"
+  **2021-06-06** — opened issue [#100](https://api.github.com/repos/underwindfall/Algorithme/issues/100) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "51 N-Queens"
 
-  **2021-06-05** — pushed [`b3765249`](https://api.github.com/repos/underwindfall/Algorithme/commits/b3765249158f3f4974a24e09e8243b85c66c1031) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Leetcode 886PossibleBipartition"
+  **2021-06-06** — opened PR [#246](https://api.github.com/repos/CovidTrackerFr/vitemadose-front/pulls/246) to [CovidTrackerFr/vitemadose-front](https://api.github.com/repos/CovidTrackerFr/vitemadose-front): "use actions/setup-node@v2 for ci"
 
-  **2021-06-05** — pushed [`c034d2b8`](https://api.github.com/repos/underwindfall/Algorithme/commits/c034d2b8112d99b6bcfdebe36f8e88d3a4048896) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Leetcode 207 CourseSchedule"
+  **2021-06-06** — pushed [`1575457d`](https://api.github.com/repos/underwindfall/vitemadose-front/commits/1575457dadfa4266c2287c180dda261d48776790) to [underwindfall/vitemadose-front](https://api.github.com/repos/underwindfall/vitemadose-front): "use actions/setup-node@v2 for ci"
 
-  **2021-06-05** — opened issue [#94](https://api.github.com/repos/underwindfall/Algorithme/issues/94) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "CanFinish207"
+  **2021-06-06** — opened PR [#591](https://api.github.com/repos/abhisheknaiidu/awesome-github-profile-readme/pulls/591) to [abhisheknaiidu/awesome-github-profile-readme](https://api.github.com/repos/abhisheknaiidu/awesome-github-profile-readme): "Update README.md"
 
-  **2021-06-05** — pushed [`73e2bf70`](https://api.github.com/repos/underwindfall/Algorithme/commits/73e2bf708898098ad1a72ea020520f8c9677ca86) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Leetcode 210 courseshedule"
+  **2021-06-06** — pushed [`37e36816`](https://api.github.com/repos/underwindfall/awesome-github-profile-readme/commits/37e36816a55d2548cffae88c5634f0f17a4176ee) to [underwindfall/awesome-github-profile-readme](https://api.github.com/repos/underwindfall/awesome-github-profile-readme): "Update README.md"
 
-  **2021-06-05** — opened issue [#93](https://api.github.com/repos/underwindfall/Algorithme/issues/93) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "CourseScheduleII210"
+  **2021-06-06** — opened issue [#29](https://api.github.com/repos/underwindfall/PowerPermission/issues/29) on [underwindfall/PowerPermission](https://api.github.com/repos/underwindfall/PowerPermission): "migrate to mavenCenter"
 
-  **2021-06-05** — pushed [`ffcc99cf`](https://api.github.com/repos/underwindfall/resume/commits/ffcc99cfe1e8e3e8edac761b44a24275b14fc644) to [underwindfall/resume](https://api.github.com/repos/underwindfall/resume): "update title"
+  **2021-06-06** — opened issue [#99](https://api.github.com/repos/underwindfall/Algorithme/issues/99) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "LetterCasePermutation784"
  <!-- githubActivity ends -->
  </td><td valign="top">
 
@@ -61,12 +61,12 @@
  ## 🏊‍♂️ <a href="https://gist.github.com/underwindfall/377ee88ba1fabd1e93516e48ca9c61eb" target="_blank">Weekly Development Breakdown</a>
   <!-- codeTime starts -->
   ```text
-    Kotlin       22 hrs 8 mins  ■■■■■■■■■■■■■■■■◱□□□□□□□  53.0%
-    Java        11 hrs 53 mins  ■■■■■■■■■■◱□□□□□□□□□□□□□  28.4%
-    XML          4 hrs 45 mins  ■■■■■■◱□□□□□□□□□□□□□□□□□  11.4%
-    Groovy         1 hr 2 mins  ■■■■□□□□□□□□□□□□□□□□□□□□   2.5%
+    Kotlin      20 hrs 50 mins  ■■■■■■■■■■■■■■▦□□□□□□□□□  47.5%
+    Java        15 hrs 31 mins  ■■■■■■■■■■■■□□□□□□□□□□□□  35.4%
+    XML          4 hrs 39 mins  ■■■■■■□□□□□□□□□□□□□□□□□□  10.6%
+    Groovy         1 hr 2 mins  ■■■■□□□□□□□□□□□□□□□□□□□□   2.4%
     CSV                32 mins  ■■■▦□□□□□□□□□□□□□□□□□□□□   1.3%
-    JSON               31 mins  ■■■▦□□□□□□□□□□□□□□□□□□□□   1.2%
+    JSON               32 mins  ■■■▦□□□□□□□□□□□□□□□□□□□□   1.2%
   ```
   <!-- codeTime starts -->
   </td></tr></table>
