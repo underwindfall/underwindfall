@@ -5,6 +5,16 @@
 
  ## 📷 Github Activity
  <!-- githubActivity starts -->
+  **2021-06-08** — pushed [`0fd242ad`](https://api.github.com/repos/underwindfall/underwindfall/commits/0fd242ad68ab83312c546515d90c88041122500f) to [underwindfall/underwindfall](https://api.github.com/repos/underwindfall/underwindfall): "Update build.yml"
+
+  **2021-06-08** — opened issue [#104](https://api.github.com/repos/underwindfall/Algorithme/issues/104) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "PermutationsII47"
+
+  **2021-06-08** — pushed 2 commits to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme).
+
+  **2021-06-08** — opened issue [#103](https://api.github.com/repos/underwindfall/Algorithme/issues/103) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "MaxPathSumBinaryTree124"
+
+  **2021-06-08** — opened issue [#102](https://api.github.com/repos/underwindfall/Algorithme/issues/102) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "RightSideView199"
+
   **2021-06-07** — pushed [`135d840e`](https://api.github.com/repos/underwindfall/Algorithme/commits/135d840e3b61133d28df44e1de6fa4130b77e1dc) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Leetcode 1049 LastStoneWeightII"
 
   **2021-06-07** — pushed [`6cc87969`](https://api.github.com/repos/underwindfall/Algorithme/commits/6cc87969dfa18492cbd9dc8a26961ab7b0798652) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Leetcode 494 find target sum ways"
@@ -14,16 +24,6 @@
   **2021-06-07** — pushed 4 commits to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme).
 
   **2021-06-06** — opened issue [#101](https://api.github.com/repos/underwindfall/Algorithme/issues/101) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "SolveSudoKu37"
-
-  **2021-06-06** — opened issue [#100](https://api.github.com/repos/underwindfall/Algorithme/issues/100) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "51 N-Queens"
-
-  **2021-06-06** — opened PR [#246](https://api.github.com/repos/CovidTrackerFr/vitemadose-front/pulls/246) to [CovidTrackerFr/vitemadose-front](https://api.github.com/repos/CovidTrackerFr/vitemadose-front): "use actions/setup-node@v2 for ci"
-
-  **2021-06-06** — pushed [`1575457d`](https://api.github.com/repos/underwindfall/vitemadose-front/commits/1575457dadfa4266c2287c180dda261d48776790) to [underwindfall/vitemadose-front](https://api.github.com/repos/underwindfall/vitemadose-front): "use actions/setup-node@v2 for ci"
-
-  **2021-06-06** — opened PR [#591](https://api.github.com/repos/abhisheknaiidu/awesome-github-profile-readme/pulls/591) to [abhisheknaiidu/awesome-github-profile-readme](https://api.github.com/repos/abhisheknaiidu/awesome-github-profile-readme): "Update README.md"
-
-  **2021-06-06** — pushed [`37e36816`](https://api.github.com/repos/underwindfall/awesome-github-profile-readme/commits/37e36816a55d2548cffae88c5634f0f17a4176ee) to [underwindfall/awesome-github-profile-readme](https://api.github.com/repos/underwindfall/awesome-github-profile-readme): "Update README.md"
  <!-- githubActivity ends -->
  </td><td valign="top">
 
