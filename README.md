@@ -5,6 +5,8 @@
 
  ## 📷 Github Activity
  <!-- githubActivity starts -->
+  **2021-06-08** — opened issue [#106](https://api.github.com/repos/underwindfall/Algorithme/issues/106) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Combinations77"
+
   **2021-06-08** — pushed [`71e27c16`](https://api.github.com/repos/underwindfall/underwindfall/commits/71e27c16de11d854029e12010aeff466704aeaad) to [underwindfall/underwindfall](https://api.github.com/repos/underwindfall/underwindfall): "add new strike github staff"
 
   **2021-06-08** — pushed [`8c6406f4`](https://api.github.com/repos/underwindfall/Algorithme/commits/8c6406f435133aa4faa35cc273883b4ed9f15fba) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Leetcode 39 combination sum"
@@ -22,8 +24,6 @@
   **2021-06-08** — pushed 2 commits to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme).
 
   **2021-06-08** — opened issue [#103](https://api.github.com/repos/underwindfall/Algorithme/issues/103) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "MaxPathSumBinaryTree124"
-
-  **2021-06-08** — opened issue [#102](https://api.github.com/repos/underwindfall/Algorithme/issues/102) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "RightSideView199"
  <!-- githubActivity ends -->
  </td><td valign="top">
 
