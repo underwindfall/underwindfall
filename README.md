@@ -5,6 +5,10 @@
 
  ## 📷 Github Activity
  <!-- githubActivity starts -->
+  **2021-06-07** — pushed [`135d840e`](https://api.github.com/repos/underwindfall/Algorithme/commits/135d840e3b61133d28df44e1de6fa4130b77e1dc) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Leetcode 1049 LastStoneWeightII"
+
+  **2021-06-07** — pushed [`6cc87969`](https://api.github.com/repos/underwindfall/Algorithme/commits/6cc87969dfa18492cbd9dc8a26961ab7b0798652) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Leetcode 494 find target sum ways"
+
   **2021-06-07** — pushed [`85c412f0`](https://api.github.com/repos/underwindfall/Algorithme/commits/85c412f0ff47d254d147b496b9b92e31bfc7275c) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Leetcode 494 find target sum ways"
 
   **2021-06-07** — pushed 4 commits to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme).
@@ -20,10 +24,6 @@
   **2021-06-06** — opened PR [#591](https://api.github.com/repos/abhisheknaiidu/awesome-github-profile-readme/pulls/591) to [abhisheknaiidu/awesome-github-profile-readme](https://api.github.com/repos/abhisheknaiidu/awesome-github-profile-readme): "Update README.md"
 
   **2021-06-06** — pushed [`37e36816`](https://api.github.com/repos/underwindfall/awesome-github-profile-readme/commits/37e36816a55d2548cffae88c5634f0f17a4176ee) to [underwindfall/awesome-github-profile-readme](https://api.github.com/repos/underwindfall/awesome-github-profile-readme): "Update README.md"
-
-  **2021-06-06** — opened issue [#29](https://api.github.com/repos/underwindfall/PowerPermission/issues/29) on [underwindfall/PowerPermission](https://api.github.com/repos/underwindfall/PowerPermission): "migrate to mavenCenter"
-
-  **2021-06-06** — opened issue [#99](https://api.github.com/repos/underwindfall/Algorithme/issues/99) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "LetterCasePermutation784"
  <!-- githubActivity ends -->
  </td><td valign="top">
 
@@ -61,12 +61,12 @@
  ## 🏊‍♂️ <a href="https://gist.github.com/underwindfall/377ee88ba1fabd1e93516e48ca9c61eb" target="_blank">Weekly Development Breakdown</a>
   <!-- codeTime starts -->
   ```text
-    Kotlin      20 hrs 50 mins  ■■■■■■■■■■■■■■▦□□□□□□□□□  47.5%
-    Java        15 hrs 31 mins  ■■■■■■■■■■■■□□□□□□□□□□□□  35.4%
-    XML          4 hrs 39 mins  ■■■■■■□□□□□□□□□□□□□□□□□□  10.6%
-    Groovy         1 hr 2 mins  ■■■■□□□□□□□□□□□□□□□□□□□□   2.4%
-    CSV                32 mins  ■■■▦□□□□□□□□□□□□□□□□□□□□   1.3%
-    JSON               32 mins  ■■■▦□□□□□□□□□□□□□□□□□□□□   1.2%
+    Kotlin      19 hrs 57 mins  ■■■■■■■■■■■■■■▦□□□□□□□□□  47.3%
+    Java        15 hrs 55 mins  ■■■■■■■■■■■■▥□□□□□□□□□□□  37.8%
+    XML           4 hrs 8 mins  ■■■■■▦□□□□□□□□□□□□□□□□□□   9.8%
+    JSON               38 mins  ■■■▦□□□□□□□□□□□□□□□□□□□□   1.5%
+    CSV                33 mins  ■■■▦□□□□□□□□□□□□□□□□□□□□   1.3%
+    Groovy             18 mins  ■■■▦□□□□□□□□□□□□□□□□□□□□   0.7%
   ```
   <!-- codeTime starts -->
   </td></tr></table>
