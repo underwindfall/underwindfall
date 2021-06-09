@@ -5,6 +5,12 @@
 
  ## 📷 Github Activity
  <!-- githubActivity starts -->
+  **2021-06-08** — pushed [`48590ce1`](https://api.github.com/repos/underwindfall/Algorithme/commits/48590ce1dd51931a8e862766218d990d18e16448) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Leetcode 473 matchsticks to square"
+
+  **2021-06-08** — opened issue [#107](https://api.github.com/repos/underwindfall/Algorithme/issues/107) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "MatchsticksToSquare473"
+
+  **2021-06-08** — pushed [`4576210e`](https://api.github.com/repos/underwindfall/Algorithme/commits/4576210ebde5d58020f52543916a7408a93f1b1e) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Leetcode 77 combinations"
+
   **2021-06-08** — opened issue [#106](https://api.github.com/repos/underwindfall/Algorithme/issues/106) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Combinations77"
 
   **2021-06-08** — pushed [`71e27c16`](https://api.github.com/repos/underwindfall/underwindfall/commits/71e27c16de11d854029e12010aeff466704aeaad) to [underwindfall/underwindfall](https://api.github.com/repos/underwindfall/underwindfall): "add new strike github staff"
@@ -18,12 +24,6 @@
   **2021-06-08** — pushed [`b293cd95`](https://api.github.com/repos/underwindfall/wakabox-stats/commits/b293cd9517cd1b01a80a7b46050b3a120f525414) to [underwindfall/wakabox-stats](https://api.github.com/repos/underwindfall/wakabox-stats): "Update main.yml"
 
   **2021-06-08** — pushed [`0fd242ad`](https://api.github.com/repos/underwindfall/underwindfall/commits/0fd242ad68ab83312c546515d90c88041122500f) to [underwindfall/underwindfall](https://api.github.com/repos/underwindfall/underwindfall): "Update build.yml"
-
-  **2021-06-08** — opened issue [#104](https://api.github.com/repos/underwindfall/Algorithme/issues/104) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "PermutationsII47"
-
-  **2021-06-08** — pushed 2 commits to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme).
-
-  **2021-06-08** — opened issue [#103](https://api.github.com/repos/underwindfall/Algorithme/issues/103) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "MaxPathSumBinaryTree124"
  <!-- githubActivity ends -->
  </td><td valign="top">
 
@@ -61,11 +61,11 @@
  ## 🏊‍♂️ <a href="https://gist.github.com/underwindfall/377ee88ba1fabd1e93516e48ca9c61eb" target="_blank">Weekly Development Breakdown</a>
   <!-- codeTime starts -->
   ```text
-    Kotlin      19 hrs 57 mins  ■■■■■■■■■■■■■■▦□□□□□□□□□  47.3%
-    Java        15 hrs 55 mins  ■■■■■■■■■■■■▥□□□□□□□□□□□  37.8%
-    XML           4 hrs 8 mins  ■■■■■▦□□□□□□□□□□□□□□□□□□   9.8%
-    JSON               38 mins  ■■■▦□□□□□□□□□□□□□□□□□□□□   1.5%
-    CSV                33 mins  ■■■▦□□□□□□□□□□□□□□□□□□□□   1.3%
+    Java        19 hrs 13 mins  ■■■■■■■■■■■■■■▦□□□□□□□□□  47.2%
+    Kotlin      15 hrs 58 mins  ■■■■■■■■■■■■■□□□□□□□□□□□  39.2%
+    XML          3 hrs 25 mins  ■■■■■▥□□□□□□□□□□□□□□□□□□   8.4%
+    CSV                33 mins  ■■■▦□□□□□□□□□□□□□□□□□□□□   1.4%
+    Other              19 mins  ■■■▦□□□□□□□□□□□□□□□□□□□□   0.8%
     Groovy             18 mins  ■■■▦□□□□□□□□□□□□□□□□□□□□   0.7%
   ```
   <!-- codeTime starts -->
