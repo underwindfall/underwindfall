@@ -5,6 +5,16 @@
 
  ## 📷 Github Activity
  <!-- githubActivity starts -->
+  **2021-06-09** — opened issue [#110](https://api.github.com/repos/underwindfall/Algorithme/issues/110) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "SubsetsII90"
+
+  **2021-06-09** — opened issue [#109](https://api.github.com/repos/underwindfall/Algorithme/issues/109) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Subsets78"
+
+  **2021-06-09** — opened issue [#108](https://api.github.com/repos/underwindfall/Algorithme/issues/108) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "CombinationSumII40"
+
+  **2021-06-09** — pushed [`7b6a1363`](https://api.github.com/repos/underwindfall/Algorithme/commits/7b6a1363768082cb6c8f69c4a598e9170a2cdd77) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Leetcode 879 ProfitableSchemes"
+
+  **2021-06-09** — created tag "v1.0" on [underwindfall/underwindfall](https://api.github.com/repos/underwindfall/underwindfall)
+
   **2021-06-08** — pushed [`48590ce1`](https://api.github.com/repos/underwindfall/Algorithme/commits/48590ce1dd51931a8e862766218d990d18e16448) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Leetcode 473 matchsticks to square"
 
   **2021-06-08** — opened issue [#107](https://api.github.com/repos/underwindfall/Algorithme/issues/107) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "MatchsticksToSquare473"
@@ -14,16 +24,6 @@
   **2021-06-08** — opened issue [#106](https://api.github.com/repos/underwindfall/Algorithme/issues/106) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Combinations77"
 
   **2021-06-08** — pushed [`71e27c16`](https://api.github.com/repos/underwindfall/underwindfall/commits/71e27c16de11d854029e12010aeff466704aeaad) to [underwindfall/underwindfall](https://api.github.com/repos/underwindfall/underwindfall): "add new strike github staff"
-
-  **2021-06-08** — pushed [`8c6406f4`](https://api.github.com/repos/underwindfall/Algorithme/commits/8c6406f435133aa4faa35cc273883b4ed9f15fba) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Leetcode 39 combination sum"
-
-  **2021-06-08** — opened issue [#105](https://api.github.com/repos/underwindfall/Algorithme/issues/105) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "CombinationSum39"
-
-  **2021-06-08** — pushed [`7a6fe991`](https://api.github.com/repos/underwindfall/Algorithme/commits/7a6fe99144a8bde0332142108b7862c16d71a8d6) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Leetcode 47 PermutationsII"
-
-  **2021-06-08** — pushed [`b293cd95`](https://api.github.com/repos/underwindfall/wakabox-stats/commits/b293cd9517cd1b01a80a7b46050b3a120f525414) to [underwindfall/wakabox-stats](https://api.github.com/repos/underwindfall/wakabox-stats): "Update main.yml"
-
-  **2021-06-08** — pushed [`0fd242ad`](https://api.github.com/repos/underwindfall/underwindfall/commits/0fd242ad68ab83312c546515d90c88041122500f) to [underwindfall/underwindfall](https://api.github.com/repos/underwindfall/underwindfall): "Update build.yml"
  <!-- githubActivity ends -->
  </td><td valign="top">
 
@@ -61,12 +61,12 @@
  ## 🏊‍♂️ <a href="https://gist.github.com/underwindfall/377ee88ba1fabd1e93516e48ca9c61eb" target="_blank">Weekly Development Breakdown</a>
   <!-- codeTime starts -->
   ```text
-    Java        19 hrs 13 mins  ■■■■■■■■■■■■■■▦□□□□□□□□□  47.2%
-    Kotlin      15 hrs 58 mins  ■■■■■■■■■■■■■□□□□□□□□□□□  39.2%
-    XML          3 hrs 25 mins  ■■■■■▥□□□□□□□□□□□□□□□□□□   8.4%
-    CSV                33 mins  ■■■▦□□□□□□□□□□□□□□□□□□□□   1.4%
-    Other              19 mins  ■■■▦□□□□□□□□□□□□□□□□□□□□   0.8%
-    Groovy             18 mins  ■■■▦□□□□□□□□□□□□□□□□□□□□   0.7%
+    Java        21 hrs 33 mins  ■■■■■■■■■■■■■■■■▦□□□□□□□  55.3%
+    Kotlin      11 hrs 49 mins  ■■■■■■■■■■▦□□□□□□□□□□□□□  30.3%
+    XML          3 hrs 19 mins  ■■■■■▥□□□□□□□□□□□□□□□□□□   8.5%
+    Other              29 mins  ■■■▦□□□□□□□□□□□□□□□□□□□□   1.3%
+    Groovy             24 mins  ■■■▦□□□□□□□□□□□□□□□□□□□□   1.1%
+    Properties         21 mins  ■■■▦□□□□□□□□□□□□□□□□□□□□   0.9%
   ```
   <!-- codeTime starts -->
   </td></tr></table>
