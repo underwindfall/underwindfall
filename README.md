@@ -5,6 +5,10 @@
 
  ## 📷 Github Activity
  <!-- githubActivity starts -->
+  **2021-06-16** — opened issue [#112](https://api.github.com/repos/underwindfall/Algorithme/issues/112) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "LetterTilePossibilities1079"
+
+  **2021-06-16** — pushed [`f1cf2685`](https://api.github.com/repos/underwindfall/Algorithme/commits/f1cf26852fedae806368a4ff06ddd46f6da5ce64) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Leetcode 1079 letter tile possiblity"
+
   **2021-06-10** — pushed [`031cc982`](https://api.github.com/repos/underwindfall/Algorithme/commits/031cc982462e0d7c240144a13c7541a5f7d7715b) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Leetcode 1593 maxunique split"
 
   **2021-06-10** — opened issue [#111](https://api.github.com/repos/underwindfall/Algorithme/issues/111) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "MaxUniqueSplit1593"
@@ -20,10 +24,6 @@
   **2021-06-10** — pushed [`f664eccb`](https://api.github.com/repos/underwindfall/Algorithme/commits/f664eccbea71266ac210421eb09ca37669c01bd6) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Leetcode 39 combinationsSum"
 
   **2021-06-10** — pushed 3 commits to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme).
-
-  **2021-06-09** — opened issue [#110](https://api.github.com/repos/underwindfall/Algorithme/issues/110) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "SubsetsII90"
-
-  **2021-06-09** — opened issue [#109](https://api.github.com/repos/underwindfall/Algorithme/issues/109) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Subsets78"
  <!-- githubActivity ends -->
  </td><td valign="top">
 
@@ -61,12 +61,12 @@
  ## 🏊‍♂️ <a href="https://gist.github.com/underwindfall/377ee88ba1fabd1e93516e48ca9c61eb" target="_blank">Weekly Development Breakdown</a>
   <!-- codeTime starts -->
   ```text
-    Java        16 hrs 12 mins  ■■■■■■■■■■■■■■■▦□□□□□□□□  51.6%
-    Kotlin       10 hrs 3 mins  ■■■■■■■■■■■◱□□□□□□□□□□□□  32.0%
-    C            2 hrs 14 mins  ■■■■■◱□□□□□□□□□□□□□□□□□□   7.1%
-    CSV                50 mins  ■■■■□□□□□□□□□□□□□□□□□□□□   2.7%
-    Other              30 mins  ■■■▦□□□□□□□□□□□□□□□□□□□□   1.6%
-    Groovy             25 mins  ■■■▦□□□□□□□□□□□□□□□□□□□□   1.4%
+    Java        16 hrs 29 mins  ■■■■■■■■■■■■■■▦□□□□□□□□□  47.3%
+    Kotlin      13 hrs 18 mins  ■■■■■■■■■■■■▥□□□□□□□□□□□  38.1%
+    C            2 hrs 14 mins  ■■■■■□□□□□□□□□□□□□□□□□□□   6.4%
+    CSV                52 mins  ■■■■□□□□□□□□□□□□□□□□□□□□   2.5%
+    XML                34 mins  ■■■▦□□□□□□□□□□□□□□□□□□□□   1.6%
+    Groovy             31 mins  ■■■▦□□□□□□□□□□□□□□□□□□□□   1.5%
   ```
   <!-- codeTime starts -->
   </td></tr></table>
