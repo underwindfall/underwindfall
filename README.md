@@ -5,25 +5,25 @@
 
  ## 📷 Github Activity
  <!-- githubActivity starts -->
-  **2021-06-16** — opened issue [#116](https://api.github.com/repos/underwindfall/Algorithme/issues/116) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "NumIslands200"
+  **2021-06-17** — opened issue [#122](https://api.github.com/repos/underwindfall/Algorithme/issues/122) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Minesweeper529"
 
-  **2021-06-16** — pushed [`c1bb6fc5`](https://api.github.com/repos/underwindfall/Algorithme/commits/c1bb6fc5b79c5c260eecd93369852c2f3b3750fa) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Leetcode 200 num of islands"
+  **2021-06-17** — pushed [`2b5ba174`](https://api.github.com/repos/underwindfall/Algorithme/commits/2b5ba174a9e3d2e1637807a9ccb1627b8f1ac588) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Leetcode 528 mines sweeper"
 
-  **2021-06-16** — pushed [`82289e75`](https://api.github.com/repos/underwindfall/Algorithme/commits/82289e75b9439598e60731453cf2d7de139f509b) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Leetcode 130 surrounded region"
+  **2021-06-17** — pushed [`e3ac1093`](https://api.github.com/repos/underwindfall/Algorithme/commits/e3ac1093744a1f43aa85e3bf4f5ac4238cad93f2) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Leetcode 133 cloned graph"
 
-  **2021-06-16** — opened issue [#115](https://api.github.com/repos/underwindfall/Algorithme/issues/115) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "SurroundedRegions130"
+  **2021-06-17** — pushed [`e6b81aeb`](https://api.github.com/repos/underwindfall/Algorithme/commits/e6b81aebb7ec3ad004578c594b97d8a888986929) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Leetcode 1034 ColorBorder"
 
-  **2021-06-16** — pushed [`bbb0040b`](https://api.github.com/repos/underwindfall/Algorithme/commits/bbb0040b1501de3d196a17b90634b872a0a5f62f) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Leetcode 695 max area of islands"
+  **2021-06-17** — opened issue [#121](https://api.github.com/repos/underwindfall/Algorithme/issues/121) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "ColorBorder1034"
 
-  **2021-06-16** — opened issue [#114](https://api.github.com/repos/underwindfall/Algorithme/issues/114) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "MaxAreaOfIsland695"
+  **2021-06-17** — pushed [`183554d6`](https://api.github.com/repos/underwindfall/Algorithme/commits/183554d63a57004da273ac9b8f559b27b178ca8e) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "剑指13"
 
-  **2021-06-16** — pushed [`71effaa2`](https://api.github.com/repos/underwindfall/Algorithme/commits/71effaa292d686f011687ec5d449262a1f44eaa1) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "move backtrack to algo"
+  **2021-06-17** — opened issue [#120](https://api.github.com/repos/underwindfall/Algorithme/issues/120) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "MovingCount13"
 
-  **2021-06-16** — pushed [`39a3cbfc`](https://api.github.com/repos/underwindfall/Algorithme/commits/39a3cbfce25088181b729ab359564bdf3058d4b0) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "move backtrack to algo"
+  **2021-06-17** — pushed 3 commits to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme).
 
-  **2021-06-16** — pushed [`03751a78`](https://api.github.com/repos/underwindfall/Algorithme/commits/03751a788163c4fab231fd38d8e5afa150bb378e) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Leetcode 79 word search"
+  **2021-06-17** — opened issue [#119](https://api.github.com/repos/underwindfall/Algorithme/issues/119) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "CloseIsLands1254"
 
-  **2021-06-16** — opened issue [#113](https://api.github.com/repos/underwindfall/Algorithme/issues/113) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "WordSearch79"
+  **2021-06-17** — opened issue [#118](https://api.github.com/repos/underwindfall/Algorithme/issues/118) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "NumberEnclaves1020"
  <!-- githubActivity ends -->
  </td><td valign="top">
 
@@ -61,12 +61,12 @@
  ## 🏊‍♂️ <a href="https://gist.github.com/underwindfall/377ee88ba1fabd1e93516e48ca9c61eb" target="_blank">Weekly Development Breakdown</a>
   <!-- codeTime starts -->
   ```text
-    Java        14 hrs 15 mins  ■■■■■■■■■■■■■■□□□□□□□□□□  44.2%
-    Kotlin      13 hrs 15 mins  ■■■■■■■■■■■■■◱□□□□□□□□□□  41.1%
-    C              2 hrs 1 min  ■■■■■□□□□□□□□□□□□□□□□□□□   6.3%
-    CSV                56 mins  ■■■■◱□□□□□□□□□□□□□□□□□□□   2.9%
-    XML                34 mins  ■■■■□□□□□□□□□□□□□□□□□□□□   1.8%
-    Markdown           23 mins  ■■■▦□□□□□□□□□□□□□□□□□□□□   1.2%
+    Java        12 hrs 20 mins  ■■■■■■■■■■■■■■▥□□□□□□□□□  45.7%
+    Kotlin        10 hrs 1 min  ■■■■■■■■■■■■▥□□□□□□□□□□□  37.1%
+    C              2 hrs 1 min  ■■■■■◱□□□□□□□□□□□□□□□□□□   7.5%
+    CSV                56 mins  ■■■■◱□□□□□□□□□□□□□□□□□□□   3.5%
+    XML                27 mins  ■■■■□□□□□□□□□□□□□□□□□□□□   1.7%
+    Markdown           23 mins  ■■■▦□□□□□□□□□□□□□□□□□□□□   1.5%
   ```
   <!-- codeTime starts -->
   </td></tr></table>
