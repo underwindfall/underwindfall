@@ -5,6 +5,10 @@
 
  ## 📷 Github Activity
  <!-- githubActivity starts -->
+  **2021-06-19** — created tag "1.0.0" on [underwindfall/wakabox-stats](https://api.github.com/repos/underwindfall/wakabox-stats)
+
+  **2021-06-19** — pushed [`d48f26c9`](https://api.github.com/repos/underwindfall/wakabox-stats/commits/d48f26c9ecb2c69e57f077e15c6fd495330a37f1) to [underwindfall/wakabox-stats](https://api.github.com/repos/underwindfall/wakabox-stats): "Update index.js"
+
   **2021-06-17** — opened issue [#122](https://api.github.com/repos/underwindfall/Algorithme/issues/122) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Minesweeper529"
 
   **2021-06-17** — pushed [`2b5ba174`](https://api.github.com/repos/underwindfall/Algorithme/commits/2b5ba174a9e3d2e1637807a9ccb1627b8f1ac588) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Leetcode 528 mines sweeper"
@@ -20,10 +24,6 @@
   **2021-06-17** — opened issue [#120](https://api.github.com/repos/underwindfall/Algorithme/issues/120) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "MovingCount13"
 
   **2021-06-17** — pushed 3 commits to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme).
-
-  **2021-06-17** — opened issue [#119](https://api.github.com/repos/underwindfall/Algorithme/issues/119) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "CloseIsLands1254"
-
-  **2021-06-17** — opened issue [#118](https://api.github.com/repos/underwindfall/Algorithme/issues/118) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "NumberEnclaves1020"
  <!-- githubActivity ends -->
  </td><td valign="top">
 
@@ -61,10 +61,10 @@
  ## 🏊‍♂️ <a href="https://gist.github.com/underwindfall/377ee88ba1fabd1e93516e48ca9c61eb" target="_blank">Weekly Development Breakdown</a>
   <!-- codeTime starts -->
   ```text
-    Kotlin      13 hrs 30 mins  ■■■■■■■■■■■■■■■▥□□□□□□□□  49.6%
-    Java          11 hrs 1 min  ■■■■■■■■■■■■■◱□□□□□□□□□□  40.5%
+    Kotlin      13 hrs 30 mins  ■■■■■■■■■■■■■■■◱□□□□□□□□  49.4%
+    Java        11 hrs 11 mins  ■■■■■■■■■■■■■◱□□□□□□□□□□  40.9%
     CSV                52 mins  ■■■■◱□□□□□□□□□□□□□□□□□□□   3.2%
-    Groovy             32 mins  ■■■■□□□□□□□□□□□□□□□□□□□□   2.0%
+    Groovy             32 mins  ■■■■□□□□□□□□□□□□□□□□□□□□   1.9%
     Markdown           24 mins  ■■■▦□□□□□□□□□□□□□□□□□□□□   1.5%
     C                  17 mins  ■■■▦□□□□□□□□□□□□□□□□□□□□   1.1%
   ```
