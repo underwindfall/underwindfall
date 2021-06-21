@@ -5,6 +5,18 @@
 
  ## 📷 Github Activity
  <!-- githubActivity starts -->
+  **2021-06-20** — pushed [`a51da0e4`](https://api.github.com/repos/underwindfall/Algorithme/commits/a51da0e4511bbe2605b8c55324fb0cae2ae68c72) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Leetcode 549 LongestConsecutiveII"
+
+  **2021-06-20** — opened issue [#125](https://api.github.com/repos/underwindfall/Algorithme/issues/125) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "LongestConsecutiveII549"
+
+  **2021-06-20** — pushed [`6b7787e3`](https://api.github.com/repos/underwindfall/Algorithme/commits/6b7787e3a5c400e6ea484a081c0ece0211584cdf) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Leetcode 298 longestConsecutive"
+
+  **2021-06-20** — opened issue [#124](https://api.github.com/repos/underwindfall/Algorithme/issues/124) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "LongestConsecutive298"
+
+  **2021-06-20** — opened issue [#123](https://api.github.com/repos/underwindfall/Algorithme/issues/123) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "MaxLengthConcatenated1239"
+
+  **2021-06-20** — pushed [`37ed7b75`](https://api.github.com/repos/underwindfall/Algorithme/commits/37ed7b7517adaae74ffdc11998ae7da07ad86cbb) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Leetcode  1239 MaxLengthConcatenated"
+
   **2021-06-19** — created tag "1.0.0" on [underwindfall/wakabox-stats](https://api.github.com/repos/underwindfall/wakabox-stats)
 
   **2021-06-19** — pushed [`d48f26c9`](https://api.github.com/repos/underwindfall/wakabox-stats/commits/d48f26c9ecb2c69e57f077e15c6fd495330a37f1) to [underwindfall/wakabox-stats](https://api.github.com/repos/underwindfall/wakabox-stats): "Update index.js"
@@ -12,18 +24,6 @@
   **2021-06-17** — opened issue [#122](https://api.github.com/repos/underwindfall/Algorithme/issues/122) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Minesweeper529"
 
   **2021-06-17** — pushed [`2b5ba174`](https://api.github.com/repos/underwindfall/Algorithme/commits/2b5ba174a9e3d2e1637807a9ccb1627b8f1ac588) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Leetcode 528 mines sweeper"
-
-  **2021-06-17** — pushed [`e3ac1093`](https://api.github.com/repos/underwindfall/Algorithme/commits/e3ac1093744a1f43aa85e3bf4f5ac4238cad93f2) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Leetcode 133 cloned graph"
-
-  **2021-06-17** — pushed [`e6b81aeb`](https://api.github.com/repos/underwindfall/Algorithme/commits/e6b81aebb7ec3ad004578c594b97d8a888986929) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Leetcode 1034 ColorBorder"
-
-  **2021-06-17** — opened issue [#121](https://api.github.com/repos/underwindfall/Algorithme/issues/121) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "ColorBorder1034"
-
-  **2021-06-17** — pushed [`183554d6`](https://api.github.com/repos/underwindfall/Algorithme/commits/183554d63a57004da273ac9b8f559b27b178ca8e) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "剑指13"
-
-  **2021-06-17** — opened issue [#120](https://api.github.com/repos/underwindfall/Algorithme/issues/120) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "MovingCount13"
-
-  **2021-06-17** — pushed 3 commits to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme).
  <!-- githubActivity ends -->
  </td><td valign="top">
 
@@ -61,11 +61,11 @@
  ## 🏊‍♂️ <a href="https://gist.github.com/underwindfall/377ee88ba1fabd1e93516e48ca9c61eb" target="_blank">Weekly Development Breakdown</a>
   <!-- codeTime starts -->
   ```text
-    Kotlin      13 hrs 30 mins  ■■■■■■■■■■■■■■■◱□□□□□□□□  49.4%
-    Java        11 hrs 11 mins  ■■■■■■■■■■■■■◱□□□□□□□□□□  40.9%
-    CSV                52 mins  ■■■■◱□□□□□□□□□□□□□□□□□□□   3.2%
+    Kotlin      13 hrs 30 mins  ■■■■■■■■■■■■■■■□□□□□□□□□  48.0%
+    Java        11 hrs 57 mins  ■■■■■■■■■■■■■▦□□□□□□□□□□  42.5%
+    CSV                52 mins  ■■■■◱□□□□□□□□□□□□□□□□□□□   3.1%
     Groovy             32 mins  ■■■■□□□□□□□□□□□□□□□□□□□□   1.9%
-    Markdown           24 mins  ■■■▦□□□□□□□□□□□□□□□□□□□□   1.5%
+    Markdown           24 mins  ■■■▦□□□□□□□□□□□□□□□□□□□□   1.4%
     C                  17 mins  ■■■▦□□□□□□□□□□□□□□□□□□□□   1.1%
   ```
   <!-- codeTime starts -->
