@@ -5,25 +5,25 @@
 
  ## 📷 Github Activity
  <!-- githubActivity starts -->
+  **2021-06-22** — opened issue [#129](https://api.github.com/repos/underwindfall/Algorithme/issues/129) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "LongestZigzagPath1372"
+
+  **2021-06-22** — pushed [`77f98aca`](https://api.github.com/repos/underwindfall/Algorithme/commits/77f98aca44212d7d62e280bd84af514dd6165126) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Leetcode 1372 longestzeizagPath"
+
+  **2021-06-22** — pushed [`e4d37d61`](https://api.github.com/repos/underwindfall/Algorithme/commits/e4d37d61b102785a89b8ba92981384ad9201b377) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Leetcode 865 SubtreeWithAllDeepest"
+
+  **2021-06-22** — opened issue [#128](https://api.github.com/repos/underwindfall/Algorithme/issues/128) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "SubtreeWithAllDeepest865"
+
+  **2021-06-22** — pushed [`49f47374`](https://api.github.com/repos/underwindfall/Algorithme/commits/49f47374b4ea9d30878443375b1b12ce00aa4f7c) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Leetcode 687 LongestUnivaluePath"
+
+  **2021-06-22** — opened issue [#127](https://api.github.com/repos/underwindfall/Algorithme/issues/127) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "LongestUnivaluePath687"
+
+  **2021-06-22** — pushed [`6c486e37`](https://api.github.com/repos/underwindfall/Algorithme/commits/6c486e379eaf699b3c8d1d8664ced8dd80b1f65c) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Leetcode 401 readbinary watch"
+
+  **2021-06-22** — pushed [`fa228715`](https://api.github.com/repos/underwindfall/Algorithme/commits/fa2287150d1061df099cde00af5dd81185bc7876) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Leetcode LCOF38 Permutation"
+
+  **2021-06-22** — opened issue [#126](https://api.github.com/repos/underwindfall/Algorithme/issues/126) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Permutation38"
+
   **2021-06-20** — pushed [`a51da0e4`](https://api.github.com/repos/underwindfall/Algorithme/commits/a51da0e4511bbe2605b8c55324fb0cae2ae68c72) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Leetcode 549 LongestConsecutiveII"
-
-  **2021-06-20** — opened issue [#125](https://api.github.com/repos/underwindfall/Algorithme/issues/125) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "LongestConsecutiveII549"
-
-  **2021-06-20** — pushed [`6b7787e3`](https://api.github.com/repos/underwindfall/Algorithme/commits/6b7787e3a5c400e6ea484a081c0ece0211584cdf) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Leetcode 298 longestConsecutive"
-
-  **2021-06-20** — opened issue [#124](https://api.github.com/repos/underwindfall/Algorithme/issues/124) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "LongestConsecutive298"
-
-  **2021-06-20** — opened issue [#123](https://api.github.com/repos/underwindfall/Algorithme/issues/123) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "MaxLengthConcatenated1239"
-
-  **2021-06-20** — pushed [`37ed7b75`](https://api.github.com/repos/underwindfall/Algorithme/commits/37ed7b7517adaae74ffdc11998ae7da07ad86cbb) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Leetcode  1239 MaxLengthConcatenated"
-
-  **2021-06-19** — created tag "1.0.0" on [underwindfall/wakabox-stats](https://api.github.com/repos/underwindfall/wakabox-stats)
-
-  **2021-06-19** — pushed [`d48f26c9`](https://api.github.com/repos/underwindfall/wakabox-stats/commits/d48f26c9ecb2c69e57f077e15c6fd495330a37f1) to [underwindfall/wakabox-stats](https://api.github.com/repos/underwindfall/wakabox-stats): "Update index.js"
-
-  **2021-06-17** — opened issue [#122](https://api.github.com/repos/underwindfall/Algorithme/issues/122) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Minesweeper529"
-
-  **2021-06-17** — pushed [`2b5ba174`](https://api.github.com/repos/underwindfall/Algorithme/commits/2b5ba174a9e3d2e1637807a9ccb1627b8f1ac588) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Leetcode 528 mines sweeper"
  <!-- githubActivity ends -->
  </td><td valign="top">
 
@@ -61,12 +61,12 @@
  ## 🏊‍♂️ <a href="https://gist.github.com/underwindfall/377ee88ba1fabd1e93516e48ca9c61eb" target="_blank">Weekly Development Breakdown</a>
   <!-- codeTime starts -->
   ```text
-    Kotlin      16 hrs 50 mins  ■■■■■■■■■■■■■■■■■□□□□□□□  56.4%
-    Java        11 hrs 41 mins  ■■■■■■■■■■■■▦□□□□□□□□□□□  39.1%
+    Kotlin      17 hrs 39 mins  ■■■■■■■■■■■■■■■■■▦□□□□□□  59.5%
+    Java        10 hrs 42 mins  ■■■■■■■■■■■■◱□□□□□□□□□□□  36.1%
     Markdown           23 mins  ■■■▦□□□□□□□□□□□□□□□□□□□□   1.3%
-    Groovy             23 mins  ■■■▦□□□□□□□□□□□□□□□□□□□□   1.3%
+    XML                19 mins  ■■■▦□□□□□□□□□□□□□□□□□□□□   1.1%
+    Groovy             17 mins  ■■■▦□□□□□□□□□□□□□□□□□□□□   1.0%
     CSV                17 mins  ■■■▦□□□□□□□□□□□□□□□□□□□□   1.0%
-    XML                13 mins  ■■■▦□□□□□□□□□□□□□□□□□□□□   0.8%
   ```
   <!-- codeTime starts -->
   </td></tr></table>
