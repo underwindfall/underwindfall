@@ -5,6 +5,10 @@
 
  ## 📷 Github Activity
  <!-- githubActivity starts -->
+  **2021-06-23** — pushed [`95b92695`](https://api.github.com/repos/underwindfall/Algorithme/commits/95b926956cffbb0e593fa2a2e61f7de4ec785d1b) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Leetcode 1301 pathx with max scores"
+
+  **2021-06-23** — opened issue [#130](https://api.github.com/repos/underwindfall/Algorithme/issues/130) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "PathsWithMaxScore1301"
+
   **2021-06-22** — opened issue [#129](https://api.github.com/repos/underwindfall/Algorithme/issues/129) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "LongestZigzagPath1372"
 
   **2021-06-22** — pushed [`77f98aca`](https://api.github.com/repos/underwindfall/Algorithme/commits/77f98aca44212d7d62e280bd84af514dd6165126) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Leetcode 1372 longestzeizagPath"
@@ -20,10 +24,6 @@
   **2021-06-22** — pushed [`6c486e37`](https://api.github.com/repos/underwindfall/Algorithme/commits/6c486e379eaf699b3c8d1d8664ced8dd80b1f65c) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Leetcode 401 readbinary watch"
 
   **2021-06-22** — pushed [`fa228715`](https://api.github.com/repos/underwindfall/Algorithme/commits/fa2287150d1061df099cde00af5dd81185bc7876) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Leetcode LCOF38 Permutation"
-
-  **2021-06-22** — opened issue [#126](https://api.github.com/repos/underwindfall/Algorithme/issues/126) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Permutation38"
-
-  **2021-06-20** — pushed [`a51da0e4`](https://api.github.com/repos/underwindfall/Algorithme/commits/a51da0e4511bbe2605b8c55324fb0cae2ae68c72) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Leetcode 549 LongestConsecutiveII"
  <!-- githubActivity ends -->
  </td><td valign="top">
 
@@ -61,12 +61,12 @@
  ## 🏊‍♂️ <a href="https://gist.github.com/underwindfall/377ee88ba1fabd1e93516e48ca9c61eb" target="_blank">Weekly Development Breakdown</a>
   <!-- codeTime starts -->
   ```text
-    Kotlin      17 hrs 39 mins  ■■■■■■■■■■■■■■■■■▦□□□□□□  59.5%
-    Java        10 hrs 42 mins  ■■■■■■■■■■■■◱□□□□□□□□□□□  36.1%
-    Markdown           23 mins  ■■■▦□□□□□□□□□□□□□□□□□□□□   1.3%
-    XML                19 mins  ■■■▦□□□□□□□□□□□□□□□□□□□□   1.1%
-    Groovy             17 mins  ■■■▦□□□□□□□□□□□□□□□□□□□□   1.0%
-    CSV                17 mins  ■■■▦□□□□□□□□□□□□□□□□□□□□   1.0%
+    Kotlin      19 hrs 44 mins  ■■■■■■■■■■■■■■■■■■■□□□□□  65.1%
+    Java         9 hrs 13 mins  ■■■■■■■■■■▦□□□□□□□□□□□□□  30.4%
+    Groovy             33 mins  ■■■■□□□□□□□□□□□□□□□□□□□□   1.9%
+    XML                26 mins  ■■■▦□□□□□□□□□□□□□□□□□□□□   1.4%
+    CSV                18 mins  ■■■▦□□□□□□□□□□□□□□□□□□□□   1.0%
+    Bash                 1 min  ■■■▥□□□□□□□□□□□□□□□□□□□□   0.1%
   ```
   <!-- codeTime starts -->
   </td></tr></table>
