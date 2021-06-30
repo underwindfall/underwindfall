@@ -5,6 +5,10 @@
 
  ## 📷 Github Activity
  <!-- githubActivity starts -->
+  **2021-06-29** — pushed 2 commits to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme).
+
+  **2021-06-29** — pushed [`09635f5d`](https://api.github.com/repos/underwindfall/Algorithme/commits/09635f5d460cb1ee503a2f7d6244f7da98aceb1e) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "min heap"
+
   **2021-06-29** — pushed [`f7dd0673`](https://api.github.com/repos/underwindfall/Algorithme/commits/f7dd0673a06ac72a89a0b627fa0964ce0c4e51e9) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "max heap"
 
   **2021-06-25** — pushed [`a66217bb`](https://api.github.com/repos/underwindfall/Algorithme/commits/a66217bb472446436642c0897167b0cf3e2bcd32) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Leetcode 778 swim in water"
@@ -20,10 +24,6 @@
   **2021-06-23** — pushed [`95b92695`](https://api.github.com/repos/underwindfall/Algorithme/commits/95b926956cffbb0e593fa2a2e61f7de4ec785d1b) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Leetcode 1301 pathx with max scores"
 
   **2021-06-23** — opened issue [#130](https://api.github.com/repos/underwindfall/Algorithme/issues/130) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "PathsWithMaxScore1301"
-
-  **2021-06-22** — opened issue [#129](https://api.github.com/repos/underwindfall/Algorithme/issues/129) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "LongestZigzagPath1372"
-
-  **2021-06-22** — pushed [`77f98aca`](https://api.github.com/repos/underwindfall/Algorithme/commits/77f98aca44212d7d62e280bd84af514dd6165126) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Leetcode 1372 longestzeizagPath"
  <!-- githubActivity ends -->
  </td><td valign="top">
 
@@ -61,12 +61,12 @@
  ## 🏊‍♂️ <a href="https://gist.github.com/underwindfall/377ee88ba1fabd1e93516e48ca9c61eb" target="_blank">Weekly Development Breakdown</a>
   <!-- codeTime starts -->
   ```text
-    Kotlin      12 hrs 59 mins  ■■■■■■■■■■■■■■■■■■▥□□□□□  62.2%
-    Java         6 hrs 23 mins  ■■■■■■■■■■▦□□□□□□□□□□□□□  30.6%
-    Markdown           32 mins  ■■■■□□□□□□□□□□□□□□□□□□□□   2.6%
-    XML                27 mins  ■■■■□□□□□□□□□□□□□□□□□□□□   2.2%
-    Groovy             21 mins  ■■■■□□□□□□□□□□□□□□□□□□□□   1.7%
-    CSV                 6 mins  ■■■▥□□□□□□□□□□□□□□□□□□□□   0.5%
+    Kotlin       8 hrs 23 mins  ■■■■■■■■■■■■■■■■■▥□□□□□□  58.8%
+    Java         4 hrs 40 mins  ■■■■■■■■■■■◱□□□□□□□□□□□□  32.8%
+    Markdown           32 mins  ■■■■▥□□□□□□□□□□□□□□□□□□□   3.8%
+    Groovy             21 mins  ■■■■□□□□□□□□□□□□□□□□□□□□   2.5%
+    XML                11 mins  ■■■▦□□□□□□□□□□□□□□□□□□□□   1.4%
+    CSV                 5 mins  ■■■▦□□□□□□□□□□□□□□□□□□□□   0.7%
   ```
   <!-- codeTime starts -->
   </td></tr></table>
