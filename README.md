@@ -5,6 +5,12 @@
 
  ## 📷 Github Activity
  <!-- githubActivity starts -->
+  **2021-06-30** — pushed [`c56acb85`](https://api.github.com/repos/underwindfall/Algorithme/commits/c56acb854184c0ebb0f8b49ea251cb010c97d1c4) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Leetcode LCO 07"
+
+  **2021-06-30** — opened issue [#134](https://api.github.com/repos/underwindfall/Algorithme/issues/134) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "NumWays07"
+
+  **2021-06-30** — pushed [`fb92b716`](https://api.github.com/repos/underwindfall/Algorithme/commits/fb92b716a59567eb0ca9dc01a339c60dc29ce925) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Leetcode Number of ways 07"
+
   **2021-06-29** — pushed 2 commits to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme).
 
   **2021-06-29** — pushed [`09635f5d`](https://api.github.com/repos/underwindfall/Algorithme/commits/09635f5d460cb1ee503a2f7d6244f7da98aceb1e) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "min heap"
@@ -18,12 +24,6 @@
   **2021-06-25** — opened issue [#132](https://api.github.com/repos/underwindfall/Algorithme/issues/132) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "MinimumEffortPath1631"
 
   **2021-06-25** — opened issue [#131](https://api.github.com/repos/underwindfall/Algorithme/issues/131) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "UniquePaths62"
-
-  **2021-06-25** — pushed 2 commits to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme).
-
-  **2021-06-23** — pushed [`95b92695`](https://api.github.com/repos/underwindfall/Algorithme/commits/95b926956cffbb0e593fa2a2e61f7de4ec785d1b) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Leetcode 1301 pathx with max scores"
-
-  **2021-06-23** — opened issue [#130](https://api.github.com/repos/underwindfall/Algorithme/issues/130) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "PathsWithMaxScore1301"
  <!-- githubActivity ends -->
  </td><td valign="top">
 
@@ -61,12 +61,12 @@
  ## 🏊‍♂️ <a href="https://gist.github.com/underwindfall/377ee88ba1fabd1e93516e48ca9c61eb" target="_blank">Weekly Development Breakdown</a>
   <!-- codeTime starts -->
   ```text
-    Kotlin       8 hrs 23 mins  ■■■■■■■■■■■■■■■■■▥□□□□□□  58.8%
-    Java         4 hrs 40 mins  ■■■■■■■■■■■◱□□□□□□□□□□□□  32.8%
-    Markdown           32 mins  ■■■■▥□□□□□□□□□□□□□□□□□□□   3.8%
-    Groovy             21 mins  ■■■■□□□□□□□□□□□□□□□□□□□□   2.5%
-    XML                11 mins  ■■■▦□□□□□□□□□□□□□□□□□□□□   1.4%
-    CSV                 5 mins  ■■■▦□□□□□□□□□□□□□□□□□□□□   0.7%
+    Kotlin       9 hrs 53 mins  ■■■■■■■■■■■■■■■■■■□□□□□□  60.9%
+    Java         5 hrs 25 mins  ■■■■■■■■■■■▥□□□□□□□□□□□□  33.4%
+    Markdown           36 mins  ■■■■▥□□□□□□□□□□□□□□□□□□□   3.8%
+    CSV                 8 mins  ■■■▦□□□□□□□□□□□□□□□□□□□□   0.9%
+    XML                 5 mins  ■■■▥□□□□□□□□□□□□□□□□□□□□   0.5%
+    Groovy              4 mins  ■■■▥□□□□□□□□□□□□□□□□□□□□   0.4%
   ```
   <!-- codeTime starts -->
   </td></tr></table>
