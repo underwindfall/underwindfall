@@ -80,8 +80,7 @@ data class GitHubActivityEvent(
         override fun fromJson(reader: JsonReader): GitHubActivityEvent {
           @Suppress("UNCHECKED_CAST")
           val value = reader.readJsonValue() as Map<String, *>
-          val payloadType = value["type"]?.toString()?.let(typeAdapter::fromJsonValue)
-            ?: error("No type found")
+          val payloadType = value["type"]?.toString()?.let(typeAdapter::fromJsonValue) ?: error("No type found")
           val payloadValue = value["payload"]
           val payload = if (payloadType != GitHubActivityEventPayload.Type.UNKNOWN && payloadValue != null) {
             moshi.adapter(payloadType.subclass.java)
@@ -171,7 +170,7 @@ data class PushEventPayload(
   fun commitMessage(event: GitHubActivityEvent): String {
     return if (distinctSize == 1) {
       val commit = commits[0]
-      "pushed [`${commit.sha.substring(0..7)}`](${commit.url}) to ${event.repo?.markdownUrl()}: \"${commit.title()}\""
+      "pushed [`${commit.sha.substring(0..7)}`](${commit.adjustedUrl()}) to ${event.repo?.markdownUrl()}: \"${commit.title()}\""
     } else {
       "pushed $size commits to ${event.repo?.markdownUrl()}."
     }
@@ -185,6 +184,7 @@ data class Commit(
   val url: String
 ) {
   fun title(): String = message.substringBefore("\n")
+  fun adjustedUrl(): String = url.replace("api.", "").replace("/repos/", "/").replace("/commits/", "/commit/")
 }
 
 @JsonClass(generateAdapter = true)

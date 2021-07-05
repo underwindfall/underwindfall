@@ -28,14 +28,14 @@ def compileArgs = ['-Xjsr305=strict', '-progressive']
 
 compileKotlin {
     kotlinOptions {
-        jvmTarget = "16"
+        jvmTarget = "14"
         freeCompilerArgs += compileArgs
     }
 }
 
 compileTestKotlin {
     kotlinOptions {
-        jvmTarget = "16"
+        jvmTarget = "14"
         freeCompilerArgs += compileArgs
     }
 }
