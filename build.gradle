@@ -28,21 +28,21 @@ def compileArgs = ['-Xjsr305=strict', '-progressive']
 
 compileKotlin {
     kotlinOptions {
-        jvmTarget = "16"
+        jvmTarget = "11"
         freeCompilerArgs += compileArgs
     }
 }
 
 compileTestKotlin {
     kotlinOptions {
-        jvmTarget = "16"
+        jvmTarget = "11"
         freeCompilerArgs += compileArgs
     }
 }
 
 java {
-    sourceCompatibility = JavaVersion.VERSION_16
-    targetCompatibility = JavaVersion.VERSION_16
+    sourceCompatibility = JavaVersion.VERSION_11
+    targetCompatibility = JavaVersion.VERSION_11
 }
 
 sourceSets {
