@@ -5,25 +5,25 @@
 
  ## 📷 Github Activity
  <!-- githubActivity starts -->
+  **2021-07-07** — opened issue [#142](https://api.github.com/repos/underwindfall/Algorithme/issues/142) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "DisplayTable1418"
+
+  **2021-07-07** — pushed [`dd7dd5ca`](https://github.com/underwindfall/Algorithme/commit/dd7dd5cab966af82cda50b5779b7741e623746af) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Leetcode 1418 DisplayTable"
+
+  **2021-07-07** — pushed 2 commits to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme).
+
+  **2021-07-07** — opened issue [#141](https://api.github.com/repos/underwindfall/Algorithme/issues/141) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "堆"
+
+  **2021-07-07** — opened issue [#140](https://api.github.com/repos/underwindfall/Algorithme/issues/140) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "TopKFrequent347"
+
+  **2021-07-07** — opened issue [#139](https://api.github.com/repos/underwindfall/Algorithme/issues/139) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "KthLargest703"
+
+  **2021-07-07** — pushed [`099fcad3`](https://github.com/underwindfall/Algorithme/commit/099fcad354472758f95fad877c6cfdf54dd20303) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Leetcode 703 kth largest"
+
+  **2021-07-07** — opened issue [#138](https://api.github.com/repos/underwindfall/Algorithme/issues/138) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "FindKthLargest215"
+
+  **2021-07-07** — pushed 2 commits to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme).
+
   **2021-07-05** — pushed [`e0e81d2a`](https://github.com/underwindfall/underwindfall/commit/e0e81d2a50074058497ce38eac2739d125e421f6) to [underwindfall/underwindfall](https://api.github.com/repos/underwindfall/underwindfall): "switch java version 11"
-
-  **2021-07-05** — pushed [`0323542c`](https://github.com/underwindfall/underwindfall/commit/0323542cedaaa74300c519f6784d0d0d8e0b0d82) to [underwindfall/underwindfall](https://api.github.com/repos/underwindfall/underwindfall): "fix issue body null issue"
-
-  **2021-07-05** — deleted branch "update/deps" on [underwindfall/underwindfall](https://api.github.com/repos/underwindfall/underwindfall)
-
-  **2021-07-05** — pushed 3 commits to [underwindfall/underwindfall](https://api.github.com/repos/underwindfall/underwindfall).
-
-  **2021-07-05** — closed PR [#4](https://api.github.com/repos/underwindfall/underwindfall/pulls/4) to [underwindfall/underwindfall](https://api.github.com/repos/underwindfall/underwindfall): "update deps"
-
-  **2021-07-05** — pushed [`c4af3a3e`](https://github.com/underwindfall/underwindfall/commit/c4af3a3e9ed89a0269d1d0a7e22ac59909427ff2) to [underwindfall/underwindfall](https://api.github.com/repos/underwindfall/underwindfall): "move java to 14"
-
-  **2021-07-05** — pushed [`ff523cb8`](https://github.com/underwindfall/underwindfall/commit/ff523cb894ff0fe4178c78ecfdd34ce8ebf144fc) to [underwindfall/underwindfall](https://api.github.com/repos/underwindfall/underwindfall): "move java to 14"
-
-  **2021-07-03** — pushed [`feea86cd`](https://github.com/underwindfall/underwindfall/commit/feea86cdce5c2dd24908b946161f27a7594d26a6) to [underwindfall/underwindfall](https://api.github.com/repos/underwindfall/underwindfall): "update deps"
-
-  **2021-07-03** — pushed [`7a00889f`](https://github.com/underwindfall/underwindfall/commit/7a00889f6eaf262e1a3c128796613116c4ac3935) to [underwindfall/underwindfall](https://api.github.com/repos/underwindfall/underwindfall): "update deps"
-
-  **2021-07-03** — opened PR [#4](https://api.github.com/repos/underwindfall/underwindfall/pulls/4) to [underwindfall/underwindfall](https://api.github.com/repos/underwindfall/underwindfall): "update deps"
  <!-- githubActivity ends -->
  </td><td valign="top">
 
@@ -61,12 +61,12 @@
  ## 🏊‍♂️ <a href="https://gist.github.com/underwindfall/377ee88ba1fabd1e93516e48ca9c61eb" target="_blank">Weekly Development Breakdown</a>
   <!-- codeTime starts -->
   ```text
-    Kotlin       24 hrs 4 mins  ■■■■■■■■■■■■■■■■■■▦□□□□□  63.8%
-    Java         7 hrs 35 mins  ■■■■■■■■◱□□□□□□□□□□□□□□□  20.1%
-    XML          2 hrs 32 mins  ■■■■■□□□□□□□□□□□□□□□□□□□   6.7%
-    Groovy             45 mins  ■■■■□□□□□□□□□□□□□□□□□□□□   2.0%
-    YAML               42 mins  ■■■■□□□□□□□□□□□□□□□□□□□□   1.9%
-    Properties         28 mins  ■■■▦□□□□□□□□□□□□□□□□□□□□   1.3%
+    Kotlin       19 hrs 9 mins  ■■■■■■■■■■■■■■■■■□□□□□□□  56.2%
+    Java         8 hrs 43 mins  ■■■■■■■■■▥□□□□□□□□□□□□□□  25.6%
+    XML          2 hrs 32 mins  ■■■■■◱□□□□□□□□□□□□□□□□□□   7.5%
+    Groovy             45 mins  ■■■■□□□□□□□□□□□□□□□□□□□□   2.2%
+    Markdown           44 mins  ■■■■□□□□□□□□□□□□□□□□□□□□   2.1%
+    YAML               42 mins  ■■■■□□□□□□□□□□□□□□□□□□□□   2.1%
   ```
   <!-- codeTime starts -->
   </td></tr></table>
