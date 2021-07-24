@@ -5,6 +5,12 @@
 
  ## 📷 Github Activity
  <!-- githubActivity starts -->
+  **2021-07-23** — pushed [`99e3070a`](https://github.com/underwindfall/Algorithme/commit/99e3070aaee3e3f3196d0da57dc64e9c7e483f2c) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Leetcode 1839 check all integers"
+
+  **2021-07-23** — closed issue [#143](https://api.github.com/repos/underwindfall/Algorithme/issues/143) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "CheckAllIntegers1839"
+
+  **2021-07-23** — opened issue [#143](https://api.github.com/repos/underwindfall/Algorithme/issues/143) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "CheckAllIntegers1839"
+
   **2021-07-07** — opened issue [#142](https://api.github.com/repos/underwindfall/Algorithme/issues/142) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "DisplayTable1418"
 
   **2021-07-07** — pushed [`dd7dd5ca`](https://github.com/underwindfall/Algorithme/commit/dd7dd5cab966af82cda50b5779b7741e623746af) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Leetcode 1418 DisplayTable"
@@ -18,12 +24,6 @@
   **2021-07-07** — opened issue [#139](https://api.github.com/repos/underwindfall/Algorithme/issues/139) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "KthLargest703"
 
   **2021-07-07** — pushed [`099fcad3`](https://github.com/underwindfall/Algorithme/commit/099fcad354472758f95fad877c6cfdf54dd20303) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Leetcode 703 kth largest"
-
-  **2021-07-07** — opened issue [#138](https://api.github.com/repos/underwindfall/Algorithme/issues/138) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "FindKthLargest215"
-
-  **2021-07-07** — pushed 2 commits to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme).
-
-  **2021-07-05** — pushed [`e0e81d2a`](https://github.com/underwindfall/underwindfall/commit/e0e81d2a50074058497ce38eac2739d125e421f6) to [underwindfall/underwindfall](https://api.github.com/repos/underwindfall/underwindfall): "switch java version 11"
  <!-- githubActivity ends -->
  </td><td valign="top">
 
@@ -61,11 +61,11 @@
  ## 🏊‍♂️ <a href="https://gist.github.com/underwindfall/377ee88ba1fabd1e93516e48ca9c61eb" target="_blank">Weekly Development Breakdown</a>
   <!-- codeTime starts -->
   ```text
-    Kotlin              17 hrs  ■■■■■■■■■■■■■■■■■■■■■▥□□  74.8%
-    XML          4 hrs 11 mins  ■■■■■■■■□□□□□□□□□□□□□□□□  18.5%
-    JSON               39 mins  ■■■■◱□□□□□□□□□□□□□□□□□□□   2.9%
-    Java               30 mins  ■■■■□□□□□□□□□□□□□□□□□□□□   2.2%
-    Groovy             20 mins  ■■■▦□□□□□□□□□□□□□□□□□□□□   1.5%
+    Kotlin      18 hrs 52 mins  ■■■■■■■■■■■■■■■■■■■■■◱□□  74.3%
+    XML          4 hrs 19 mins  ■■■■■■■▥□□□□□□□□□□□□□□□□  17.0%
+    Java           1 hr 6 mins  ■■■■▥□□□□□□□□□□□□□□□□□□□   4.3%
+    JSON               43 mins  ■■■■◱□□□□□□□□□□□□□□□□□□□   2.9%
+    Groovy             20 mins  ■■■▦□□□□□□□□□□□□□□□□□□□□   1.3%
     Git Config          0 secs  ■■■▥□□□□□□□□□□□□□□□□□□□□   0.0%
   ```
   <!-- codeTime starts -->
