@@ -5,25 +5,25 @@
 
  ## 📷 Github Activity
  <!-- githubActivity starts -->
-  **2021-07-23** — pushed [`99e3070a`](https://github.com/underwindfall/Algorithme/commit/99e3070aaee3e3f3196d0da57dc64e9c7e483f2c) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Leetcode 1839 check all integers"
+  **2021-07-30** — opened issue [#149](https://api.github.com/repos/underwindfall/Algorithme/issues/149) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "TwoSumIIII170"
 
-  **2021-07-23** — closed issue [#143](https://api.github.com/repos/underwindfall/Algorithme/issues/143) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "CheckAllIntegers1839"
+  **2021-07-30** — pushed [`2633d53b`](https://github.com/underwindfall/Algorithme/commit/2633d53b0743563e7caa3ebcfeef3b3140822d81) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Leetcode 170 two sum IIII"
 
-  **2021-07-23** — opened issue [#143](https://api.github.com/repos/underwindfall/Algorithme/issues/143) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "CheckAllIntegers1839"
+  **2021-07-30** — opened issue [#148](https://api.github.com/repos/underwindfall/Algorithme/issues/148) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Logger359"
 
-  **2021-07-07** — opened issue [#142](https://api.github.com/repos/underwindfall/Algorithme/issues/142) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "DisplayTable1418"
+  **2021-07-30** — opened issue [#147](https://api.github.com/repos/underwindfall/Algorithme/issues/147) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "GroupStrings249"
 
-  **2021-07-07** — pushed [`dd7dd5ca`](https://github.com/underwindfall/Algorithme/commit/dd7dd5cab966af82cda50b5779b7741e623746af) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Leetcode 1418 DisplayTable"
+  **2021-07-30** — opened issue [#146](https://api.github.com/repos/underwindfall/Algorithme/issues/146) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "CountGoodMeals1711"
 
-  **2021-07-07** — pushed 2 commits to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme).
+  **2021-07-30** — opened issue [#145](https://api.github.com/repos/underwindfall/Algorithme/issues/145) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "NumSubarraysWithSum930"
 
-  **2021-07-07** — opened issue [#141](https://api.github.com/repos/underwindfall/Algorithme/issues/141) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "堆"
+  **2021-07-30** — opened issue [#144](https://api.github.com/repos/underwindfall/Algorithme/issues/144) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "FrequencySort451"
 
-  **2021-07-07** — opened issue [#140](https://api.github.com/repos/underwindfall/Algorithme/issues/140) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "TopKFrequent347"
+  **2021-07-30** — pushed 2 commits to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme).
 
-  **2021-07-07** — opened issue [#139](https://api.github.com/repos/underwindfall/Algorithme/issues/139) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "KthLargest703"
+  **2021-07-30** — pushed [`94505124`](https://github.com/underwindfall/Algorithme/commit/94505124d442f363d52b1af6d24fe9434217678e) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Leetcode 1711 count good meals"
 
-  **2021-07-07** — pushed [`099fcad3`](https://github.com/underwindfall/Algorithme/commit/099fcad354472758f95fad877c6cfdf54dd20303) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Leetcode 703 kth largest"
+  **2021-07-30** — pushed [`926eac4b`](https://github.com/underwindfall/Algorithme/commit/926eac4b6cf2f4fb4cfba0b9163c2ecd79bd0632) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Leetcode 249 ground strings"
  <!-- githubActivity ends -->
  </td><td valign="top">
 
@@ -61,12 +61,12 @@
  ## 🏊‍♂️ <a href="https://gist.github.com/underwindfall/377ee88ba1fabd1e93516e48ca9c61eb" target="_blank">Weekly Development Breakdown</a>
   <!-- codeTime starts -->
   ```text
-    Kotlin      14 hrs 13 mins  ■■■■■■■■■■■■■■■■■■■■◱□□□  70.4%
-    Java          1 hr 58 mins  ■■■■■▦□□□□□□□□□□□□□□□□□□   9.7%
-    XML           1 hr 47 mins  ■■■■■▥□□□□□□□□□□□□□□□□□□   8.8%
-    Groovy         1 hr 5 mins  ■■■■▦□□□□□□□□□□□□□□□□□□□   5.4%
-    JSON            1 hr 1 min  ■■■■▦□□□□□□□□□□□□□□□□□□□   5.0%
-    Markdown            5 mins  ■■■▥□□□□□□□□□□□□□□□□□□□□   0.4%
+    Kotlin      12 hrs 24 mins  ■■■■■■■■■■■■■■■■■■■◱□□□□  66.0%
+    Java         2 hrs 26 mins  ■■■■■■▥□□□□□□□□□□□□□□□□□  13.0%
+    XML           1 hr 46 mins  ■■■■■▦□□□□□□□□□□□□□□□□□□   9.4%
+    Groovy         1 hr 5 mins  ■■■■▦□□□□□□□□□□□□□□□□□□□   5.8%
+    JSON               57 mins  ■■■■▦□□□□□□□□□□□□□□□□□□□   5.1%
+    Markdown            5 mins  ■■■▥□□□□□□□□□□□□□□□□□□□□   0.5%
   ```
   <!-- codeTime starts -->
   </td></tr></table>
