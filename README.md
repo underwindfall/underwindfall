@@ -5,6 +5,8 @@
 
  ## 📷 Github Activity
  <!-- githubActivity starts -->
+  **2021-08-04** — commented on [#5](https://github.com/underwindfall/Algorithme/issues/5#issuecomment-892922486) in [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme)
+
   **2021-08-03** — opened issue [#150](https://api.github.com/repos/underwindfall/Algorithme/issues/150) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "ValidWordAbbr288"
 
   **2021-08-03** — pushed [`f435a4fd`](https://github.com/underwindfall/Algorithme/commit/f435a4fd25b36b367b88c115c97f075088cbf069) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Leetcode 288 ValidWordAbbr"
@@ -22,8 +24,6 @@
   **2021-07-30** — opened issue [#146](https://api.github.com/repos/underwindfall/Algorithme/issues/146) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "CountGoodMeals1711"
 
   **2021-07-30** — opened issue [#145](https://api.github.com/repos/underwindfall/Algorithme/issues/145) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "NumSubarraysWithSum930"
-
-  **2021-07-30** — opened issue [#144](https://api.github.com/repos/underwindfall/Algorithme/issues/144) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "FrequencySort451"
  <!-- githubActivity ends -->
  </td><td valign="top">
 
@@ -61,12 +61,12 @@
  ## 🏊‍♂️ <a href="https://gist.github.com/underwindfall/377ee88ba1fabd1e93516e48ca9c61eb" target="_blank">Weekly Development Breakdown</a>
   <!-- codeTime starts -->
   ```text
-    Kotlin       9 hrs 59 mins  ■■■■■■■■■■■■■■■■■▥□□□□□□  58.1%
-    Java         3 hrs 30 mins  ■■■■■■■■◱□□□□□□□□□□□□□□□  20.4%
-    XML           1 hr 49 mins  ■■■■■■□□□□□□□□□□□□□□□□□□  10.6%
-    JSON          1 hr 22 mins  ■■■■■▥□□□□□□□□□□□□□□□□□□   8.0%
-    Groovy             26 mins  ■■■■□□□□□□□□□□□□□□□□□□□□   2.6%
-    Properties           1 min  ■■■▥□□□□□□□□□□□□□□□□□□□□   0.2%
+    Kotlin      12 hrs 30 mins  ■■■■■■■■■■■■■■■■■■■□□□□□  64.5%
+    Java         3 hrs 39 mins  ■■■■■■■■□□□□□□□□□□□□□□□□  18.9%
+    XML           1 hr 44 mins  ■■■■■▦□□□□□□□□□□□□□□□□□□   9.0%
+    JSON          1 hr 28 mins  ■■■■■◱□□□□□□□□□□□□□□□□□□   7.6%
+    Markdown            0 secs  ■■■▥□□□□□□□□□□□□□□□□□□□□   0.0%
+    Bash                0 secs  ■■■▥□□□□□□□□□□□□□□□□□□□□   0.0%
   ```
   <!-- codeTime starts -->
   </td></tr></table>
