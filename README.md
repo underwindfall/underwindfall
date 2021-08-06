@@ -5,6 +5,16 @@
 
  ## 📷 Github Activity
  <!-- githubActivity starts -->
+  **2021-08-05** — pushed [`f4af9396`](https://github.com/underwindfall/Algorithme/commit/f4af9396526d716aa2022ba4285eb9acc955483f) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Leetcode 287 find duplication"
+
+  **2021-08-05** — pushed [`50d0427b`](https://github.com/underwindfall/Algorithme/commit/50d0427bd8c8c3584bb55249c5ff7ef854917e70) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Leetcode 611 TriangleNumber"
+
+  **2021-08-05** — opened issue [#152](https://api.github.com/repos/underwindfall/Algorithme/issues/152) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "TriangleNumber611"
+
+  **2021-08-05** — pushed [`00d70044`](https://github.com/underwindfall/Algorithme/commit/00d70044cd0065e907cb14cfb1d59a2f63a6d49a) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Leetcode 802 EventualSafeNodes802 dfs"
+
+  **2021-08-05** — opened issue [#151](https://api.github.com/repos/underwindfall/Algorithme/issues/151) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "EventualSafeNodes802"
+
   **2021-08-04** — commented on [#5](https://github.com/underwindfall/Algorithme/issues/5#issuecomment-892922486) in [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme)
 
   **2021-08-03** — opened issue [#150](https://api.github.com/repos/underwindfall/Algorithme/issues/150) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "ValidWordAbbr288"
@@ -14,16 +24,6 @@
   **2021-08-03** — pushed [`af10bfc9`](https://github.com/underwindfall/Algorithme/commit/af10bfc9310e1a9e8b33acc1546647504bead19b) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Leetcode 581 FindUnsortedSubarray"
 
   **2021-07-30** — opened issue [#149](https://api.github.com/repos/underwindfall/Algorithme/issues/149) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "TwoSumIIII170"
-
-  **2021-07-30** — pushed [`2633d53b`](https://github.com/underwindfall/Algorithme/commit/2633d53b0743563e7caa3ebcfeef3b3140822d81) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Leetcode 170 two sum IIII"
-
-  **2021-07-30** — opened issue [#148](https://api.github.com/repos/underwindfall/Algorithme/issues/148) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Logger359"
-
-  **2021-07-30** — opened issue [#147](https://api.github.com/repos/underwindfall/Algorithme/issues/147) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "GroupStrings249"
-
-  **2021-07-30** — opened issue [#146](https://api.github.com/repos/underwindfall/Algorithme/issues/146) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "CountGoodMeals1711"
-
-  **2021-07-30** — opened issue [#145](https://api.github.com/repos/underwindfall/Algorithme/issues/145) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "NumSubarraysWithSum930"
  <!-- githubActivity ends -->
  </td><td valign="top">
 
@@ -61,12 +61,12 @@
  ## 🏊‍♂️ <a href="https://gist.github.com/underwindfall/377ee88ba1fabd1e93516e48ca9c61eb" target="_blank">Weekly Development Breakdown</a>
   <!-- codeTime starts -->
   ```text
-    Kotlin      12 hrs 30 mins  ■■■■■■■■■■■■■■■■■■■□□□□□  64.5%
-    Java         3 hrs 39 mins  ■■■■■■■■□□□□□□□□□□□□□□□□  18.9%
-    XML           1 hr 44 mins  ■■■■■▦□□□□□□□□□□□□□□□□□□   9.0%
-    JSON          1 hr 28 mins  ■■■■■◱□□□□□□□□□□□□□□□□□□   7.6%
-    Markdown            0 secs  ■■■▥□□□□□□□□□□□□□□□□□□□□   0.0%
-    Bash                0 secs  ■■■▥□□□□□□□□□□□□□□□□□□□□   0.0%
+    Kotlin       12 hrs 2 mins  ■■■■■■■■■■■■■■■■■■▥□□□□□  62.4%
+    Java          5 hrs 8 mins  ■■■■■■■■■■□□□□□□□□□□□□□□  26.7%
+    XML                53 mins  ■■■■▥□□□□□□□□□□□□□□□□□□□   4.6%
+    JSON               40 mins  ■■■■◱□□□□□□□□□□□□□□□□□□□   3.5%
+    Groovy             26 mins  ■■■■□□□□□□□□□□□□□□□□□□□□   2.3%
+    Properties          4 mins  ■■■▥□□□□□□□□□□□□□□□□□□□□   0.4%
   ```
   <!-- codeTime starts -->
   </td></tr></table>
