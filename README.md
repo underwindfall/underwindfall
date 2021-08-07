@@ -5,6 +5,10 @@
 
  ## 📷 Github Activity
  <!-- githubActivity starts -->
+  **2021-08-06** — closed issue [#13](https://api.github.com/repos/underwindfall/Algorithme/issues/13) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "MoveZeroes283"
+
+  **2021-08-06** — closed issue [#17](https://api.github.com/repos/underwindfall/Algorithme/issues/17) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "ToplitezMatrix766"
+
   **2021-08-05** — pushed [`f4af9396`](https://github.com/underwindfall/Algorithme/commit/f4af9396526d716aa2022ba4285eb9acc955483f) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Leetcode 287 find duplication"
 
   **2021-08-05** — pushed [`50d0427b`](https://github.com/underwindfall/Algorithme/commit/50d0427bd8c8c3584bb55249c5ff7ef854917e70) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Leetcode 611 TriangleNumber"
@@ -20,10 +24,6 @@
   **2021-08-03** — opened issue [#150](https://api.github.com/repos/underwindfall/Algorithme/issues/150) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "ValidWordAbbr288"
 
   **2021-08-03** — pushed [`f435a4fd`](https://github.com/underwindfall/Algorithme/commit/f435a4fd25b36b367b88c115c97f075088cbf069) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Leetcode 288 ValidWordAbbr"
-
-  **2021-08-03** — pushed [`af10bfc9`](https://github.com/underwindfall/Algorithme/commit/af10bfc9310e1a9e8b33acc1546647504bead19b) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Leetcode 581 FindUnsortedSubarray"
-
-  **2021-07-30** — opened issue [#149](https://api.github.com/repos/underwindfall/Algorithme/issues/149) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "TwoSumIIII170"
  <!-- githubActivity ends -->
  </td><td valign="top">
 
@@ -61,12 +61,12 @@
  ## 🏊‍♂️ <a href="https://gist.github.com/underwindfall/377ee88ba1fabd1e93516e48ca9c61eb" target="_blank">Weekly Development Breakdown</a>
   <!-- codeTime starts -->
   ```text
-    Kotlin       12 hrs 2 mins  ■■■■■■■■■■■■■■■■■■▥□□□□□  62.4%
-    Java          5 hrs 8 mins  ■■■■■■■■■■□□□□□□□□□□□□□□  26.7%
-    XML                53 mins  ■■■■▥□□□□□□□□□□□□□□□□□□□   4.6%
-    JSON               40 mins  ■■■■◱□□□□□□□□□□□□□□□□□□□   3.5%
-    Groovy             26 mins  ■■■■□□□□□□□□□□□□□□□□□□□□   2.3%
-    Properties          4 mins  ■■■▥□□□□□□□□□□□□□□□□□□□□   0.4%
+    Kotlin      12 hrs 42 mins  ■■■■■■■■■■■■■■■■◱□□□□□□□  53.3%
+    Java         4 hrs 55 mins  ■■■■■■■■▥□□□□□□□□□□□□□□□  20.6%
+    Groovy       3 hrs 58 mins  ■■■■■■■▥□□□□□□□□□□□□□□□□  16.7%
+    XML            1 hr 4 mins  ■■■■▥□□□□□□□□□□□□□□□□□□□   4.5%
+    JSON           1 hr 3 mins  ■■■■▥□□□□□□□□□□□□□□□□□□□   4.5%
+    Properties          7 mins  ■■■▥□□□□□□□□□□□□□□□□□□□□   0.5%
   ```
   <!-- codeTime starts -->
   </td></tr></table>
