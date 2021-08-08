@@ -5,25 +5,25 @@
 
  ## 📷 Github Activity
  <!-- githubActivity starts -->
+  **2021-08-07** — pushed [`27aa427e`](https://github.com/underwindfall/Algorithme/commit/27aa427e1fcf4048bd7f2236558e5783819572cf) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "数组note"
+
+  **2021-08-07** — reopened issue [#7](https://api.github.com/repos/underwindfall/Algorithme/issues/7) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "BeatifulArrangment667"
+
+  **2021-08-07** — closed issue [#152](https://api.github.com/repos/underwindfall/Algorithme/issues/152) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "TriangleNumber611"
+
+  **2021-08-07** — pushed [`5d26411d`](https://github.com/underwindfall/Algorithme/commit/5d26411dd5716ae007f7b0e5e982b71c73f87349) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Leetcode 378 priorityQueue解法"
+
+  **2021-08-07** — pushed [`e9ba171c`](https://github.com/underwindfall/Algorithme/commit/e9ba171c16672d2fcb7735389d1ece5c93262414) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Leetcode array cicular 457"
+
+  **2021-08-07** — reopened issue [#11](https://api.github.com/repos/underwindfall/Algorithme/issues/11) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "MaxChunksToSorted769"
+
+  **2021-08-07** — closed issue [#11](https://api.github.com/repos/underwindfall/Algorithme/issues/11) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "MaxChunksToSorted769"
+
+  **2021-08-07** — opened issue [#153](https://api.github.com/repos/underwindfall/Algorithme/issues/153) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "CircularArrayLoop457"
+
   **2021-08-06** — closed issue [#13](https://api.github.com/repos/underwindfall/Algorithme/issues/13) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "MoveZeroes283"
 
   **2021-08-06** — closed issue [#17](https://api.github.com/repos/underwindfall/Algorithme/issues/17) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "ToplitezMatrix766"
-
-  **2021-08-05** — pushed [`f4af9396`](https://github.com/underwindfall/Algorithme/commit/f4af9396526d716aa2022ba4285eb9acc955483f) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Leetcode 287 find duplication"
-
-  **2021-08-05** — pushed [`50d0427b`](https://github.com/underwindfall/Algorithme/commit/50d0427bd8c8c3584bb55249c5ff7ef854917e70) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Leetcode 611 TriangleNumber"
-
-  **2021-08-05** — opened issue [#152](https://api.github.com/repos/underwindfall/Algorithme/issues/152) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "TriangleNumber611"
-
-  **2021-08-05** — pushed [`00d70044`](https://github.com/underwindfall/Algorithme/commit/00d70044cd0065e907cb14cfb1d59a2f63a6d49a) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Leetcode 802 EventualSafeNodes802 dfs"
-
-  **2021-08-05** — opened issue [#151](https://api.github.com/repos/underwindfall/Algorithme/issues/151) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "EventualSafeNodes802"
-
-  **2021-08-04** — commented on [#5](https://github.com/underwindfall/Algorithme/issues/5#issuecomment-892922486) in [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme)
-
-  **2021-08-03** — opened issue [#150](https://api.github.com/repos/underwindfall/Algorithme/issues/150) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "ValidWordAbbr288"
-
-  **2021-08-03** — pushed [`f435a4fd`](https://github.com/underwindfall/Algorithme/commit/f435a4fd25b36b367b88c115c97f075088cbf069) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Leetcode 288 ValidWordAbbr"
  <!-- githubActivity ends -->
  </td><td valign="top">
 
@@ -61,11 +61,11 @@
  ## 🏊‍♂️ <a href="https://gist.github.com/underwindfall/377ee88ba1fabd1e93516e48ca9c61eb" target="_blank">Weekly Development Breakdown</a>
   <!-- codeTime starts -->
   ```text
-    Kotlin      12 hrs 42 mins  ■■■■■■■■■■■■■■■■◱□□□□□□□  53.3%
-    Java         4 hrs 55 mins  ■■■■■■■■▥□□□□□□□□□□□□□□□  20.6%
-    Groovy       3 hrs 58 mins  ■■■■■■■▥□□□□□□□□□□□□□□□□  16.7%
-    XML            1 hr 4 mins  ■■■■▥□□□□□□□□□□□□□□□□□□□   4.5%
-    JSON           1 hr 3 mins  ■■■■▥□□□□□□□□□□□□□□□□□□□   4.5%
+    Kotlin      12 hrs 42 mins  ■■■■■■■■■■■■■■■◱□□□□□□□□  48.7%
+    Java          7 hrs 8 mins  ■■■■■■■■■■□□□□□□□□□□□□□□  27.4%
+    Groovy       3 hrs 58 mins  ■■■■■■■◱□□□□□□□□□□□□□□□□  15.2%
+    XML            1 hr 4 mins  ■■■■▥□□□□□□□□□□□□□□□□□□□   4.1%
+    JSON           1 hr 3 mins  ■■■■▥□□□□□□□□□□□□□□□□□□□   4.1%
     Properties          7 mins  ■■■▥□□□□□□□□□□□□□□□□□□□□   0.5%
   ```
   <!-- codeTime starts -->
