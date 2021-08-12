@@ -5,6 +5,16 @@
 
  ## 📷 Github Activity
  <!-- githubActivity starts -->
+  **2021-08-11** — pushed [`02f85dbe`](https://github.com/underwindfall/Algorithme/commit/02f85dbeecc6829b67f0194db04d720409163c28) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Update 链表.md"
+
+  **2021-08-11** — pushed [`84b45e65`](https://github.com/underwindfall/blogAssets/commit/84b45e654feee270dad016bf8a51c843e876ea4d) to [underwindfall/blogAssets](https://api.github.com/repos/underwindfall/blogAssets): "upload from Picee"
+
+  **2021-08-11** — pushed [`f4666c2f`](https://github.com/underwindfall/Algorithme/commit/f4666c2f4e382429f57b6ccc8f84396e1216a64f) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "链表笔记"
+
+  **2021-08-11** — pushed [`5b4092e6`](https://github.com/underwindfall/Algorithme/commit/5b4092e639e71eea537984f99078e6eb171b5ae4) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Leetcode 446 NumberOfArithmeticSlices"
+
+  **2021-08-11** — pushed [`7f19db78`](https://github.com/underwindfall/Algorithme/commit/7f19db78f22261d0a28210561aeb4c41794f7cf4) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Leetcode 446 NumberOfArithmeticSlices"
+
   **2021-08-10** — pushed [`bb928316`](https://github.com/underwindfall/Algorithme/commit/bb928316438f4dcdda93fac1350dfe8a474fff02) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "NumberOfArithmeticSlices413"
 
   **2021-08-10** — opened issue [#156](https://api.github.com/repos/underwindfall/Algorithme/issues/156) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "NumberOfArithmeticSlices413"
@@ -14,16 +24,6 @@
   **2021-08-10** — opened issue [#155](https://api.github.com/repos/underwindfall/Algorithme/issues/155) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "NthSuperUgly313"
 
   **2021-08-10** — pushed [`53adb661`](https://github.com/underwindfall/Algorithme/commit/53adb66142d861bf16472baaa0a04c36b55b3ee1) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Leetcode 264 Nthugly number"
-
-  **2021-08-10** — opened issue [#154](https://api.github.com/repos/underwindfall/Algorithme/issues/154) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "NthUglyNumber264"
-
-  **2021-08-07** — pushed [`27aa427e`](https://github.com/underwindfall/Algorithme/commit/27aa427e1fcf4048bd7f2236558e5783819572cf) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "数组note"
-
-  **2021-08-07** — reopened issue [#7](https://api.github.com/repos/underwindfall/Algorithme/issues/7) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "BeatifulArrangment667"
-
-  **2021-08-07** — closed issue [#152](https://api.github.com/repos/underwindfall/Algorithme/issues/152) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "TriangleNumber611"
-
-  **2021-08-07** — pushed [`5d26411d`](https://github.com/underwindfall/Algorithme/commit/5d26411dd5716ae007f7b0e5e982b71c73f87349) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Leetcode 378 priorityQueue解法"
  <!-- githubActivity ends -->
  </td><td valign="top">
 
@@ -61,12 +61,12 @@
  ## 🏊‍♂️ <a href="https://gist.github.com/underwindfall/377ee88ba1fabd1e93516e48ca9c61eb" target="_blank">Weekly Development Breakdown</a>
   <!-- codeTime starts -->
   ```text
-    Java         9 hrs 58 mins  ■■■■■■■■■■■■▥□□□□□□□□□□□  37.8%
-    Kotlin       7 hrs 14 mins  ■■■■■■■■■■□□□□□□□□□□□□□□  27.5%
-    Groovy       6 hrs 22 mins  ■■■■■■■■■◱□□□□□□□□□□□□□□  24.1%
-    XML            1 hr 6 mins  ■■■■▥□□□□□□□□□□□□□□□□□□□   4.2%
-    Prolog             36 mins  ■■■■□□□□□□□□□□□□□□□□□□□□   2.3%
-    JSON               28 mins  ■■■■□□□□□□□□□□□□□□□□□□□□   1.8%
+    Java        10 hrs 14 mins  ■■■■■■■■■■■■■▦□□□□□□□□□□  43.3%
+    Groovy       6 hrs 36 mins  ■■■■■■■■■■◱□□□□□□□□□□□□□  27.9%
+    Kotlin               3 hrs  ■■■■■■▥□□□□□□□□□□□□□□□□□  12.7%
+    XML           1 hr 12 mins  ■■■■▦□□□□□□□□□□□□□□□□□□□   5.1%
+    Bash           1 hr 9 mins  ■■■■▦□□□□□□□□□□□□□□□□□□□   4.9%
+    Prolog             38 mins  ■■■■□□□□□□□□□□□□□□□□□□□□   2.7%
   ```
   <!-- codeTime starts -->
   </td></tr></table>
