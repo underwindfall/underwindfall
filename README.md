@@ -5,6 +5,8 @@
 
  ## 📷 Github Activity
  <!-- githubActivity starts -->
+  **2021-08-18** — pushed [`af96a25b`](https://github.com/underwindfall/underwindfall/commit/af96a25bcc737ff63e98fd57230e0e80ea25074d) to [underwindfall/underwindfall](https://api.github.com/repos/underwindfall/underwindfall): "Update TemplateReadMe.kt"
+
   **2021-08-18** — pushed [`433e5705`](https://github.com/underwindfall/underwindfall/commit/433e5705476216380fe685822ae9d9293ff64d23) to [underwindfall/underwindfall](https://api.github.com/repos/underwindfall/underwindfall): "Update TemplateReadMe.kt"
 
   **2021-08-18** — pushed [`aa5d3d86`](https://github.com/underwindfall/Algorithme/commit/aa5d3d866562dc6e1d991524035014fe1cc0810d) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Leetcode 1139 Largest1BorderedSquare"
@@ -22,15 +24,13 @@
   **2021-08-13** — closed issue [#4](https://api.github.com/repos/underwindfall/NFCAndroid/issues/4) on [underwindfall/NFCAndroid](https://api.github.com/repos/underwindfall/NFCAndroid): "nfcreadermessage not working consistently "
 
   **2021-08-13** — commented on [#4](https://github.com/underwindfall/NFCAndroid/issues/4#issuecomment-898486194) in [underwindfall/NFCAndroid](https://api.github.com/repos/underwindfall/NFCAndroid)
-
-  **2021-08-13** — pushed [`bf638ac5`](https://github.com/underwindfall/Algorithme/commit/bf638ac548637b0f9eb2013376c7c37a80a998a5) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Leetcode 233 CountDigitOne"
  <!-- githubActivity ends -->
  </td><td valign="top">
 
  ## 🌏 Something about me
  <!-- profile starts -->
  <a href="https://github.com/underwindfall" width="100%">
-   <img src="https://activity-graph.herokuapp.com/graph?username=underwindfall&theme=react-dark&hide_border=true&bg_color=00000000&color=BDDFFF&line=6E93B5&point=BDDFFF" width="100%"/>
+   <img src="https://activity-graph.herokuapp.com/graph?username=underwindfall&theme=react-dark&hide_border=true&bg_color=00000000&color=BDDFFF&line=6E93B5&point=BDDFFF"/>
  </a>
  <br/>
  <br/>
