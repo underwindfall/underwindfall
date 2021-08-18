@@ -29,7 +29,7 @@ ${githubContent.joinToString("\n\n") { "    $it" }}
    ## 🌏 Something about me
    <!-- profile starts -->
    <a href="https://github.com/underwindfall" width="100%">
-     <img src="http://github-readme-streak-stats.herokuapp.com?user=underwindfall&theme=algolia&hide_border=true&dates=30DD8A&background=00000000" width="100%"/>
+     <img src="https://activity-graph.herokuapp.com/graph?username=underwindfall&theme=react-dark&hide_border=true&bg_color=00000000&color=BDDFFF&line=6E93B5&point=BDDFFF" width="100%"/>
    </a>
    <br/>
    <br/>
