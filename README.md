@@ -5,6 +5,8 @@
 
  ## 📷 Github Activity
  <!-- githubActivity starts -->
+  **2021-08-19** — pushed [`12a6a2b8`](https://github.com/underwindfall/Algorithme/commit/12a6a2b80e4b954032da04656328ea1add2934c7) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Leetcode 823 NumFactoredBinaryTrees"
+
   **2021-08-18** — pushed [`af96a25b`](https://github.com/underwindfall/underwindfall/commit/af96a25bcc737ff63e98fd57230e0e80ea25074d) to [underwindfall/underwindfall](https://api.github.com/repos/underwindfall/underwindfall): "Update TemplateReadMe.kt"
 
   **2021-08-18** — pushed [`433e5705`](https://github.com/underwindfall/underwindfall/commit/433e5705476216380fe685822ae9d9293ff64d23) to [underwindfall/underwindfall](https://api.github.com/repos/underwindfall/underwindfall): "Update TemplateReadMe.kt"
@@ -22,8 +24,6 @@
   **2021-08-13** — pushed [`f63e862b`](https://github.com/underwindfall/Algorithme/commit/f63e862b8fd17f0a616027beb178a87fcd14c29c) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Leetcode 233 CountDigitOne"
 
   **2021-08-13** — closed issue [#4](https://api.github.com/repos/underwindfall/NFCAndroid/issues/4) on [underwindfall/NFCAndroid](https://api.github.com/repos/underwindfall/NFCAndroid): "nfcreadermessage not working consistently "
-
-  **2021-08-13** — commented on [#4](https://github.com/underwindfall/NFCAndroid/issues/4#issuecomment-898486194) in [underwindfall/NFCAndroid](https://api.github.com/repos/underwindfall/NFCAndroid)
  <!-- githubActivity ends -->
  </td><td valign="top">
 
@@ -61,12 +61,12 @@
  ## 🏊‍♂️ <a href="https://gist.github.com/underwindfall/377ee88ba1fabd1e93516e48ca9c61eb" target="_blank">Weekly Development Breakdown</a>
   <!-- codeTime starts -->
   ```text
-    Java         8 hrs 47 mins  ■■■■■■■■■■■■■■■■■▦□□□□□□  59.8%
-    Kotlin       4 hrs 59 mins  ■■■■■■■■■■■▦□□□□□□□□□□□□  34.0%
-    XML                26 mins  ■■■■◱□□□□□□□□□□□□□□□□□□□   3.0%
-    Groovy             12 mins  ■■■▦□□□□□□□□□□□□□□□□□□□□   1.4%
-    Markdown           11 mins  ■■■▦□□□□□□□□□□□□□□□□□□□□   1.3%
-    Properties          3 mins  ■■■▥□□□□□□□□□□□□□□□□□□□□   0.3%
+    Kotlin        8 hrs 9 mins  ■■■■■■■■■■■■■▦□□□□□□□□□□  42.9%
+    Java         7 hrs 54 mins  ■■■■■■■■■■■■■▥□□□□□□□□□□  41.6%
+    XML           1 hr 31 mins  ■■■■■▥□□□□□□□□□□□□□□□□□□   8.0%
+    JSON               50 mins  ■■■■▥□□□□□□□□□□□□□□□□□□□   4.4%
+    Markdown           14 mins  ■■■▦□□□□□□□□□□□□□□□□□□□□   1.3%
+    Groovy             12 mins  ■■■▦□□□□□□□□□□□□□□□□□□□□   1.1%
   ```
   <!-- codeTime starts -->
   </td></tr></table>
