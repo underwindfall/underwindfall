@@ -5,6 +5,18 @@
 
  ## 📷 Github Activity
  <!-- githubActivity starts -->
+  **2021-08-24** — pushed [`48c93ab7`](https://github.com/underwindfall/Algorithme/commit/48c93ab77e14281944a82cfab15d7d81acebf997) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Leetcode 1653 MinimumDeletions"
+
+  **2021-08-24** — opened issue [#167](https://api.github.com/repos/underwindfall/Algorithme/issues/167) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "MinimumDeletions1653"
+
+  **2021-08-24** — pushed [`97d16286`](https://github.com/underwindfall/Algorithme/commit/97d1628676f4e2e95e6d08121503fdffd66a0069) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Leetcode 797 AllPathsSourceTarget"
+
+  **2021-08-24** — opened issue [#166](https://api.github.com/repos/underwindfall/Algorithme/issues/166) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "AllPathsSourceTarget797"
+
+  **2021-08-24** — pushed [`6b61ca1d`](https://github.com/underwindfall/Algorithme/commit/6b61ca1df47261ae7a7c39cbc1eda5b5f74ce7e6) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Leetcode 787 FindCheapestPrice"
+
+  **2021-08-24** — pushed [`3c100803`](https://github.com/underwindfall/Algorithme/commit/3c100803d38d2c71c1cea1024d90452952647195) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Leetcode 898 SubArrayBitWiseORs"
+
   **2021-08-22** — pushed [`8dcd61e8`](https://github.com/underwindfall/Algorithme/commit/8dcd61e8ba4ecee81ed2fabfecca9aacff2f5f04) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Leetcode 275 hIndexII"
 
   **2021-08-22** — opened issue [#165](https://api.github.com/repos/underwindfall/Algorithme/issues/165) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "HIndexII275"
@@ -12,18 +24,6 @@
   **2021-08-22** — opened issue [#164](https://api.github.com/repos/underwindfall/Algorithme/issues/164) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "HIndex274"
 
   **2021-08-22** — pushed 2 commits to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme).
-
-  **2021-08-22** — pushed [`2a67e5e6`](https://github.com/underwindfall/Algorithme/commit/2a67e5e614d6e79360c724e8e86b4a8fee595327) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "LengthOfLIS300"
-
-  **2021-08-21** — opened issue [#163](https://api.github.com/repos/underwindfall/Algorithme/issues/163) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "CountNodes222"
-
-  **2021-08-21** — pushed 3 commits to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme).
-
-  **2021-08-21** — opened issue [#162](https://api.github.com/repos/underwindfall/Algorithme/issues/162) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "MimumSubArrayLen209"
-
-  **2021-08-21** — commented on [#161](https://github.com/underwindfall/Algorithme/issues/161#issuecomment-903159715) in [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme)
-
-  **2021-08-21** — opened issue [#161](https://api.github.com/repos/underwindfall/Algorithme/issues/161) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Divide29"
  <!-- githubActivity ends -->
  </td><td valign="top">
 
