@@ -5,25 +5,25 @@
 
  ## 📷 Github Activity
  <!-- githubActivity starts -->
-  **2021-08-24** — pushed [`48c93ab7`](https://github.com/underwindfall/Algorithme/commit/48c93ab77e14281944a82cfab15d7d81acebf997) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Leetcode 1653 MinimumDeletions"
+  **2021-08-25** — pushed [`7b9dd012`](https://github.com/underwindfall/Algorithme/commit/7b9dd012ecd1e4854e8170bf78d949b57cfb553e) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Leetcode 350 IntersectII"
 
-  **2021-08-24** — opened issue [#167](https://api.github.com/repos/underwindfall/Algorithme/issues/167) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "MinimumDeletions1653"
+  **2021-08-25** — closed issue [#172](https://api.github.com/repos/underwindfall/Algorithme/issues/172) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "IntersectII350"
 
-  **2021-08-24** — pushed [`97d16286`](https://github.com/underwindfall/Algorithme/commit/97d1628676f4e2e95e6d08121503fdffd66a0069) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Leetcode 797 AllPathsSourceTarget"
+  **2021-08-25** — opened issue [#172](https://api.github.com/repos/underwindfall/Algorithme/issues/172) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "IntersectII350"
 
-  **2021-08-24** — opened issue [#166](https://api.github.com/repos/underwindfall/Algorithme/issues/166) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "AllPathsSourceTarget797"
+  **2021-08-25** — opened issue [#171](https://api.github.com/repos/underwindfall/Algorithme/issues/171) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "StoneGame877"
 
-  **2021-08-24** — pushed [`6b61ca1d`](https://github.com/underwindfall/Algorithme/commit/6b61ca1df47261ae7a7c39cbc1eda5b5f74ce7e6) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Leetcode 787 FindCheapestPrice"
+  **2021-08-25** — opened issue [#170](https://api.github.com/repos/underwindfall/Algorithme/issues/170) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "PredictWinner486"
 
-  **2021-08-24** — pushed [`3c100803`](https://github.com/underwindfall/Algorithme/commit/3c100803d38d2c71c1cea1024d90452952647195) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Leetcode 898 SubArrayBitWiseORs"
+  **2021-08-25** — pushed [`1e7d48e1`](https://github.com/underwindfall/Algorithme/commit/1e7d48e18bc77a673f4ab4d4f613dea9e31c1022) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Leetcode 813 LargestSumOfAverages"
 
-  **2021-08-22** — pushed [`8dcd61e8`](https://github.com/underwindfall/Algorithme/commit/8dcd61e8ba4ecee81ed2fabfecca9aacff2f5f04) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Leetcode 275 hIndexII"
+  **2021-08-25** — pushed [`d203406b`](https://github.com/underwindfall/Algorithme/commit/d203406ba22d0cf82cbd70b4b3aa62926de1a933) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Leetcode 813 LargestSumOfAverages"
 
-  **2021-08-22** — opened issue [#165](https://api.github.com/repos/underwindfall/Algorithme/issues/165) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "HIndexII275"
+  **2021-08-25** — opened issue [#169](https://api.github.com/repos/underwindfall/Algorithme/issues/169) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "LargestSumOfAverages813"
 
-  **2021-08-22** — opened issue [#164](https://api.github.com/repos/underwindfall/Algorithme/issues/164) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "HIndex274"
+  **2021-08-25** — pushed [`3780eeda`](https://github.com/underwindfall/Algorithme/commit/3780eeda41f6a8b0486b67c8d273c045c2426cc6) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Leetcode 357 CountNumbersWithUniqueDigits"
 
-  **2021-08-22** — pushed 2 commits to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme).
+  **2021-08-25** — opened issue [#168](https://api.github.com/repos/underwindfall/Algorithme/issues/168) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "CountNumbersWithUniqueDigits357"
  <!-- githubActivity ends -->
  </td><td valign="top">
 
@@ -61,12 +61,12 @@
  ## 🏊‍♂️ <a href="https://gist.github.com/underwindfall/377ee88ba1fabd1e93516e48ca9c61eb" target="_blank">Weekly Development Breakdown</a>
   <!-- codeTime starts -->
   ```text
-    Java        12 hrs 43 mins  ■■■■■■■■■■■■■■■■■□□□□□□□  56.2%
-    Kotlin       5 hrs 54 mins  ■■■■■■■■■▦□□□□□□□□□□□□□□  26.1%
-    XML           1 hr 22 mins  ■■■■■□□□□□□□□□□□□□□□□□□□   6.0%
-    Groovy             50 mins  ■■■■◱□□□□□□□□□□□□□□□□□□□   3.7%
-    JSON               50 mins  ■■■■◱□□□□□□□□□□□□□□□□□□□   3.7%
-    Markdown           20 mins  ■■■▦□□□□□□□□□□□□□□□□□□□□   1.5%
+    Java                12 hrs  ■■■■■■■■■■■■■■■■▦□□□□□□□  55.4%
+    Kotlin       5 hrs 53 mins  ■■■■■■■■■■□□□□□□□□□□□□□□  27.2%
+    XML           1 hr 15 mins  ■■■■▦□□□□□□□□□□□□□□□□□□□   5.8%
+    JSON               50 mins  ■■■■▥□□□□□□□□□□□□□□□□□□□   3.9%
+    Groovy             47 mins  ■■■■◱□□□□□□□□□□□□□□□□□□□   3.6%
+    Bash               17 mins  ■■■▦□□□□□□□□□□□□□□□□□□□□   1.3%
   ```
   <!-- codeTime starts -->
   </td></tr></table>
