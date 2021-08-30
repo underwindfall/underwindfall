@@ -5,6 +5,12 @@
 
  ## 📷 Github Activity
  <!-- githubActivity starts -->
+  **2021-08-29** — pushed [`fcdbc660`](https://github.com/underwindfall/Algorithme/commit/fcdbc660d8014288d056bbf9b10ddf3c95563803) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "LC 973 KClosest"
+
+  **2021-08-29** — pushed [`fd91248e`](https://github.com/underwindfall/Algorithme/commit/fd91248eb6bf2d9a0e8b20392b49fd4469b8a5da) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "LC 932 BeautifulArray"
+
+  **2021-08-29** — pushed [`b737f2d3`](https://github.com/underwindfall/Algorithme/commit/b737f2d3aa957272b07392a6d22143c7098d08e2) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Leetcode 395 longest substring"
+
   **2021-08-28** — opened issue [#177](https://api.github.com/repos/underwindfall/Algorithme/issues/177) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "combinationSum"
 
   **2021-08-28** — pushed [`b20a5083`](https://github.com/underwindfall/Algorithme/commit/b20a50833495ac4fcc8dea53c3c6b3150fb53597) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "LC 241 DiffWaysToCompute"
@@ -18,12 +24,6 @@
   **2021-08-28** — pushed [`8de011db`](https://github.com/underwindfall/Algorithme/commit/8de011dbb50d35fb7576693d801b00a753deaeff) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Leecode 229 MajorityElement"
 
   **2021-08-28** — pushed [`1732de75`](https://github.com/underwindfall/Algorithme/commit/1732de75c0fd45870b78038b4d9a81868763613f) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Leetcode 1382 BalanceBST"
-
-  **2021-08-28** — pushed [`006a40c8`](https://github.com/underwindfall/Algorithme/commit/006a40c8d6bb9e2d8da2f93ae89dcefcc614da01) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Leetcode 1373 max sum bst"
-
-  **2021-08-28** — opened issue [#174](https://api.github.com/repos/underwindfall/Algorithme/issues/174) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "ConvertBSTToGreaterSumTree538"
-
-  **2021-08-28** — opened issue [#173](https://api.github.com/repos/underwindfall/Algorithme/issues/173) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "ConvertBSTToGreaterSumTree538"
  <!-- githubActivity ends -->
  </td><td valign="top">
 
@@ -61,11 +61,11 @@
  ## 🏊‍♂️ <a href="https://gist.github.com/underwindfall/377ee88ba1fabd1e93516e48ca9c61eb" target="_blank">Weekly Development Breakdown</a>
   <!-- codeTime starts -->
   ```text
-    Java         8 hrs 39 mins  ■■■■■■■■■■■■■■■■■■■■■■◱□  78.4%
-    Kotlin        1 hr 29 mins  ■■■■■■▦□□□□□□□□□□□□□□□□□  13.5%
-    Groovy             21 mins  ■■■■◱□□□□□□□□□□□□□□□□□□□   3.3%
-    XML                19 mins  ■■■■◱□□□□□□□□□□□□□□□□□□□   3.0%
-    Other               8 mins  ■■■▦□□□□□□□□□□□□□□□□□□□□   1.2%
+    Java         6 hrs 58 mins  ■■■■■■■■■■■■■■■■■■■■■▥□□  75.0%
+    Kotlin        1 hr 29 mins  ■■■■■■■◱□□□□□□□□□□□□□□□□  16.0%
+    XML                19 mins  ■■■■◱□□□□□□□□□□□□□□□□□□□   3.5%
+    Groovy             18 mins  ■■■■◱□□□□□□□□□□□□□□□□□□□   3.4%
+    Other               8 mins  ■■■▦□□□□□□□□□□□□□□□□□□□□   1.5%
     JSON                 1 min  ■■■▥□□□□□□□□□□□□□□□□□□□□   0.3%
   ```
   <!-- codeTime starts -->
