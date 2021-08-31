@@ -5,6 +5,8 @@
 
  ## 📷 Github Activity
  <!-- githubActivity starts -->
+  **2021-08-30** — pushed [`7ffc8761`](https://github.com/underwindfall/Algorithme/commit/7ffc876117bc4c9dc462502bacdae335fdaa8743) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "LC 973 KClosest"
+
   **2021-08-29** — pushed [`fcdbc660`](https://github.com/underwindfall/Algorithme/commit/fcdbc660d8014288d056bbf9b10ddf3c95563803) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "LC 973 KClosest"
 
   **2021-08-29** — pushed [`fd91248e`](https://github.com/underwindfall/Algorithme/commit/fd91248eb6bf2d9a0e8b20392b49fd4469b8a5da) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "LC 932 BeautifulArray"
@@ -22,8 +24,6 @@
   **2021-08-28** — opened issue [#175](https://api.github.com/repos/underwindfall/Algorithme/issues/175) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "DiffWaysToCompute241"
 
   **2021-08-28** — pushed [`8de011db`](https://github.com/underwindfall/Algorithme/commit/8de011dbb50d35fb7576693d801b00a753deaeff) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Leecode 229 MajorityElement"
-
-  **2021-08-28** — pushed [`1732de75`](https://github.com/underwindfall/Algorithme/commit/1732de75c0fd45870b78038b4d9a81868763613f) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Leetcode 1382 BalanceBST"
  <!-- githubActivity ends -->
  </td><td valign="top">
 
@@ -61,12 +61,12 @@
  ## 🏊‍♂️ <a href="https://gist.github.com/underwindfall/377ee88ba1fabd1e93516e48ca9c61eb" target="_blank">Weekly Development Breakdown</a>
   <!-- codeTime starts -->
   ```text
-    Java         6 hrs 58 mins  ■■■■■■■■■■■■■■■■■■■■■▥□□  75.0%
-    Kotlin        1 hr 29 mins  ■■■■■■■◱□□□□□□□□□□□□□□□□  16.0%
-    XML                19 mins  ■■■■◱□□□□□□□□□□□□□□□□□□□   3.5%
-    Groovy             18 mins  ■■■■◱□□□□□□□□□□□□□□□□□□□   3.4%
-    Other               8 mins  ■■■▦□□□□□□□□□□□□□□□□□□□□   1.5%
-    JSON                 1 min  ■■■▥□□□□□□□□□□□□□□□□□□□□   0.3%
+    Java         6 hrs 31 mins  ■■■■■■■■■■■■■■□□□□□□□□□□  43.6%
+    Kotlin       3 hrs 45 mins  ■■■■■■■■■▥□□□□□□□□□□□□□□  25.0%
+    Groovy       2 hrs 21 mins  ■■■■■■■◱□□□□□□□□□□□□□□□□  15.8%
+    XML           1 hr 17 mins  ■■■■■▥□□□□□□□□□□□□□□□□□□   8.6%
+    Bash               21 mins  ■■■■□□□□□□□□□□□□□□□□□□□□   2.4%
+    Properties         18 mins  ■■■■□□□□□□□□□□□□□□□□□□□□   2.1%
   ```
   <!-- codeTime starts -->
   </td></tr></table>
