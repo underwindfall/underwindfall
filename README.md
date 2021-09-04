@@ -5,6 +5,18 @@
 
  ## 📷 Github Activity
  <!-- githubActivity starts -->
+  **2021-09-03** — opened issue [#180](https://api.github.com/repos/underwindfall/Algorithme/issues/180) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "MinWindow76"
+
+  **2021-09-03** — pushed [`4bfe8ecb`](https://github.com/underwindfall/Algorithme/commit/4bfe8ecb8d6be48f3bd67db5bb2ca63ac79e2e20) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Leetcode 148 SortList"
+
+  **2021-09-03** — opened issue [#179](https://api.github.com/repos/underwindfall/Algorithme/issues/179) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "LengthOfLongestSubstring3"
+
+  **2021-09-03** — pushed [`34cb063a`](https://github.com/underwindfall/Algorithme/commit/34cb063a1bffdca4a37c44a8cffc6f5638c5e19e) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Leetcode 148 SortList"
+
+  **2021-09-03** — opened issue [#178](https://api.github.com/repos/underwindfall/Algorithme/issues/178) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "SortList148"
+
+  **2021-09-03** — pushed [`02d7c16e`](https://github.com/underwindfall/Algorithme/commit/02d7c16e87713fda1d7df89687d45595d0a23aa2) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Leetcode 295 median finder"
+
   **2021-08-30** — pushed [`7ffc8761`](https://github.com/underwindfall/Algorithme/commit/7ffc876117bc4c9dc462502bacdae335fdaa8743) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "LC 973 KClosest"
 
   **2021-08-29** — pushed [`fcdbc660`](https://github.com/underwindfall/Algorithme/commit/fcdbc660d8014288d056bbf9b10ddf3c95563803) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "LC 973 KClosest"
@@ -12,18 +24,6 @@
   **2021-08-29** — pushed [`fd91248e`](https://github.com/underwindfall/Algorithme/commit/fd91248eb6bf2d9a0e8b20392b49fd4469b8a5da) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "LC 932 BeautifulArray"
 
   **2021-08-29** — pushed [`b737f2d3`](https://github.com/underwindfall/Algorithme/commit/b737f2d3aa957272b07392a6d22143c7098d08e2) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Leetcode 395 longest substring"
-
-  **2021-08-28** — opened issue [#177](https://api.github.com/repos/underwindfall/Algorithme/issues/177) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "combinationSum"
-
-  **2021-08-28** — pushed [`b20a5083`](https://github.com/underwindfall/Algorithme/commit/b20a50833495ac4fcc8dea53c3c6b3150fb53597) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "LC 241 DiffWaysToCompute"
-
-  **2021-08-28** — opened issue [#176](https://api.github.com/repos/underwindfall/Algorithme/issues/176) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "GenerateParenthesis22"
-
-  **2021-08-28** — pushed [`53a2b60c`](https://github.com/underwindfall/Algorithme/commit/53a2b60cba69159f3e197d4b75d5f665d31ae989) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "LC 241 DiffWaysToCompute"
-
-  **2021-08-28** — opened issue [#175](https://api.github.com/repos/underwindfall/Algorithme/issues/175) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "DiffWaysToCompute241"
-
-  **2021-08-28** — pushed [`8de011db`](https://github.com/underwindfall/Algorithme/commit/8de011dbb50d35fb7576693d801b00a753deaeff) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Leecode 229 MajorityElement"
  <!-- githubActivity ends -->
  </td><td valign="top">
 
