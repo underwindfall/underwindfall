@@ -5,6 +5,10 @@
 
  ## 📷 Github Activity
  <!-- githubActivity starts -->
+  **2021-09-06** — pushed [`69227367`](https://github.com/underwindfall/Algorithme/commit/69227367e9eec4959105ac71481097a07d4b828c) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "LC 6 ZConvert"
+
+  **2021-09-06** — opened issue [#187](https://api.github.com/repos/underwindfall/Algorithme/issues/187) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "ZConvert6"
+
   **2021-09-04** — opened issue [#186](https://api.github.com/repos/underwindfall/Algorithme/issues/186) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Decode91"
 
   **2021-09-04** — pushed [`5bb6908d`](https://github.com/underwindfall/Algorithme/commit/5bb6908dfb3de981dabd77b71fa254af8c45bda8) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Leetcode 93 RestoreIpAddresses"
@@ -20,10 +24,6 @@
   **2021-09-04** — opened issue [#183](https://api.github.com/repos/underwindfall/Algorithme/issues/183) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "5LongestPalindrome"
 
   **2021-09-04** — opened issue [#182](https://api.github.com/repos/underwindfall/Algorithme/issues/182) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "FindAnagrams438"
-
-  **2021-09-04** — opened issue [#181](https://api.github.com/repos/underwindfall/Algorithme/issues/181) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "PermutationString567"
-
-  **2021-09-03** — opened issue [#180](https://api.github.com/repos/underwindfall/Algorithme/issues/180) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "MinWindow76"
  <!-- githubActivity ends -->
  </td><td valign="top">
 
