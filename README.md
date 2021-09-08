@@ -5,25 +5,25 @@
 
  ## 📷 Github Activity
  <!-- githubActivity starts -->
-  **2021-09-06** — pushed [`69227367`](https://github.com/underwindfall/Algorithme/commit/69227367e9eec4959105ac71481097a07d4b828c) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "LC 6 ZConvert"
+  **2021-09-08** — opened issue [#195](https://api.github.com/repos/underwindfall/Algorithme/issues/195) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "StrStr"
 
-  **2021-09-06** — opened issue [#187](https://api.github.com/repos/underwindfall/Algorithme/issues/187) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "ZConvert6"
+  **2021-09-08** — pushed [`5d8aa3dd`](https://github.com/underwindfall/Algorithme/commit/5d8aa3ddbb1c410ecdda5b1529b652de45e85757) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Leetcode 165  CompareVersion"
 
-  **2021-09-04** — opened issue [#186](https://api.github.com/repos/underwindfall/Algorithme/issues/186) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Decode91"
+  **2021-09-08** — opened issue [#194](https://api.github.com/repos/underwindfall/Algorithme/issues/194) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "CompareVersion165"
 
-  **2021-09-04** — pushed [`5bb6908d`](https://github.com/underwindfall/Algorithme/commit/5bb6908dfb3de981dabd77b71fa254af8c45bda8) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Leetcode 93 RestoreIpAddresses"
+  **2021-09-08** — pushed [`dbc0584c`](https://github.com/underwindfall/Algorithme/commit/dbc0584cc6b5eee5d8ea89764bbe5572812d36e7) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Leetcode 165  CompareVersion"
 
-  **2021-09-04** — opened issue [#185](https://api.github.com/repos/underwindfall/Algorithme/issues/185) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "RestoreIpAddresses93"
+  **2021-09-08** — opened issue [#193](https://api.github.com/repos/underwindfall/Algorithme/issues/193) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "SimplifyPath71"
 
-  **2021-09-04** — pushed [`dda3a0f0`](https://github.com/underwindfall/Algorithme/commit/dda3a0f057cf01f431479d4bf16f07dfd6dd83d5) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "DP LC 5"
+  **2021-09-08** — pushed [`d2a1ceb9`](https://github.com/underwindfall/Algorithme/commit/d2a1ceb9d906af185ef911de5a4899ee28b39e1c) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Leetcoe 71 SimplifyPath"
 
-  **2021-09-04** — opened issue [#184](https://api.github.com/repos/underwindfall/Algorithme/issues/184) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "LongestCommonPrefix14"
+  **2021-09-07** — pushed [`581e39f1`](https://github.com/underwindfall/Algorithme/commit/581e39f103c2a6a18a66500e754af9731cea4feb) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Leetcode 43 Multiply"
 
-  **2021-09-04** — pushed [`374c9a34`](https://github.com/underwindfall/Algorithme/commit/374c9a34c1a4054694dc461d9c04364e322c9069) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "DP LC 5"
+  **2021-09-07** — opened issue [#192](https://api.github.com/repos/underwindfall/Algorithme/issues/192) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "GroupAnagrams49"
 
-  **2021-09-04** — opened issue [#183](https://api.github.com/repos/underwindfall/Algorithme/issues/183) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "5LongestPalindrome"
+  **2021-09-07** — opened issue [#191](https://api.github.com/repos/underwindfall/Algorithme/issues/191) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Leetcoe 43 Multiply"
 
-  **2021-09-04** — opened issue [#182](https://api.github.com/repos/underwindfall/Algorithme/issues/182) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "FindAnagrams438"
+  **2021-09-07** — pushed [`faee1b56`](https://github.com/underwindfall/Algorithme/commit/faee1b56314a9fccc7eae39ab2e4859136ad9539) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Leetcode 43 Multiply"
  <!-- githubActivity ends -->
  </td><td valign="top">
 
@@ -61,12 +61,12 @@
  ## 🏊‍♂️ <a href="https://gist.github.com/underwindfall/377ee88ba1fabd1e93516e48ca9c61eb" target="_blank">Weekly Development Breakdown</a>
   <!-- codeTime starts -->
   ```text
-    Kotlin       14 hrs 8 mins  ■■■■■■■■■■■■■■■■■▥□□□□□□  58.2%
-    Java         3 hrs 46 mins  ■■■■■■■◱□□□□□□□□□□□□□□□□  15.6%
-    Groovy       2 hrs 35 mins  ■■■■■■□□□□□□□□□□□□□□□□□□  10.6%
-    XML           1 hr 56 mins  ■■■■■▥□□□□□□□□□□□□□□□□□□   8.0%
-    JSON               39 mins  ■■■■□□□□□□□□□□□□□□□□□□□□   2.7%
-    Properties         26 mins  ■■■■□□□□□□□□□□□□□□□□□□□□   1.8%
+    Kotlin      16 hrs 46 mins  ■■■■■■■■■■■■■■■■■■■□□□□□  65.0%
+    Java         7 hrs 22 mins  ■■■■■■■■■■◱□□□□□□□□□□□□□  28.6%
+    XML                51 mins  ■■■■◱□□□□□□□□□□□□□□□□□□□   3.3%
+    Groovy             28 mins  ■■■■□□□□□□□□□□□□□□□□□□□□   1.8%
+    CSS                 8 mins  ■■■▥□□□□□□□□□□□□□□□□□□□□   0.5%
+    Other               5 mins  ■■■▥□□□□□□□□□□□□□□□□□□□□   0.3%
   ```
   <!-- codeTime starts -->
   </td></tr></table>
