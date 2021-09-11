@@ -5,6 +5,16 @@
 
  ## 📷 Github Activity
  <!-- githubActivity starts -->
+  **2021-09-10** — opened issue [#197](https://api.github.com/repos/underwindfall/Algorithme/issues/197) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "CountAndSay38"
+
+  **2021-09-10** — pushed [`fb0e7609`](https://github.com/underwindfall/Algorithme/commit/fb0e76091d9678aaf7110249283e909fa5c2dd12) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Leetcode 38 CountAndSay"
+
+  **2021-09-10** — pushed [`d9058980`](https://github.com/underwindfall/Algorithme/commit/d905898027f34bab4f88055082fb64613e9e4355) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Leetcode 30 FindSubstring"
+
+  **2021-09-10** — opened issue [#196](https://api.github.com/repos/underwindfall/Algorithme/issues/196) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "ChalkReplacer1894"
+
+  **2021-09-10** — pushed [`64f20e16`](https://github.com/underwindfall/Algorithme/commit/64f20e16b4b254fa6a3ce88dc32594007a8ba11d) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Leetcode 1894 chalk replacer"
+
   **2021-09-08** — opened issue [#195](https://api.github.com/repos/underwindfall/Algorithme/issues/195) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "StrStr"
 
   **2021-09-08** — pushed [`5d8aa3dd`](https://github.com/underwindfall/Algorithme/commit/5d8aa3ddbb1c410ecdda5b1529b652de45e85757) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Leetcode 165  CompareVersion"
@@ -14,16 +24,6 @@
   **2021-09-08** — pushed [`dbc0584c`](https://github.com/underwindfall/Algorithme/commit/dbc0584cc6b5eee5d8ea89764bbe5572812d36e7) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Leetcode 165  CompareVersion"
 
   **2021-09-08** — opened issue [#193](https://api.github.com/repos/underwindfall/Algorithme/issues/193) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "SimplifyPath71"
-
-  **2021-09-08** — pushed [`d2a1ceb9`](https://github.com/underwindfall/Algorithme/commit/d2a1ceb9d906af185ef911de5a4899ee28b39e1c) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Leetcoe 71 SimplifyPath"
-
-  **2021-09-07** — pushed [`581e39f1`](https://github.com/underwindfall/Algorithme/commit/581e39f103c2a6a18a66500e754af9731cea4feb) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Leetcode 43 Multiply"
-
-  **2021-09-07** — opened issue [#192](https://api.github.com/repos/underwindfall/Algorithme/issues/192) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "GroupAnagrams49"
-
-  **2021-09-07** — opened issue [#191](https://api.github.com/repos/underwindfall/Algorithme/issues/191) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Leetcoe 43 Multiply"
-
-  **2021-09-07** — pushed [`faee1b56`](https://github.com/underwindfall/Algorithme/commit/faee1b56314a9fccc7eae39ab2e4859136ad9539) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Leetcode 43 Multiply"
  <!-- githubActivity ends -->
  </td><td valign="top">
 
@@ -61,12 +61,12 @@
  ## 🏊‍♂️ <a href="https://gist.github.com/underwindfall/377ee88ba1fabd1e93516e48ca9c61eb" target="_blank">Weekly Development Breakdown</a>
   <!-- codeTime starts -->
   ```text
-    Kotlin      16 hrs 25 mins  ■■■■■■■■■■■■■■■■■■□□□□□□  60.5%
-    Java         7 hrs 55 mins  ■■■■■■■■■■▥□□□□□□□□□□□□□  29.2%
-    JSON           1 hr 6 mins  ■■■■▥□□□□□□□□□□□□□□□□□□□   4.1%
-    Groovy             49 mins  ■■■■◱□□□□□□□□□□□□□□□□□□□   3.1%
-    XML                22 mins  ■■■▦□□□□□□□□□□□□□□□□□□□□   1.4%
-    JavaScript         20 mins  ■■■▦□□□□□□□□□□□□□□□□□□□□   1.3%
+    Kotlin      17 hrs 53 mins  ■■■■■■■■■■■■■■■■■■■□□□□□  65.1%
+    Java         6 hrs 23 mins  ■■■■■■■■■□□□□□□□□□□□□□□□  23.3%
+    JSON           1 hr 6 mins  ■■■■▥□□□□□□□□□□□□□□□□□□□   4.0%
+    JavaScript         50 mins  ■■■■◱□□□□□□□□□□□□□□□□□□□   3.1%
+    Groovy             49 mins  ■■■■◱□□□□□□□□□□□□□□□□□□□   3.0%
+    XML                16 mins  ■■■▦□□□□□□□□□□□□□□□□□□□□   1.0%
   ```
   <!-- codeTime starts -->
   </td></tr></table>
