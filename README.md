@@ -5,6 +5,10 @@
 
  ## 📷 Github Activity
  <!-- githubActivity starts -->
+  **2021-09-14** — pushed [`8b94ac4b`](https://github.com/underwindfall/Algorithme/commit/8b94ac4b26c33666fba8bd8d4fa0f79978100642) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Leetcode 286 WallsAndGates"
+
+  **2021-09-14** — pushed [`31a77bdc`](https://github.com/underwindfall/Algorithme/commit/31a77bdcf99bba917b6ac3081d13199d84ddf833) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Leetcode 286 WallsAndGates"
+
   **2021-09-13** — opened issue [#201](https://api.github.com/repos/underwindfall/Algorithme/issues/201) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "MaximumAverageSubtree1120"
 
   **2021-09-13** — pushed [`21780dc2`](https://github.com/underwindfall/Algorithme/commit/21780dc2dfde90ea736b79290ae59ee26280c416) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Leetcode 1120 MaximumAverageSubtree"
@@ -20,10 +24,6 @@
   **2021-09-11** — opened issue [#198](https://api.github.com/repos/underwindfall/Algorithme/issues/198) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "FindMaximizedCapital502"
 
   **2021-09-11** — pushed [`cb01cdb0`](https://github.com/underwindfall/Algorithme/commit/cb01cdb07b7cb4d91cba64d35917599febe8ef00) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Leetcode 502 FindMaximizedCapital"
-
-  **2021-09-10** — opened issue [#197](https://api.github.com/repos/underwindfall/Algorithme/issues/197) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "CountAndSay38"
-
-  **2021-09-10** — pushed [`fb0e7609`](https://github.com/underwindfall/Algorithme/commit/fb0e76091d9678aaf7110249283e909fa5c2dd12) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Leetcode 38 CountAndSay"
  <!-- githubActivity ends -->
  </td><td valign="top">
 
@@ -61,12 +61,12 @@
  ## 🏊‍♂️ <a href="https://gist.github.com/underwindfall/377ee88ba1fabd1e93516e48ca9c61eb" target="_blank">Weekly Development Breakdown</a>
   <!-- codeTime starts -->
   ```text
-    Kotlin              17 hrs  ■■■■■■■■■■■■■■■■■■■■□□□□  68.9%
-    Java         4 hrs 56 mins  ■■■■■■■■◱□□□□□□□□□□□□□□□  20.0%
-    JSON           1 hr 6 mins  ■■■■▥□□□□□□□□□□□□□□□□□□□   4.5%
-    JavaScript         50 mins  ■■■■◱□□□□□□□□□□□□□□□□□□□   3.4%
-    Groovy             26 mins  ■■■■□□□□□□□□□□□□□□□□□□□□   1.8%
-    XML                10 mins  ■■■▦□□□□□□□□□□□□□□□□□□□□   0.7%
+    Kotlin      14 hrs 26 mins  ■■■■■■■■■■■■■■■■■■□□□□□□  60.9%
+    Java          6 hrs 5 mins  ■■■■■■■■■▦□□□□□□□□□□□□□□  25.7%
+    JSON          1 hr 33 mins  ■■■■■□□□□□□□□□□□□□□□□□□□   6.5%
+    JavaScript         50 mins  ■■■■◱□□□□□□□□□□□□□□□□□□□   3.6%
+    Groovy             26 mins  ■■■■□□□□□□□□□□□□□□□□□□□□   1.9%
+    XML                11 mins  ■■■▦□□□□□□□□□□□□□□□□□□□□   0.8%
   ```
   <!-- codeTime starts -->
   </td></tr></table>
