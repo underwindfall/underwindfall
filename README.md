@@ -5,6 +5,8 @@
 
  ## 📷 Github Activity
  <!-- githubActivity starts -->
+  **2021-09-15** — pushed [`a60c67f2`](https://github.com/underwindfall/Algorithme/commit/a60c67f2d5804a167795ad7cbf1403b1f9dffa1d) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Leetcode 774 MinMaxGasDist"
+
   **2021-09-14** — pushed [`8b94ac4b`](https://github.com/underwindfall/Algorithme/commit/8b94ac4b26c33666fba8bd8d4fa0f79978100642) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Leetcode 286 WallsAndGates"
 
   **2021-09-14** — pushed [`31a77bdc`](https://github.com/underwindfall/Algorithme/commit/31a77bdcf99bba917b6ac3081d13199d84ddf833) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Leetcode 286 WallsAndGates"
@@ -22,8 +24,6 @@
   **2021-09-11** — pushed [`5ea5e4a1`](https://github.com/underwindfall/Algorithme/commit/5ea5e4a15ed328e624adc6cc55c944696df0d537) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Leetcode 600 FindIntegers"
 
   **2021-09-11** — opened issue [#198](https://api.github.com/repos/underwindfall/Algorithme/issues/198) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "FindMaximizedCapital502"
-
-  **2021-09-11** — pushed [`cb01cdb0`](https://github.com/underwindfall/Algorithme/commit/cb01cdb07b7cb4d91cba64d35917599febe8ef00) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Leetcode 502 FindMaximizedCapital"
  <!-- githubActivity ends -->
  </td><td valign="top">
 
@@ -61,12 +61,12 @@
  ## 🏊‍♂️ <a href="https://gist.github.com/underwindfall/377ee88ba1fabd1e93516e48ca9c61eb" target="_blank">Weekly Development Breakdown</a>
   <!-- codeTime starts -->
   ```text
-    Kotlin      14 hrs 26 mins  ■■■■■■■■■■■■■■■■■■□□□□□□  60.9%
-    Java          6 hrs 5 mins  ■■■■■■■■■▦□□□□□□□□□□□□□□  25.7%
-    JSON          1 hr 33 mins  ■■■■■□□□□□□□□□□□□□□□□□□□   6.5%
-    JavaScript         50 mins  ■■■■◱□□□□□□□□□□□□□□□□□□□   3.6%
-    Groovy             26 mins  ■■■■□□□□□□□□□□□□□□□□□□□□   1.9%
-    XML                11 mins  ■■■▦□□□□□□□□□□□□□□□□□□□□   0.8%
+    Kotlin      11 hrs 51 mins  ■■■■■■■■■■■■■■■■◱□□□□□□□  53.0%
+    Java         6 hrs 25 mins  ■■■■■■■■■■◱□□□□□□□□□□□□□  28.7%
+    JSON         2 hrs 25 mins  ■■■■■■□□□□□□□□□□□□□□□□□□  10.8%
+    JavaScript         50 mins  ■■■■▥□□□□□□□□□□□□□□□□□□□   3.8%
+    XML                44 mins  ■■■■◱□□□□□□□□□□□□□□□□□□□   3.4%
+    Properties          3 mins  ■■■▥□□□□□□□□□□□□□□□□□□□□   0.3%
   ```
   <!-- codeTime starts -->
   </td></tr></table>
