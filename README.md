@@ -5,6 +5,10 @@
 
  ## 📷 Github Activity
  <!-- githubActivity starts -->
+  **2021-09-18** — opened issue [#206](https://api.github.com/repos/underwindfall/Algorithme/issues/206) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "ExpressAddOperators282"
+
+  **2021-09-18** — pushed [`2c0de25f`](https://github.com/underwindfall/Algorithme/commit/2c0de25f6754d32394835d93333ff1f7f6165042) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "leetcode 282 ExpressAddOperators"
+
   **2021-09-17** — pushed [`3d0d10f5`](https://github.com/underwindfall/Algorithme/commit/3d0d10f563b6e978e74780a7ddfcd6057342613e) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Leetcode 834 SumOfDistancesInTree"
 
   **2021-09-17** — opened issue [#205](https://api.github.com/repos/underwindfall/Algorithme/issues/205) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "SumOfDistancesInTree834"
@@ -20,10 +24,6 @@
   **2021-09-16** — pushed [`bda6dc76`](https://github.com/underwindfall/Algorithme/commit/bda6dc767e1b0a77a0b3e9332c77f734a928bcdf) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Tire"
 
   **2021-09-16** — pushed [`3d5bc615`](https://github.com/underwindfall/Algorithme/commit/3d5bc615c08991938d390cbe82343d90ec738bd1) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Leetcode WordSearchII"
-
-  **2021-09-16** — opened issue [#202](https://api.github.com/repos/underwindfall/Algorithme/issues/202) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "WordSearchII212"
-
-  **2021-09-16** — pushed [`4ed76f67`](https://github.com/underwindfall/Algorithme/commit/4ed76f67885f613bf6def65421ebfba48e70097d) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Leetcode 978 MaxTurbulenceSize"
  <!-- githubActivity ends -->
  </td><td valign="top">
 
@@ -61,12 +61,12 @@
  ## 🏊‍♂️ <a href="https://gist.github.com/underwindfall/377ee88ba1fabd1e93516e48ca9c61eb" target="_blank">Weekly Development Breakdown</a>
   <!-- codeTime starts -->
   ```text
-    Java         7 hrs 44 mins  ■■■■■■■■■■■■■▦□□□□□□□□□□  42.6%
-    Kotlin       4 hrs 41 mins  ■■■■■■■■■▦□□□□□□□□□□□□□□  25.8%
-    JSON         2 hrs 31 mins  ■■■■■■▦□□□□□□□□□□□□□□□□□  13.9%
-    Markdown      2 hrs 9 mins  ■■■■■■◱□□□□□□□□□□□□□□□□□  11.9%
+    Java         7 hrs 26 mins  ■■■■■■■■■■■■■▥□□□□□□□□□□  41.6%
+    Kotlin       4 hrs 41 mins  ■■■■■■■■■▦□□□□□□□□□□□□□□  26.2%
+    JSON         2 hrs 31 mins  ■■■■■■▦□□□□□□□□□□□□□□□□□  14.1%
+    Markdown      2 hrs 9 mins  ■■■■■■▥□□□□□□□□□□□□□□□□□  12.1%
     XML                37 mins  ■■■■◱□□□□□□□□□□□□□□□□□□□   3.5%
-    Bash               21 mins  ■■■■□□□□□□□□□□□□□□□□□□□□   1.9%
+    Bash               21 mins  ■■■■□□□□□□□□□□□□□□□□□□□□   2.0%
   ```
   <!-- codeTime starts -->
   </td></tr></table>
