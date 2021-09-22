@@ -5,6 +5,16 @@
 
  ## 📷 Github Activity
  <!-- githubActivity starts -->
+  **2021-09-21** — pushed [`24de63b7`](https://github.com/underwindfall/create-release-with-debugapk/commit/24de63b77a34f8d6fecc7479e39643976b688f15) to [underwindfall/create-release-with-debugapk](https://api.github.com/repos/underwindfall/create-release-with-debugapk): "Bump tmpl from 1.0.4 to 1.0.5"
+
+  **2021-09-21** — closed PR [#9](https://api.github.com/repos/underwindfall/create-release-with-debugapk/pulls/9) to [underwindfall/create-release-with-debugapk](https://api.github.com/repos/underwindfall/create-release-with-debugapk): "Bump tmpl from 1.0.4 to 1.0.5"
+
+  **2021-09-21** — opened issue [#212](https://api.github.com/repos/underwindfall/Algorithme/issues/212) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "BasicCaculatorII227"
+
+  **2021-09-21** — pushed [`c975ae05`](https://github.com/underwindfall/Algorithme/commit/c975ae0550979dd536e81534dc493ae139e0fe5c) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Leetcode 227 BasicCaculatorII"
+
+  **2021-09-21** — pushed [`6c04753b`](https://github.com/underwindfall/Algorithme/commit/6c04753b530a11cbbcb3cc565a215defda19c81b) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Leetcode 224 basicCaculatorI"
+
   **2021-09-20** — opened issue [#211](https://api.github.com/repos/underwindfall/Algorithme/issues/211) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "BasicCaculatorI224"
 
   **2021-09-20** — pushed [`16af3101`](https://github.com/underwindfall/Algorithme/commit/16af31010f5860fa0c8e328de23b0525ed3f209f) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "leetcode 224 BasicCaculatorI"
@@ -14,16 +24,6 @@
   **2021-09-20** — pushed [`10c10a9a`](https://github.com/underwindfall/Algorithme/commit/10c10a9afb12c0b082c177d4ff8ddb291bd0f056) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Leetcode 2009 MinOperations"
 
   **2021-09-20** — opened issue [#209](https://api.github.com/repos/underwindfall/Algorithme/issues/209) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "MaxTaxiEarnings2008"
-
-  **2021-09-20** — pushed 2 commits to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme).
-
-  **2021-09-20** — opened issue [#208](https://api.github.com/repos/underwindfall/Algorithme/issues/208) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "CanRecordDoubled954"
-
-  **2021-09-20** — opened issue [#207](https://api.github.com/repos/underwindfall/Algorithme/issues/207) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "LongestIncreasingCount673"
-
-  **2021-09-18** — opened issue [#206](https://api.github.com/repos/underwindfall/Algorithme/issues/206) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "ExpressAddOperators282"
-
-  **2021-09-18** — pushed [`2c0de25f`](https://github.com/underwindfall/Algorithme/commit/2c0de25f6754d32394835d93333ff1f7f6165042) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "leetcode 282 ExpressAddOperators"
  <!-- githubActivity ends -->
  </td><td valign="top">
 
@@ -61,12 +61,12 @@
  ## 🏊‍♂️ <a href="https://gist.github.com/underwindfall/377ee88ba1fabd1e93516e48ca9c61eb" target="_blank">Weekly Development Breakdown</a>
   <!-- codeTime starts -->
   ```text
-    Java         8 hrs 43 mins  ■■■■■■■■■■■■■■□□□□□□□□□□  44.3%
-    Kotlin        5 hrs 3 mins  ■■■■■■■■■▦□□□□□□□□□□□□□□  25.6%
-    JSON         2 hrs 31 mins  ■■■■■■▥□□□□□□□□□□□□□□□□□  12.8%
-    Markdown     2 hrs 17 mins  ■■■■■■◱□□□□□□□□□□□□□□□□□  11.7%
-    XML                40 mins  ■■■■◱□□□□□□□□□□□□□□□□□□□   3.4%
-    Bash               21 mins  ■■■■□□□□□□□□□□□□□□□□□□□□   1.8%
+    Java         7 hrs 16 mins  ■■■■■■■■■■■■■■□□□□□□□□□□  43.6%
+    Kotlin        4 hrs 2 mins  ■■■■■■■■■◱□□□□□□□□□□□□□□  24.1%
+    Markdown     2 hrs 17 mins  ■■■■■■▦□□□□□□□□□□□□□□□□□  13.8%
+    JSON          2 hrs 4 mins  ■■■■■■▥□□□□□□□□□□□□□□□□□  12.5%
+    XML                35 mins  ■■■■◱□□□□□□□□□□□□□□□□□□□   3.6%
+    Bash               21 mins  ■■■■□□□□□□□□□□□□□□□□□□□□   2.1%
   ```
   <!-- codeTime starts -->
   </td></tr></table>
