@@ -5,6 +5,14 @@
 
  ## 📷 Github Activity
  <!-- githubActivity starts -->
+  **2021-09-23** — opened issue [#214](https://api.github.com/repos/underwindfall/Algorithme/issues/214) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "BreakPalindrome1328"
+
+  **2021-09-23** — opened issue [#213](https://api.github.com/repos/underwindfall/Algorithme/issues/213) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "RemoveDuplicateLetters316"
+
+  **2021-09-23** — pushed [`54251fae`](https://github.com/underwindfall/Algorithme/commit/54251faec4e0cc00e85efddf4e3a47fc3ca186b0) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Leetcode 316 RemoveDuplicateLetters"
+
+  **2021-09-23** — pushed [`fdfff636`](https://github.com/underwindfall/Algorithme/commit/fdfff636753e601a9c84bde84aad2aaa444070e5) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Leetcode 1328 break panlindrome"
+
   **2021-09-21** — pushed [`24de63b7`](https://github.com/underwindfall/create-release-with-debugapk/commit/24de63b77a34f8d6fecc7479e39643976b688f15) to [underwindfall/create-release-with-debugapk](https://api.github.com/repos/underwindfall/create-release-with-debugapk): "Bump tmpl from 1.0.4 to 1.0.5"
 
   **2021-09-21** — closed PR [#9](https://api.github.com/repos/underwindfall/create-release-with-debugapk/pulls/9) to [underwindfall/create-release-with-debugapk](https://api.github.com/repos/underwindfall/create-release-with-debugapk): "Bump tmpl from 1.0.4 to 1.0.5"
@@ -16,14 +24,6 @@
   **2021-09-21** — pushed [`6c04753b`](https://github.com/underwindfall/Algorithme/commit/6c04753b530a11cbbcb3cc565a215defda19c81b) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Leetcode 224 basicCaculatorI"
 
   **2021-09-20** — opened issue [#211](https://api.github.com/repos/underwindfall/Algorithme/issues/211) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "BasicCaculatorI224"
-
-  **2021-09-20** — pushed [`16af3101`](https://github.com/underwindfall/Algorithme/commit/16af31010f5860fa0c8e328de23b0525ed3f209f) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "leetcode 224 BasicCaculatorI"
-
-  **2021-09-20** — opened issue [#210](https://api.github.com/repos/underwindfall/Algorithme/issues/210) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "MinOperations2009"
-
-  **2021-09-20** — pushed [`10c10a9a`](https://github.com/underwindfall/Algorithme/commit/10c10a9afb12c0b082c177d4ff8ddb291bd0f056) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Leetcode 2009 MinOperations"
-
-  **2021-09-20** — opened issue [#209](https://api.github.com/repos/underwindfall/Algorithme/issues/209) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "MaxTaxiEarnings2008"
  <!-- githubActivity ends -->
  </td><td valign="top">
 
@@ -61,12 +61,12 @@
  ## 🏊‍♂️ <a href="https://gist.github.com/underwindfall/377ee88ba1fabd1e93516e48ca9c61eb" target="_blank">Weekly Development Breakdown</a>
   <!-- codeTime starts -->
   ```text
-    Java         6 hrs 37 mins  ■■■■■■■■■■■■■■■■■■▦□□□□□  63.7%
-    Markdown     2 hrs 21 mins  ■■■■■■■■■□□□□□□□□□□□□□□□  22.6%
-    Kotlin             55 mins  ■■■■■▥□□□□□□□□□□□□□□□□□□   8.9%
-    Bash               21 mins  ■■■■◱□□□□□□□□□□□□□□□□□□□   3.4%
-    JSON                5 mins  ■■■▦□□□□□□□□□□□□□□□□□□□□   0.9%
-    XML                 2 mins  ■■■▥□□□□□□□□□□□□□□□□□□□□   0.4%
+    Java         5 hrs 48 mins  ■■■■■■■■■■■■■■■■■■◱□□□□□  61.4%
+    Markdown     2 hrs 21 mins  ■■■■■■■■■▥□□□□□□□□□□□□□□  24.8%
+    Kotlin             48 mins  ■■■■■▥□□□□□□□□□□□□□□□□□□   8.6%
+    Bash               21 mins  ■■■■◱□□□□□□□□□□□□□□□□□□□   3.7%
+    JSON                5 mins  ■■■▦□□□□□□□□□□□□□□□□□□□□   1.0%
+    XML                 2 mins  ■■■▥□□□□□□□□□□□□□□□□□□□□   0.5%
   ```
   <!-- codeTime starts -->
   </td></tr></table>
