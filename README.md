@@ -5,25 +5,25 @@
 
  ## 📷 Github Activity
  <!-- githubActivity starts -->
-  **2021-09-26** — pushed [`d9d70ed4`](https://github.com/underwindfall/GitHubPoster/commit/d9d70ed41afbec714acd07b03132822d06cebc68) to [underwindfall/GitHubPoster](https://api.github.com/repos/underwindfall/GitHubPoster): "Update run_poster_generate.yml"
+  **2021-09-28** — opened issue [#230](https://api.github.com/repos/underwindfall/Algorithme/issues/230) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "ShipWithinDays1011"
 
-  **2021-09-26** — pushed [`5fe84ffb`](https://github.com/underwindfall/GitHubPoster/commit/5fe84ffb5078df19fd9c7c68c1c1cb2c96a8f6e0) to [underwindfall/GitHubPoster](https://api.github.com/repos/underwindfall/GitHubPoster): "Update run_poster_generate.yml"
+  **2021-09-28** — opened issue [#229](https://api.github.com/repos/underwindfall/Algorithme/issues/229) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "DivideChocolate1231"
 
-  **2021-09-26** — pushed [`6833a3ad`](https://github.com/underwindfall/GitHubPoster/commit/6833a3ad2ea44a8ab3e90d42cb65122d6114df6a) to [underwindfall/GitHubPoster](https://api.github.com/repos/underwindfall/GitHubPoster): "Update run_poster_generate.yml"
+  **2021-09-28** — pushed [`8e46628b`](https://github.com/underwindfall/Algorithme/commit/8e46628b763743069010fb3aa042c053cc5d9484) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "leetcode 1231 DivideChocolate"
 
-  **2021-09-26** — pushed [`932d629e`](https://github.com/underwindfall/Algorithme/commit/932d629e05630320b5640579dccf046e3cf40fdc) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Leetcode 1197 MinKnightMoves"
+  **2021-09-28** — pushed [`8a8008b9`](https://github.com/underwindfall/Algorithme/commit/8a8008b96323f31a33a066de86c0d9fdd5253241) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Leetcode 517 SuperWashMachines"
 
-  **2021-09-26** — opened issue [#225](https://api.github.com/repos/underwindfall/Algorithme/issues/225) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "MinKnightMoves1197"
+  **2021-09-28** — closed issue [#228](https://api.github.com/repos/underwindfall/Algorithme/issues/228) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "SuperWashMachines517"
 
-  **2021-09-26** — opened issue [#224](https://api.github.com/repos/underwindfall/Algorithme/issues/224) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "ZigzagLevelOrder103"
+  **2021-09-28** — opened issue [#228](https://api.github.com/repos/underwindfall/Algorithme/issues/228) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "SuperWashMachines517"
 
-  **2021-09-26** — pushed [`6556ee66`](https://github.com/underwindfall/Algorithme/commit/6556ee6650a7ae49eca1d935fe48a07359face8f) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Leetcode 103 ZigzagLevelOrder"
+  **2021-09-28** — opened issue [#227](https://api.github.com/repos/underwindfall/Algorithme/issues/227) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "NumDecodings697"
 
-  **2021-09-26** — pushed [`be1b86d6`](https://github.com/underwindfall/Algorithme/commit/be1b86d6c3342e7f548d3c78ec901bbe605dba93) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Leetcode 526 CountArrangement"
+  **2021-09-28** — pushed [`7a3b35ae`](https://github.com/underwindfall/Algorithme/commit/7a3b35aea52b1773f062a6ffb5f50a8c84f0bcd3) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Leetcode 697 NumDecodings"
 
-  **2021-09-26** — opened issue [#223](https://api.github.com/repos/underwindfall/Algorithme/issues/223) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "CountArrangement526"
+  **2021-09-28** — pushed [`3dc2c49b`](https://github.com/underwindfall/Algorithme/commit/3dc2c49b46725b1df1bfbb9f2069670fadf95d69) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Leetcode 91 decode"
 
-  **2021-09-26** — opened issue [#222](https://api.github.com/repos/underwindfall/Algorithme/issues/222) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "NumberOfProvinces547"
+  **2021-09-28** — opened issue [#226](https://api.github.com/repos/underwindfall/Algorithme/issues/226) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "PathSumIII437"
  <!-- githubActivity ends -->
  </td><td valign="top">
 
@@ -61,10 +61,11 @@
  ## 🏊‍♂️ <a href="https://gist.github.com/underwindfall/377ee88ba1fabd1e93516e48ca9c61eb" target="_blank">Weekly Development Breakdown</a>
   <!-- codeTime starts -->
   ```text
-    Java         6 hrs 36 mins  ■■■■■■■■■■■■■■■■■■■■□□□□  68.7%
-    XML          2 hrs 32 mins  ■■■■■■■■■▦□□□□□□□□□□□□□□  26.4%
-    Kotlin             25 mins  ■■■■▥□□□□□□□□□□□□□□□□□□□   4.4%
+    Java         7 hrs 57 mins  ■■■■■■■■■■■■■■■■■■■■■□□□  72.5%
+    XML          2 hrs 32 mins  ■■■■■■■■■□□□□□□□□□□□□□□□  23.1%
+    Kotlin             25 mins  ■■■■▥□□□□□□□□□□□□□□□□□□□   3.9%
     Markdown            3 mins  ■■■▥□□□□□□□□□□□□□□□□□□□□   0.5%
+    Other               0 secs  ■■■▥□□□□□□□□□□□□□□□□□□□□   0.0%
   ```
   <!-- codeTime starts -->
   </td></tr></table>
