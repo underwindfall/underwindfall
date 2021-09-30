@@ -5,6 +5,18 @@
 
  ## 📷 Github Activity
  <!-- githubActivity starts -->
+  **2021-09-30** — pushed [`22441941`](https://github.com/underwindfall/Algorithme/commit/22441941130e6cb5d4f1d9c59a61013b8d0e8658) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Leetcode 863 DistanceK"
+
+  **2021-09-30** — opened issue [#233](https://api.github.com/repos/underwindfall/Algorithme/issues/233) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "DistanceK863"
+
+  **2021-09-30** — pushed [`3d58b0b1`](https://github.com/underwindfall/Algorithme/commit/3d58b0b1cc4f3238b5f1b33fd26ecb2a4f59b0a3) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Leetcode 332 RecontructInternary"
+
+  **2021-09-30** — pushed [`a4a58903`](https://github.com/underwindfall/wakabox-stats/commit/a4a589037a58adf13192b7c4b2e259dec3bec165) to [underwindfall/wakabox-stats](https://api.github.com/repos/underwindfall/wakabox-stats): "Update main.yml"
+
+  **2021-09-29** — opened issue [#232](https://api.github.com/repos/underwindfall/Algorithme/issues/232) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "RecontructInternary332"
+
+  **2021-09-29** — opened issue [#231](https://api.github.com/repos/underwindfall/Algorithme/issues/231) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "MaxSubArraySumLen325"
+
   **2021-09-28** — opened issue [#230](https://api.github.com/repos/underwindfall/Algorithme/issues/230) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "ShipWithinDays1011"
 
   **2021-09-28** — opened issue [#229](https://api.github.com/repos/underwindfall/Algorithme/issues/229) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "DivideChocolate1231"
@@ -12,18 +24,6 @@
   **2021-09-28** — pushed [`8e46628b`](https://github.com/underwindfall/Algorithme/commit/8e46628b763743069010fb3aa042c053cc5d9484) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "leetcode 1231 DivideChocolate"
 
   **2021-09-28** — pushed [`8a8008b9`](https://github.com/underwindfall/Algorithme/commit/8a8008b96323f31a33a066de86c0d9fdd5253241) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Leetcode 517 SuperWashMachines"
-
-  **2021-09-28** — closed issue [#228](https://api.github.com/repos/underwindfall/Algorithme/issues/228) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "SuperWashMachines517"
-
-  **2021-09-28** — opened issue [#228](https://api.github.com/repos/underwindfall/Algorithme/issues/228) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "SuperWashMachines517"
-
-  **2021-09-28** — opened issue [#227](https://api.github.com/repos/underwindfall/Algorithme/issues/227) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "NumDecodings697"
-
-  **2021-09-28** — pushed [`7a3b35ae`](https://github.com/underwindfall/Algorithme/commit/7a3b35aea52b1773f062a6ffb5f50a8c84f0bcd3) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Leetcode 697 NumDecodings"
-
-  **2021-09-28** — pushed [`3dc2c49b`](https://github.com/underwindfall/Algorithme/commit/3dc2c49b46725b1df1bfbb9f2069670fadf95d69) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Leetcode 91 decode"
-
-  **2021-09-28** — opened issue [#226](https://api.github.com/repos/underwindfall/Algorithme/issues/226) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "PathSumIII437"
  <!-- githubActivity ends -->
  </td><td valign="top">
 
@@ -61,10 +61,10 @@
  ## 🏊‍♂️ <a href="https://gist.github.com/underwindfall/377ee88ba1fabd1e93516e48ca9c61eb" target="_blank">Weekly Development Breakdown</a>
   <!-- codeTime starts -->
   ```text
-    Java         7 hrs 57 mins  ■■■■■■■■■■■■■■■■■■■■■□□□  72.5%
-    XML          2 hrs 32 mins  ■■■■■■■■■□□□□□□□□□□□□□□□  23.1%
-    Kotlin             25 mins  ■■■■▥□□□□□□□□□□□□□□□□□□□   3.9%
-    Markdown            3 mins  ■■■▥□□□□□□□□□□□□□□□□□□□□   0.5%
+    Java         8 hrs 26 mins  ■■■■■■■■■■■■■■■■■□□□□□□□  56.6%
+    Kotlin       3 hrs 27 mins  ■■■■■■■■■□□□□□□□□□□□□□□□  23.1%
+    XML          2 hrs 54 mins  ■■■■■■■■◱□□□□□□□□□□□□□□□  19.4%
+    YAML                8 mins  ■■■▦□□□□□□□□□□□□□□□□□□□□   0.9%
     Other               0 secs  ■■■▥□□□□□□□□□□□□□□□□□□□□   0.0%
   ```
   <!-- codeTime starts -->
