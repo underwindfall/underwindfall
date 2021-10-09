@@ -5,6 +5,10 @@
 
  ## 📷 Github Activity
  <!-- githubActivity starts -->
+  **2021-10-08** — opened issue [#241](https://api.github.com/repos/underwindfall/Algorithme/issues/241) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "EvaluateDivision399"
+
+  **2021-10-08** — pushed [`f34a8612`](https://github.com/underwindfall/Algorithme/commit/f34a861200622c26819e62bff81620d2f9a39378) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "leetcode EvaluateDivision399"
+
   **2021-10-07** — pushed [`27dfb486`](https://github.com/underwindfall/GitHubPoster/commit/27dfb486919b0a05ade03bec6c3eb48f7df82ba4) to [underwindfall/GitHubPoster](https://api.github.com/repos/underwindfall/GitHubPoster): "Update run_poster_generate.yml"
 
   **2021-10-07** — pushed [`cd7d7083`](https://github.com/underwindfall/GitHubPoster/commit/cd7d708335b5407c48b2dde9d26d724e08279363) to [underwindfall/GitHubPoster](https://api.github.com/repos/underwindfall/GitHubPoster): "Delete ci.yml"
@@ -20,10 +24,6 @@
   **2021-10-07** — opened issue [#240](https://api.github.com/repos/underwindfall/Algorithme/issues/240) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "ReverseWords151"
 
   **2021-10-07** — pushed [`fa1a6669`](https://github.com/underwindfall/Algorithme/commit/fa1a6669cc96cfb33c3cad1bc8f7de08073306a6) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "leetcode 647 PalindromicSubstrings"
-
-  **2021-10-07** — opened issue [#239](https://api.github.com/repos/underwindfall/Algorithme/issues/239) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "PalindromicSubstrings647"
-
-  **2021-10-06** — opened issue [#238](https://api.github.com/repos/underwindfall/Algorithme/issues/238) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "ReorganizeString767"
  <!-- githubActivity ends -->
  </td><td valign="top">
 
