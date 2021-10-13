@@ -5,6 +5,8 @@
 
  ## 📷 Github Activity
  <!-- githubActivity starts -->
+  **2021-10-13** — pushed [`f555bdc8`](https://github.com/underwindfall/underwindfall/commit/f555bdc82d5130e960041db58fe443c4237f7c87) to [underwindfall/underwindfall](https://api.github.com/repos/underwindfall/underwindfall): "Update build.yml"
+
   **2021-10-13** — opened issue [#242](https://api.github.com/repos/underwindfall/Algorithme/issues/242) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "JumpGame55"
 
   **2021-10-13** — pushed [`43cc5dbe`](https://github.com/underwindfall/Algorithme/commit/43cc5dbe8bbd55b3a2146e5ef238e3ba454c1c9a) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "leetcode 55 JumpGame"
@@ -22,8 +24,6 @@
   **2021-10-12** — pushed [`955ff9ff`](https://github.com/underwindfall/Algorithme/commit/955ff9ff2db9c74ddae314635ba33c5c0aaf89d2) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "leetcode 442 FindDuplicates"
 
   **2021-10-12** — pushed [`b305f6ee`](https://github.com/underwindfall/Algorithme/commit/b305f6ee9a6ed69ef3f1d5084a896fea6d0241d8) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "leetcode 374 GuessNumber"
-
-  **2021-10-08** — opened issue [#241](https://api.github.com/repos/underwindfall/Algorithme/issues/241) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "EvaluateDivision399"
  <!-- githubActivity ends -->
  </td><td valign="top">
 
