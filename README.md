@@ -5,6 +5,16 @@
 
  ## 📷 Github Activity
  <!-- githubActivity starts -->
+  **2021-10-14** — pushed [`39a53707`](https://github.com/underwindfall/Algorithme/commit/39a537072109d3f7fa8b0457bce02f7b35790986) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "leetcode 130 SurroundedRegions"
+
+  **2021-10-14** — pushed [`04a8e61f`](https://github.com/underwindfall/Algorithme/commit/04a8e61f5cfeec3ac22b44c27be7b9742edc00cc) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "leetcode 130 SurroundedRegions"
+
+  **2021-10-14** — pushed [`5388d3f9`](https://github.com/underwindfall/GitHubPoster/commit/5388d3f9b9da6c89a853b94973a7a5e158f1e7e5) to [underwindfall/GitHubPoster](https://api.github.com/repos/underwindfall/GitHubPoster): "Update README.md"
+
+  **2021-10-14** — opened issue [#243](https://api.github.com/repos/underwindfall/Algorithme/issues/243) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "DungeonGame174"
+
+  **2021-10-14** — pushed [`ff1a3f79`](https://github.com/underwindfall/Algorithme/commit/ff1a3f790c9208cb8c9b9bfedfd52778c9aa7f2c) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "leetcode 174 DungeonGame"
+
   **2021-10-13** — pushed [`f555bdc8`](https://github.com/underwindfall/underwindfall/commit/f555bdc82d5130e960041db58fe443c4237f7c87) to [underwindfall/underwindfall](https://api.github.com/repos/underwindfall/underwindfall): "Update build.yml"
 
   **2021-10-13** — opened issue [#242](https://api.github.com/repos/underwindfall/Algorithme/issues/242) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "JumpGame55"
@@ -14,16 +24,6 @@
   **2021-10-13** — pushed [`f271ec1f`](https://github.com/underwindfall/GitHubPoster/commit/f271ec1fefe3db958de9665d75e02f3cfd243347) to [underwindfall/GitHubPoster](https://api.github.com/repos/underwindfall/GitHubPoster): "github poster"
 
   **2021-10-13** — created branch "main" on [underwindfall/GitHubPoster](https://api.github.com/repos/underwindfall/GitHubPoster)
-
-  **2021-10-13** — created repository on [underwindfall/GitHubPoster](https://api.github.com/repos/underwindfall/GitHubPoster)
-
-  **2021-10-12** — pushed [`abae01cb`](https://github.com/underwindfall/Algorithme/commit/abae01cb16c5c0e2430fcf8e8b05cd60c6600cc8) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "leetcode 41 FirstMissingPositive"
-
-  **2021-10-12** — pushed [`e949fa11`](https://github.com/underwindfall/Algorithme/commit/e949fa1150e7d948008cce2069ed856b652783a7) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Leetcode 448 FindDisappearedNumbers"
-
-  **2021-10-12** — pushed [`955ff9ff`](https://github.com/underwindfall/Algorithme/commit/955ff9ff2db9c74ddae314635ba33c5c0aaf89d2) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "leetcode 442 FindDuplicates"
-
-  **2021-10-12** — pushed [`b305f6ee`](https://github.com/underwindfall/Algorithme/commit/b305f6ee9a6ed69ef3f1d5084a896fea6d0241d8) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "leetcode 374 GuessNumber"
  <!-- githubActivity ends -->
  </td><td valign="top">
 
