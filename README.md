@@ -5,25 +5,25 @@
 
  ## 📷 Github Activity
  <!-- githubActivity starts -->
-  **2021-10-15** — pushed [`161b63d6`](https://github.com/underwindfall/Algorithme/commit/161b63d605d5566891d21bcb92e39d7b85690d15) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "leetcode 722 RemoveComments"
+  **2021-10-17** — opened issue [#254](https://api.github.com/repos/underwindfall/Algorithme/issues/254) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "NumDistinctIslands694"
 
-  **2021-10-15** — opened issue [#245](https://api.github.com/repos/underwindfall/Algorithme/issues/245) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "CanMakePaliQueries1177"
+  **2021-10-17** — pushed [`ec264582`](https://github.com/underwindfall/Algorithme/commit/ec264582eb12ddd68a9e736fea39cc6e25f044f7) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "leetcode 694 NumDistinctIslands"
 
-  **2021-10-15** — pushed [`5abdb4ed`](https://github.com/underwindfall/Algorithme/commit/5abdb4ed12ccd246fd52407fc8deaab995c3d2fa) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "leetcode 1177 canMakePaliQueries"
+  **2021-10-16** — opened issue [#253](https://api.github.com/repos/underwindfall/Algorithme/issues/253) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "LengthOfLongestSubstringKDistinct340"
 
-  **2021-10-15** — opened issue [#244](https://api.github.com/repos/underwindfall/Algorithme/issues/244) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "BuyStockCoolDown309"
+  **2021-10-16** — pushed [`52622105`](https://github.com/underwindfall/Algorithme/commit/52622105e7eac5ed303d79cb0d1cf6ff0e5d70e5) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "leetcode 340 LengthOfLongestSubstringKDistinct"
 
-  **2021-10-15** — pushed [`42f6db09`](https://github.com/underwindfall/Algorithme/commit/42f6db09147c0f4c3c0eebebae0eb09b16fbf897) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "leetcode 309 BuyStockCoolDown"
+  **2021-10-16** — reopened issue [#74](https://api.github.com/repos/underwindfall/Algorithme/issues/74) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "LowestCommonAncestor236"
 
-  **2021-10-14** — pushed [`39a53707`](https://github.com/underwindfall/Algorithme/commit/39a537072109d3f7fa8b0457bce02f7b35790986) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "leetcode 130 SurroundedRegions"
+  **2021-10-16** — opened issue [#252](https://api.github.com/repos/underwindfall/Algorithme/issues/252) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "LowestCommonAncestorII1644"
 
-  **2021-10-14** — pushed [`04a8e61f`](https://github.com/underwindfall/Algorithme/commit/04a8e61f5cfeec3ac22b44c27be7b9742edc00cc) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "leetcode 130 SurroundedRegions"
+  **2021-10-16** — pushed [`7aacb59e`](https://github.com/underwindfall/Algorithme/commit/7aacb59e3022a1f4d4c4e7887a17b509b3d5f797) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "leetcode 1644 LowestCommonAncestorII"
 
-  **2021-10-14** — pushed [`5388d3f9`](https://github.com/underwindfall/GitHubPoster/commit/5388d3f9b9da6c89a853b94973a7a5e158f1e7e5) to [underwindfall/GitHubPoster](https://api.github.com/repos/underwindfall/GitHubPoster): "Update README.md"
+  **2021-10-16** — pushed [`8aaad601`](https://github.com/underwindfall/Algorithme/commit/8aaad601c104d5ebf18fbf680450dfbd5e92f586) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Leetcode 1650 LowestCommonAncestor"
 
-  **2021-10-14** — opened issue [#243](https://api.github.com/repos/underwindfall/Algorithme/issues/243) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "DungeonGame174"
+  **2021-10-16** — pushed [`a81b538f`](https://github.com/underwindfall/Algorithme/commit/a81b538f6001c523a82d6e9be4cee1cc1e29c2e9) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Leetcode 1650 LowestCommonAncestor"
 
-  **2021-10-14** — pushed [`ff1a3f79`](https://github.com/underwindfall/Algorithme/commit/ff1a3f790c9208cb8c9b9bfedfd52778c9aa7f2c) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "leetcode 174 DungeonGame"
+  **2021-10-16** — opened issue [#251](https://api.github.com/repos/underwindfall/Algorithme/issues/251) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "lowest-common-ancestor-of-a-binary-tree-iii/"
  <!-- githubActivity ends -->
  </td><td valign="top">
 
@@ -61,12 +61,12 @@
  ## 🏊‍♂️ <a href="https://gist.github.com/underwindfall/377ee88ba1fabd1e93516e48ca9c61eb" target="_blank">Weekly Development Breakdown</a>
   <!-- codeTime starts -->
   ```text
-    Kotlin       9 hrs 16 mins  ■■■■■■■■■■■■■■■▦□□□□□□□□  50.9%
-    Java         4 hrs 38 mins  ■■■■■■■■■▥□□□□□□□□□□□□□□  25.5%
-    XML           1 hr 46 mins  ■■■■■▦□□□□□□□□□□□□□□□□□□   9.8%
-    Python        1 hr 12 mins  ■■■■■□□□□□□□□□□□□□□□□□□□   6.6%
-    JSON               40 mins  ■■■■◱□□□□□□□□□□□□□□□□□□□   3.7%
-    Bash               25 mins  ■■■■□□□□□□□□□□□□□□□□□□□□   2.3%
+    Java        10 hrs 30 mins  ■■■■■■■■■■■■■■■■■■▦□□□□□  63.8%
+    Kotlin       3 hrs 42 mins  ■■■■■■■■▦□□□□□□□□□□□□□□□  22.5%
+    XML                43 mins  ■■■■▥□□□□□□□□□□□□□□□□□□□   4.4%
+    JSON               42 mins  ■■■■▥□□□□□□□□□□□□□□□□□□□   4.3%
+    Groovy             38 mins  ■■■■▥□□□□□□□□□□□□□□□□□□□   3.9%
+    Bash                7 mins  ■■■▦□□□□□□□□□□□□□□□□□□□□   0.8%
   ```
   <!-- codeTime starts -->
   </td></tr></table>
