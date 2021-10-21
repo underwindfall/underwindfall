@@ -5,6 +5,8 @@
 
  ## 📷 Github Activity
  <!-- githubActivity starts -->
+  **2021-10-20** — pushed [`4d58be3f`](https://github.com/underwindfall/wakabox-stats/commit/4d58be3fa682ec221c2169af6c99daf9e6af6d88) to [underwindfall/wakabox-stats](https://api.github.com/repos/underwindfall/wakabox-stats): "Update main.yml"
+
   **2021-10-18** — opened issue [#257](https://api.github.com/repos/underwindfall/Algorithme/issues/257) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "CountSquares1277"
 
   **2021-10-18** — pushed [`a5c78eec`](https://github.com/underwindfall/Algorithme/commit/a5c78eec22599ce71eb3abab1cf9dfe3a485bd35) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "leetcode 1277 CountSquares"
@@ -22,8 +24,6 @@
   **2021-10-18** — pushed [`3ad6ccb6`](https://github.com/underwindfall/Algorithme/commit/3ad6ccb6b346d598ba0323c17034589599adcd88) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "leetcode 993 IsCousins"
 
   **2021-10-17** — opened issue [#254](https://api.github.com/repos/underwindfall/Algorithme/issues/254) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "NumDistinctIslands694"
-
-  **2021-10-17** — pushed [`ec264582`](https://github.com/underwindfall/Algorithme/commit/ec264582eb12ddd68a9e736fea39cc6e25f044f7) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "leetcode 694 NumDistinctIslands"
  <!-- githubActivity ends -->
  </td><td valign="top">
 
@@ -61,12 +61,12 @@
  ## 🏊‍♂️ <a href="https://gist.github.com/underwindfall/377ee88ba1fabd1e93516e48ca9c61eb" target="_blank">Weekly Development Breakdown</a>
   <!-- codeTime starts -->
   ```text
-    Java        10 hrs 30 mins  ■■■■■■■■■■■■■■■■■■▦□□□□□  63.8%
-    Kotlin       3 hrs 42 mins  ■■■■■■■■▦□□□□□□□□□□□□□□□  22.5%
-    XML                43 mins  ■■■■▥□□□□□□□□□□□□□□□□□□□   4.4%
-    JSON               42 mins  ■■■■▥□□□□□□□□□□□□□□□□□□□   4.3%
-    Groovy             38 mins  ■■■■▥□□□□□□□□□□□□□□□□□□□   3.9%
-    Bash                7 mins  ■■■▦□□□□□□□□□□□□□□□□□□□□   0.8%
+    Java         9 hrs 40 mins  ■■■■■■■■■■■■■■■■■▦□□□□□□  59.1%
+    Kotlin               4 hrs  ■■■■■■■■■◱□□□□□□□□□□□□□□  24.4%
+    XML           1 hr 53 mins  ■■■■■■◱□□□□□□□□□□□□□□□□□  11.6%
+    JSON               26 mins  ■■■■◱□□□□□□□□□□□□□□□□□□□   2.7%
+    Groovy             20 mins  ■■■■□□□□□□□□□□□□□□□□□□□□   2.1%
+    Bash                0 secs  ■■■▥□□□□□□□□□□□□□□□□□□□□   0.1%
   ```
   <!-- codeTime starts -->
   </td></tr></table>
