@@ -5,6 +5,10 @@
 
  ## 📷 Github Activity
  <!-- githubActivity starts -->
+  **2021-10-23** — opened issue [#262](https://api.github.com/repos/underwindfall/Algorithme/issues/262) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "FlattenTree114"
+
+  **2021-10-23** — pushed [`467dec52`](https://github.com/underwindfall/Algorithme/commit/467dec52c92e3978b7b4bab47340ea891895577e) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "leetcode 114 FlattenTree"
+
   **2021-10-21** — opened issue [#261](https://api.github.com/repos/underwindfall/Algorithme/issues/261) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "MinNumberOfFrogs1419"
 
   **2021-10-21** — pushed [`30e30cc9`](https://github.com/underwindfall/Algorithme/commit/30e30cc924d12847164673a74c226a4e4b058428) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "leetcode 1419 MinNumberOfFrogs"
@@ -20,10 +24,6 @@
   **2021-10-21** — pushed [`a1f04abf`](https://github.com/underwindfall/Algorithme/commit/a1f04abffcdc34da1d8522485d20d9342b5b1f9e) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "leetcode 139 wordBreak"
 
   **2021-10-21** — opened issue [#258](https://api.github.com/repos/underwindfall/Algorithme/issues/258) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "InsertDeleteRandom380"
-
-  **2021-10-21** — pushed [`6ae16b4b`](https://github.com/underwindfall/Algorithme/commit/6ae16b4bfaa9a4471e46c4458b5ccaef291fc957) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Leetcode 380 InsertDeleteRandom"
-
-  **2021-10-20** — pushed [`4d58be3f`](https://github.com/underwindfall/wakabox-stats/commit/4d58be3fa682ec221c2169af6c99daf9e6af6d88) to [underwindfall/wakabox-stats](https://api.github.com/repos/underwindfall/wakabox-stats): "Update main.yml"
  <!-- githubActivity ends -->
  </td><td valign="top">
 
@@ -61,9 +61,9 @@
  ## 🏊‍♂️ <a href="https://gist.github.com/underwindfall/377ee88ba1fabd1e93516e48ca9c61eb" target="_blank">Weekly Development Breakdown</a>
   <!-- codeTime starts -->
   ```text
-    Java         7 hrs 41 mins  ■■■■■■■■■■■■■■■■■■■■■▦□□  76.5%
-    XML           1 hr 25 mins  ■■■■■■▦□□□□□□□□□□□□□□□□□  14.1%
-    Kotlin             56 mins  ■■■■■▦□□□□□□□□□□□□□□□□□□   9.3%
+    Java         6 hrs 16 mins  ■■■■■■■■■■■■■■■■■■■■■□□□  72.6%
+    XML           1 hr 25 mins  ■■■■■■■▥□□□□□□□□□□□□□□□□  16.4%
+    Kotlin             56 mins  ■■■■■■□□□□□□□□□□□□□□□□□□  10.8%
     Markdown            0 secs  ■■■▥□□□□□□□□□□□□□□□□□□□□   0.1%
     JSON                0 secs  ■■■▥□□□□□□□□□□□□□□□□□□□□   0.0%
     Other               0 secs  ■■■▥□□□□□□□□□□□□□□□□□□□□   0.0%
