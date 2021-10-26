@@ -5,6 +5,14 @@
 
  ## 📷 Github Activity
  <!-- githubActivity starts -->
+  **2021-10-25** — pushed [`8ea07f9e`](https://github.com/underwindfall/Algorithme/commit/8ea07f9e2a9e8e6e7ac54f41b8c3bceaac083f1c) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "leetcode 494 FindTargetSumWays"
+
+  **2021-10-25** — pushed [`5b70c183`](https://github.com/underwindfall/Algorithme/commit/5b70c18399cbc499167d6bab72160a77ea005b76) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "leetcode 114 FlattenTree"
+
+  **2021-10-25** — created branch "main" on [underwindfall/kotlin-auto-builder-](https://api.github.com/repos/underwindfall/kotlin-auto-builder-)
+
+  **2021-10-25** — created repository on [underwindfall/kotlin-auto-builder-](https://api.github.com/repos/underwindfall/kotlin-auto-builder-)
+
   **2021-10-23** — opened issue [#262](https://api.github.com/repos/underwindfall/Algorithme/issues/262) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "FlattenTree114"
 
   **2021-10-23** — pushed [`467dec52`](https://github.com/underwindfall/Algorithme/commit/467dec52c92e3978b7b4bab47340ea891895577e) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "leetcode 114 FlattenTree"
@@ -16,14 +24,6 @@
   **2021-10-21** — opened issue [#241](https://api.github.com/repos/wakatime/vscode-wakatime/issues/241) on [wakatime/vscode-wakatime](https://api.github.com/repos/wakatime/vscode-wakatime): "supported github web extensions"
 
   **2021-10-21** — opened issue [#260](https://api.github.com/repos/underwindfall/Algorithme/issues/260) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "MinStepAnagram1347"
-
-  **2021-10-21** — pushed [`286c9e3f`](https://github.com/underwindfall/Algorithme/commit/286c9e3f9927303bb2813e08108b317397e62fad) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "leetcode 1347 MinStepAnagram"
-
-  **2021-10-21** — opened issue [#259](https://api.github.com/repos/underwindfall/Algorithme/issues/259) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "WordBreak139"
-
-  **2021-10-21** — pushed [`a1f04abf`](https://github.com/underwindfall/Algorithme/commit/a1f04abffcdc34da1d8522485d20d9342b5b1f9e) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "leetcode 139 wordBreak"
-
-  **2021-10-21** — opened issue [#258](https://api.github.com/repos/underwindfall/Algorithme/issues/258) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "InsertDeleteRandom380"
  <!-- githubActivity ends -->
  </td><td valign="top">
 
@@ -61,9 +61,9 @@
  ## 🏊‍♂️ <a href="https://gist.github.com/underwindfall/377ee88ba1fabd1e93516e48ca9c61eb" target="_blank">Weekly Development Breakdown</a>
   <!-- codeTime starts -->
   ```text
-    Java         2 hrs 42 mins  ■■■■■■■■■■■■■■■■◱□□□□□□□  53.4%
-    XML           1 hr 25 mins  ■■■■■■■■■■◱□□□□□□□□□□□□□  28.0%
-    Kotlin             56 mins  ■■■■■■■■□□□□□□□□□□□□□□□□  18.5%
+    Java         2 hrs 22 mins  ■■■■■■■■■■■■■■■▥□□□□□□□□  50.1%
+    XML           1 hr 25 mins  ■■■■■■■■■■▦□□□□□□□□□□□□□  29.9%
+    Kotlin             56 mins  ■■■■■■■■◱□□□□□□□□□□□□□□□  19.8%
     Markdown            0 secs  ■■■▥□□□□□□□□□□□□□□□□□□□□   0.1%
     JSON                0 secs  ■■■▥□□□□□□□□□□□□□□□□□□□□   0.0%
     Other               0 secs  ■■■▥□□□□□□□□□□□□□□□□□□□□   0.0%
