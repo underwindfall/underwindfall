@@ -5,25 +5,25 @@
 
  ## 📷 Github Activity
  <!-- githubActivity starts -->
-  **2021-10-25** — pushed [`8ea07f9e`](https://github.com/underwindfall/Algorithme/commit/8ea07f9e2a9e8e6e7ac54f41b8c3bceaac083f1c) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "leetcode 494 FindTargetSumWays"
+  **2021-11-01** — opened issue [#271](https://api.github.com/repos/underwindfall/Algorithme/issues/271) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "LengthOfLongestSubstringTwoDistinct159"
 
-  **2021-10-25** — pushed [`5b70c183`](https://github.com/underwindfall/Algorithme/commit/5b70c18399cbc499167d6bab72160a77ea005b76) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "leetcode 114 FlattenTree"
+  **2021-11-01** — pushed [`94555b8c`](https://github.com/underwindfall/Algorithme/commit/94555b8c897d680f5afefe44a851ac90f12572f0) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "leetcode 159 LengthOfLongestSubstringTwoDistinct"
 
-  **2021-10-25** — created branch "main" on [underwindfall/kotlin-auto-builder-](https://api.github.com/repos/underwindfall/kotlin-auto-builder-)
+  **2021-11-01** — opened issue [#270](https://api.github.com/repos/underwindfall/Algorithme/issues/270) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Str2tree536"
 
-  **2021-10-25** — created repository on [underwindfall/kotlin-auto-builder-](https://api.github.com/repos/underwindfall/kotlin-auto-builder-)
+  **2021-11-01** — pushed [`b0ab8fc7`](https://github.com/underwindfall/Algorithme/commit/b0ab8fc77ea53634857858fc6ce81391d3bbc1db) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "leetcode 536 Str2tree"
 
-  **2021-10-23** — opened issue [#262](https://api.github.com/repos/underwindfall/Algorithme/issues/262) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "FlattenTree114"
+  **2021-11-01** — opened issue [#269](https://api.github.com/repos/underwindfall/Algorithme/issues/269) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "PartitionLabels763"
 
-  **2021-10-23** — pushed [`467dec52`](https://github.com/underwindfall/Algorithme/commit/467dec52c92e3978b7b4bab47340ea891895577e) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "leetcode 114 FlattenTree"
+  **2021-11-01** — pushed [`22bb0568`](https://github.com/underwindfall/Algorithme/commit/22bb056808033cf8a289f5631b030861f01b0540) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "leetcode 763 PartitionLabels"
 
-  **2021-10-21** — opened issue [#261](https://api.github.com/repos/underwindfall/Algorithme/issues/261) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "MinNumberOfFrogs1419"
+  **2021-11-01** — opened issue [#268](https://api.github.com/repos/underwindfall/Algorithme/issues/268) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "TreeToDoublyList426"
 
-  **2021-10-21** — pushed [`30e30cc9`](https://github.com/underwindfall/Algorithme/commit/30e30cc924d12847164673a74c226a4e4b058428) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "leetcode 1419 MinNumberOfFrogs"
+  **2021-11-01** — pushed [`9180c077`](https://github.com/underwindfall/Algorithme/commit/9180c077c8883c4e1dbe480ef24b3482c40083d6) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "leetcode 426 TreeToDoublyList"
 
-  **2021-10-21** — opened issue [#241](https://api.github.com/repos/wakatime/vscode-wakatime/issues/241) on [wakatime/vscode-wakatime](https://api.github.com/repos/wakatime/vscode-wakatime): "supported github web extensions"
+  **2021-11-01** — opened issue [#267](https://api.github.com/repos/underwindfall/Algorithme/issues/267) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "PopulatingNextRightPointersTreeII117"
 
-  **2021-10-21** — opened issue [#260](https://api.github.com/repos/underwindfall/Algorithme/issues/260) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "MinStepAnagram1347"
+  **2021-11-01** — pushed [`564a13f0`](https://github.com/underwindfall/Algorithme/commit/564a13f07fbea458d612f256044b01338bca03e4) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "leetcode 117 PopulatingNextRightPointersTreeII"
  <!-- githubActivity ends -->
  </td><td valign="top">
 
@@ -61,10 +61,10 @@
  ## 🏊‍♂️ <a href="https://gist.github.com/underwindfall/377ee88ba1fabd1e93516e48ca9c61eb" target="_blank">Weekly Development Breakdown</a>
   <!-- codeTime starts -->
   ```text
-    Kotlin      13 hrs 19 mins  ■■■■■■■■■■■■■■■■■■■■■■▦□  80.0%
-    Java          1 hr 47 mins  ■■■■■■□□□□□□□□□□□□□□□□□□  10.8%
+    Kotlin      13 hrs 19 mins  ■■■■■■■■■■■■■■■■■■■■■■▦□  80.3%
+    Java          1 hr 43 mins  ■■■■■■□□□□□□□□□□□□□□□□□□  10.4%
     XML                50 mins  ■■■■▦□□□□□□□□□□□□□□□□□□□   5.0%
-    Markdown           19 mins  ■■■■□□□□□□□□□□□□□□□□□□□□   1.9%
+    Markdown           19 mins  ■■■■□□□□□□□□□□□□□□□□□□□□   2.0%
     Groovy             13 mins  ■■■▦□□□□□□□□□□□□□□□□□□□□   1.4%
     Git Config          5 mins  ■■■▥□□□□□□□□□□□□□□□□□□□□   0.5%
   ```
