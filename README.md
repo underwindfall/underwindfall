@@ -5,6 +5,10 @@
 
  ## 📷 Github Activity
  <!-- githubActivity starts -->
+  **2021-11-03** — opened issue [#275](https://api.github.com/repos/underwindfall/Algorithme/issues/275) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "TrapRainWaterII407"
+
+  **2021-11-03** — pushed [`7cc563cc`](https://github.com/underwindfall/Algorithme/commit/7cc563cca3334be0c935f0a373b8ceedda5f00b8) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "leetcode 407 TrapRainWaterII"
+
   **2021-11-03** — pushed [`8f904b30`](https://github.com/underwindfall/Algorithme/commit/8f904b30be140f3535060e10cfd69351d6819cf6) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "ReorderedPowerOf2869"
 
   **2021-11-03** — opened issue [#274](https://api.github.com/repos/underwindfall/Algorithme/issues/274) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "ReorderedPowerOf2869"
@@ -20,10 +24,6 @@
   **2021-11-02** — pushed [`b47390da`](https://github.com/underwindfall/Algorithme/commit/b47390da0f9e28caa8c9dd2d3afbf7257455088d) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "leetcode 380 InsertDeleteRandom"
 
   **2021-11-02** — pushed [`332ee05a`](https://github.com/underwindfall/underwindfall/commit/332ee05a0dc5157e9277bc3d9dd994f3321d9833) to [underwindfall/underwindfall](https://api.github.com/repos/underwindfall/underwindfall): "Update TemplateReadMe.kt"
-
-  **2021-11-02** — pushed [`5938a1f9`](https://github.com/underwindfall/GitHubPoster/commit/5938a1f991633b14e37c2926d99d1537c77d387e) to [underwindfall/GitHubPoster](https://api.github.com/repos/underwindfall/GitHubPoster): "update generate script"
-
-  **2021-11-02** — pushed [`526ddac8`](https://github.com/underwindfall/GitHubPoster/commit/526ddac8b65b2ee39413e874ea7b0adbcf981f48) to [underwindfall/GitHubPoster](https://api.github.com/repos/underwindfall/GitHubPoster): "Delete leetcode.svg"
  <!-- githubActivity ends -->
  </td><td valign="top">
 
@@ -61,12 +61,12 @@
  ## 🏊‍♂️ <a href="https://gist.github.com/underwindfall/377ee88ba1fabd1e93516e48ca9c61eb" target="_blank">Weekly Development Breakdown</a>
   <!-- codeTime starts -->
   ```text
-    Kotlin       8 hrs 34 mins  ■■■■■■■■■■■■■■■■■▦□□□□□□  59.1%
-    Java         4 hrs 24 mins  ■■■■■■■■■■▦□□□□□□□□□□□□□  30.3%
-    XML                49 mins  ■■■■▦□□□□□□□□□□□□□□□□□□□   5.7%
+    Kotlin       6 hrs 50 mins  ■■■■■■■■■■■■■■▥□□□□□□□□□  46.0%
+    Java         6 hrs 15 mins  ■■■■■■■■■■■■■▥□□□□□□□□□□  42.1%
+    Groovy             34 mins  ■■■■▥□□□□□□□□□□□□□□□□□□□   3.8%
+    XML                30 mins  ■■■■◱□□□□□□□□□□□□□□□□□□□   3.4%
     Markdown           19 mins  ■■■■□□□□□□□□□□□□□□□□□□□□   2.2%
-    Groovy             13 mins  ■■■▦□□□□□□□□□□□□□□□□□□□□   1.6%
-    Git Config          5 mins  ■■■▥□□□□□□□□□□□□□□□□□□□□   0.6%
+    Text               10 mins  ■■■▦□□□□□□□□□□□□□□□□□□□□   1.2%
   ```
   <!-- codeTime starts -->
   </td></tr></table>
