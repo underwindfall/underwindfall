@@ -5,25 +5,25 @@
 
  ## 📷 Github Activity
  <!-- githubActivity starts -->
+  **2021-11-04** — opened issue [#279](https://api.github.com/repos/underwindfall/Algorithme/issues/279) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "FindMin153"
+
+  **2021-11-04** — pushed [`d4cdf3fe`](https://github.com/underwindfall/Algorithme/commit/d4cdf3fe8ffd0f85d8a58c4a6a1d5b6f6402397e) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "leetcode 153 FindMin"
+
+  **2021-11-04** — pushed [`26ea327b`](https://github.com/underwindfall/Algorithme/commit/26ea327b46c62fa0b98c999c3263ea82e11e31c6) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "leetcode 153 FindMin"
+
+  **2021-11-04** — opened issue [#278](https://api.github.com/repos/underwindfall/Algorithme/issues/278) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "FindMin154"
+
+  **2021-11-04** — opened issue [#277](https://api.github.com/repos/underwindfall/Algorithme/issues/277) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "IsPerfectSquare367"
+
+  **2021-11-04** — pushed [`3032f580`](https://github.com/underwindfall/Algorithme/commit/3032f580c3cefa13ed29485dccbc4a043eb40c71) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "leetcode 367 IsPerfectSquare"
+
+  **2021-11-04** — opened issue [#276](https://api.github.com/repos/underwindfall/Algorithme/issues/276) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "TrapRainWater42"
+
+  **2021-11-04** — pushed [`a1b2f74a`](https://github.com/underwindfall/Algorithme/commit/a1b2f74a3b7105f16249f8cedc33f51adc6c467a) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "leetcode 42 TrapRainWater"
+
   **2021-11-03** — opened issue [#275](https://api.github.com/repos/underwindfall/Algorithme/issues/275) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "TrapRainWaterII407"
 
   **2021-11-03** — pushed [`7cc563cc`](https://github.com/underwindfall/Algorithme/commit/7cc563cca3334be0c935f0a373b8ceedda5f00b8) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "leetcode 407 TrapRainWaterII"
-
-  **2021-11-03** — pushed [`8f904b30`](https://github.com/underwindfall/Algorithme/commit/8f904b30be140f3535060e10cfd69351d6819cf6) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "ReorderedPowerOf2869"
-
-  **2021-11-03** — opened issue [#274](https://api.github.com/repos/underwindfall/Algorithme/issues/274) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "ReorderedPowerOf2869"
-
-  **2021-11-03** — opened issue [#273](https://api.github.com/repos/underwindfall/Algorithme/issues/273) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "VerticalOrder314"
-
-  **2021-11-03** — pushed [`e5883f83`](https://github.com/underwindfall/Algorithme/commit/e5883f839cd5300992966ba9f248fd204457f012) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "leetcode 314 VerticalOrder"
-
-  **2021-11-02** — opened issue [#272](https://api.github.com/repos/underwindfall/Algorithme/issues/272) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "PalindromePartition131"
-
-  **2021-11-02** — pushed [`96dcff60`](https://github.com/underwindfall/Algorithme/commit/96dcff60347db86b247e817adb4c97f414af5adb) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "leetcode 131 PalindromePartition"
-
-  **2021-11-02** — pushed [`b47390da`](https://github.com/underwindfall/Algorithme/commit/b47390da0f9e28caa8c9dd2d3afbf7257455088d) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "leetcode 380 InsertDeleteRandom"
-
-  **2021-11-02** — pushed [`332ee05a`](https://github.com/underwindfall/underwindfall/commit/332ee05a0dc5157e9277bc3d9dd994f3321d9833) to [underwindfall/underwindfall](https://api.github.com/repos/underwindfall/underwindfall): "Update TemplateReadMe.kt"
  <!-- githubActivity ends -->
  </td><td valign="top">
 
@@ -61,12 +61,12 @@
  ## 🏊‍♂️ <a href="https://gist.github.com/underwindfall/377ee88ba1fabd1e93516e48ca9c61eb" target="_blank">Weekly Development Breakdown</a>
   <!-- codeTime starts -->
   ```text
-    Kotlin       6 hrs 50 mins  ■■■■■■■■■■■■■■▥□□□□□□□□□  46.0%
-    Java         6 hrs 15 mins  ■■■■■■■■■■■■■▥□□□□□□□□□□  42.1%
-    Groovy             34 mins  ■■■■▥□□□□□□□□□□□□□□□□□□□   3.8%
-    XML                30 mins  ■■■■◱□□□□□□□□□□□□□□□□□□□   3.4%
-    Markdown           19 mins  ■■■■□□□□□□□□□□□□□□□□□□□□   2.2%
-    Text               10 mins  ■■■▦□□□□□□□□□□□□□□□□□□□□   1.2%
+    Java         6 hrs 41 mins  ■■■■■■■■■■■■■■■■▥□□□□□□□  54.0%
+    Kotlin        4 hrs 2 mins  ■■■■■■■■■■■◱□□□□□□□□□□□□  32.6%
+    Groovy             42 mins  ■■■■▦□□□□□□□□□□□□□□□□□□□   5.7%
+    Markdown           25 mins  ■■■■◱□□□□□□□□□□□□□□□□□□□   3.5%
+    Text               10 mins  ■■■▦□□□□□□□□□□□□□□□□□□□□   1.5%
+    JSON                8 mins  ■■■▦□□□□□□□□□□□□□□□□□□□□   1.1%
   ```
   <!-- codeTime starts -->
   </td></tr></table>
