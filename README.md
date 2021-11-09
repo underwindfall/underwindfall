@@ -5,25 +5,25 @@
 
  ## 📷 Github Activity
  <!-- githubActivity starts -->
-  **2021-11-07** — pushed [`eebd7b2f`](https://github.com/underwindfall/GitHubPoster/commit/eebd7b2f9c72b92769ef1b94cc7bab58c8f8a762) to [underwindfall/GitHubPoster](https://api.github.com/repos/underwindfall/GitHubPoster): "change nike to nike running"
+  **2021-11-09** — pushed [`535439a4`](https://github.com/underwindfall/underwindfall/commit/535439a4675bfcacd5e7b25e4cd2b370ac757629) to [underwindfall/underwindfall](https://api.github.com/repos/underwindfall/underwindfall): "treat body null NPE issue in PR,issue,comment"
 
-  **2021-11-06** — opened issue [#283](https://api.github.com/repos/underwindfall/Algorithme/issues/283) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "UniquePathsIII980"
+  **2021-11-09** — deleted branch "qy/feature/update_deps" on [underwindfall/PowerPermission](https://api.github.com/repos/underwindfall/PowerPermission)
 
-  **2021-11-06** — pushed [`d825f27f`](https://github.com/underwindfall/Algorithme/commit/d825f27f9f201b1a4caba45fcee63990119d197d) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "leetcode 980 UniquePathsIII980"
+  **2021-11-09** — pushed [`9a3f0dde`](https://github.com/underwindfall/PowerPermission/commit/9a3f0dde46fcfead4204359f7719e595383b3e13) to [underwindfall/PowerPermission](https://api.github.com/repos/underwindfall/PowerPermission): "update all deps and move target api to 31 (#31)"
 
-  **2021-11-06** — pushed [`08946c9c`](https://github.com/underwindfall/Algorithme/commit/08946c9c85944034737cbdc80da6d02b9faf7969) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "leetcode1465 MaxArea"
+  **2021-11-09** — closed PR [#31](https://api.github.com/repos/underwindfall/PowerPermission/pulls/31) to [underwindfall/PowerPermission](https://api.github.com/repos/underwindfall/PowerPermission): "update all deps and move target api to 31"
 
-  **2021-11-06** — pushed [`2e4019cb`](https://github.com/underwindfall/Algorithme/commit/2e4019cb74b5b02e7874bfdd927ce568f7d1de0d) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "leetcode 957 PrisonAfterNDays"
+  **2021-11-09** — opened PR [#31](https://api.github.com/repos/underwindfall/PowerPermission/pulls/31) to [underwindfall/PowerPermission](https://api.github.com/repos/underwindfall/PowerPermission): "update all deps and move target api to 31"
 
-  **2021-11-06** — opened issue [#282](https://api.github.com/repos/underwindfall/Algorithme/issues/282) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "MostVisitedPattern1152"
+  **2021-11-09** — created branch "qy/feature/update_deps" on [underwindfall/PowerPermission](https://api.github.com/repos/underwindfall/PowerPermission)
 
-  **2021-11-06** — pushed [`7ca8febe`](https://github.com/underwindfall/Algorithme/commit/7ca8febee7f49c5b67406b9e3b05bc8e907ac6aa) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "leetcode 1152 MostVisitedPattern"
+  **2021-11-09** — opened issue [#30](https://api.github.com/repos/underwindfall/PowerPermission/issues/30) on [underwindfall/PowerPermission](https://api.github.com/repos/underwindfall/PowerPermission): "deprected requestPermissions use registerForActivityResult instead "
 
-  **2021-11-06** — opened issue [#281](https://api.github.com/repos/underwindfall/Algorithme/issues/281) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "TopKFrequent692"
+  **2021-11-08** — opened issue [#289](https://api.github.com/repos/underwindfall/Algorithme/issues/289) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "FindDisappearedNumbers448"
 
-  **2021-11-06** — pushed [`da187e9a`](https://github.com/underwindfall/Algorithme/commit/da187e9a347be737465b0f6a8a4bf24c0b6610ad) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "leetcode TopKFrequent"
+  **2021-11-08** — pushed [`9315b4c5`](https://github.com/underwindfall/Algorithme/commit/9315b4c5f6b011f8799171de767d5e9d56045440) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "leetcode 448 FindDisappearedNumbers"
 
-  **2021-11-06** — commented on [#64](https://github.com/underwindfall/Algorithme/issues/64#issuecomment-962463347) in [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme)
+  **2021-11-08** — created repository on [underwindfall/OSSRH-74903](https://api.github.com/repos/underwindfall/OSSRH-74903)
  <!-- githubActivity ends -->
  </td><td valign="top">
 
@@ -61,12 +61,12 @@
  ## 🏊‍♂️ <a href="https://gist.github.com/underwindfall/377ee88ba1fabd1e93516e48ca9c61eb" target="_blank">Weekly Development Breakdown</a>
   <!-- codeTime starts -->
   ```text
-    Java        12 hrs 22 mins  ■■■■■■■■■■■■■■■■■■◱□□□□□  61.5%
-    Kotlin       5 hrs 51 mins  ■■■■■■■■■■▥□□□□□□□□□□□□□  29.2%
-    Groovy             47 mins  ■■■■▥□□□□□□□□□□□□□□□□□□□   3.9%
-    XML                23 mins  ■■■■□□□□□□□□□□□□□□□□□□□□   2.0%
-    Markdown           11 mins  ■■■▦□□□□□□□□□□□□□□□□□□□□   0.9%
-    Text               10 mins  ■■■▦□□□□□□□□□□□□□□□□□□□□   0.9%
+    Java        13 hrs 23 mins  ■■■■■■■■■■■■■■■■■■▥□□□□□  62.7%
+    Kotlin       5 hrs 51 mins  ■■■■■■■■■■□□□□□□□□□□□□□□  27.5%
+    Groovy             47 mins  ■■■■◱□□□□□□□□□□□□□□□□□□□   3.7%
+    XML                23 mins  ■■■■□□□□□□□□□□□□□□□□□□□□   1.8%
+    Markdown           12 mins  ■■■▦□□□□□□□□□□□□□□□□□□□□   1.0%
+    Text               10 mins  ■■■▦□□□□□□□□□□□□□□□□□□□□   0.8%
   ```
   <!-- codeTime starts -->
   </td></tr></table>
