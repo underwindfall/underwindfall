@@ -156,7 +156,7 @@ data class IssueCommentEventPayload(
 data class Comment(
   @Json(name = "html_url")
   val htmlUrl: String,
-  val body: String
+  val body: String?
 )
 
 @JsonClass(generateAdapter = true)
@@ -199,7 +199,7 @@ data class PullRequestPayload(
 data class PullRequest(
   val url: String,
   val title: String,
-  val body: String
+  val body: String?
 )
 
 @JsonClass(generateAdapter = true)
