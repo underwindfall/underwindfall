@@ -5,6 +5,16 @@
 
  ## 📷 Github Activity
  <!-- githubActivity starts -->
+  **2021-11-13** — pushed [`3e4d00a1`](https://github.com/underwindfall/GitHubPoster/commit/3e4d00a16f543e6bc8604a00af9adefb1c6d2854) to [underwindfall/GitHubPoster](https://api.github.com/repos/underwindfall/GitHubPoster): "Update run_poster_generate.yml"
+
+  **2021-11-13** — pushed [`c8648cbf`](https://github.com/underwindfall/GitHubPoster/commit/c8648cbf5371c8cab92818d49a4ed98c695a7bc2) to [underwindfall/GitHubPoster](https://api.github.com/repos/underwindfall/GitHubPoster): "Update run_poster_generate.yml"
+
+  **2021-11-13** — pushed [`f80b59db`](https://github.com/underwindfall/GitHubPoster/commit/f80b59dbff5e3cf5eef7477d262f61107884a1d7) to [underwindfall/GitHubPoster](https://api.github.com/repos/underwindfall/GitHubPoster): "Update run_poster_generate.yml"
+
+  **2021-11-13** — pushed [`2eb9af56`](https://github.com/underwindfall/Algorithme/commit/2eb9af569f1dc66fb4c17af804dfd0d7a99511b7) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Add files via upload"
+
+  **2021-11-13** — pushed [`347a3ef6`](https://github.com/underwindfall/Algorithme/commit/347a3ef6f1aa5f080052586cd75a799a0ff6b62a) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Add files via upload"
+
   **2021-11-11** — opened issue [#297](https://api.github.com/repos/underwindfall/Algorithme/issues/297) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "GuessII375"
 
   **2021-11-11** — pushed [`d80de5e4`](https://github.com/underwindfall/Algorithme/commit/d80de5e40cb20b90f222adc4c75ba09df7f347f9) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "leetcode 375 GuessII"
@@ -14,16 +24,6 @@
   **2021-11-11** — opened issue [#296](https://api.github.com/repos/underwindfall/Algorithme/issues/296) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "MaxProfit1648"
 
   **2021-11-11** — opened issue [#295](https://api.github.com/repos/underwindfall/Algorithme/issues/295) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "SnakeGame353"
-
-  **2021-11-11** — pushed [`fcdb9839`](https://github.com/underwindfall/Algorithme/commit/fcdb983958a5ee7ec6f0f2e1286f9c2151ec7c14) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "leetcode 353 SnakeGame"
-
-  **2021-11-11** — pushed [`316f27c2`](https://github.com/underwindfall/Algorithme/commit/316f27c22ca0a7eac4f4a3746f6a4e25abe8db30) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "leetcode 1120 MaximumAverageSubtree"
-
-  **2021-11-11** — opened issue [#294](https://api.github.com/repos/underwindfall/Algorithme/issues/294) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "ProductExceptSelf238"
-
-  **2021-11-11** — pushed [`b2d70b50`](https://github.com/underwindfall/Algorithme/commit/b2d70b50446c4e28ecd20e233060fc6206d43cc7) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "leetcode 238 productExceptSelf"
-
-  **2021-11-11** — opened issue [#293](https://api.github.com/repos/underwindfall/Algorithme/issues/293) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "ConnectSticks1167"
  <!-- githubActivity ends -->
  </td><td valign="top">
 
@@ -61,12 +61,12 @@
  ## 🏊‍♂️ <a href="https://gist.github.com/underwindfall/377ee88ba1fabd1e93516e48ca9c61eb" target="_blank">Weekly Development Breakdown</a>
   <!-- codeTime starts -->
   ```text
-    Java         9 hrs 37 mins  ■■■■■■■■■■■■■■■■◱□□□□□□□  52.9%
-    Kotlin       7 hrs 41 mins  ■■■■■■■■■■■■■▥□□□□□□□□□□  42.2%
-    Groovy             21 mins  ■■■■□□□□□□□□□□□□□□□□□□□□   2.0%
-    Python              8 mins  ■■■▦□□□□□□□□□□□□□□□□□□□□   0.7%
-    Markdown            6 mins  ■■■▥□□□□□□□□□□□□□□□□□□□□   0.6%
-    YAML                6 mins  ■■■▥□□□□□□□□□□□□□□□□□□□□   0.6%
+    Java        10 hrs 38 mins  ■■■■■■■■■■■■■■■▥□□□□□□□□  50.3%
+    Kotlin       8 hrs 13 mins  ■■■■■■■■■■■■▦□□□□□□□□□□□  38.9%
+    Groovy        1 hr 20 mins  ■■■■■□□□□□□□□□□□□□□□□□□□   6.4%
+    Bash               22 mins  ■■■■□□□□□□□□□□□□□□□□□□□□   1.8%
+    Python              8 mins  ■■■▦□□□□□□□□□□□□□□□□□□□□   0.6%
+    Markdown            6 mins  ■■■▥□□□□□□□□□□□□□□□□□□□□   0.5%
   ```
   <!-- codeTime starts -->
   </td></tr></table>
