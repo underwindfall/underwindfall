@@ -5,6 +5,8 @@
 
  ## 📷 Github Activity
  <!-- githubActivity starts -->
+  **2021-11-15** — opened issue [#299](https://api.github.com/repos/underwindfall/Algorithme/issues/299) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "LargestDivisibleSubset368"
+
   **2021-11-14** — closed issue [#84](https://api.github.com/repos/underwindfall/Algorithme/issues/84) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "InorderTraversal94"
 
   **2021-11-14** — closed issue [#83](https://api.github.com/repos/underwindfall/Algorithme/issues/83) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "PreorderTraversal144"
@@ -22,8 +24,6 @@
   **2021-11-14** — closed issue [#67](https://api.github.com/repos/underwindfall/Algorithme/issues/67) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "MaxDepthBinaryTree104"
 
   **2021-11-14** — opened issue [#298](https://api.github.com/repos/underwindfall/Algorithme/issues/298) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "CombinationIterator1286"
-
-  **2021-11-14** — pushed [`c1586d76`](https://github.com/underwindfall/Algorithme/commit/c1586d76b2a27c2600368cd2c6597e60a03d6a2f) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "leetcode 1286 CombinationIterator"
  <!-- githubActivity ends -->
  </td><td valign="top">
 
@@ -61,12 +61,12 @@
  ## 🏊‍♂️ <a href="https://gist.github.com/underwindfall/377ee88ba1fabd1e93516e48ca9c61eb" target="_blank">Weekly Development Breakdown</a>
   <!-- codeTime starts -->
   ```text
-    Kotlin       8 hrs 13 mins  ■■■■■■■■■■■■■■□□□□□□□□□□  43.7%
-    Java          8 hrs 5 mins  ■■■■■■■■■■■■■▦□□□□□□□□□□  42.9%
+    Kotlin       8 hrs 13 mins  ■■■■■■■■■■■■■■□□□□□□□□□□  44.1%
+    Java          8 hrs 6 mins  ■■■■■■■■■■■■■■□□□□□□□□□□  43.5%
     Groovy        1 hr 20 mins  ■■■■■◱□□□□□□□□□□□□□□□□□□   7.2%
-    Markdown           24 mins  ■■■■□□□□□□□□□□□□□□□□□□□□   2.1%
+    Markdown           23 mins  ■■■■□□□□□□□□□□□□□□□□□□□□   2.1%
     Bash               22 mins  ■■■■□□□□□□□□□□□□□□□□□□□□   2.0%
-    YAML                6 mins  ■■■▥□□□□□□□□□□□□□□□□□□□□   0.6%
+    JSON                4 mins  ■■■▥□□□□□□□□□□□□□□□□□□□□   0.4%
   ```
   <!-- codeTime starts -->
   </td></tr></table>
