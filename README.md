@@ -5,6 +5,12 @@
 
  ## 📷 Github Activity
  <!-- githubActivity starts -->
+  **2021-11-24** — closed issue [#173](https://api.github.com/repos/underwindfall/Algorithme/issues/173) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "ConvertBSTToGreaterSumTree538"
+
+  **2021-11-24** — pushed [`02a4318c`](https://github.com/underwindfall/Algorithme/commit/02a4318c2962ab401662f74bc49424d5e3c579d5) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "leetcode 1028 RecoverFromPreorder"
+
+  **2021-11-23** — pushed [`47ec877e`](https://github.com/underwindfall/Algorithme/commit/47ec877e6007a5dcca1cfe425d75b4470bacbb98) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "leetcode 549 LongestConsecutiveII"
+
   **2021-11-15** — opened issue [#299](https://api.github.com/repos/underwindfall/Algorithme/issues/299) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "LargestDivisibleSubset368"
 
   **2021-11-14** — closed issue [#84](https://api.github.com/repos/underwindfall/Algorithme/issues/84) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "InorderTraversal94"
@@ -18,12 +24,6 @@
   **2021-11-14** — closed issue [#79](https://api.github.com/repos/underwindfall/Algorithme/issues/79) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "[BST]InsertNumberBST701"
 
   **2021-11-14** — closed issue [#88](https://api.github.com/repos/underwindfall/Algorithme/issues/88) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "SumRootToLeaf129"
-
-  **2021-11-14** — closed issue [#69](https://api.github.com/repos/underwindfall/Algorithme/issues/69) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "PathSum112"
-
-  **2021-11-14** — closed issue [#67](https://api.github.com/repos/underwindfall/Algorithme/issues/67) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "MaxDepthBinaryTree104"
-
-  **2021-11-14** — opened issue [#298](https://api.github.com/repos/underwindfall/Algorithme/issues/298) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "CombinationIterator1286"
  <!-- githubActivity ends -->
  </td><td valign="top">
 
@@ -61,12 +61,12 @@
  ## 🏊‍♂️ <a href="https://gist.github.com/underwindfall/377ee88ba1fabd1e93516e48ca9c61eb" target="_blank">Weekly Development Breakdown</a>
   <!-- codeTime starts -->
   ```text
-    Kotlin       4 hrs 43 mins  ■■■■■■■■■■■■■■▦□□□□□□□□□  46.5%
-    Groovy       2 hrs 15 mins  ■■■■■■■■▦□□□□□□□□□□□□□□□  22.1%
-    Java          2 hrs 9 mins  ■■■■■■■■▥□□□□□□□□□□□□□□□  21.3%
-    XML                22 mins  ■■■■◱□□□□□□□□□□□□□□□□□□□   3.6%
-    Properties         16 mins  ■■■■□□□□□□□□□□□□□□□□□□□□   2.6%
-    Markdown            6 mins  ■■■▦□□□□□□□□□□□□□□□□□□□□   1.1%
+    Kotlin       7 hrs 10 mins  ■■■■■■■■■■■■■■■■■■▦□□□□□  63.7%
+    Groovy       2 hrs 13 mins  ■■■■■■■■◱□□□□□□□□□□□□□□□  19.8%
+    XML                40 mins  ■■■■■□□□□□□□□□□□□□□□□□□□   6.0%
+    Java               23 mins  ■■■■◱□□□□□□□□□□□□□□□□□□□   3.5%
+    Properties         15 mins  ■■■■□□□□□□□□□□□□□□□□□□□□   2.4%
+    JSON               11 mins  ■■■■□□□□□□□□□□□□□□□□□□□□   1.7%
   ```
   <!-- codeTime starts -->
   </td></tr></table>
