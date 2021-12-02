@@ -5,6 +5,14 @@
 
  ## 📷 Github Activity
  <!-- githubActivity starts -->
+  **2021-12-01** — pushed [`aaf20248`](https://github.com/underwindfall/advent-of-code-2021/commit/aaf20248945a934e7f185b06f87b80188f46f97a) to [underwindfall/advent-of-code-2021](https://api.github.com/repos/underwindfall/advent-of-code-2021): "complete doc"
+
+  **2021-12-01** — pushed [`57118420`](https://github.com/underwindfall/advent-of-code-2021/commit/5711842034d2de47c4a3747f09e21a48bc4bbc40) to [underwindfall/advent-of-code-2021](https://api.github.com/repos/underwindfall/advent-of-code-2021): "Day-01"
+
+  **2021-12-01** — created branch "main" on [underwindfall/advent-of-code-2021](https://api.github.com/repos/underwindfall/advent-of-code-2021)
+
+  **2021-12-01** — created repository on [underwindfall/advent-of-code-2021](https://api.github.com/repos/underwindfall/advent-of-code-2021)
+
   **2021-11-29** — opened issue [#304](https://api.github.com/repos/underwindfall/Algorithme/issues/304) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "RandomFlipMatrix519"
 
   **2021-11-29** — pushed [`830634c5`](https://github.com/underwindfall/Algorithme/commit/830634c5b6d2be0c6fe75c028ff130a422b740ba) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "leetcode519 RandomFlipMatrix"
@@ -16,14 +24,6 @@
   **2021-11-29** — pushed [`f7ed386a`](https://github.com/underwindfall/Algorithme/commit/f7ed386a38e911cd2adabd1ec8f2526d1720fc5b) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "leetcode 786 KthSmallestPrimeFraction"
 
   **2021-11-29** — pushed [`17827ad7`](https://github.com/underwindfall/Algorithme/commit/17827ad70450dc86b5fecdd55241b3f36c0bd42e) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "FindPrimeFactor"
-
-  **2021-11-26** — closed issue [#250](https://api.github.com/repos/underwindfall/Algorithme/issues/250) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "DiameterOfBinaryTree543"
-
-  **2021-11-26** — pushed [`9402de87`](https://github.com/underwindfall/Algorithme/commit/9402de87b5fce39ea9e324e98665b7dfcd0345e6) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "leetcode 270 ClosestBSTValue"
-
-  **2021-11-26** — closed issue [#248](https://api.github.com/repos/underwindfall/Algorithme/issues/248) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "ClosestBSTValue270"
-
-  **2021-11-26** — pushed [`cdaee4e3`](https://github.com/underwindfall/Algorithme/commit/cdaee4e33ef94fdaa53c0e81c20b99997bdfd36a) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "leetcode 687 LongestUnivaluePath"
  <!-- githubActivity ends -->
  </td><td valign="top">
 
@@ -61,12 +61,12 @@
  ## 🏊‍♂️ <a href="https://gist.github.com/underwindfall/377ee88ba1fabd1e93516e48ca9c61eb" target="_blank">Weekly Development Breakdown</a>
   <!-- codeTime starts -->
   ```text
-    Java        11 hrs 13 mins  ■■■■■■■■■■■■■■▦□□□□□□□□□  46.6%
-    CMake        4 hrs 29 mins  ■■■■■■■■□□□□□□□□□□□□□□□□  18.6%
-    Groovy       2 hrs 14 mins  ■■■■■▦□□□□□□□□□□□□□□□□□□   9.3%
-    Kotlin       2 hrs 11 mins  ■■■■■▦□□□□□□□□□□□□□□□□□□   9.1%
-    JSON               54 mins  ■■■■▥□□□□□□□□□□□□□□□□□□□   3.8%
-    Makefile           44 mins  ■■■■◱□□□□□□□□□□□□□□□□□□□   3.0%
+    Java         9 hrs 56 mins  ■■■■■■■■■■■■■■■■□□□□□□□□  52.0%
+    CMake        2 hrs 29 mins  ■■■■■■▥□□□□□□□□□□□□□□□□□  13.1%
+    Groovy        2 hrs 6 mins  ■■■■■■◱□□□□□□□□□□□□□□□□□  11.1%
+    Kotlin        1 hr 40 mins  ■■■■■▥□□□□□□□□□□□□□□□□□□   8.8%
+    Makefile           37 mins  ■■■■◱□□□□□□□□□□□□□□□□□□□   3.2%
+    YAML               21 mins  ■■■■□□□□□□□□□□□□□□□□□□□□   1.9%
   ```
   <!-- codeTime starts -->
   </td></tr></table>
