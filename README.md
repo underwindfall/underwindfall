@@ -5,6 +5,14 @@
 
  ## 📷 Github Activity
  <!-- githubActivity starts -->
+  **2021-12-02** — opened issue [#305](https://api.github.com/repos/underwindfall/Algorithme/issues/305) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "LargestSumAfterKNegations1005"
+
+  **2021-12-02** — pushed [`5af9d239`](https://github.com/underwindfall/Algorithme/commit/5af9d239140c362ecc84599bb8b4281339e4da8d) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "leetcode 1005 LargestSumAfterKNegations"
+
+  **2021-12-02** — pushed [`3815c762`](https://github.com/underwindfall/advent-of-code-2021/commit/3815c762623dd57fcb643c5cde7c8e0335d3cfd7) to [underwindfall/advent-of-code-2021](https://api.github.com/repos/underwindfall/advent-of-code-2021): "Day-02"
+
+  **2021-12-02** — pushed [`00203746`](https://github.com/underwindfall/advent-of-code-2021/commit/002037460ca71e70ab6b2f7bbf7dce9b46531512) to [underwindfall/advent-of-code-2021](https://api.github.com/repos/underwindfall/advent-of-code-2021): "Day 2"
+
   **2021-12-01** — pushed [`aaf20248`](https://github.com/underwindfall/advent-of-code-2021/commit/aaf20248945a934e7f185b06f87b80188f46f97a) to [underwindfall/advent-of-code-2021](https://api.github.com/repos/underwindfall/advent-of-code-2021): "complete doc"
 
   **2021-12-01** — pushed [`57118420`](https://github.com/underwindfall/advent-of-code-2021/commit/5711842034d2de47c4a3747f09e21a48bc4bbc40) to [underwindfall/advent-of-code-2021](https://api.github.com/repos/underwindfall/advent-of-code-2021): "Day-01"
@@ -16,14 +24,6 @@
   **2021-11-29** — opened issue [#304](https://api.github.com/repos/underwindfall/Algorithme/issues/304) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "RandomFlipMatrix519"
 
   **2021-11-29** — pushed [`830634c5`](https://github.com/underwindfall/Algorithme/commit/830634c5b6d2be0c6fe75c028ff130a422b740ba) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "leetcode519 RandomFlipMatrix"
-
-  **2021-11-29** — pushed [`87f212c9`](https://github.com/underwindfall/Algorithme/commit/87f212c98853ad55785c39c0a01c885f4abbb759) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "leetcode519 RandomFlipMatrix"
-
-  **2021-11-29** — opened issue [#303](https://api.github.com/repos/underwindfall/Algorithme/issues/303) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "kthSmallestPrimeFraction"
-
-  **2021-11-29** — pushed [`f7ed386a`](https://github.com/underwindfall/Algorithme/commit/f7ed386a38e911cd2adabd1ec8f2526d1720fc5b) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "leetcode 786 KthSmallestPrimeFraction"
-
-  **2021-11-29** — pushed [`17827ad7`](https://github.com/underwindfall/Algorithme/commit/17827ad70450dc86b5fecdd55241b3f36c0bd42e) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "FindPrimeFactor"
  <!-- githubActivity ends -->
  </td><td valign="top">
 
@@ -61,12 +61,12 @@
  ## 🏊‍♂️ <a href="https://gist.github.com/underwindfall/377ee88ba1fabd1e93516e48ca9c61eb" target="_blank">Weekly Development Breakdown</a>
   <!-- codeTime starts -->
   ```text
-    Java         9 hrs 56 mins  ■■■■■■■■■■■■■■■■□□□□□□□□  52.0%
-    CMake        2 hrs 29 mins  ■■■■■■▥□□□□□□□□□□□□□□□□□  13.1%
-    Groovy        2 hrs 6 mins  ■■■■■■◱□□□□□□□□□□□□□□□□□  11.1%
-    Kotlin        1 hr 40 mins  ■■■■■▥□□□□□□□□□□□□□□□□□□   8.8%
-    Makefile           37 mins  ■■■■◱□□□□□□□□□□□□□□□□□□□   3.2%
-    YAML               21 mins  ■■■■□□□□□□□□□□□□□□□□□□□□   1.9%
+    Java         8 hrs 31 mins  ■■■■■■■■■■■■■■■■■◱□□□□□□  57.9%
+    Kotlin       2 hrs 59 mins  ■■■■■■■■◱□□□□□□□□□□□□□□□  20.3%
+    Groovy        1 hr 26 mins  ■■■■■▦□□□□□□□□□□□□□□□□□□   9.8%
+    CMake              22 mins  ■■■■□□□□□□□□□□□□□□□□□□□□   2.5%
+    JSON               18 mins  ■■■■□□□□□□□□□□□□□□□□□□□□   2.1%
+    YAML               17 mins  ■■■■□□□□□□□□□□□□□□□□□□□□   2.0%
   ```
   <!-- codeTime starts -->
   </td></tr></table>
