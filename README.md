@@ -5,25 +5,25 @@
 
  ## 📷 Github Activity
  <!-- githubActivity starts -->
+  **2021-12-05** — closed issue [#129](https://api.github.com/repos/underwindfall/Algorithme/issues/129) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "LongestZigzagPath1372"
+
+  **2021-12-05** — closed issue [#201](https://api.github.com/repos/underwindfall/Algorithme/issues/201) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "MaximumAverageSubtree1120"
+
+  **2021-12-04** — closed issue [#124](https://api.github.com/repos/underwindfall/Algorithme/issues/124) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "LongestConsecutive298"
+
+  **2021-12-04** — closed issue [#174](https://api.github.com/repos/underwindfall/Algorithme/issues/174) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "BalanceBST1382"
+
+  **2021-12-04** — pushed [`08f2ea62`](https://github.com/underwindfall/advent-of-code-2021/commit/08f2ea620efeb0763334230e4bdcb9a97fa471c0) to [underwindfall/advent-of-code-2021](https://api.github.com/repos/underwindfall/advent-of-code-2021): "Day-04"
+
+  **2021-12-04** — reopened issue [#74](https://api.github.com/repos/underwindfall/Algorithme/issues/74) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "LowestCommonAncestor236"
+
+  **2021-12-04** — closed issue [#74](https://api.github.com/repos/underwindfall/Algorithme/issues/74) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "LowestCommonAncestor236"
+
+  **2021-12-04** — closed issue [#255](https://api.github.com/repos/underwindfall/Algorithme/issues/255) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "IsCousins993"
+
   **2021-12-04** — closed issue [#76](https://api.github.com/repos/underwindfall/Algorithme/issues/76) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "In_Post_Order_BuildTree106"
 
   **2021-12-04** — closed issue [#75](https://api.github.com/repos/underwindfall/Algorithme/issues/75) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Pre_In_Order_BuildTree105"
-
-  **2021-12-04** — closed issue [#77](https://api.github.com/repos/underwindfall/Algorithme/issues/77) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "BstFromPreorder1008"
-
-  **2021-12-04** — closed issue [#163](https://api.github.com/repos/underwindfall/Algorithme/issues/163) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "CountNodes222"
-
-  **2021-12-04** — closed issue [#68](https://api.github.com/repos/underwindfall/Algorithme/issues/68) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "MinDepth"
-
-  **2021-12-04** — closed issue [#284](https://api.github.com/repos/underwindfall/Algorithme/issues/284) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "NumTrees96"
-
-  **2021-12-03** — reopened issue [#73](https://api.github.com/repos/underwindfall/Algorithme/issues/73) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "SumNumbers129"
-
-  **2021-12-03** — pushed [`2c23fa4c`](https://github.com/underwindfall/advent-of-code-2021/commit/2c23fa4cc63f81c758a40001cd0d8d49128739d1) to [underwindfall/advent-of-code-2021](https://api.github.com/repos/underwindfall/advent-of-code-2021): "Day-03"
-
-  **2021-12-03** — pushed [`18447e8a`](https://github.com/underwindfall/advent-of-code-2021/commit/18447e8aa705b52345ee0babef4fe9208991c56c) to [underwindfall/advent-of-code-2021](https://api.github.com/repos/underwindfall/advent-of-code-2021): "Day-03"
-
-  **2021-12-03** — reopened issue [#26](https://api.github.com/repos/underwindfall/Algorithme/issues/26) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "FlattenList430"
  <!-- githubActivity ends -->
  </td><td valign="top">
 
@@ -61,12 +61,12 @@
  ## 🏊‍♂️ <a href="https://gist.github.com/underwindfall/377ee88ba1fabd1e93516e48ca9c61eb" target="_blank">Weekly Development Breakdown</a>
   <!-- codeTime starts -->
   ```text
-    Java         8 hrs 36 mins  ■■■■■■■■■■■■■■■■▥□□□□□□□  54.1%
-    Kotlin       4 hrs 36 mins  ■■■■■■■■■■▥□□□□□□□□□□□□□  28.9%
-    Groovy             53 mins  ■■■■▦□□□□□□□□□□□□□□□□□□□   5.6%
-    CMake              22 mins  ■■■■□□□□□□□□□□□□□□□□□□□□   2.4%
-    JSON               18 mins  ■■■■□□□□□□□□□□□□□□□□□□□□   2.0%
-    YAML               17 mins  ■■■■□□□□□□□□□□□□□□□□□□□□   1.8%
+    Java         7 hrs 56 mins  ■■■■■■■■■■■■■■■□□□□□□□□□  48.4%
+    Kotlin       5 hrs 37 mins  ■■■■■■■■■■■▦□□□□□□□□□□□□  34.3%
+    Groovy             55 mins  ■■■■▦□□□□□□□□□□□□□□□□□□□   5.6%
+    CMake              22 mins  ■■■■□□□□□□□□□□□□□□□□□□□□   2.3%
+    Markdown           20 mins  ■■■■□□□□□□□□□□□□□□□□□□□□   2.1%
+    JSON               18 mins  ■■■■□□□□□□□□□□□□□□□□□□□□   1.9%
   ```
   <!-- codeTime starts -->
   </td></tr></table>
