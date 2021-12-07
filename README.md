@@ -5,25 +5,25 @@
 
  ## 📷 Github Activity
  <!-- githubActivity starts -->
-  **2021-12-05** — pushed [`5ca2a114`](https://github.com/underwindfall/GitHubPoster/commit/5ca2a114ab9901e76f58081e724988b4664f2e9a) to [underwindfall/GitHubPoster](https://api.github.com/repos/underwindfall/GitHubPoster): "Update run_poster_generate.yml"
+  **2021-12-07** — opened issue [#309](https://api.github.com/repos/underwindfall/Algorithme/issues/309) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "SellDiminishingBalls1648"
 
-  **2021-12-05** — pushed [`096301d7`](https://github.com/underwindfall/GitHubPoster/commit/096301d73063fcca6762b6aa4650ff8aff83bfca) to [underwindfall/GitHubPoster](https://api.github.com/repos/underwindfall/GitHubPoster): "Update run_poster_generate.yml"
+  **2021-12-07** — pushed [`0e3b8dab`](https://github.com/underwindfall/Algorithme/commit/0e3b8dab0e6730be322822054a9b09ca39f33da3) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "leetcode 1648 SellDiminishingBalls"
 
-  **2021-12-05** — pushed [`21ed1c8f`](https://github.com/underwindfall/GitHubPoster/commit/21ed1c8fbc9991f89cd682b8df8297e68c0992f8) to [underwindfall/GitHubPoster](https://api.github.com/repos/underwindfall/GitHubPoster): "Update run_poster_generate.yml"
+  **2021-12-07** — pushed [`1b8bdac7`](https://github.com/underwindfall/Algorithme/commit/1b8bdac7d22f12312f574a522f163711cf9026b1) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "leetcode 353 SnakeGame"
 
-  **2021-12-05** — pushed [`d328d135`](https://github.com/underwindfall/advent-of-code-2021/commit/d328d135aeb3374a5edcac85fd793ce62bf2fd1a) to [underwindfall/advent-of-code-2021](https://api.github.com/repos/underwindfall/advent-of-code-2021): "Day-05"
+  **2021-12-07** — opened issue [#308](https://api.github.com/repos/underwindfall/Algorithme/issues/308) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "SnakeGame353"
 
-  **2021-12-05** — closed issue [#129](https://api.github.com/repos/underwindfall/Algorithme/issues/129) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "LongestZigzagPath1372"
+  **2021-12-07** — pushed [`df4fd0db`](https://github.com/underwindfall/Algorithme/commit/df4fd0db0ba2ef9d84fd7794eeac92746e0d47c2) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "leetcode 353 SnakeGame"
 
-  **2021-12-05** — closed issue [#201](https://api.github.com/repos/underwindfall/Algorithme/issues/201) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "MaximumAverageSubtree1120"
+  **2021-12-06** — opened issue [#307](https://api.github.com/repos/underwindfall/Algorithme/issues/307) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "WordSquares425"
 
-  **2021-12-04** — closed issue [#124](https://api.github.com/repos/underwindfall/Algorithme/issues/124) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "LongestConsecutive298"
+  **2021-12-06** — pushed [`bf3dadc3`](https://github.com/underwindfall/Algorithme/commit/bf3dadc33e7814e62cf64c3003189c4d571db706) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "leetcode 425 WordSquares"
 
-  **2021-12-04** — closed issue [#174](https://api.github.com/repos/underwindfall/Algorithme/issues/174) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "BalanceBST1382"
+  **2021-12-06** — opened issue [#306](https://api.github.com/repos/underwindfall/Algorithme/issues/306) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "ValidWordSquare422"
 
-  **2021-12-04** — pushed [`08f2ea62`](https://github.com/underwindfall/advent-of-code-2021/commit/08f2ea620efeb0763334230e4bdcb9a97fa471c0) to [underwindfall/advent-of-code-2021](https://api.github.com/repos/underwindfall/advent-of-code-2021): "Day-04"
+  **2021-12-06** — pushed [`30fbc1a5`](https://github.com/underwindfall/Algorithme/commit/30fbc1a5632bbd3e29d92dd18dfab95bacef1da2) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Leetcode 422 ValidWordSquare"
 
-  **2021-12-04** — reopened issue [#74](https://api.github.com/repos/underwindfall/Algorithme/issues/74) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "LowestCommonAncestor236"
+  **2021-12-06** — pushed [`a9eae6fa`](https://github.com/underwindfall/advent-of-code-2021/commit/a9eae6fa082d709e556f4ef4b95e8ca941724b52) to [underwindfall/advent-of-code-2021](https://api.github.com/repos/underwindfall/advent-of-code-2021): "Day-06"
  <!-- githubActivity ends -->
  </td><td valign="top">
 
@@ -61,12 +61,12 @@
  ## 🏊‍♂️ <a href="https://gist.github.com/underwindfall/377ee88ba1fabd1e93516e48ca9c61eb" target="_blank">Weekly Development Breakdown</a>
   <!-- codeTime starts -->
   ```text
-    Java         8 hrs 32 mins  ■■■■■■■■■■■■■■■◱□□□□□□□□  49.5%
-    Kotlin       5 hrs 51 mins  ■■■■■■■■■■■▦□□□□□□□□□□□□  34.0%
-    Groovy             55 mins  ■■■■▦□□□□□□□□□□□□□□□□□□□   5.3%
-    CMake              22 mins  ■■■■□□□□□□□□□□□□□□□□□□□□   2.2%
-    Markdown           20 mins  ■■■■□□□□□□□□□□□□□□□□□□□□   2.0%
-    JSON               18 mins  ■■■■□□□□□□□□□□□□□□□□□□□□   1.8%
+    Java           9 hrs 1 min  ■■■■■■■■■■■■■■▥□□□□□□□□□  46.0%
+    Kotlin       7 hrs 38 mins  ■■■■■■■■■■■■▦□□□□□□□□□□□  38.9%
+    Groovy             55 mins  ■■■■▥□□□□□□□□□□□□□□□□□□□   4.7%
+    Markdown           23 mins  ■■■■□□□□□□□□□□□□□□□□□□□□   2.0%
+    CMake              22 mins  ■■■■□□□□□□□□□□□□□□□□□□□□   1.9%
+    JSON               18 mins  ■■■▦□□□□□□□□□□□□□□□□□□□□   1.6%
   ```
   <!-- codeTime starts -->
   </td></tr></table>
