@@ -5,6 +5,14 @@
 
  ## 📷 Github Activity
  <!-- githubActivity starts -->
+  **2021-12-07** — pushed [`fca686a3`](https://github.com/underwindfall/Algorithme/commit/fca686a38ab1abef0e4e1d4063e6b7974ca4cdd0) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Leetcode 1290 GetDecimalValue"
+
+  **2021-12-07** — pushed [`34daab4d`](https://github.com/underwindfall/advent-of-code-2021/commit/34daab4d09a45340e46e66a86ae951ed4d732db7) to [underwindfall/advent-of-code-2021](https://api.github.com/repos/underwindfall/advent-of-code-2021): "Day-07"
+
+  **2021-12-07** — pushed [`9d70b1c6`](https://github.com/underwindfall/Algorithme/commit/9d70b1c6cee30ac376b984fb77096ccf5c8e62e9) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Leetcode 1290 GetDecimalValue"
+
+  **2021-12-07** — pushed [`b72b1e3f`](https://github.com/underwindfall/Algorithme/commit/b72b1e3fd62f5b8e2f03f716229eb759c6f1784c) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Leetcode 1290 GetDecimalValue"
+
   **2021-12-07** — opened issue [#309](https://api.github.com/repos/underwindfall/Algorithme/issues/309) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "SellDiminishingBalls1648"
 
   **2021-12-07** — pushed [`0e3b8dab`](https://github.com/underwindfall/Algorithme/commit/0e3b8dab0e6730be322822054a9b09ca39f33da3) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "leetcode 1648 SellDiminishingBalls"
@@ -16,14 +24,6 @@
   **2021-12-07** — pushed [`df4fd0db`](https://github.com/underwindfall/Algorithme/commit/df4fd0db0ba2ef9d84fd7794eeac92746e0d47c2) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "leetcode 353 SnakeGame"
 
   **2021-12-06** — opened issue [#307](https://api.github.com/repos/underwindfall/Algorithme/issues/307) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "WordSquares425"
-
-  **2021-12-06** — pushed [`bf3dadc3`](https://github.com/underwindfall/Algorithme/commit/bf3dadc33e7814e62cf64c3003189c4d571db706) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "leetcode 425 WordSquares"
-
-  **2021-12-06** — opened issue [#306](https://api.github.com/repos/underwindfall/Algorithme/issues/306) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "ValidWordSquare422"
-
-  **2021-12-06** — pushed [`30fbc1a5`](https://github.com/underwindfall/Algorithme/commit/30fbc1a5632bbd3e29d92dd18dfab95bacef1da2) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Leetcode 422 ValidWordSquare"
-
-  **2021-12-06** — pushed [`a9eae6fa`](https://github.com/underwindfall/advent-of-code-2021/commit/a9eae6fa082d709e556f4ef4b95e8ca941724b52) to [underwindfall/advent-of-code-2021](https://api.github.com/repos/underwindfall/advent-of-code-2021): "Day-06"
  <!-- githubActivity ends -->
  </td><td valign="top">
 
@@ -61,12 +61,12 @@
  ## 🏊‍♂️ <a href="https://gist.github.com/underwindfall/377ee88ba1fabd1e93516e48ca9c61eb" target="_blank">Weekly Development Breakdown</a>
   <!-- codeTime starts -->
   ```text
-    Java           9 hrs 1 min  ■■■■■■■■■■■■■■▥□□□□□□□□□  46.0%
-    Kotlin       7 hrs 38 mins  ■■■■■■■■■■■■▦□□□□□□□□□□□  38.9%
-    Groovy             55 mins  ■■■■▥□□□□□□□□□□□□□□□□□□□   4.7%
-    Markdown           23 mins  ■■■■□□□□□□□□□□□□□□□□□□□□   2.0%
-    CMake              22 mins  ■■■■□□□□□□□□□□□□□□□□□□□□   1.9%
-    JSON               18 mins  ■■■▦□□□□□□□□□□□□□□□□□□□□   1.6%
+    Java        10 hrs 12 mins  ■■■■■■■■■■■■■■■□□□□□□□□□  47.8%
+    Kotlin       8 hrs 57 mins  ■■■■■■■■■■■■■▥□□□□□□□□□□  41.9%
+    Groovy             53 mins  ■■■■▥□□□□□□□□□□□□□□□□□□□   4.2%
+    Markdown           23 mins  ■■■■□□□□□□□□□□□□□□□□□□□□   1.9%
+    YAML               13 mins  ■■■▦□□□□□□□□□□□□□□□□□□□□   1.1%
+    CMake              10 mins  ■■■▦□□□□□□□□□□□□□□□□□□□□   0.8%
   ```
   <!-- codeTime starts -->
   </td></tr></table>
