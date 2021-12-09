@@ -5,6 +5,10 @@
 
  ## 📷 Github Activity
  <!-- githubActivity starts -->
+  **2021-12-08** — pushed [`620cf268`](https://github.com/underwindfall/advent-of-code-2021/commit/620cf268a810450ab9c32a60451181c35900440e) to [underwindfall/advent-of-code-2021](https://api.github.com/repos/underwindfall/advent-of-code-2021): "Day-08"
+
+  **2021-12-08** — pushed [`62a2e7e7`](https://github.com/underwindfall/advent-of-code-2021/commit/62a2e7e7ae193979e075a3c88354429adbd83106) to [underwindfall/advent-of-code-2021](https://api.github.com/repos/underwindfall/advent-of-code-2021): "Day-07"
+
   **2021-12-07** — pushed [`fca686a3`](https://github.com/underwindfall/Algorithme/commit/fca686a38ab1abef0e4e1d4063e6b7974ca4cdd0) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Leetcode 1290 GetDecimalValue"
 
   **2021-12-07** — pushed [`34daab4d`](https://github.com/underwindfall/advent-of-code-2021/commit/34daab4d09a45340e46e66a86ae951ed4d732db7) to [underwindfall/advent-of-code-2021](https://api.github.com/repos/underwindfall/advent-of-code-2021): "Day-07"
@@ -20,10 +24,6 @@
   **2021-12-07** — pushed [`1b8bdac7`](https://github.com/underwindfall/Algorithme/commit/1b8bdac7d22f12312f574a522f163711cf9026b1) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "leetcode 353 SnakeGame"
 
   **2021-12-07** — opened issue [#308](https://api.github.com/repos/underwindfall/Algorithme/issues/308) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "SnakeGame353"
-
-  **2021-12-07** — pushed [`df4fd0db`](https://github.com/underwindfall/Algorithme/commit/df4fd0db0ba2ef9d84fd7794eeac92746e0d47c2) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "leetcode 353 SnakeGame"
-
-  **2021-12-06** — opened issue [#307](https://api.github.com/repos/underwindfall/Algorithme/issues/307) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "WordSquares425"
  <!-- githubActivity ends -->
  </td><td valign="top">
 
@@ -61,11 +61,11 @@
  ## 🏊‍♂️ <a href="https://gist.github.com/underwindfall/377ee88ba1fabd1e93516e48ca9c61eb" target="_blank">Weekly Development Breakdown</a>
   <!-- codeTime starts -->
   ```text
-    Java        10 hrs 12 mins  ■■■■■■■■■■■■■■■□□□□□□□□□  47.8%
-    Kotlin       8 hrs 57 mins  ■■■■■■■■■■■■■▥□□□□□□□□□□  41.9%
-    Groovy             53 mins  ■■■■▥□□□□□□□□□□□□□□□□□□□   4.2%
-    Markdown           23 mins  ■■■■□□□□□□□□□□□□□□□□□□□□   1.9%
-    YAML               13 mins  ■■■▦□□□□□□□□□□□□□□□□□□□□   1.1%
+    Java        10 hrs 45 mins  ■■■■■■■■■■■■■■◱□□□□□□□□□  44.8%
+    Kotlin       9 hrs 54 mins  ■■■■■■■■■■■■■▥□□□□□□□□□□  41.3%
+    Groovy        1 hr 20 mins  ■■■■▦□□□□□□□□□□□□□□□□□□□   5.6%
+    YAML               43 mins  ■■■■◱□□□□□□□□□□□□□□□□□□□   3.0%
+    Markdown           36 mins  ■■■■□□□□□□□□□□□□□□□□□□□□   2.5%
     CMake              10 mins  ■■■▦□□□□□□□□□□□□□□□□□□□□   0.8%
   ```
   <!-- codeTime starts -->
