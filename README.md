@@ -5,6 +5,16 @@
 
  ## 📷 Github Activity
  <!-- githubActivity starts -->
+  **2021-12-10** — pushed 2 commits to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme).
+
+  **2021-12-10** — opened issue [#311](https://api.github.com/repos/underwindfall/Algorithme/issues/311) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "NextGreaterElementII503"
+
+  **2021-12-09** — opened issue [#310](https://api.github.com/repos/underwindfall/Algorithme/issues/310) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "NextGreaterElement496"
+
+  **2021-12-09** — pushed [`3717808d`](https://github.com/underwindfall/Algorithme/commit/3717808dac868145ae404c9663d2951c7f0d62f5) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "leetcode 689 MaxSumOfThreeSubarrays"
+
+  **2021-12-09** — pushed [`d2dd4c95`](https://github.com/underwindfall/advent-of-code-2021/commit/d2dd4c95d6c22185c4db59f0e0bdf7ef7878627d) to [underwindfall/advent-of-code-2021](https://api.github.com/repos/underwindfall/advent-of-code-2021): "Day-09"
+
   **2021-12-08** — pushed [`620cf268`](https://github.com/underwindfall/advent-of-code-2021/commit/620cf268a810450ab9c32a60451181c35900440e) to [underwindfall/advent-of-code-2021](https://api.github.com/repos/underwindfall/advent-of-code-2021): "Day-08"
 
   **2021-12-08** — pushed [`62a2e7e7`](https://github.com/underwindfall/advent-of-code-2021/commit/62a2e7e7ae193979e075a3c88354429adbd83106) to [underwindfall/advent-of-code-2021](https://api.github.com/repos/underwindfall/advent-of-code-2021): "Day-07"
@@ -14,16 +24,6 @@
   **2021-12-07** — pushed [`34daab4d`](https://github.com/underwindfall/advent-of-code-2021/commit/34daab4d09a45340e46e66a86ae951ed4d732db7) to [underwindfall/advent-of-code-2021](https://api.github.com/repos/underwindfall/advent-of-code-2021): "Day-07"
 
   **2021-12-07** — pushed [`9d70b1c6`](https://github.com/underwindfall/Algorithme/commit/9d70b1c6cee30ac376b984fb77096ccf5c8e62e9) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Leetcode 1290 GetDecimalValue"
-
-  **2021-12-07** — pushed [`b72b1e3f`](https://github.com/underwindfall/Algorithme/commit/b72b1e3fd62f5b8e2f03f716229eb759c6f1784c) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Leetcode 1290 GetDecimalValue"
-
-  **2021-12-07** — opened issue [#309](https://api.github.com/repos/underwindfall/Algorithme/issues/309) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "SellDiminishingBalls1648"
-
-  **2021-12-07** — pushed [`0e3b8dab`](https://github.com/underwindfall/Algorithme/commit/0e3b8dab0e6730be322822054a9b09ca39f33da3) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "leetcode 1648 SellDiminishingBalls"
-
-  **2021-12-07** — pushed [`1b8bdac7`](https://github.com/underwindfall/Algorithme/commit/1b8bdac7d22f12312f574a522f163711cf9026b1) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "leetcode 353 SnakeGame"
-
-  **2021-12-07** — opened issue [#308](https://api.github.com/repos/underwindfall/Algorithme/issues/308) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "SnakeGame353"
  <!-- githubActivity ends -->
  </td><td valign="top">
 
@@ -61,12 +61,12 @@
  ## 🏊‍♂️ <a href="https://gist.github.com/underwindfall/377ee88ba1fabd1e93516e48ca9c61eb" target="_blank">Weekly Development Breakdown</a>
   <!-- codeTime starts -->
   ```text
-    Java        10 hrs 45 mins  ■■■■■■■■■■■■■■◱□□□□□□□□□  44.8%
-    Kotlin       9 hrs 54 mins  ■■■■■■■■■■■■■▥□□□□□□□□□□  41.3%
-    Groovy        1 hr 20 mins  ■■■■▦□□□□□□□□□□□□□□□□□□□   5.6%
-    YAML               43 mins  ■■■■◱□□□□□□□□□□□□□□□□□□□   3.0%
-    Markdown           36 mins  ■■■■□□□□□□□□□□□□□□□□□□□□   2.5%
-    CMake              10 mins  ■■■▦□□□□□□□□□□□□□□□□□□□□   0.8%
+    Java         9 hrs 43 mins  ■■■■■■■■■■■■■■■□□□□□□□□□  47.8%
+    Kotlin       8 hrs 55 mins  ■■■■■■■■■■■■■■□□□□□□□□□□  43.8%
+    Groovy             33 mins  ■■■■◱□□□□□□□□□□□□□□□□□□□   2.8%
+    YAML               29 mins  ■■■■□□□□□□□□□□□□□□□□□□□□   2.4%
+    Markdown           24 mins  ■■■■□□□□□□□□□□□□□□□□□□□□   2.0%
+    Text                8 mins  ■■■▦□□□□□□□□□□□□□□□□□□□□   0.7%
   ```
   <!-- codeTime starts -->
   </td></tr></table>
