@@ -5,25 +5,25 @@
 
  ## 📷 Github Activity
  <!-- githubActivity starts -->
-  **2021-12-10** — pushed 2 commits to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme).
+  **2021-12-10** — pushed [`dd136b42`](https://github.com/underwindfall/Algorithme/commit/dd136b42922568649b0269ef009c53654521cc70) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "LargestRectangleArea84"
 
-  **2021-12-10** — opened issue [#311](https://api.github.com/repos/underwindfall/Algorithme/issues/311) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "NextGreaterElementII503"
+  **2021-12-10** — opened issue [#315](https://api.github.com/repos/underwindfall/Algorithme/issues/315) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "LargestRectangleArea84"
 
-  **2021-12-09** — opened issue [#310](https://api.github.com/repos/underwindfall/Algorithme/issues/310) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "NextGreaterElement496"
+  **2021-12-10** — opened issue [#314](https://api.github.com/repos/underwindfall/Algorithme/issues/314) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "NumTilings790"
 
-  **2021-12-09** — pushed [`3717808d`](https://github.com/underwindfall/Algorithme/commit/3717808dac868145ae404c9663d2951c7f0d62f5) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "leetcode 689 MaxSumOfThreeSubarrays"
+  **2021-12-10** — pushed [`e5915f12`](https://github.com/underwindfall/advent-of-code-2021/commit/e5915f12f1ec525a952ee79279f4e49d46968344) to [underwindfall/advent-of-code-2021](https://api.github.com/repos/underwindfall/advent-of-code-2021): "Day-10"
 
-  **2021-12-09** — pushed [`d2dd4c95`](https://github.com/underwindfall/advent-of-code-2021/commit/d2dd4c95d6c22185c4db59f0e0bdf7ef7878627d) to [underwindfall/advent-of-code-2021](https://api.github.com/repos/underwindfall/advent-of-code-2021): "Day-09"
+  **2021-12-10** — closed issue [#29](https://api.github.com/repos/underwindfall/PowerPermission/issues/29) on [underwindfall/PowerPermission](https://api.github.com/repos/underwindfall/PowerPermission): "migrate jcenter to mavenCentral"
 
-  **2021-12-08** — pushed [`620cf268`](https://github.com/underwindfall/advent-of-code-2021/commit/620cf268a810450ab9c32a60451181c35900440e) to [underwindfall/advent-of-code-2021](https://api.github.com/repos/underwindfall/advent-of-code-2021): "Day-08"
+  **2021-12-10** — commented on [#29](https://github.com/underwindfall/PowerPermission/issues/29#issuecomment-991062040) in [underwindfall/PowerPermission](https://api.github.com/repos/underwindfall/PowerPermission)
 
-  **2021-12-08** — pushed [`62a2e7e7`](https://github.com/underwindfall/advent-of-code-2021/commit/62a2e7e7ae193979e075a3c88354429adbd83106) to [underwindfall/advent-of-code-2021](https://api.github.com/repos/underwindfall/advent-of-code-2021): "Day-07"
+  **2021-12-10** — created tag "v1.5.0" on [underwindfall/PowerPermission](https://api.github.com/repos/underwindfall/PowerPermission)
 
-  **2021-12-07** — pushed [`fca686a3`](https://github.com/underwindfall/Algorithme/commit/fca686a38ab1abef0e4e1d4063e6b7974ca4cdd0) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Leetcode 1290 GetDecimalValue"
+  **2021-12-10** — pushed [`4e348110`](https://github.com/underwindfall/PowerPermission/commit/4e34811096c139d06267f18b09e63e81d76f34f4) to [underwindfall/PowerPermission](https://api.github.com/repos/underwindfall/PowerPermission): "Release v1.5.0"
 
-  **2021-12-07** — pushed [`34daab4d`](https://github.com/underwindfall/advent-of-code-2021/commit/34daab4d09a45340e46e66a86ae951ed4d732db7) to [underwindfall/advent-of-code-2021](https://api.github.com/repos/underwindfall/advent-of-code-2021): "Day-07"
+  **2021-12-10** — deleted tag "v1.5.0" on [underwindfall/PowerPermission](https://api.github.com/repos/underwindfall/PowerPermission)
 
-  **2021-12-07** — pushed [`9d70b1c6`](https://github.com/underwindfall/Algorithme/commit/9d70b1c6cee30ac376b984fb77096ccf5c8e62e9) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Leetcode 1290 GetDecimalValue"
+  **2021-12-10** — pushed [`9964e80d`](https://github.com/underwindfall/PowerPermission/commit/9964e80d7132df3c313166a51a2a2c58fc45eb01) to [underwindfall/PowerPermission](https://api.github.com/repos/underwindfall/PowerPermission): "fix cd"
  <!-- githubActivity ends -->
  </td><td valign="top">
 
@@ -61,12 +61,12 @@
  ## 🏊‍♂️ <a href="https://gist.github.com/underwindfall/377ee88ba1fabd1e93516e48ca9c61eb" target="_blank">Weekly Development Breakdown</a>
   <!-- codeTime starts -->
   ```text
-    Java         9 hrs 43 mins  ■■■■■■■■■■■■■■■□□□□□□□□□  47.8%
-    Kotlin       8 hrs 55 mins  ■■■■■■■■■■■■■■□□□□□□□□□□  43.8%
-    Groovy             33 mins  ■■■■◱□□□□□□□□□□□□□□□□□□□   2.8%
-    YAML               29 mins  ■■■■□□□□□□□□□□□□□□□□□□□□   2.4%
-    Markdown           24 mins  ■■■■□□□□□□□□□□□□□□□□□□□□   2.0%
-    Text                8 mins  ■■■▦□□□□□□□□□□□□□□□□□□□□   0.7%
+    Kotlin       8 hrs 20 mins  ■■■■■■■■■■■■■■□□□□□□□□□□  43.6%
+    Java         8 hrs 12 mins  ■■■■■■■■■■■■■▦□□□□□□□□□□  42.9%
+    XML                47 mins  ■■■■▥□□□□□□□□□□□□□□□□□□□   4.1%
+    Markdown           42 mins  ■■■■◱□□□□□□□□□□□□□□□□□□□   3.7%
+    YAML               29 mins  ■■■■□□□□□□□□□□□□□□□□□□□□   2.6%
+    Groovy             28 mins  ■■■■□□□□□□□□□□□□□□□□□□□□   2.5%
   ```
   <!-- codeTime starts -->
   </td></tr></table>
