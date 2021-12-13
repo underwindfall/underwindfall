@@ -5,6 +5,10 @@
 
  ## 📷 Github Activity
  <!-- githubActivity starts -->
+  **2021-12-12** — pushed [`3abd2f36`](https://github.com/underwindfall/advent-of-code-2021/commit/3abd2f360d917e5ae31846cfb4bb6c7f7d3c38d4) to [underwindfall/advent-of-code-2021](https://api.github.com/repos/underwindfall/advent-of-code-2021): "Day-12"
+
+  **2021-12-12** — pushed [`263bc003`](https://github.com/underwindfall/advent-of-code-2021/commit/263bc00308a052704bf28d04347e3e5ad8ad2adb) to [underwindfall/advent-of-code-2021](https://api.github.com/repos/underwindfall/advent-of-code-2021): "Day-11"
+
   **2021-12-10** — pushed [`dd136b42`](https://github.com/underwindfall/Algorithme/commit/dd136b42922568649b0269ef009c53654521cc70) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "LargestRectangleArea84"
 
   **2021-12-10** — opened issue [#315](https://api.github.com/repos/underwindfall/Algorithme/issues/315) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "LargestRectangleArea84"
@@ -20,10 +24,6 @@
   **2021-12-10** — created tag "v1.5.0" on [underwindfall/PowerPermission](https://api.github.com/repos/underwindfall/PowerPermission)
 
   **2021-12-10** — pushed [`4e348110`](https://github.com/underwindfall/PowerPermission/commit/4e34811096c139d06267f18b09e63e81d76f34f4) to [underwindfall/PowerPermission](https://api.github.com/repos/underwindfall/PowerPermission): "Release v1.5.0"
-
-  **2021-12-10** — deleted tag "v1.5.0" on [underwindfall/PowerPermission](https://api.github.com/repos/underwindfall/PowerPermission)
-
-  **2021-12-10** — pushed [`9964e80d`](https://github.com/underwindfall/PowerPermission/commit/9964e80d7132df3c313166a51a2a2c58fc45eb01) to [underwindfall/PowerPermission](https://api.github.com/repos/underwindfall/PowerPermission): "fix cd"
  <!-- githubActivity ends -->
  </td><td valign="top">
 
@@ -61,11 +61,11 @@
  ## 🏊‍♂️ <a href="https://gist.github.com/underwindfall/377ee88ba1fabd1e93516e48ca9c61eb" target="_blank">Weekly Development Breakdown</a>
   <!-- codeTime starts -->
   ```text
-    Java         9 hrs 44 mins  ■■■■■■■■■■■■■▥□□□□□□□□□□  41.5%
-    Kotlin       7 hrs 38 mins  ■■■■■■■■■■■◱□□□□□□□□□□□□  32.6%
-    Groovy       3 hrs 13 mins  ■■■■■■▦□□□□□□□□□□□□□□□□□  13.8%
-    XML                47 mins  ■■■■◱□□□□□□□□□□□□□□□□□□□   3.3%
-    Markdown           46 mins  ■■■■◱□□□□□□□□□□□□□□□□□□□   3.3%
+    Java         9 hrs 17 mins  ■■■■■■■■■■■■■◱□□□□□□□□□□  40.8%
+    Kotlin       7 hrs 24 mins  ■■■■■■■■■■■◱□□□□□□□□□□□□  32.5%
+    Groovy       3 hrs 13 mins  ■■■■■■▦□□□□□□□□□□□□□□□□□  14.2%
+    XML                47 mins  ■■■■◱□□□□□□□□□□□□□□□□□□□   3.4%
+    Markdown           46 mins  ■■■■◱□□□□□□□□□□□□□□□□□□□   3.4%
     YAML               41 mins  ■■■■◱□□□□□□□□□□□□□□□□□□□   3.0%
   ```
   <!-- codeTime starts -->
