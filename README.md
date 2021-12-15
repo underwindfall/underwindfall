@@ -5,25 +5,25 @@
 
  ## 📷 Github Activity
  <!-- githubActivity starts -->
+  **2021-12-14** — pushed [`463f5848`](https://github.com/underwindfall/Algorithme/commit/463f584881f32b6a778e2041537bea7a87340d63) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "LoudAndRich 851"
+
+  **2021-12-14** — deleted branch "dependabot/npm_and_yarn/server/ws-7.4.6" on [underwindfall/webrtcsamples](https://api.github.com/repos/underwindfall/webrtcsamples)
+
+  **2021-12-14** — pushed [`04554556`](https://github.com/underwindfall/webrtcsamples/commit/04554556cd301ee2de1dc6f2a13ca4b16977988d) to [underwindfall/webrtcsamples](https://api.github.com/repos/underwindfall/webrtcsamples): "Bump ws from 7.4.2 to 7.4.6 in /server"
+
+  **2021-12-14** — closed PR [#11](https://api.github.com/repos/underwindfall/webrtcsamples/pulls/11) to [underwindfall/webrtcsamples](https://api.github.com/repos/underwindfall/webrtcsamples): "Bump ws from 7.4.2 to 7.4.6 in /server"
+
+  **2021-12-14** — pushed [`d603fceb`](https://github.com/underwindfall/Algorithme/commit/d603fceb0b358f82d4060919ff1639d02ccbbff2) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "单调栈"
+
+  **2021-12-14** — closed issue [#320](https://api.github.com/repos/underwindfall/Algorithme/issues/320) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "RangeSumBST938"
+
+  **2021-12-14** — opened issue [#320](https://api.github.com/repos/underwindfall/Algorithme/issues/320) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "RangeSumBST938"
+
+  **2021-12-14** — pushed [`16ce7390`](https://github.com/underwindfall/Algorithme/commit/16ce7390e58c8a994020b9c0293867495257862b) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "RangeSumBST 938"
+
+  **2021-12-14** — pushed [`61a7f584`](https://github.com/underwindfall/advent-of-code-2021/commit/61a7f584a9e630df19fbab91dbff6da7fa4de719) to [underwindfall/advent-of-code-2021](https://api.github.com/repos/underwindfall/advent-of-code-2021): "Day-14"
+
   **2021-12-14** — pushed [`f7a38ec1`](https://github.com/underwindfall/Algorithme/commit/f7a38ec15ecac71a4fc5a3eb906ae8f0e2d6109a) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "TopVotedCandidate 911"
-
-  **2021-12-14** — pushed [`42f0dbfc`](https://github.com/underwindfall/Algorithme/commit/42f0dbfcf232680d3e9b523073b5fd4eb79116a8) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "maxNumber 321"
-
-  **2021-12-14** — pushed [`e48f0e41`](https://github.com/underwindfall/Algorithme/commit/e48f0e415cad5913a973971f954d8e13718701ee) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "MaxNumber 321"
-
-  **2021-12-13** — pushed [`4ac7df54`](https://github.com/underwindfall/Algorithme/commit/4ac7df5412c4da222f08c8cd66f64a0036541039) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "RemoveDuplicateLetters 316"
-
-  **2021-12-13** — pushed [`4dd0bcd6`](https://github.com/underwindfall/Algorithme/commit/4dd0bcd660aa3628240b587d09dde63ba2de003c) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "FindUnsortedSubarray 581"
-
-  **2021-12-13** — opened issue [#319](https://api.github.com/repos/underwindfall/Algorithme/issues/319) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "FindUnsortedSubarray581"
-
-  **2021-12-13** — pushed [`e096a6bf`](https://github.com/underwindfall/Algorithme/commit/e096a6bf1d37d90c979dddf4983e564602f8427d) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "RemoveDigits 402"
-
-  **2021-12-13** — opened issue [#318](https://api.github.com/repos/underwindfall/Algorithme/issues/318) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "RemoveDigits402"
-
-  **2021-12-13** — pushed [`c3140c0a`](https://github.com/underwindfall/Algorithme/commit/c3140c0a3c9c4bc788a0221237e60d91da6e8365) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "RemoveDigits 402"
-
-  **2021-12-13** — opened issue [#317](https://api.github.com/repos/underwindfall/Algorithme/issues/317) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "OnlineStockSpan901"
  <!-- githubActivity ends -->
  </td><td valign="top">
 
@@ -61,12 +61,12 @@
  ## 🏊‍♂️ <a href="https://gist.github.com/underwindfall/377ee88ba1fabd1e93516e48ca9c61eb" target="_blank">Weekly Development Breakdown</a>
   <!-- codeTime starts -->
   ```text
-    Java         8 hrs 15 mins  ■■■■■■■■■■■■■◱□□□□□□□□□□  41.2%
-    Kotlin       5 hrs 46 mins  ■■■■■■■■■■▥□□□□□□□□□□□□□  28.8%
-    Groovy       3 hrs 13 mins  ■■■■■■■◱□□□□□□□□□□□□□□□□  16.1%
-    XML                47 mins  ■■■■▥□□□□□□□□□□□□□□□□□□□   3.9%
-    Markdown           44 mins  ■■■■◱□□□□□□□□□□□□□□□□□□□   3.7%
-    YAML               41 mins  ■■■■◱□□□□□□□□□□□□□□□□□□□   3.5%
+    Java         6 hrs 45 mins  ■■■■■■■■■■■■■▦□□□□□□□□□□  42.6%
+    Groovy       3 hrs 13 mins  ■■■■■■■■◱□□□□□□□□□□□□□□□  20.4%
+    Kotlin       3 hrs 10 mins  ■■■■■■■■◱□□□□□□□□□□□□□□□  20.0%
+    Markdown           43 mins  ■■■■▥□□□□□□□□□□□□□□□□□□□   4.6%
+    XML                42 mins  ■■■■▥□□□□□□□□□□□□□□□□□□□   4.4%
+    YAML               41 mins  ■■■■▥□□□□□□□□□□□□□□□□□□□   4.4%
   ```
   <!-- codeTime starts -->
   </td></tr></table>
