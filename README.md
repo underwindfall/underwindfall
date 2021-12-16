@@ -5,25 +5,25 @@
 
  ## 📷 Github Activity
  <!-- githubActivity starts -->
-  **2021-12-14** — pushed [`463f5848`](https://github.com/underwindfall/Algorithme/commit/463f584881f32b6a778e2041537bea7a87340d63) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "LoudAndRich 851"
+  **2021-12-16** — pushed [`546e52a6`](https://github.com/underwindfall/resume/commit/546e52a691bd3e9788f8058b0271b522fa69a81f) to [underwindfall/resume](https://api.github.com/repos/underwindfall/resume): "change personal resume"
 
-  **2021-12-14** — deleted branch "dependabot/npm_and_yarn/server/ws-7.4.6" on [underwindfall/webrtcsamples](https://api.github.com/repos/underwindfall/webrtcsamples)
+  **2021-12-16** — pushed [`6270516f`](https://github.com/underwindfall/GitHubPoster/commit/6270516f1d6c7b478474db63ebdc6d634665ca08) to [underwindfall/GitHubPoster](https://api.github.com/repos/underwindfall/GitHubPoster): "update README"
 
-  **2021-12-14** — pushed [`04554556`](https://github.com/underwindfall/webrtcsamples/commit/04554556cd301ee2de1dc6f2a13ca4b16977988d) to [underwindfall/webrtcsamples](https://api.github.com/repos/underwindfall/webrtcsamples): "Bump ws from 7.4.2 to 7.4.6 in /server"
+  **2021-12-15** — pushed [`1be6efa5`](https://github.com/underwindfall/iBeats/commit/1be6efa52ca1bf29c6137cc2d03095119ce49d72) to [underwindfall/iBeats](https://api.github.com/repos/underwindfall/iBeats): "Create README.md"
 
-  **2021-12-14** — closed PR [#11](https://api.github.com/repos/underwindfall/webrtcsamples/pulls/11) to [underwindfall/webrtcsamples](https://api.github.com/repos/underwindfall/webrtcsamples): "Bump ws from 7.4.2 to 7.4.6 in /server"
+  **2021-12-15** — pushed [`c2e0be23`](https://github.com/underwindfall/iBeats/commit/c2e0be233dc236a8fcb44bf559b806f1344d909a) to [underwindfall/iBeats](https://api.github.com/repos/underwindfall/iBeats): "wip"
 
-  **2021-12-14** — pushed [`d603fceb`](https://github.com/underwindfall/Algorithme/commit/d603fceb0b358f82d4060919ff1639d02ccbbff2) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "单调栈"
+  **2021-12-15** — created branch "main" on [underwindfall/iBeats](https://api.github.com/repos/underwindfall/iBeats)
 
-  **2021-12-14** — closed issue [#320](https://api.github.com/repos/underwindfall/Algorithme/issues/320) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "RangeSumBST938"
+  **2021-12-15** — created repository on [underwindfall/iBeats](https://api.github.com/repos/underwindfall/iBeats)
 
-  **2021-12-14** — opened issue [#320](https://api.github.com/repos/underwindfall/Algorithme/issues/320) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "RangeSumBST938"
+  **2021-12-15** — pushed [`b45b3fc9`](https://github.com/underwindfall/iBeats/commit/b45b3fc9ce9dc4a7b0d1a77ae0da0fe0122ad3eb) to [underwindfall/iBeats](https://api.github.com/repos/underwindfall/iBeats): "Update replace_readme.yml"
 
-  **2021-12-14** — pushed [`16ce7390`](https://github.com/underwindfall/Algorithme/commit/16ce7390e58c8a994020b9c0293867495257862b) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "RangeSumBST 938"
+  **2021-12-15** — pushed [`bdef8a53`](https://github.com/underwindfall/Algorithme/commit/bdef8a535ed499e1fbf8479dd69a2d350a3e2a8e) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "TriePrefixII 1804"
 
-  **2021-12-14** — pushed [`61a7f584`](https://github.com/underwindfall/advent-of-code-2021/commit/61a7f584a9e630df19fbab91dbff6da7fa4de719) to [underwindfall/advent-of-code-2021](https://api.github.com/repos/underwindfall/advent-of-code-2021): "Day-14"
+  **2021-12-15** — pushed [`3980fa0b`](https://github.com/underwindfall/Algorithme/commit/3980fa0bef9833c968d25793f3a8a7c2fbf2bc88) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "trie leetcode"
 
-  **2021-12-14** — pushed [`f7a38ec1`](https://github.com/underwindfall/Algorithme/commit/f7a38ec15ecac71a4fc5a3eb906ae8f0e2d6109a) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "TopVotedCandidate 911"
+  **2021-12-15** — opened issue [#321](https://api.github.com/repos/underwindfall/Algorithme/issues/321) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "InsertionSortList147"
  <!-- githubActivity ends -->
  </td><td valign="top">
 
@@ -61,12 +61,12 @@
  ## 🏊‍♂️ <a href="https://gist.github.com/underwindfall/377ee88ba1fabd1e93516e48ca9c61eb" target="_blank">Weekly Development Breakdown</a>
   <!-- codeTime starts -->
   ```text
-    Java         6 hrs 45 mins  ■■■■■■■■■■■■■▦□□□□□□□□□□  42.6%
-    Groovy       3 hrs 13 mins  ■■■■■■■■◱□□□□□□□□□□□□□□□  20.4%
-    Kotlin       3 hrs 10 mins  ■■■■■■■■◱□□□□□□□□□□□□□□□  20.0%
-    Markdown           43 mins  ■■■■▥□□□□□□□□□□□□□□□□□□□   4.6%
-    XML                42 mins  ■■■■▥□□□□□□□□□□□□□□□□□□□   4.4%
-    YAML               41 mins  ■■■■▥□□□□□□□□□□□□□□□□□□□   4.4%
+    Java         8 hrs 56 mins  ■■■■■■■■■■■■■▥□□□□□□□□□□  42.2%
+    Kotlin        5 hrs 5 mins  ■■■■■■■■■◱□□□□□□□□□□□□□□  24.1%
+    Groovy       4 hrs 27 mins  ■■■■■■■■▥□□□□□□□□□□□□□□□  21.0%
+    Markdown           50 mins  ■■■■▥□□□□□□□□□□□□□□□□□□□   4.0%
+    XML                43 mins  ■■■■◱□□□□□□□□□□□□□□□□□□□   3.4%
+    Properties         30 mins  ■■■■□□□□□□□□□□□□□□□□□□□□   2.4%
   ```
   <!-- codeTime starts -->
   </td></tr></table>
