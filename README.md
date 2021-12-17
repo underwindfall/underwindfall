@@ -5,6 +5,10 @@
 
  ## 📷 Github Activity
  <!-- githubActivity starts -->
+  **2021-12-16** — pushed [`ce954fcd`](https://github.com/underwindfall/Algorithme/commit/ce954fcdd13d298b4426d013fb1e340066daaed9) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "FindMinHeightTrees310"
+
+  **2021-12-16** — pushed [`42990d0c`](https://github.com/underwindfall/advent-of-code-2021/commit/42990d0c91d9a6d87420d057a218f0af66be1d53) to [underwindfall/advent-of-code-2021](https://api.github.com/repos/underwindfall/advent-of-code-2021): "Day-16"
+
   **2021-12-16** — pushed [`546e52a6`](https://github.com/underwindfall/resume/commit/546e52a691bd3e9788f8058b0271b522fa69a81f) to [underwindfall/resume](https://api.github.com/repos/underwindfall/resume): "change personal resume"
 
   **2021-12-16** — pushed [`6270516f`](https://github.com/underwindfall/GitHubPoster/commit/6270516f1d6c7b478474db63ebdc6d634665ca08) to [underwindfall/GitHubPoster](https://api.github.com/repos/underwindfall/GitHubPoster): "update README"
@@ -20,10 +24,6 @@
   **2021-12-15** — pushed [`b45b3fc9`](https://github.com/underwindfall/iBeats/commit/b45b3fc9ce9dc4a7b0d1a77ae0da0fe0122ad3eb) to [underwindfall/iBeats](https://api.github.com/repos/underwindfall/iBeats): "Update replace_readme.yml"
 
   **2021-12-15** — pushed [`bdef8a53`](https://github.com/underwindfall/Algorithme/commit/bdef8a535ed499e1fbf8479dd69a2d350a3e2a8e) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "TriePrefixII 1804"
-
-  **2021-12-15** — pushed [`3980fa0b`](https://github.com/underwindfall/Algorithme/commit/3980fa0bef9833c968d25793f3a8a7c2fbf2bc88) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "trie leetcode"
-
-  **2021-12-15** — opened issue [#321](https://api.github.com/repos/underwindfall/Algorithme/issues/321) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "InsertionSortList147"
  <!-- githubActivity ends -->
  </td><td valign="top">
 
