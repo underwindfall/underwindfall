@@ -5,6 +5,12 @@
 
  ## 📷 Github Activity
  <!-- githubActivity starts -->
+  **2021-12-17** — opened issue [#812](https://api.github.com/repos/android/architecture-samples/issues/812) on [android/architecture-samples](https://api.github.com/repos/android/architecture-samples): "[Feature Request] Implementation new rebuild app architecture approach"
+
+  **2021-12-17** — pushed [`ecab69db`](https://github.com/underwindfall/iBeats/commit/ecab69db0f9637742df3ac0c63a156f937b9a595) to [underwindfall/iBeats](https://api.github.com/repos/underwindfall/iBeats): "Update README.md"
+
+  **2021-12-17** — pushed [`04ef7c23`](https://github.com/underwindfall/iBeats/commit/04ef7c230320c2083bb2df85d2fa540a706d2db5) to [underwindfall/iBeats](https://api.github.com/repos/underwindfall/iBeats): "Update README.md"
+
   **2021-12-16** — pushed [`ce954fcd`](https://github.com/underwindfall/Algorithme/commit/ce954fcdd13d298b4426d013fb1e340066daaed9) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "FindMinHeightTrees310"
 
   **2021-12-16** — pushed [`42990d0c`](https://github.com/underwindfall/advent-of-code-2021/commit/42990d0c91d9a6d87420d057a218f0af66be1d53) to [underwindfall/advent-of-code-2021](https://api.github.com/repos/underwindfall/advent-of-code-2021): "Day-16"
@@ -18,12 +24,6 @@
   **2021-12-15** — pushed [`c2e0be23`](https://github.com/underwindfall/iBeats/commit/c2e0be233dc236a8fcb44bf559b806f1344d909a) to [underwindfall/iBeats](https://api.github.com/repos/underwindfall/iBeats): "wip"
 
   **2021-12-15** — created branch "main" on [underwindfall/iBeats](https://api.github.com/repos/underwindfall/iBeats)
-
-  **2021-12-15** — created repository on [underwindfall/iBeats](https://api.github.com/repos/underwindfall/iBeats)
-
-  **2021-12-15** — pushed [`b45b3fc9`](https://github.com/underwindfall/iBeats/commit/b45b3fc9ce9dc4a7b0d1a77ae0da0fe0122ad3eb) to [underwindfall/iBeats](https://api.github.com/repos/underwindfall/iBeats): "Update replace_readme.yml"
-
-  **2021-12-15** — pushed [`bdef8a53`](https://github.com/underwindfall/Algorithme/commit/bdef8a535ed499e1fbf8479dd69a2d350a3e2a8e) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "TriePrefixII 1804"
  <!-- githubActivity ends -->
  </td><td valign="top">
 
@@ -61,12 +61,12 @@
  ## 🏊‍♂️ <a href="https://gist.github.com/underwindfall/377ee88ba1fabd1e93516e48ca9c61eb" target="_blank">Weekly Development Breakdown</a>
   <!-- codeTime starts -->
   ```text
-    Java         8 hrs 56 mins  ■■■■■■■■■■■■■▥□□□□□□□□□□  42.2%
-    Kotlin        5 hrs 5 mins  ■■■■■■■■■◱□□□□□□□□□□□□□□  24.1%
-    Groovy       4 hrs 27 mins  ■■■■■■■■▥□□□□□□□□□□□□□□□  21.0%
-    Markdown           50 mins  ■■■■▥□□□□□□□□□□□□□□□□□□□   4.0%
-    XML                43 mins  ■■■■◱□□□□□□□□□□□□□□□□□□□   3.4%
-    Properties         30 mins  ■■■■□□□□□□□□□□□□□□□□□□□□   2.4%
+    Java         7 hrs 45 mins  ■■■■■■■■■■■■■□□□□□□□□□□□  40.2%
+    Kotlin       5 hrs 23 mins  ■■■■■■■■■■◱□□□□□□□□□□□□□  27.9%
+    Groovy       4 hrs 27 mins  ■■■■■■■■■□□□□□□□□□□□□□□□  23.1%
+    Markdown           31 mins  ■■■■◱□□□□□□□□□□□□□□□□□□□   2.7%
+    Properties         30 mins  ■■■■□□□□□□□□□□□□□□□□□□□□   2.6%
+    Text               21 mins  ■■■■□□□□□□□□□□□□□□□□□□□□   1.8%
   ```
   <!-- codeTime starts -->
   </td></tr></table>
