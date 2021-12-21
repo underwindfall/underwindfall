@@ -5,6 +5,16 @@
 
  ## 📷 Github Activity
  <!-- githubActivity starts -->
+  **2021-12-21** — pushed [`3e87fb47`](https://github.com/underwindfall/Algorithme/commit/3e87fb47e8bb3e1e911f60122f0f788f7e40819d) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "leetcode MaximalSquare 221"
+
+  **2021-12-20** — pushed [`44f43e0f`](https://github.com/underwindfall/advent-of-code-2021/commit/44f43e0fa263bbd752cc476edc08afa7edd5586c) to [underwindfall/advent-of-code-2021](https://api.github.com/repos/underwindfall/advent-of-code-2021): "Day-20"
+
+  **2021-12-20** — pushed [`14eb02d0`](https://github.com/underwindfall/advent-of-code-2021/commit/14eb02d02a809e51c32d7a2904177ad354d21ab2) to [underwindfall/advent-of-code-2021](https://api.github.com/repos/underwindfall/advent-of-code-2021): "Day-19"
+
+  **2021-12-20** — pushed [`90ecfc48`](https://github.com/underwindfall/advent-of-code-2021/commit/90ecfc486341f2f6b2af962917531368cb5c1811) to [underwindfall/advent-of-code-2021](https://api.github.com/repos/underwindfall/advent-of-code-2021): "Day-18"
+
+  **2021-12-20** — pushed [`14bdd57f`](https://github.com/underwindfall/advent-of-code-2021/commit/14bdd57fa40e2fbc9cb664e67331e0ba67452fd2) to [underwindfall/advent-of-code-2021](https://api.github.com/repos/underwindfall/advent-of-code-2021): "Day-17"
+
   **2021-12-17** — opened issue [#812](https://api.github.com/repos/android/architecture-samples/issues/812) on [android/architecture-samples](https://api.github.com/repos/android/architecture-samples): "[Feature Request] Implementation new rebuild app architecture approach"
 
   **2021-12-17** — pushed [`ecab69db`](https://github.com/underwindfall/iBeats/commit/ecab69db0f9637742df3ac0c63a156f937b9a595) to [underwindfall/iBeats](https://api.github.com/repos/underwindfall/iBeats): "Update README.md"
@@ -14,16 +24,6 @@
   **2021-12-16** — pushed [`ce954fcd`](https://github.com/underwindfall/Algorithme/commit/ce954fcdd13d298b4426d013fb1e340066daaed9) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "FindMinHeightTrees310"
 
   **2021-12-16** — pushed [`42990d0c`](https://github.com/underwindfall/advent-of-code-2021/commit/42990d0c91d9a6d87420d057a218f0af66be1d53) to [underwindfall/advent-of-code-2021](https://api.github.com/repos/underwindfall/advent-of-code-2021): "Day-16"
-
-  **2021-12-16** — pushed [`546e52a6`](https://github.com/underwindfall/resume/commit/546e52a691bd3e9788f8058b0271b522fa69a81f) to [underwindfall/resume](https://api.github.com/repos/underwindfall/resume): "change personal resume"
-
-  **2021-12-16** — pushed [`6270516f`](https://github.com/underwindfall/GitHubPoster/commit/6270516f1d6c7b478474db63ebdc6d634665ca08) to [underwindfall/GitHubPoster](https://api.github.com/repos/underwindfall/GitHubPoster): "update README"
-
-  **2021-12-15** — pushed [`1be6efa5`](https://github.com/underwindfall/iBeats/commit/1be6efa52ca1bf29c6137cc2d03095119ce49d72) to [underwindfall/iBeats](https://api.github.com/repos/underwindfall/iBeats): "Create README.md"
-
-  **2021-12-15** — pushed [`c2e0be23`](https://github.com/underwindfall/iBeats/commit/c2e0be233dc236a8fcb44bf559b806f1344d909a) to [underwindfall/iBeats](https://api.github.com/repos/underwindfall/iBeats): "wip"
-
-  **2021-12-15** — created branch "main" on [underwindfall/iBeats](https://api.github.com/repos/underwindfall/iBeats)
  <!-- githubActivity ends -->
  </td><td valign="top">
 
@@ -61,11 +61,11 @@
  ## 🏊‍♂️ <a href="https://gist.github.com/underwindfall/377ee88ba1fabd1e93516e48ca9c61eb" target="_blank">Weekly Development Breakdown</a>
   <!-- codeTime starts -->
   ```text
-    Java         6 hrs 18 mins  ■■■■■■■■■■■■■▥□□□□□□□□□□  41.8%
-    Kotlin       6 hrs 11 mins  ■■■■■■■■■■■■■◱□□□□□□□□□□  41.1%
+    Java         6 hrs 31 mins  ■■■■■■■■■■■■■▦□□□□□□□□□□  43.0%
+    Kotlin        6 hrs 5 mins  ■■■■■■■■■■■■■□□□□□□□□□□□  40.2%
     Groovy        1 hr 40 mins  ■■■■■■◱□□□□□□□□□□□□□□□□□  11.1%
-    Markdown           21 mins  ■■■■□□□□□□□□□□□□□□□□□□□□   2.4%
-    Text               19 mins  ■■■■□□□□□□□□□□□□□□□□□□□□   2.2%
+    Markdown           21 mins  ■■■■□□□□□□□□□□□□□□□□□□□□   2.3%
+    Text               18 mins  ■■■■□□□□□□□□□□□□□□□□□□□□   2.1%
     YAML                4 mins  ■■■▥□□□□□□□□□□□□□□□□□□□□   0.5%
   ```
   <!-- codeTime starts -->
