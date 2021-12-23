@@ -5,6 +5,10 @@
 
  ## 📷 Github Activity
  <!-- githubActivity starts -->
+  **2021-12-22** — pushed [`f1d984f6`](https://github.com/underwindfall/advent-of-code-2021/commit/f1d984f6ab9ee2fa99b0d56c7b8b7d2b24630b23) to [underwindfall/advent-of-code-2021](https://api.github.com/repos/underwindfall/advent-of-code-2021): "Day-22"
+
+  **2021-12-22** — pushed [`1c9a004b`](https://github.com/underwindfall/advent-of-code-2021/commit/1c9a004b92ff86bedca13889c4ea0a71c657e8c6) to [underwindfall/advent-of-code-2021](https://api.github.com/repos/underwindfall/advent-of-code-2021): "Day-21"
+
   **2021-12-21** — pushed [`3e87fb47`](https://github.com/underwindfall/Algorithme/commit/3e87fb47e8bb3e1e911f60122f0f788f7e40819d) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "leetcode MaximalSquare 221"
 
   **2021-12-20** — pushed [`44f43e0f`](https://github.com/underwindfall/advent-of-code-2021/commit/44f43e0fa263bbd752cc476edc08afa7edd5586c) to [underwindfall/advent-of-code-2021](https://api.github.com/repos/underwindfall/advent-of-code-2021): "Day-20"
@@ -20,10 +24,6 @@
   **2021-12-17** — pushed [`ecab69db`](https://github.com/underwindfall/iBeats/commit/ecab69db0f9637742df3ac0c63a156f937b9a595) to [underwindfall/iBeats](https://api.github.com/repos/underwindfall/iBeats): "Update README.md"
 
   **2021-12-17** — pushed [`04ef7c23`](https://github.com/underwindfall/iBeats/commit/04ef7c230320c2083bb2df85d2fa540a706d2db5) to [underwindfall/iBeats](https://api.github.com/repos/underwindfall/iBeats): "Update README.md"
-
-  **2021-12-16** — pushed [`ce954fcd`](https://github.com/underwindfall/Algorithme/commit/ce954fcdd13d298b4426d013fb1e340066daaed9) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "FindMinHeightTrees310"
-
-  **2021-12-16** — pushed [`42990d0c`](https://github.com/underwindfall/advent-of-code-2021/commit/42990d0c91d9a6d87420d057a218f0af66be1d53) to [underwindfall/advent-of-code-2021](https://api.github.com/repos/underwindfall/advent-of-code-2021): "Day-16"
  <!-- githubActivity ends -->
  </td><td valign="top">
 
@@ -61,12 +61,12 @@
  ## 🏊‍♂️ <a href="https://gist.github.com/underwindfall/377ee88ba1fabd1e93516e48ca9c61eb" target="_blank">Weekly Development Breakdown</a>
   <!-- codeTime starts -->
   ```text
-    Kotlin       6 hrs 16 mins  ■■■■■■■■■■■■■■◱□□□□□□□□□  45.3%
-    Java         4 hrs 57 mins  ■■■■■■■■■■■■□□□□□□□□□□□□  35.9%
-    Groovy        1 hr 40 mins  ■■■■■■▥□□□□□□□□□□□□□□□□□  12.1%
-    Markdown           22 mins  ■■■■◱□□□□□□□□□□□□□□□□□□□   2.7%
-    Text               20 mins  ■■■■□□□□□□□□□□□□□□□□□□□□   2.5%
-    YAML                4 mins  ■■■▥□□□□□□□□□□□□□□□□□□□□   0.6%
+    Kotlin       7 hrs 16 mins  ■■■■■■■■■■■■■■▥□□□□□□□□□  46.0%
+    Java         4 hrs 56 mins  ■■■■■■■■■■■□□□□□□□□□□□□□  31.2%
+    Groovy        1 hr 10 mins  ■■■■■◱□□□□□□□□□□□□□□□□□□   7.4%
+    C                  51 mins  ■■■■▦□□□□□□□□□□□□□□□□□□□   5.5%
+    ObjectiveC         45 mins  ■■■■▦□□□□□□□□□□□□□□□□□□□   4.8%
+    Text               22 mins  ■■■■□□□□□□□□□□□□□□□□□□□□   2.4%
   ```
   <!-- codeTime starts -->
   </td></tr></table>
