@@ -5,6 +5,8 @@
 
  ## 📷 Github Activity
  <!-- githubActivity starts -->
+  **2021-12-23** — pushed [`4a7bdd39`](https://github.com/underwindfall/Algorithme/commit/4a7bdd3940d9033ce93d9ac6e7da469175ed6556) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "ChineseToNumber"
+
   **2021-12-22** — pushed [`f1d984f6`](https://github.com/underwindfall/advent-of-code-2021/commit/f1d984f6ab9ee2fa99b0d56c7b8b7d2b24630b23) to [underwindfall/advent-of-code-2021](https://api.github.com/repos/underwindfall/advent-of-code-2021): "Day-22"
 
   **2021-12-22** — pushed [`1c9a004b`](https://github.com/underwindfall/advent-of-code-2021/commit/1c9a004b92ff86bedca13889c4ea0a71c657e8c6) to [underwindfall/advent-of-code-2021](https://api.github.com/repos/underwindfall/advent-of-code-2021): "Day-21"
@@ -22,8 +24,6 @@
   **2021-12-17** — opened issue [#812](https://api.github.com/repos/android/architecture-samples/issues/812) on [android/architecture-samples](https://api.github.com/repos/android/architecture-samples): "[Feature Request] Implementation new rebuild app architecture approach"
 
   **2021-12-17** — pushed [`ecab69db`](https://github.com/underwindfall/iBeats/commit/ecab69db0f9637742df3ac0c63a156f937b9a595) to [underwindfall/iBeats](https://api.github.com/repos/underwindfall/iBeats): "Update README.md"
-
-  **2021-12-17** — pushed [`04ef7c23`](https://github.com/underwindfall/iBeats/commit/04ef7c230320c2083bb2df85d2fa540a706d2db5) to [underwindfall/iBeats](https://api.github.com/repos/underwindfall/iBeats): "Update README.md"
  <!-- githubActivity ends -->
  </td><td valign="top">
 
@@ -61,12 +61,12 @@
  ## 🏊‍♂️ <a href="https://gist.github.com/underwindfall/377ee88ba1fabd1e93516e48ca9c61eb" target="_blank">Weekly Development Breakdown</a>
   <!-- codeTime starts -->
   ```text
-    Kotlin       7 hrs 16 mins  ■■■■■■■■■■■■■■▥□□□□□□□□□  46.0%
-    Java         4 hrs 56 mins  ■■■■■■■■■■■□□□□□□□□□□□□□  31.2%
-    Groovy        1 hr 10 mins  ■■■■■◱□□□□□□□□□□□□□□□□□□   7.4%
-    C                  51 mins  ■■■■▦□□□□□□□□□□□□□□□□□□□   5.5%
-    ObjectiveC         45 mins  ■■■■▦□□□□□□□□□□□□□□□□□□□   4.8%
-    Text               22 mins  ■■■■□□□□□□□□□□□□□□□□□□□□   2.4%
+    Kotlin        6 hrs 2 mins  ■■■■■■■■■■■□□□□□□□□□□□□□  31.2%
+    Java         5 hrs 32 mins  ■■■■■■■■■■◱□□□□□□□□□□□□□  28.6%
+    Groovy        2 hrs 2 mins  ■■■■■■□□□□□□□□□□□□□□□□□□  10.5%
+    ObjectiveC    1 hr 29 mins  ■■■■■◱□□□□□□□□□□□□□□□□□□   7.7%
+    C             1 hr 23 mins  ■■■■■◱□□□□□□□□□□□□□□□□□□   7.2%
+    CMake              55 mins  ■■■■▥□□□□□□□□□□□□□□□□□□□   4.8%
   ```
   <!-- codeTime starts -->
   </td></tr></table>
