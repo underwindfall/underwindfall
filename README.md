@@ -5,6 +5,12 @@
 
  ## 📷 Github Activity
  <!-- githubActivity starts -->
+  **2021-12-25** — pushed [`4fbee483`](https://github.com/underwindfall/advent-of-code-2021/commit/4fbee48352577f3356e9b9b57d215298cdfca1ed) to [underwindfall/advent-of-code-2021](https://api.github.com/repos/underwindfall/advent-of-code-2021): "Day-25"
+
+  **2021-12-25** — pushed [`8fe9ef2f`](https://github.com/underwindfall/advent-of-code-2021/commit/8fe9ef2f95a5ec602079d2356802dbfddaaf7624) to [underwindfall/advent-of-code-2021](https://api.github.com/repos/underwindfall/advent-of-code-2021): "Day-24"
+
+  **2021-12-25** — pushed [`6094428e`](https://github.com/underwindfall/advent-of-code-2021/commit/6094428e37869b829ac382aca8abd3d6116203c8) to [underwindfall/advent-of-code-2021](https://api.github.com/repos/underwindfall/advent-of-code-2021): "Day-23"
+
   **2021-12-23** — pushed [`4a7bdd39`](https://github.com/underwindfall/Algorithme/commit/4a7bdd3940d9033ce93d9ac6e7da469175ed6556) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "ChineseToNumber"
 
   **2021-12-22** — pushed [`f1d984f6`](https://github.com/underwindfall/advent-of-code-2021/commit/f1d984f6ab9ee2fa99b0d56c7b8b7d2b24630b23) to [underwindfall/advent-of-code-2021](https://api.github.com/repos/underwindfall/advent-of-code-2021): "Day-22"
@@ -18,12 +24,6 @@
   **2021-12-20** — pushed [`14eb02d0`](https://github.com/underwindfall/advent-of-code-2021/commit/14eb02d02a809e51c32d7a2904177ad354d21ab2) to [underwindfall/advent-of-code-2021](https://api.github.com/repos/underwindfall/advent-of-code-2021): "Day-19"
 
   **2021-12-20** — pushed [`90ecfc48`](https://github.com/underwindfall/advent-of-code-2021/commit/90ecfc486341f2f6b2af962917531368cb5c1811) to [underwindfall/advent-of-code-2021](https://api.github.com/repos/underwindfall/advent-of-code-2021): "Day-18"
-
-  **2021-12-20** — pushed [`14bdd57f`](https://github.com/underwindfall/advent-of-code-2021/commit/14bdd57fa40e2fbc9cb664e67331e0ba67452fd2) to [underwindfall/advent-of-code-2021](https://api.github.com/repos/underwindfall/advent-of-code-2021): "Day-17"
-
-  **2021-12-17** — opened issue [#812](https://api.github.com/repos/android/architecture-samples/issues/812) on [android/architecture-samples](https://api.github.com/repos/android/architecture-samples): "[Feature Request] Implementation new rebuild app architecture approach"
-
-  **2021-12-17** — pushed [`ecab69db`](https://github.com/underwindfall/iBeats/commit/ecab69db0f9637742df3ac0c63a156f937b9a595) to [underwindfall/iBeats](https://api.github.com/repos/underwindfall/iBeats): "Update README.md"
  <!-- githubActivity ends -->
  </td><td valign="top">
 
@@ -61,12 +61,12 @@
  ## 🏊‍♂️ <a href="https://gist.github.com/underwindfall/377ee88ba1fabd1e93516e48ca9c61eb" target="_blank">Weekly Development Breakdown</a>
   <!-- codeTime starts -->
   ```text
-    Java         6 hrs 32 mins  ■■■■■■■■■■■▦□□□□□□□□□□□□  34.3%
-    Kotlin       4 hrs 42 mins  ■■■■■■■■■▥□□□□□□□□□□□□□□  24.7%
-    Groovy        2 hrs 5 mins  ■■■■■■□□□□□□□□□□□□□□□□□□  11.0%
-    ObjectiveC    1 hr 29 mins  ■■■■■◱□□□□□□□□□□□□□□□□□□   7.8%
-    C             1 hr 23 mins  ■■■■■◱□□□□□□□□□□□□□□□□□□   7.3%
-    CMake              55 mins  ■■■■▦□□□□□□□□□□□□□□□□□□□   4.8%
+    Kotlin      10 hrs 56 mins  ■■■■■■■■■■■■■■□□□□□□□□□□  43.7%
+    Java          5 hrs 3 mins  ■■■■■■■■◱□□□□□□□□□□□□□□□  20.2%
+    Groovy       2 hrs 34 mins  ■■■■■■□□□□□□□□□□□□□□□□□□  10.3%
+    ObjectiveC    1 hr 29 mins  ■■■■■□□□□□□□□□□□□□□□□□□□   5.9%
+    C             1 hr 23 mins  ■■■■▦□□□□□□□□□□□□□□□□□□□   5.6%
+    CMake              55 mins  ■■■■◱□□□□□□□□□□□□□□□□□□□   3.7%
   ```
   <!-- codeTime starts -->
   </td></tr></table>
