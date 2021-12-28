@@ -5,25 +5,25 @@
 
  ## 📷 Github Activity
  <!-- githubActivity starts -->
-  **2021-12-25** — pushed [`4fbee483`](https://github.com/underwindfall/advent-of-code-2021/commit/4fbee48352577f3356e9b9b57d215298cdfca1ed) to [underwindfall/advent-of-code-2021](https://api.github.com/repos/underwindfall/advent-of-code-2021): "Day-25"
+  **2021-12-27** — commented on [#236](https://github.com/underwindfall/Algorithme/issues/236#issuecomment-1001745869) in [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme)
 
-  **2021-12-25** — pushed [`8fe9ef2f`](https://github.com/underwindfall/advent-of-code-2021/commit/8fe9ef2f95a5ec602079d2356802dbfddaaf7624) to [underwindfall/advent-of-code-2021](https://api.github.com/repos/underwindfall/advent-of-code-2021): "Day-24"
+  **2021-12-27** — opened issue [#328](https://api.github.com/repos/underwindfall/Algorithme/issues/328) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "TriePrefixII1804"
 
-  **2021-12-25** — pushed [`6094428e`](https://github.com/underwindfall/advent-of-code-2021/commit/6094428e37869b829ac382aca8abd3d6116203c8) to [underwindfall/advent-of-code-2021](https://api.github.com/repos/underwindfall/advent-of-code-2021): "Day-23"
+  **2021-12-27** — pushed [`676354fa`](https://github.com/underwindfall/Algorithme/commit/676354fab27ee1ded17af9eaf318b9f76321d84c) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "TriePrefixII1804"
 
-  **2021-12-23** — pushed [`4a7bdd39`](https://github.com/underwindfall/Algorithme/commit/4a7bdd3940d9033ce93d9ac6e7da469175ed6556) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "ChineseToNumber"
+  **2021-12-27** — closed issue [#327](https://api.github.com/repos/underwindfall/Algorithme/issues/327) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "TriePrefixTree208"
 
-  **2021-12-22** — pushed [`f1d984f6`](https://github.com/underwindfall/advent-of-code-2021/commit/f1d984f6ab9ee2fa99b0d56c7b8b7d2b24630b23) to [underwindfall/advent-of-code-2021](https://api.github.com/repos/underwindfall/advent-of-code-2021): "Day-22"
+  **2021-12-27** — opened issue [#327](https://api.github.com/repos/underwindfall/Algorithme/issues/327) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "TriePrefixTree208"
 
-  **2021-12-22** — pushed [`1c9a004b`](https://github.com/underwindfall/advent-of-code-2021/commit/1c9a004b92ff86bedca13889c4ea0a71c657e8c6) to [underwindfall/advent-of-code-2021](https://api.github.com/repos/underwindfall/advent-of-code-2021): "Day-21"
+  **2021-12-27** — closed issue [#203](https://api.github.com/repos/underwindfall/Algorithme/issues/203) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Trie"
 
-  **2021-12-21** — pushed [`3e87fb47`](https://github.com/underwindfall/Algorithme/commit/3e87fb47e8bb3e1e911f60122f0f788f7e40819d) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "leetcode MaximalSquare 221"
+  **2021-12-27** — pushed [`33f71ea6`](https://github.com/underwindfall/Algorithme/commit/33f71ea688df935fc593c095b34e6b374f1183eb) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "AtMostDigits 902"
 
-  **2021-12-20** — pushed [`44f43e0f`](https://github.com/underwindfall/advent-of-code-2021/commit/44f43e0fa263bbd752cc476edc08afa7edd5586c) to [underwindfall/advent-of-code-2021](https://api.github.com/repos/underwindfall/advent-of-code-2021): "Day-20"
+  **2021-12-27** — pushed [`d4cbeb29`](https://github.com/underwindfall/Algorithme/commit/d4cbeb295ec07ab9f9289e492e29c4742b43cad3) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "LongestDupSubstring 1044"
 
-  **2021-12-20** — pushed [`14eb02d0`](https://github.com/underwindfall/advent-of-code-2021/commit/14eb02d02a809e51c32d7a2904177ad354d21ab2) to [underwindfall/advent-of-code-2021](https://api.github.com/repos/underwindfall/advent-of-code-2021): "Day-19"
+  **2021-12-27** — pushed [`a9165568`](https://github.com/underwindfall/Algorithme/commit/a91655680c506228a63cd244ebc88c36d8d3b457) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "FindRepeatedDNA187"
 
-  **2021-12-20** — pushed [`90ecfc48`](https://github.com/underwindfall/advent-of-code-2021/commit/90ecfc486341f2f6b2af962917531368cb5c1811) to [underwindfall/advent-of-code-2021](https://api.github.com/repos/underwindfall/advent-of-code-2021): "Day-18"
+  **2021-12-27** — pushed [`60696ba7`](https://github.com/underwindfall/Algorithme/commit/60696ba7a562a5f58a6abd33016570e448cc1056) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "FindRepeatedDNA 187"
  <!-- githubActivity ends -->
  </td><td valign="top">
 
@@ -61,12 +61,12 @@
  ## 🏊‍♂️ <a href="https://gist.github.com/underwindfall/377ee88ba1fabd1e93516e48ca9c61eb" target="_blank">Weekly Development Breakdown</a>
   <!-- codeTime starts -->
   ```text
-    Kotlin      10 hrs 56 mins  ■■■■■■■■■■■■■■□□□□□□□□□□  43.7%
-    Java          5 hrs 3 mins  ■■■■■■■■◱□□□□□□□□□□□□□□□  20.2%
-    Groovy       2 hrs 34 mins  ■■■■■■□□□□□□□□□□□□□□□□□□  10.3%
-    ObjectiveC    1 hr 29 mins  ■■■■■□□□□□□□□□□□□□□□□□□□   5.9%
-    C             1 hr 23 mins  ■■■■▦□□□□□□□□□□□□□□□□□□□   5.6%
-    CMake              55 mins  ■■■■◱□□□□□□□□□□□□□□□□□□□   3.7%
+    Kotlin      14 hrs 16 mins  ■■■■■■■■■■■■■■▥□□□□□□□□□  45.6%
+    Java         7 hrs 50 mins  ■■■■■■■■■▥□□□□□□□□□□□□□□  25.0%
+    Groovy       2 hrs 36 mins  ■■■■■▥□□□□□□□□□□□□□□□□□□   8.4%
+    ObjectiveC    1 hr 29 mins  ■■■■▥□□□□□□□□□□□□□□□□□□□   4.8%
+    C             1 hr 23 mins  ■■■■▥□□□□□□□□□□□□□□□□□□□   4.4%
+    CMake              55 mins  ■■■■◱□□□□□□□□□□□□□□□□□□□   2.9%
   ```
   <!-- codeTime starts -->
   </td></tr></table>
