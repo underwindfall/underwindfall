@@ -5,6 +5,12 @@
 
  ## 📷 Github Activity
  <!-- githubActivity starts -->
+  **2021-12-28** — opened issue [#329](https://api.github.com/repos/underwindfall/Algorithme/issues/329) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "ReplaceWords648"
+
+  **2021-12-28** — pushed [`899be751`](https://github.com/underwindfall/Algorithme/commit/899be7514b03c2a0cfa8a4319b2d3994c86466e1) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "ReplaceWords 648"
+
+  **2021-12-28** — pushed [`0aa6bae7`](https://github.com/underwindfall/Algorithme/commit/0aa6bae78efbdaa048a4bb5fe56bbb58a6f4eb9e) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "ReplaceWords 648"
+
   **2021-12-27** — commented on [#236](https://github.com/underwindfall/Algorithme/issues/236#issuecomment-1001745869) in [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme)
 
   **2021-12-27** — opened issue [#328](https://api.github.com/repos/underwindfall/Algorithme/issues/328) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "TriePrefixII1804"
@@ -18,12 +24,6 @@
   **2021-12-27** — closed issue [#203](https://api.github.com/repos/underwindfall/Algorithme/issues/203) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Trie"
 
   **2021-12-27** — pushed [`33f71ea6`](https://github.com/underwindfall/Algorithme/commit/33f71ea688df935fc593c095b34e6b374f1183eb) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "AtMostDigits 902"
-
-  **2021-12-27** — pushed [`d4cbeb29`](https://github.com/underwindfall/Algorithme/commit/d4cbeb295ec07ab9f9289e492e29c4742b43cad3) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "LongestDupSubstring 1044"
-
-  **2021-12-27** — pushed [`a9165568`](https://github.com/underwindfall/Algorithme/commit/a91655680c506228a63cd244ebc88c36d8d3b457) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "FindRepeatedDNA187"
-
-  **2021-12-27** — pushed [`60696ba7`](https://github.com/underwindfall/Algorithme/commit/60696ba7a562a5f58a6abd33016570e448cc1056) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "FindRepeatedDNA 187"
  <!-- githubActivity ends -->
  </td><td valign="top">
 
@@ -61,12 +61,12 @@
  ## 🏊‍♂️ <a href="https://gist.github.com/underwindfall/377ee88ba1fabd1e93516e48ca9c61eb" target="_blank">Weekly Development Breakdown</a>
   <!-- codeTime starts -->
   ```text
-    Kotlin      14 hrs 16 mins  ■■■■■■■■■■■■■■▥□□□□□□□□□  45.6%
-    Java         7 hrs 50 mins  ■■■■■■■■■▥□□□□□□□□□□□□□□  25.0%
-    Groovy       2 hrs 36 mins  ■■■■■▥□□□□□□□□□□□□□□□□□□   8.4%
-    ObjectiveC    1 hr 29 mins  ■■■■▥□□□□□□□□□□□□□□□□□□□   4.8%
-    C             1 hr 23 mins  ■■■■▥□□□□□□□□□□□□□□□□□□□   4.4%
-    CMake              55 mins  ■■■■◱□□□□□□□□□□□□□□□□□□□   2.9%
+    Kotlin      16 hrs 32 mins  ■■■■■■■■■■■■■▦□□□□□□□□□□  42.4%
+    Java         13 hrs 6 mins  ■■■■■■■■■■■▥□□□□□□□□□□□□  33.6%
+    Groovy       2 hrs 40 mins  ■■■■■◱□□□□□□□□□□□□□□□□□□   6.9%
+    ObjectiveC    1 hr 29 mins  ■■■■▥□□□□□□□□□□□□□□□□□□□   3.8%
+    C             1 hr 23 mins  ■■■■◱□□□□□□□□□□□□□□□□□□□   3.6%
+    XML                57 mins  ■■■■□□□□□□□□□□□□□□□□□□□□   2.4%
   ```
   <!-- codeTime starts -->
   </td></tr></table>
