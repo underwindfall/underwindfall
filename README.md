@@ -5,25 +5,25 @@
 
  ## 📷 Github Activity
  <!-- githubActivity starts -->
-  **2021-12-29** — closed issue [#138](https://api.github.com/repos/underwindfall/Algorithme/issues/138) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "FindKthLargest215"
+  **2021-12-30** — opened issue [#335](https://api.github.com/repos/underwindfall/Algorithme/issues/335) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "MedianFinder295"
 
-  **2021-12-29** — pushed [`823f7f5b`](https://github.com/underwindfall/Algorithme/commit/823f7f5b2717084e3615323a4a1bda83b3364354) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "ConnectSticks 1167"
+  **2021-12-30** — pushed [`90330432`](https://github.com/underwindfall/Algorithme/commit/90330432b45b6235a58111ef7d93ebd9692b706c) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "MedianFinder 295"
 
-  **2021-12-29** — pushed [`5e987d26`](https://github.com/underwindfall/Algorithme/commit/5e987d266f5133b5a258ce8557b35e2bf10e0cdd) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "NumFriendRequests 825"
+  **2021-12-30** — pushed [`2e172c46`](https://github.com/underwindfall/Algorithme/commit/2e172c463d27511fdb28a6d6d54305222791ef69) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "MinMeetingRoomsII 253"
 
-  **2021-12-29** — pushed [`9681570b`](https://github.com/underwindfall/Algorithme/commit/9681570bf4c18eb6764c299da2f376819d5f3daa) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "IsNStraightHande 846"
+  **2021-12-30** — opened issue [#334](https://api.github.com/repos/underwindfall/Algorithme/issues/334) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "MinMeetingRoomsII253"
 
-  **2021-12-29** — pushed [`256c97be`](https://github.com/underwindfall/Algorithme/commit/256c97beb8c9be8a4956f2af2dee3d9fcfc98be1) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Trie 总结"
+  **2021-12-30** — pushed [`119bc3a4`](https://github.com/underwindfall/Algorithme/commit/119bc3a4a8455a70b777a0ffa65bad7247662cef) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "LeastKSmallest 40"
 
-  **2021-12-29** — pushed [`0715010a`](https://github.com/underwindfall/Algorithme/commit/0715010ac81f10bf78d3fb5889804789f203c51d) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "AddBoldTag616"
+  **2021-12-30** — opened issue [#333](https://api.github.com/repos/underwindfall/Algorithme/issues/333) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "KthSmallestPrimeFraction786"
 
-  **2021-12-29** — opened issue [#332](https://api.github.com/repos/underwindfall/Algorithme/issues/332) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "AddBoldTag616"
+  **2021-12-30** — pushed [`c885b663`](https://github.com/underwindfall/Algorithme/commit/c885b6631952820d43ac455c7f3972ae9d5c7e35) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "KClosest 973"
 
-  **2021-12-29** — opened issue [#331](https://api.github.com/repos/underwindfall/Algorithme/issues/331) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "MapSum677"
+  **2021-12-30** — pushed [`e1af5e26`](https://github.com/underwindfall/Algorithme/commit/e1af5e260828cdc5104fb67f566ace1d33b99139) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "KClosest 973"
 
-  **2021-12-29** — pushed [`db063cb7`](https://github.com/underwindfall/Algorithme/commit/db063cb79a1ed38912be989f1edd35791017d05b) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "MagicDictionary 676"
+  **2021-12-30** — closed issue [#198](https://api.github.com/repos/underwindfall/Algorithme/issues/198) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "FindMaximizedCapital502"
 
-  **2021-12-29** — opened issue [#330](https://api.github.com/repos/underwindfall/Algorithme/issues/330) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "MagicDictionary676"
+  **2021-12-30** — pushed [`df326dba`](https://github.com/underwindfall/Algorithme/commit/df326dbaabc0661d718fcf2c3fe51af4eff7c72e) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "FindKthLargest 215"
  <!-- githubActivity ends -->
  </td><td valign="top">
 
@@ -61,12 +61,12 @@
  ## 🏊‍♂️ <a href="https://gist.github.com/underwindfall/377ee88ba1fabd1e93516e48ca9c61eb" target="_blank">Weekly Development Breakdown</a>
   <!-- codeTime starts -->
   ```text
-    Kotlin      16 hrs 29 mins  ■■■■■■■■■■■■■■□□□□□□□□□□  43.5%
-    Java        14 hrs 21 mins  ■■■■■■■■■■■■▥□□□□□□□□□□□  37.9%
-    Groovy        2 hrs 5 mins  ■■■■▦□□□□□□□□□□□□□□□□□□□   5.5%
-    XML                57 mins  ■■■■□□□□□□□□□□□□□□□□□□□□   2.5%
-    CMake              53 mins  ■■■■□□□□□□□□□□□□□□□□□□□□   2.3%
-    ObjectiveC         43 mins  ■■■■□□□□□□□□□□□□□□□□□□□□   1.9%
+    Java         18 hrs 3 mins  ■■■■■■■■■■■■■■■◱□□□□□□□□  48.8%
+    Kotlin      16 hrs 24 mins  ■■■■■■■■■■■■■■□□□□□□□□□□  44.3%
+    Groovy         1 hr 7 mins  ■■■■◱□□□□□□□□□□□□□□□□□□□   3.0%
+    XML                56 mins  ■■■■□□□□□□□□□□□□□□□□□□□□   2.6%
+    Properties          9 mins  ■■■▥□□□□□□□□□□□□□□□□□□□□   0.4%
+    Markdown            6 mins  ■■■▥□□□□□□□□□□□□□□□□□□□□   0.3%
   ```
   <!-- codeTime starts -->
   </td></tr></table>
