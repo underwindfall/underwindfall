@@ -5,6 +5,8 @@
 
  ## 📷 Github Activity
  <!-- githubActivity starts -->
+  **2022-01-03** — pushed [`ae513d4b`](https://github.com/underwindfall/Algorithme/commit/ae513d4bc4366af2212a29369244df1bdb3457e0) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "leetcode 913 PlayRecurse"
+
   **2022-01-01** — pushed [`1fec344c`](https://github.com/underwindfall/Algorithme/commit/1fec344c0466790a5a5f0334643dfb2929cb58d7) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "OpenLock 752"
 
   **2022-01-01** — pushed [`cc63485a`](https://github.com/underwindfall/GitHubPoster/commit/cc63485ac0554a913ee58b807064927b1f3d0788) to [underwindfall/GitHubPoster](https://api.github.com/repos/underwindfall/GitHubPoster): "Update run_poster_generate.yml"
@@ -22,8 +24,6 @@
   **2022-01-01** — created repository on [underwindfall/zeplin-asset-downloader](https://api.github.com/repos/underwindfall/zeplin-asset-downloader)
 
   **2021-12-30** — opened issue [#335](https://api.github.com/repos/underwindfall/Algorithme/issues/335) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "MedianFinder295"
-
-  **2021-12-30** — pushed [`90330432`](https://github.com/underwindfall/Algorithme/commit/90330432b45b6235a58111ef7d93ebd9692b706c) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "MedianFinder 295"
  <!-- githubActivity ends -->
  </td><td valign="top">
 
@@ -61,12 +61,12 @@
  ## 🏊‍♂️ <a href="https://gist.github.com/underwindfall/377ee88ba1fabd1e93516e48ca9c61eb" target="_blank">Weekly Development Breakdown</a>
   <!-- codeTime starts -->
   ```text
-    Java        23 hrs 55 mins  ■■■■■■■■■■■■■■■■■■■■■■□□  77.6%
-    Kotlin       5 hrs 43 mins  ■■■■■■■■□□□□□□□□□□□□□□□□  18.6%
-    Groovy             33 mins  ■■■■□□□□□□□□□□□□□□□□□□□□   1.8%
-    Properties          9 mins  ■■■▥□□□□□□□□□□□□□□□□□□□□   0.5%
-    XML                 6 mins  ■■■▥□□□□□□□□□□□□□□□□□□□□   0.4%
-    GitIgnore file         6 mins  ■■■▥□□□□□□□□□□□□□□□□□□□□   0.3%
+    Java        17 hrs 47 mins  ■■■■■■■■■■■■■■■■■■■▥□□□□  67.2%
+    Kotlin       6 hrs 25 mins  ■■■■■■■■■◱□□□□□□□□□□□□□□  24.3%
+    Groovy         1 hr 3 mins  ■■■■▥□□□□□□□□□□□□□□□□□□□   4.0%
+    Gradle             35 mins  ■■■■□□□□□□□□□□□□□□□□□□□□   2.2%
+    Properties         10 mins  ■■■▦□□□□□□□□□□□□□□□□□□□□   0.7%
+    Markdown           10 mins  ■■■▦□□□□□□□□□□□□□□□□□□□□   0.6%
   ```
   <!-- codeTime starts -->
   </td></tr></table>
