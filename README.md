@@ -5,6 +5,8 @@
 
  ## 📷 Github Activity
  <!-- githubActivity starts -->
+  **2022-01-04** — pushed [`e2a8a064`](https://github.com/underwindfall/Algorithme/commit/e2a8a0645baee43bbe7ee68d6c2a746307cddfbe) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "leetcode 116 PopulatingNextRightPointersTree116"
+
   **2022-01-03** — pushed [`ae513d4b`](https://github.com/underwindfall/Algorithme/commit/ae513d4bc4366af2212a29369244df1bdb3457e0) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "leetcode 913 PlayRecurse"
 
   **2022-01-01** — pushed [`1fec344c`](https://github.com/underwindfall/Algorithme/commit/1fec344c0466790a5a5f0334643dfb2929cb58d7) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "OpenLock 752"
@@ -22,8 +24,6 @@
   **2022-01-01** — created branch "master" on [underwindfall/zeplin-asset-downloader](https://api.github.com/repos/underwindfall/zeplin-asset-downloader)
 
   **2022-01-01** — created repository on [underwindfall/zeplin-asset-downloader](https://api.github.com/repos/underwindfall/zeplin-asset-downloader)
-
-  **2021-12-30** — opened issue [#335](https://api.github.com/repos/underwindfall/Algorithme/issues/335) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "MedianFinder295"
  <!-- githubActivity ends -->
  </td><td valign="top">
 
