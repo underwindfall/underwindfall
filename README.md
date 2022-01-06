@@ -5,6 +5,12 @@
 
  ## 📷 Github Activity
  <!-- githubActivity starts -->
+  **2022-01-05** — opened issue [#337](https://api.github.com/repos/underwindfall/Algorithme/issues/337) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "SlidingPuzzle773"
+
+  **2022-01-05** — pushed [`387e6e6c`](https://github.com/underwindfall/Algorithme/commit/387e6e6c6b2de38b7bb6f880c7ad048885997c3a) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "leetcode 773 SlidingPuzzle"
+
+  **2022-01-05** — pushed [`5970a0cc`](https://github.com/underwindfall/Algorithme/commit/5970a0ccb7f1cc9b85ebc3794cc3cee68518c5f2) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "leetcode 773 SlidingPuzzle"
+
   **2022-01-04** — pushed [`e2a8a064`](https://github.com/underwindfall/Algorithme/commit/e2a8a0645baee43bbe7ee68d6c2a746307cddfbe) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "leetcode 116 PopulatingNextRightPointersTree116"
 
   **2022-01-03** — pushed [`ae513d4b`](https://github.com/underwindfall/Algorithme/commit/ae513d4bc4366af2212a29369244df1bdb3457e0) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "leetcode 913 PlayRecurse"
@@ -18,12 +24,6 @@
   **2022-01-01** — opened issue [#336](https://api.github.com/repos/underwindfall/Algorithme/issues/336) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "LadderLength127"
 
   **2022-01-01** — pushed [`78ab28ba`](https://github.com/underwindfall/GitHubPoster/commit/78ab28ba456eff48819e65332b8a961706b5bdda) to [underwindfall/GitHubPoster](https://api.github.com/repos/underwindfall/GitHubPoster): "update yml"
-
-  **2022-01-01** — pushed [`2f1b3300`](https://github.com/underwindfall/GitHubPoster/commit/2f1b3300d4f0091fa34cf487ecb92cb75b37761f) to [underwindfall/GitHubPoster](https://api.github.com/repos/underwindfall/GitHubPoster): "Add date in yml"
-
-  **2022-01-01** — created branch "master" on [underwindfall/zeplin-asset-downloader](https://api.github.com/repos/underwindfall/zeplin-asset-downloader)
-
-  **2022-01-01** — created repository on [underwindfall/zeplin-asset-downloader](https://api.github.com/repos/underwindfall/zeplin-asset-downloader)
  <!-- githubActivity ends -->
  </td><td valign="top">
 
@@ -61,12 +61,12 @@
  ## 🏊‍♂️ <a href="https://gist.github.com/underwindfall/377ee88ba1fabd1e93516e48ca9c61eb" target="_blank">Weekly Development Breakdown</a>
   <!-- codeTime starts -->
   ```text
-    Java        17 hrs 47 mins  ■■■■■■■■■■■■■■■■■■■▥□□□□  67.2%
-    Kotlin       6 hrs 25 mins  ■■■■■■■■■◱□□□□□□□□□□□□□□  24.3%
-    Groovy         1 hr 3 mins  ■■■■▥□□□□□□□□□□□□□□□□□□□   4.0%
-    Gradle             35 mins  ■■■■□□□□□□□□□□□□□□□□□□□□   2.2%
-    Properties         10 mins  ■■■▦□□□□□□□□□□□□□□□□□□□□   0.7%
+    Java        16 hrs 22 mins  ■■■■■■■■■■■■■■■■■■▥□□□□□  62.6%
+    Kotlin       7 hrs 57 mins  ■■■■■■■■■■▦□□□□□□□□□□□□□  30.4%
+    Groovy             46 mins  ■■■■◱□□□□□□□□□□□□□□□□□□□   3.0%
+    Gradle             35 mins  ■■■■□□□□□□□□□□□□□□□□□□□□   2.3%
     Markdown           10 mins  ■■■▦□□□□□□□□□□□□□□□□□□□□   0.6%
+    JSON                9 mins  ■■■▥□□□□□□□□□□□□□□□□□□□□   0.6%
   ```
   <!-- codeTime starts -->
   </td></tr></table>
