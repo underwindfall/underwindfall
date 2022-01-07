@@ -5,6 +5,10 @@
 
  ## 📷 Github Activity
  <!-- githubActivity starts -->
+  **2022-01-06** — pushed [`836b9ecc`](https://github.com/underwindfall/Algorithme/commit/836b9ecc48f730a26eb75c78babba018f3052016) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "leetcode 1094 CarPooling"
+
+  **2022-01-06** — pushed [`c05dfccd`](https://github.com/underwindfall/Algorithme/commit/c05dfccd68b26ce9805c1fb1d3c361f82f0b125a) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "leetcode 1094 CarPooling"
+
   **2022-01-05** — opened issue [#337](https://api.github.com/repos/underwindfall/Algorithme/issues/337) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "SlidingPuzzle773"
 
   **2022-01-05** — pushed [`387e6e6c`](https://github.com/underwindfall/Algorithme/commit/387e6e6c6b2de38b7bb6f880c7ad048885997c3a) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "leetcode 773 SlidingPuzzle"
@@ -20,10 +24,6 @@
   **2022-01-01** — pushed [`cc63485a`](https://github.com/underwindfall/GitHubPoster/commit/cc63485ac0554a913ee58b807064927b1f3d0788) to [underwindfall/GitHubPoster](https://api.github.com/repos/underwindfall/GitHubPoster): "Update run_poster_generate.yml"
 
   **2022-01-01** — pushed [`ef42c428`](https://github.com/underwindfall/Algorithme/commit/ef42c428f54f38514ca9672134551fa23ad67cb2) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Leetcode 127 laddr length"
-
-  **2022-01-01** — opened issue [#336](https://api.github.com/repos/underwindfall/Algorithme/issues/336) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "LadderLength127"
-
-  **2022-01-01** — pushed [`78ab28ba`](https://github.com/underwindfall/GitHubPoster/commit/78ab28ba456eff48819e65332b8a961706b5bdda) to [underwindfall/GitHubPoster](https://api.github.com/repos/underwindfall/GitHubPoster): "update yml"
  <!-- githubActivity ends -->
  </td><td valign="top">
 
@@ -61,12 +61,12 @@
  ## 🏊‍♂️ <a href="https://gist.github.com/underwindfall/377ee88ba1fabd1e93516e48ca9c61eb" target="_blank">Weekly Development Breakdown</a>
   <!-- codeTime starts -->
   ```text
-    Java        16 hrs 22 mins  ■■■■■■■■■■■■■■■■■■▥□□□□□  62.6%
-    Kotlin       7 hrs 57 mins  ■■■■■■■■■■▦□□□□□□□□□□□□□  30.4%
-    Groovy             46 mins  ■■■■◱□□□□□□□□□□□□□□□□□□□   3.0%
-    Gradle             35 mins  ■■■■□□□□□□□□□□□□□□□□□□□□   2.3%
-    Markdown           10 mins  ■■■▦□□□□□□□□□□□□□□□□□□□□   0.6%
-    JSON                9 mins  ■■■▥□□□□□□□□□□□□□□□□□□□□   0.6%
+    Java        11 hrs 20 mins  ■■■■■■■■■■■■■■■■■□□□□□□□  56.3%
+    Kotlin        7 hrs 4 mins  ■■■■■■■■■■■■□□□□□□□□□□□□  35.2%
+    Groovy             44 mins  ■■■■◱□□□□□□□□□□□□□□□□□□□   3.7%
+    Gradle             35 mins  ■■■■◱□□□□□□□□□□□□□□□□□□□   2.9%
+    Markdown            9 mins  ■■■▦□□□□□□□□□□□□□□□□□□□□   0.8%
+    JSON                9 mins  ■■■▦□□□□□□□□□□□□□□□□□□□□   0.8%
   ```
   <!-- codeTime starts -->
   </td></tr></table>
