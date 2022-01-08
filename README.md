@@ -5,25 +5,25 @@
 
  ## 📷 Github Activity
  <!-- githubActivity starts -->
+  **2022-01-08** — pushed [`35686b77`](https://github.com/underwindfall/Algorithme/commit/35686b772a189c9492685a861b32524acaddfc28) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "browser history"
+
+  **2022-01-08** — opened issue [#339](https://api.github.com/repos/underwindfall/Algorithme/issues/339) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "MaxVacationDays568"
+
+  **2022-01-08** — pushed [`66b34762`](https://github.com/underwindfall/Algorithme/commit/66b3476225bf0cb3eb9a4e1205131dfffcdf75c5) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "leetcode 568 MaxVacationDays"
+
+  **2022-01-07** — opened issue [#338](https://api.github.com/repos/underwindfall/Algorithme/issues/338) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "NumBusesToDestination815"
+
+  **2022-01-07** — pushed [`fec2818f`](https://github.com/underwindfall/Algorithme/commit/fec2818f75c55c8bd5f4cd52dd38d7eaed29ca91) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "leetcode 815 NumBusesToDestination"
+
+  **2022-01-07** — pushed [`2cb7d0df`](https://github.com/underwindfall/Algorithme/commit/2cb7d0dfebd1df9aac0a53634fdc2138330fa57d) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "leetcode 1614 MaxNestingStringDepth"
+
+  **2022-01-07** — pushed [`48fb941c`](https://github.com/underwindfall/Algorithme/commit/48fb941c4e7d5d53b90a744b6d49d2c3df344f9b) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "leetcode 1614 MaxNestingStringDepth"
+
   **2022-01-06** — pushed [`836b9ecc`](https://github.com/underwindfall/Algorithme/commit/836b9ecc48f730a26eb75c78babba018f3052016) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "leetcode 1094 CarPooling"
 
   **2022-01-06** — pushed [`c05dfccd`](https://github.com/underwindfall/Algorithme/commit/c05dfccd68b26ce9805c1fb1d3c361f82f0b125a) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "leetcode 1094 CarPooling"
 
   **2022-01-05** — opened issue [#337](https://api.github.com/repos/underwindfall/Algorithme/issues/337) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "SlidingPuzzle773"
-
-  **2022-01-05** — pushed [`387e6e6c`](https://github.com/underwindfall/Algorithme/commit/387e6e6c6b2de38b7bb6f880c7ad048885997c3a) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "leetcode 773 SlidingPuzzle"
-
-  **2022-01-05** — pushed [`5970a0cc`](https://github.com/underwindfall/Algorithme/commit/5970a0ccb7f1cc9b85ebc3794cc3cee68518c5f2) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "leetcode 773 SlidingPuzzle"
-
-  **2022-01-04** — pushed [`e2a8a064`](https://github.com/underwindfall/Algorithme/commit/e2a8a0645baee43bbe7ee68d6c2a746307cddfbe) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "leetcode 116 PopulatingNextRightPointersTree116"
-
-  **2022-01-03** — pushed [`ae513d4b`](https://github.com/underwindfall/Algorithme/commit/ae513d4bc4366af2212a29369244df1bdb3457e0) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "leetcode 913 PlayRecurse"
-
-  **2022-01-01** — pushed [`1fec344c`](https://github.com/underwindfall/Algorithme/commit/1fec344c0466790a5a5f0334643dfb2929cb58d7) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "OpenLock 752"
-
-  **2022-01-01** — pushed [`cc63485a`](https://github.com/underwindfall/GitHubPoster/commit/cc63485ac0554a913ee58b807064927b1f3d0788) to [underwindfall/GitHubPoster](https://api.github.com/repos/underwindfall/GitHubPoster): "Update run_poster_generate.yml"
-
-  **2022-01-01** — pushed [`ef42c428`](https://github.com/underwindfall/Algorithme/commit/ef42c428f54f38514ca9672134551fa23ad67cb2) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Leetcode 127 laddr length"
  <!-- githubActivity ends -->
  </td><td valign="top">
 
@@ -61,12 +61,12 @@
  ## 🏊‍♂️ <a href="https://gist.github.com/underwindfall/377ee88ba1fabd1e93516e48ca9c61eb" target="_blank">Weekly Development Breakdown</a>
   <!-- codeTime starts -->
   ```text
-    Java        11 hrs 20 mins  ■■■■■■■■■■■■■■■■■□□□□□□□  56.3%
-    Kotlin        7 hrs 4 mins  ■■■■■■■■■■■■□□□□□□□□□□□□  35.2%
-    Groovy             44 mins  ■■■■◱□□□□□□□□□□□□□□□□□□□   3.7%
-    Gradle             35 mins  ■■■■◱□□□□□□□□□□□□□□□□□□□   2.9%
-    Markdown            9 mins  ■■■▦□□□□□□□□□□□□□□□□□□□□   0.8%
-    JSON                9 mins  ■■■▦□□□□□□□□□□□□□□□□□□□□   0.8%
+    Java         8 hrs 31 mins  ■■■■■■■■■■■■■□□□□□□□□□□□  39.6%
+    Kotlin       8 hrs 11 mins  ■■■■■■■■■■■■▥□□□□□□□□□□□  38.0%
+    Groovy        1 hr 37 mins  ■■■■■◱□□□□□□□□□□□□□□□□□□   7.6%
+    Text           1 hr 8 mins  ■■■■▦□□□□□□□□□□□□□□□□□□□   5.3%
+    Gradle             38 mins  ■■■■◱□□□□□□□□□□□□□□□□□□□   3.0%
+    JSON               27 mins  ■■■■□□□□□□□□□□□□□□□□□□□□   2.1%
   ```
   <!-- codeTime starts -->
   </td></tr></table>
