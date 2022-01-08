@@ -5,25 +5,25 @@
 
  ## 📷 Github Activity
  <!-- githubActivity starts -->
-  **2022-01-08** — pushed [`35686b77`](https://github.com/underwindfall/Algorithme/commit/35686b772a189c9492685a861b32524acaddfc28) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "browser history"
+  **2022-01-08** — opened issue [#5](https://api.github.com/repos/underwindfall/gradle-zeplin-asset-downloader/issues/5) on [underwindfall/gradle-zeplin-asset-downloader](https://api.github.com/repos/underwindfall/gradle-zeplin-asset-downloader): "documentation"
 
-  **2022-01-08** — opened issue [#339](https://api.github.com/repos/underwindfall/Algorithme/issues/339) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "MaxVacationDays568"
+  **2022-01-08** — opened issue [#4](https://api.github.com/repos/underwindfall/gradle-zeplin-asset-downloader/issues/4) on [underwindfall/gradle-zeplin-asset-downloader](https://api.github.com/repos/underwindfall/gradle-zeplin-asset-downloader): "publish  plugin  to mavenCenteral"
 
-  **2022-01-08** — pushed [`66b34762`](https://github.com/underwindfall/Algorithme/commit/66b3476225bf0cb3eb9a4e1205131dfffcdf75c5) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "leetcode 568 MaxVacationDays"
+  **2022-01-08** — opened issue [#3](https://api.github.com/repos/underwindfall/gradle-zeplin-asset-downloader/issues/3) on [underwindfall/gradle-zeplin-asset-downloader](https://api.github.com/repos/underwindfall/gradle-zeplin-asset-downloader): "support bulk downloading svg assets"
 
-  **2022-01-07** — opened issue [#338](https://api.github.com/repos/underwindfall/Algorithme/issues/338) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "NumBusesToDestination815"
+  **2022-01-08** — opened issue [#2](https://api.github.com/repos/underwindfall/gradle-zeplin-asset-downloader/issues/2) on [underwindfall/gradle-zeplin-asset-downloader](https://api.github.com/repos/underwindfall/gradle-zeplin-asset-downloader): "add gradle configuration testing"
 
-  **2022-01-07** — pushed [`fec2818f`](https://github.com/underwindfall/Algorithme/commit/fec2818f75c55c8bd5f4cd52dd38d7eaed29ca91) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "leetcode 815 NumBusesToDestination"
+  **2022-01-08** — opened issue [#1](https://api.github.com/repos/underwindfall/gradle-zeplin-asset-downloader/issues/1) on [underwindfall/gradle-zeplin-asset-downloader](https://api.github.com/repos/underwindfall/gradle-zeplin-asset-downloader): "add zeplin download api"
 
-  **2022-01-07** — pushed [`2cb7d0df`](https://github.com/underwindfall/Algorithme/commit/2cb7d0dfebd1df9aac0a53634fdc2138330fa57d) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "leetcode 1614 MaxNestingStringDepth"
+  **2022-01-08** — pushed [`9eb9aee8`](https://github.com/underwindfall/GitHubPoster/commit/9eb9aee8d5b6557736b64c08839b34f8a5caf001) to [underwindfall/GitHubPoster](https://api.github.com/repos/underwindfall/GitHubPoster): "Update run_poster_generate.yml"
 
-  **2022-01-07** — pushed [`48fb941c`](https://github.com/underwindfall/Algorithme/commit/48fb941c4e7d5d53b90a744b6d49d2c3df344f9b) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "leetcode 1614 MaxNestingStringDepth"
+  **2022-01-01** — pushed [`cc63485a`](https://github.com/underwindfall/GitHubPoster/commit/cc63485ac0554a913ee58b807064927b1f3d0788) to [underwindfall/GitHubPoster](https://api.github.com/repos/underwindfall/GitHubPoster): "Update run_poster_generate.yml"
 
-  **2022-01-06** — pushed [`836b9ecc`](https://github.com/underwindfall/Algorithme/commit/836b9ecc48f730a26eb75c78babba018f3052016) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "leetcode 1094 CarPooling"
+  **2022-01-01** — pushed [`78ab28ba`](https://github.com/underwindfall/GitHubPoster/commit/78ab28ba456eff48819e65332b8a961706b5bdda) to [underwindfall/GitHubPoster](https://api.github.com/repos/underwindfall/GitHubPoster): "update yml"
 
-  **2022-01-06** — pushed [`c05dfccd`](https://github.com/underwindfall/Algorithme/commit/c05dfccd68b26ce9805c1fb1d3c361f82f0b125a) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "leetcode 1094 CarPooling"
+  **2022-01-01** — pushed [`2f1b3300`](https://github.com/underwindfall/GitHubPoster/commit/2f1b3300d4f0091fa34cf487ecb92cb75b37761f) to [underwindfall/GitHubPoster](https://api.github.com/repos/underwindfall/GitHubPoster): "Add date in yml"
 
-  **2022-01-05** — opened issue [#337](https://api.github.com/repos/underwindfall/Algorithme/issues/337) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "SlidingPuzzle773"
+  **2022-01-01** — created branch "master" on [underwindfall/zeplin-asset-downloader](https://api.github.com/repos/underwindfall/zeplin-asset-downloader)
  <!-- githubActivity ends -->
  </td><td valign="top">
 
