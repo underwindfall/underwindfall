@@ -5,6 +5,10 @@
 
  ## 📷 Github Activity
  <!-- githubActivity starts -->
+  **2022-01-21** — pushed [`c3d387f4`](https://github.com/underwindfall/Algorithme/commit/c3d387f4bad6a21ddf6a8fa2281f10b5ab3872df) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "move count 13"
+
+  **2022-01-20** — pushed [`416bbf70`](https://github.com/underwindfall/Algorithme/commit/416bbf70622e2c9f276a1f54926425c4de25b222) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "leetcode 286 walls and gates"
+
   **2022-01-12** — pushed [`919d6edd`](https://github.com/underwindfall/gradle-zepling-asset-downloader/commit/919d6edd935db623619c89dc2e42c3d4d78fafb2) to [underwindfall/gradle-zepling-asset-downloader](https://api.github.com/repos/underwindfall/gradle-zepling-asset-downloader): "setup plugin + license clean"
 
   **2022-01-11** — pushed [`f315e295`](https://github.com/underwindfall/gradle-zepling-asset-downloader/commit/f315e295b75b485b838bc5e482db3eb279017581) to [underwindfall/gradle-zepling-asset-downloader](https://api.github.com/repos/underwindfall/gradle-zepling-asset-downloader): "setup zeplin plugin"
@@ -20,10 +24,6 @@
   **2022-01-11** — created branch "master" on [underwindfall/gradle-zepling-asset-downloader](https://api.github.com/repos/underwindfall/gradle-zepling-asset-downloader)
 
   **2022-01-11** — created repository on [underwindfall/gradle-zepling-asset-downloader](https://api.github.com/repos/underwindfall/gradle-zepling-asset-downloader)
-
-  **2022-01-08** — commented on [#26](https://github.com/cortinico/kotlin-gradle-plugin-template/pull/26#issuecomment-1008114730) in [cortinico/kotlin-gradle-plugin-template](https://api.github.com/repos/cortinico/kotlin-gradle-plugin-template)
-
-  **2022-01-08** — pushed [`a46930a8`](https://github.com/underwindfall/kotlin-gradle-plugin-template/commit/a46930a88f58d56f4cd084ddd4085f4e771925b4) to [underwindfall/kotlin-gradle-plugin-template](https://api.github.com/repos/underwindfall/kotlin-gradle-plugin-template): "upgrade detekt version to 1.19.0"
  <!-- githubActivity ends -->
  </td><td valign="top">
 
@@ -61,12 +61,12 @@
  ## 🏊‍♂️ <a href="https://gist.github.com/underwindfall/377ee88ba1fabd1e93516e48ca9c61eb" target="_blank">Weekly Development Breakdown</a>
   <!-- codeTime starts -->
   ```text
-    Kotlin      39 hrs 44 mins  ■■■■■■■■■■■■■■■■■■■■■■■◱  82.0%
-    XML          2 hrs 45 mins  ■■■■▦□□□□□□□□□□□□□□□□□□□   5.7%
-    Markdown      1 hr 48 mins  ■■■■◱□□□□□□□□□□□□□□□□□□□   3.7%
-    Java          1 hr 27 mins  ■■■■◱□□□□□□□□□□□□□□□□□□□   3.0%
-    Groovy        1 hr 15 mins  ■■■■□□□□□□□□□□□□□□□□□□□□   2.6%
-    TOML               47 mins  ■■■▦□□□□□□□□□□□□□□□□□□□□   1.6%
+    Kotlin      36 hrs 19 mins  ■■■■■■■■■■■■■■■■■■■■■■■▥  83.3%
+    XML          2 hrs 39 mins  ■■■■■□□□□□□□□□□□□□□□□□□□   6.1%
+    Markdown      1 hr 52 mins  ■■■■▥□□□□□□□□□□□□□□□□□□□   4.3%
+    Groovy             56 mins  ■■■■□□□□□□□□□□□□□□□□□□□□   2.1%
+    TOML               47 mins  ■■■■□□□□□□□□□□□□□□□□□□□□   1.8%
+    Java               29 mins  ■■■▦□□□□□□□□□□□□□□□□□□□□   1.1%
   ```
   <!-- codeTime starts -->
   </td></tr></table>
