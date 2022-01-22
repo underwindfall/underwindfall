@@ -5,6 +5,10 @@
 
  ## 📷 Github Activity
  <!-- githubActivity starts -->
+  **2022-01-21** — opened issue [#341](https://api.github.com/repos/underwindfall/Algorithme/issues/341) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "GasStation134"
+
+  **2022-01-21** — pushed [`f657a6e4`](https://github.com/underwindfall/Algorithme/commit/f657a6e4ee4b44303a1f7d9eb3a4822b5432ace3) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "GasStation134"
+
   **2022-01-21** — pushed [`c3d387f4`](https://github.com/underwindfall/Algorithme/commit/c3d387f4bad6a21ddf6a8fa2281f10b5ab3872df) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "move count 13"
 
   **2022-01-20** — pushed [`416bbf70`](https://github.com/underwindfall/Algorithme/commit/416bbf70622e2c9f276a1f54926425c4de25b222) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "leetcode 286 walls and gates"
@@ -20,10 +24,6 @@
   **2022-01-11** — deleted branch "master" on [underwindfall/gradle-zepling-asset-downloader](https://api.github.com/repos/underwindfall/gradle-zepling-asset-downloader)
 
   **2022-01-11** — created branch "main" on [underwindfall/gradle-zepling-asset-downloader](https://api.github.com/repos/underwindfall/gradle-zepling-asset-downloader)
-
-  **2022-01-11** — created branch "master" on [underwindfall/gradle-zepling-asset-downloader](https://api.github.com/repos/underwindfall/gradle-zepling-asset-downloader)
-
-  **2022-01-11** — created repository on [underwindfall/gradle-zepling-asset-downloader](https://api.github.com/repos/underwindfall/gradle-zepling-asset-downloader)
  <!-- githubActivity ends -->
  </td><td valign="top">
 
@@ -61,12 +61,12 @@
  ## 🏊‍♂️ <a href="https://gist.github.com/underwindfall/377ee88ba1fabd1e93516e48ca9c61eb" target="_blank">Weekly Development Breakdown</a>
   <!-- codeTime starts -->
   ```text
-    Kotlin      36 hrs 19 mins  ■■■■■■■■■■■■■■■■■■■■■■■▥  83.3%
-    XML          2 hrs 39 mins  ■■■■■□□□□□□□□□□□□□□□□□□□   6.1%
-    Markdown      1 hr 52 mins  ■■■■▥□□□□□□□□□□□□□□□□□□□   4.3%
-    Groovy             56 mins  ■■■■□□□□□□□□□□□□□□□□□□□□   2.1%
-    TOML               47 mins  ■■■■□□□□□□□□□□□□□□□□□□□□   1.8%
-    Java               29 mins  ■■■▦□□□□□□□□□□□□□□□□□□□□   1.1%
+    Kotlin      36 hrs 57 mins  ■■■■■■■■■■■■■■■■■■■■■■■□  81.0%
+    XML          2 hrs 32 mins  ■■■■▦□□□□□□□□□□□□□□□□□□□   5.6%
+    Java          2 hrs 3 mins  ■■■■▥□□□□□□□□□□□□□□□□□□□   4.5%
+    Markdown      1 hr 49 mins  ■■■■▥□□□□□□□□□□□□□□□□□□□   4.0%
+    Groovy             53 mins  ■■■■□□□□□□□□□□□□□□□□□□□□   1.9%
+    TOML               47 mins  ■■■■□□□□□□□□□□□□□□□□□□□□   1.7%
   ```
   <!-- codeTime starts -->
   </td></tr></table>
