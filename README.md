@@ -5,6 +5,16 @@
 
  ## 📷 Github Activity
  <!-- githubActivity starts -->
+  **2022-02-13** — deleted branch "dependabot/npm_and_yarn/node-fetch-2.6.7" on [underwindfall/create-release-with-debugapk](https://api.github.com/repos/underwindfall/create-release-with-debugapk)
+
+  **2022-02-13** — pushed [`bfdf3f54`](https://github.com/underwindfall/create-release-with-debugapk/commit/bfdf3f54f69ae8a721a920a7280f41ab9cee6730) to [underwindfall/create-release-with-debugapk](https://api.github.com/repos/underwindfall/create-release-with-debugapk): "Bump node-fetch from 2.6.1 to 2.6.7"
+
+  **2022-02-13** — closed PR [#11](https://api.github.com/repos/underwindfall/create-release-with-debugapk/pulls/11) to [underwindfall/create-release-with-debugapk](https://api.github.com/repos/underwindfall/create-release-with-debugapk): "Bump node-fetch from 2.6.1 to 2.6.7"
+
+  **2022-02-13** — pushed [`a013531c`](https://github.com/underwindfall/create-release-with-debugapk/commit/a013531cb47ce4a120a1296bec9ac69d67421c02) to [underwindfall/create-release-with-debugapk](https://api.github.com/repos/underwindfall/create-release-with-debugapk): "Bump ajv from 6.12.0 to 6.12.6"
+
+  **2022-02-13** — closed PR [#10](https://api.github.com/repos/underwindfall/create-release-with-debugapk/pulls/10) to [underwindfall/create-release-with-debugapk](https://api.github.com/repos/underwindfall/create-release-with-debugapk): "Bump ajv from 6.12.0 to 6.12.6"
+
   **2022-02-09** — pushed [`92861434`](https://github.com/underwindfall/gradle-zepling-asset-downloader/commit/9286143445f37f1e2124fd244639dacffbe253df) to [underwindfall/gradle-zepling-asset-downloader](https://api.github.com/repos/underwindfall/gradle-zepling-asset-downloader): "download and write assets"
 
   **2022-02-09** — pushed [`bafb1d84`](https://github.com/underwindfall/gradle-zepling-asset-downloader/commit/bafb1d8408ac076deb91230d9f12e9b735b12881) to [underwindfall/gradle-zepling-asset-downloader](https://api.github.com/repos/underwindfall/gradle-zepling-asset-downloader): "zeplin api implementation"
@@ -14,16 +24,6 @@
   **2022-01-11** — pushed [`f315e295`](https://github.com/underwindfall/gradle-zepling-asset-downloader/commit/f315e295b75b485b838bc5e482db3eb279017581) to [underwindfall/gradle-zepling-asset-downloader](https://api.github.com/repos/underwindfall/gradle-zepling-asset-downloader): "setup zeplin plugin"
 
   **2022-01-11** — pushed [`fb82373e`](https://github.com/underwindfall/gradle-zepling-asset-downloader/commit/fb82373eb0c85848ff385e2c789098ffab9010cb) to [underwindfall/gradle-zepling-asset-downloader](https://api.github.com/repos/underwindfall/gradle-zepling-asset-downloader): "update yml"
-
-  **2022-01-11** — pushed [`03bc9387`](https://github.com/underwindfall/gradle-zepling-asset-downloader/commit/03bc9387ecd990b401cc889e6c3f02a21a2ef362) to [underwindfall/gradle-zepling-asset-downloader](https://api.github.com/repos/underwindfall/gradle-zepling-asset-downloader): "update gitignore"
-
-  **2022-01-11** — deleted branch "master" on [underwindfall/gradle-zepling-asset-downloader](https://api.github.com/repos/underwindfall/gradle-zepling-asset-downloader)
-
-  **2022-01-11** — created branch "main" on [underwindfall/gradle-zepling-asset-downloader](https://api.github.com/repos/underwindfall/gradle-zepling-asset-downloader)
-
-  **2022-01-11** — created branch "master" on [underwindfall/gradle-zepling-asset-downloader](https://api.github.com/repos/underwindfall/gradle-zepling-asset-downloader)
-
-  **2022-01-11** — created repository on [underwindfall/gradle-zepling-asset-downloader](https://api.github.com/repos/underwindfall/gradle-zepling-asset-downloader)
  <!-- githubActivity ends -->
  </td><td valign="top">
 
