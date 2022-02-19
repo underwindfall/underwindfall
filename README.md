@@ -5,6 +5,12 @@
 
  ## 📷 Github Activity
  <!-- githubActivity starts -->
+  **2022-02-18** — closed issue [#353](https://api.github.com/repos/underwindfall/Algorithme/issues/353) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "LCOF57"
+
+  **2022-02-18** — opened issue [#353](https://api.github.com/repos/underwindfall/Algorithme/issues/353) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "LCOF57"
+
+  **2022-02-18** — pushed [`4ea6799a`](https://github.com/underwindfall/Algorithme/commit/4ea6799a8868e2ed7312ae0fc0a558f01097a909) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "LCOF57"
+
   **2022-02-18** — pushed [`33159a98`](https://github.com/underwindfall/Algorithme/commit/33159a98d57db23009a4881502717d23db0490a3) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "LCOF41"
 
   **2022-02-17** — pushed [`589e44a1`](https://github.com/underwindfall/Algorithme/commit/589e44a1310a597e970f21ebc36d71aeaa085ff7) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "KnightProbalility688"
@@ -18,12 +24,6 @@
   **2022-02-17** — opened issue [#351](https://api.github.com/repos/underwindfall/Algorithme/issues/351) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "LCOF59_II"
 
   **2022-02-17** — pushed [`86e79174`](https://github.com/underwindfall/Algorithme/commit/86e79174c0d704f7f529e126441c6298cf6e1df2) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "LCOF59_II"
-
-  **2022-02-16** — closed issue [#350](https://api.github.com/repos/underwindfall/Algorithme/issues/350) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "LCOF40"
-
-  **2022-02-16** — opened issue [#350](https://api.github.com/repos/underwindfall/Algorithme/issues/350) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "LCOF40"
-
-  **2022-02-16** — pushed [`8f1c9027`](https://github.com/underwindfall/Algorithme/commit/8f1c90271d2791b1eb498a8c2c7c2f36b2cec101) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "LCOF40"
  <!-- githubActivity ends -->
  </td><td valign="top">
 
@@ -61,12 +61,12 @@
  ## 🏊‍♂️ <a href="https://gist.github.com/underwindfall/377ee88ba1fabd1e93516e48ca9c61eb" target="_blank">Weekly Development Breakdown</a>
   <!-- codeTime starts -->
   ```text
-    Kotlin       9 hrs 27 mins  ■■■■■■■■■■■■■■■■■■▦□□□□□  64.0%
-    Java          5 hrs 9 mins  ■■■■■■■■■■■▦□□□□□□□□□□□□  34.9%
-    XML                 7 mins  ■■■▦□□□□□□□□□□□□□□□□□□□□   0.9%
-    JSON                 1 min  ■■■▥□□□□□□□□□□□□□□□□□□□□   0.2%
-    Text                0 secs  ■■■▥□□□□□□□□□□□□□□□□□□□□   0.0%
-    Groovy              0 secs  ■■■▥□□□□□□□□□□□□□□□□□□□□   0.0%
+    Kotlin       8 hrs 34 mins  ■■■■■■■■■■■■■■■■□□□□□□□□  52.6%
+    Java         5 hrs 45 mins  ■■■■■■■■■■■■□□□□□□□□□□□□  35.3%
+    CMake              47 mins  ■■■■▦□□□□□□□□□□□□□□□□□□□   4.9%
+    Text               33 mins  ■■■■◱□□□□□□□□□□□□□□□□□□□   3.5%
+    ObjectiveC          9 mins  ■■■▦□□□□□□□□□□□□□□□□□□□□   1.0%
+    Makefile            6 mins  ■■■▦□□□□□□□□□□□□□□□□□□□□   0.7%
   ```
   <!-- codeTime starts -->
   </td></tr></table>
