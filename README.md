@@ -5,6 +5,16 @@
 
  ## 📷 Github Activity
  <!-- githubActivity starts -->
+  **2022-02-20** — pushed [`38a445dd`](https://github.com/underwindfall/Algorithme/commit/38a445dda9b123abb5b8461e4c1ece9977012c21) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "NumKLenSubstrNoRepeats1100"
+
+  **2022-02-20** — closed issue [#354](https://api.github.com/repos/underwindfall/Algorithme/issues/354) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "LCOF57_II"
+
+  **2022-02-20** — closed issue [#351](https://api.github.com/repos/underwindfall/Algorithme/issues/351) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "LCOF59_II"
+
+  **2022-02-20** — pushed [`f314d852`](https://github.com/underwindfall/Algorithme/commit/f314d85263f6cd0c3b1031018509487aab2a53d0) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "NumKLenSubstrNoRepeats1100"
+
+  **2022-02-20** — opened issue [#363](https://api.github.com/repos/underwindfall/Algorithme/issues/363) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "NumKLenSubstrNoRepeats1100"
+
   **2022-02-19** — pushed 13 commits to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme).
 
   **2022-02-19** — closed issue [#362](https://api.github.com/repos/underwindfall/Algorithme/issues/362) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "LCOF23"
@@ -14,16 +24,6 @@
   **2022-02-19** — closed issue [#361](https://api.github.com/repos/underwindfall/Algorithme/issues/361) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "LCOF22_II"
 
   **2022-02-19** — opened issue [#361](https://api.github.com/repos/underwindfall/Algorithme/issues/361) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "LCOF22_II"
-
-  **2022-02-19** — closed issue [#360](https://api.github.com/repos/underwindfall/Algorithme/issues/360) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "LCOF24"
-
-  **2022-02-19** — opened issue [#360](https://api.github.com/repos/underwindfall/Algorithme/issues/360) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "LCOF24"
-
-  **2022-02-19** — closed issue [#359](https://api.github.com/repos/underwindfall/Algorithme/issues/359) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "LCOF22"
-
-  **2022-02-19** — opened issue [#359](https://api.github.com/repos/underwindfall/Algorithme/issues/359) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "LCOF22"
-
-  **2022-02-19** — closed issue [#358](https://api.github.com/repos/underwindfall/Algorithme/issues/358) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "LCOF18"
  <!-- githubActivity ends -->
  </td><td valign="top">
 
@@ -61,12 +61,12 @@
  ## 🏊‍♂️ <a href="https://gist.github.com/underwindfall/377ee88ba1fabd1e93516e48ca9c61eb" target="_blank">Weekly Development Breakdown</a>
   <!-- codeTime starts -->
   ```text
-    Kotlin      14 hrs 12 mins  ■■■■■■■■■■■■■■■■■■◱□□□□□  61.2%
-    Java         6 hrs 32 mins  ■■■■■■■■■■◱□□□□□□□□□□□□□  28.1%
-    CMake              47 mins  ■■■■◱□□□□□□□□□□□□□□□□□□□   3.4%
-    Text               33 mins  ■■■■□□□□□□□□□□□□□□□□□□□□   2.4%
-    Groovy             30 mins  ■■■■□□□□□□□□□□□□□□□□□□□□   2.2%
-    ObjectiveC          9 mins  ■■■▦□□□□□□□□□□□□□□□□□□□□   0.7%
+    Kotlin      14 hrs 13 mins  ■■■■■■■■■■■■■■■◱□□□□□□□□  48.9%
+    Java        12 hrs 22 mins  ■■■■■■■■■■■■■▦□□□□□□□□□□  42.5%
+    CMake              47 mins  ■■■■◱□□□□□□□□□□□□□□□□□□□   2.7%
+    Text               33 mins  ■■■■□□□□□□□□□□□□□□□□□□□□   1.9%
+    Groovy             30 mins  ■■■■□□□□□□□□□□□□□□□□□□□□   1.8%
+    ObjectiveC          9 mins  ■■■▥□□□□□□□□□□□□□□□□□□□□   0.6%
   ```
   <!-- codeTime starts -->
   </td></tr></table>
