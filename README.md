@@ -5,6 +5,18 @@
 
  ## 📷 Github Activity
  <!-- githubActivity starts -->
+  **2022-03-05** — opened issue [#391](https://api.github.com/repos/underwindfall/Algorithme/issues/391) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "PizzaSlices1388"
+
+  **2022-03-05** — opened issue [#390](https://api.github.com/repos/underwindfall/Algorithme/issues/390) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "DeleteAndEarn740"
+
+  **2022-03-05** — opened issue [#389](https://api.github.com/repos/underwindfall/Algorithme/issues/389) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "HouseRobberIII337"
+
+  **2022-03-05** — opened issue [#388](https://api.github.com/repos/underwindfall/Algorithme/issues/388) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "HouseRobberII213"
+
+  **2022-03-05** — opened issue [#387](https://api.github.com/repos/underwindfall/Algorithme/issues/387) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "HouseRobber198"
+
+  **2022-03-05** — pushed [`25ed43e3`](https://github.com/underwindfall/Algorithme/commit/25ed43e3ad4529a293d0d21cf1930ff5e6081e69) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "DeleteAndEarn740"
+
   **2022-03-04** — opened issue [#386](https://api.github.com/repos/underwindfall/Algorithme/issues/386) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "SubArrayRanges2104"
 
   **2022-03-04** — pushed [`67c2430a`](https://github.com/underwindfall/Algorithme/commit/67c2430a105f5d13bbb83cf84dadcc445a34497b) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "SubArrayRanges2104"
@@ -12,18 +24,6 @@
   **2022-03-03** — pushed [`bcc6abcd`](https://github.com/underwindfall/Algorithme/commit/bcc6abcd5987fcc5e425fab1badccd6e1c71dc5c) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "LCOF38"
 
   **2022-03-03** — opened issue [#385](https://api.github.com/repos/underwindfall/Algorithme/issues/385) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "LCOF38"
-
-  **2022-03-03** — closed issue [#384](https://api.github.com/repos/underwindfall/Algorithme/issues/384) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "LCOF13"
-
-  **2022-03-03** — opened issue [#384](https://api.github.com/repos/underwindfall/Algorithme/issues/384) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "LCOF13"
-
-  **2022-03-03** — pushed [`36ee021c`](https://github.com/underwindfall/Algorithme/commit/36ee021c1ece507d1796f4108d624bd784c348c5) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "LCOF13"
-
-  **2022-03-03** — pushed [`ed4b53fa`](https://github.com/underwindfall/Algorithme/commit/ed4b53fa2b9757a0eefeac8dce8704ef3390894e) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "LCOF12"
-
-  **2022-03-03** — closed issue [#383](https://api.github.com/repos/underwindfall/Algorithme/issues/383) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "LCOF12"
-
-  **2022-03-03** — opened issue [#383](https://api.github.com/repos/underwindfall/Algorithme/issues/383) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "LCOF12"
  <!-- githubActivity ends -->
  </td><td valign="top">
 
@@ -61,11 +61,11 @@
  ## 🏊‍♂️ <a href="https://gist.github.com/underwindfall/377ee88ba1fabd1e93516e48ca9c61eb" target="_blank">Weekly Development Breakdown</a>
   <!-- codeTime starts -->
   ```text
-    Kotlin      17 hrs 30 mins  ■■■■■■■■■■■■■■■■■◱□□□□□□  57.9%
-    Java         12 hrs 4 mins  ■■■■■■■■■■■■■□□□□□□□□□□□  39.9%
-    JSON               11 mins  ■■■▦□□□□□□□□□□□□□□□□□□□□   0.7%
+    Kotlin      22 hrs 19 mins  ■■■■■■■■■■■■■■■■■■■▥□□□□  66.4%
+    Java        10 hrs 36 mins  ■■■■■■■■■■■□□□□□□□□□□□□□  31.6%
+    JSON               11 mins  ■■■▥□□□□□□□□□□□□□□□□□□□□   0.6%
     Properties         11 mins  ■■■▥□□□□□□□□□□□□□□□□□□□□   0.6%
-    XML                10 mins  ■■■▥□□□□□□□□□□□□□□□□□□□□   0.6%
+    XML                10 mins  ■■■▥□□□□□□□□□□□□□□□□□□□□   0.5%
     Groovy              5 mins  ■■■▥□□□□□□□□□□□□□□□□□□□□   0.3%
   ```
   <!-- codeTime starts -->
