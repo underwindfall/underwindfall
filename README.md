@@ -5,6 +5,8 @@
 
  ## 📷 Github Activity
  <!-- githubActivity starts -->
+  **2022-03-08** — pushed [`71bac2bd`](https://github.com/underwindfall/Algorithme/commit/71bac2bd68fee77291c539ba3805daa5b49e99bd) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "LCOF26"
+
   **2022-03-07** — pushed 0 commits to [underwindfall/underwindfall](https://api.github.com/repos/underwindfall/underwindfall).
 
   **2022-03-07** — pushed [`68495d82`](https://github.com/underwindfall/underwindfall/commit/68495d82d20e1913ee67ceba6e7ba198f222a718) to [underwindfall/underwindfall](https://api.github.com/repos/underwindfall/underwindfall): "fix table"
@@ -22,8 +24,6 @@
   **2022-03-05** — opened issue [#391](https://api.github.com/repos/underwindfall/Algorithme/issues/391) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "PizzaSlices1388"
 
   **2022-03-05** — opened issue [#390](https://api.github.com/repos/underwindfall/Algorithme/issues/390) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "DeleteAndEarn740"
-
-  **2022-03-05** — opened issue [#389](https://api.github.com/repos/underwindfall/Algorithme/issues/389) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "HouseRobberIII337"
  <!-- githubActivity ends -->
  </td><td valign="top">
 
@@ -61,12 +61,12 @@
  ## 🏊‍♂️ <a href="https://gist.github.com/underwindfall/377ee88ba1fabd1e93516e48ca9c61eb" target="_blank">Weekly Development Breakdown</a>
   <!-- codeTime starts -->
   ```text
-    Kotlin      22 hrs 20 mins  ■■■■■■■■■■■■■■■■■■□□□□□□  60.3%
-    Java         14 hrs 3 mins  ■■■■■■■■■■■■▥□□□□□□□□□□□  37.9%
+    Kotlin      22 hrs 20 mins  ■■■■■■■■■■■■■■■■■□□□□□□□  56.0%
+    Java        16 hrs 52 mins  ■■■■■■■■■■■■■▥□□□□□□□□□□  42.3%
     JSON               11 mins  ■■■▥□□□□□□□□□□□□□□□□□□□□   0.5%
     Properties         11 mins  ■■■▥□□□□□□□□□□□□□□□□□□□□   0.5%
-    XML                10 mins  ■■■▥□□□□□□□□□□□□□□□□□□□□   0.5%
-    Groovy              5 mins  ■■■▥□□□□□□□□□□□□□□□□□□□□   0.3%
+    XML                10 mins  ■■■▥□□□□□□□□□□□□□□□□□□□□   0.4%
+    Groovy              5 mins  ■■■▥□□□□□□□□□□□□□□□□□□□□   0.2%
   ```
   <!-- codeTime starts -->
   </td></tr></table>
