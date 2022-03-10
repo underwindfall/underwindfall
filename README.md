@@ -6,6 +6,16 @@
 
  ## 📷 Github Activity
  <!-- githubActivity starts -->
+  **2022-03-09** — closed issue [#385](https://api.github.com/repos/underwindfall/Algorithme/issues/385) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "LCOF38"
+
+  **2022-03-09** — closed issue [#392](https://api.github.com/repos/underwindfall/Algorithme/issues/392) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "DeleteDuplicates82"
+
+  **2022-03-09** — opened issue [#392](https://api.github.com/repos/underwindfall/Algorithme/issues/392) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "DeleteDuplicates82"
+
+  **2022-03-09** — pushed [`cb30b633`](https://github.com/underwindfall/Algorithme/commit/cb30b633c27246ca59859378eb55d112a36d3043) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "DeleteDuplicates82"
+
+  **2022-03-09** — pushed [`103675bb`](https://github.com/underwindfall/Algorithme/commit/103675bbff5208d60572fccb08469b3fb3267ac2) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "DeleteDuplicates82"
+
   **2022-03-08** — closed issue [#379](https://api.github.com/repos/underwindfall/Algorithme/issues/379) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "IsSubsequence392"
 
   **2022-03-08** — closed issue [#371](https://api.github.com/repos/underwindfall/Algorithme/issues/371) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "LCOF34"
@@ -15,16 +25,6 @@
   **2022-03-08** — closed issue [#367](https://api.github.com/repos/underwindfall/Algorithme/issues/367) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "LCOF28"
 
   **2022-03-08** — pushed [`77c32f80`](https://github.com/underwindfall/underwindfall/commit/77c32f807553a55b966c473e93fd34f57d9f84e4) to [underwindfall/underwindfall](https://api.github.com/repos/underwindfall/underwindfall): "Update TemplateReadMe.kt"
-
-  **2022-03-08** — pushed [`7184c1dd`](https://github.com/underwindfall/underwindfall/commit/7184c1dd9604cc15a8f6b9fdf4014f64f5f85b5e) to [underwindfall/underwindfall](https://api.github.com/repos/underwindfall/underwindfall): "Update TemplateReadMe.kt"
-
-  **2022-03-08** — closed issue [#366](https://api.github.com/repos/underwindfall/Algorithme/issues/366) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "LCOF26"
-
-  **2022-03-08** — closed issue [#365](https://api.github.com/repos/underwindfall/Algorithme/issues/365) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "LCOF08"
-
-  **2022-03-08** — pushed [`71bac2bd`](https://github.com/underwindfall/Algorithme/commit/71bac2bd68fee77291c539ba3805daa5b49e99bd) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "LCOF26"
-
-  **2022-03-07** — pushed 0 commits to [underwindfall/underwindfall](https://api.github.com/repos/underwindfall/underwindfall).
  <!-- githubActivity ends -->
  </td><td valign="top">
 
@@ -62,12 +62,12 @@
  ## 🏊‍♂️ <a href="https://gist.github.com/underwindfall/377ee88ba1fabd1e93516e48ca9c61eb" target="_blank">Weekly Development Breakdown</a>
   <!-- codeTime starts -->
   ```text
-    Kotlin      22 hrs 34 mins  ■■■■■■■■■■■■■■■■■□□□□□□□  56.5%
-    Java        16 hrs 36 mins  ■■■■■■■■■■■■■▥□□□□□□□□□□  41.6%
+    Kotlin       21 hrs 3 mins  ■■■■■■■■■■■■■■■■▦□□□□□□□  55.6%
+    Java        16 hrs 14 mins  ■■■■■■■■■■■■■▦□□□□□□□□□□  42.9%
     Markdown           12 mins  ■■■▥□□□□□□□□□□□□□□□□□□□□   0.5%
-    Properties         11 mins  ■■■▥□□□□□□□□□□□□□□□□□□□□   0.5%
     JSON               10 mins  ■■■▥□□□□□□□□□□□□□□□□□□□□   0.4%
-    Groovy              4 mins  ■■■▥□□□□□□□□□□□□□□□□□□□□   0.2%
+    XML                 3 mins  ■■■▥□□□□□□□□□□□□□□□□□□□□   0.2%
+    Properties          2 mins  ■■■▥□□□□□□□□□□□□□□□□□□□□   0.1%
   ```
   <!-- codeTime starts -->
   </td></tr></table>
