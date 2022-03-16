@@ -6,6 +6,8 @@
 
  ## 📷 Github Activity
  <!-- githubActivity starts -->
+  **2022-03-15** — pushed [`298de606`](https://github.com/underwindfall/Algorithme/commit/298de6062e1d5487dafe179fd7f6fd5d73e25929) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "CopyRandomList138"
+
   **2022-03-11** — pushed [`66c75dd5`](https://github.com/underwindfall/Algorithme/commit/66c75dd5f9e760882269bf02f1eb5bea12fa7707) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "CountHigestScoreNodes2049"
 
   **2022-03-09** — closed issue [#385](https://api.github.com/repos/underwindfall/Algorithme/issues/385) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "LCOF38"
@@ -23,8 +25,6 @@
   **2022-03-08** — closed issue [#371](https://api.github.com/repos/underwindfall/Algorithme/issues/371) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "LCOF34"
 
   **2022-03-08** — closed issue [#368](https://api.github.com/repos/underwindfall/Algorithme/issues/368) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "LCOF27"
-
-  **2022-03-08** — closed issue [#367](https://api.github.com/repos/underwindfall/Algorithme/issues/367) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "LCOF28"
  <!-- githubActivity ends -->
  </td><td valign="top">
 
@@ -62,12 +62,12 @@
  ## 🏊‍♂️ <a href="https://gist.github.com/underwindfall/377ee88ba1fabd1e93516e48ca9c61eb" target="_blank">Weekly Development Breakdown</a>
   <!-- codeTime starts -->
   ```text
-    Kotlin      16 hrs 34 mins  ■■■■■■■■■■■■■■■■■■□□□□□□  60.7%
-    Java         8 hrs 54 mins  ■■■■■■■■■■■◱□□□□□□□□□□□□  32.6%
-    Markdown           24 mins  ■■■▦□□□□□□□□□□□□□□□□□□□□   1.5%
-    XML                22 mins  ■■■▦□□□□□□□□□□□□□□□□□□□□   1.4%
-    JSON               18 mins  ■■■▦□□□□□□□□□□□□□□□□□□□□   1.1%
-    shellscript        15 mins  ■■■▦□□□□□□□□□□□□□□□□□□□□   1.0%
+    Kotlin      19 hrs 42 mins  ■■■■■■■■■■■■■■■■■■◱□□□□□  61.4%
+    Java         9 hrs 51 mins  ■■■■■■■■■■▦□□□□□□□□□□□□□  30.7%
+    XML           1 hr 12 mins  ■■■■◱□□□□□□□□□□□□□□□□□□□   3.7%
+    JSON               24 mins  ■■■▦□□□□□□□□□□□□□□□□□□□□   1.3%
+    shellscript        15 mins  ■■■▦□□□□□□□□□□□□□□□□□□□□   0.8%
+    Markdown           13 mins  ■■■▦□□□□□□□□□□□□□□□□□□□□   0.7%
   ```
   <!-- codeTime starts -->
   </td></tr></table>
