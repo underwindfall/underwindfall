@@ -6,6 +6,8 @@
 
  ## 📷 Github Activity
  <!-- githubActivity starts -->
+  **2022-03-18** — pushed [`673d62f0`](https://github.com/underwindfall/Algorithme/commit/673d62f071f61860e8e19eba1db17b95928e4e65) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "LongestWord720"
+
   **2022-03-17** — pushed [`9aaf86d0`](https://github.com/underwindfall/Algorithme/commit/9aaf86d0b96feefef7069034d488f389e9bc517d) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "LongestWord720"
 
   **2022-03-16** — opened issue [#394](https://api.github.com/repos/underwindfall/Algorithme/issues/394) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "AllInOne432"
@@ -23,8 +25,6 @@
   **2022-03-15** — pushed [`298de606`](https://github.com/underwindfall/Algorithme/commit/298de6062e1d5487dafe179fd7f6fd5d73e25929) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "CopyRandomList138"
 
   **2022-03-11** — pushed [`66c75dd5`](https://github.com/underwindfall/Algorithme/commit/66c75dd5f9e760882269bf02f1eb5bea12fa7707) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "CountHigestScoreNodes2049"
-
-  **2022-03-09** — closed issue [#385](https://api.github.com/repos/underwindfall/Algorithme/issues/385) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "LCOF38"
  <!-- githubActivity ends -->
  </td><td valign="top">
 
@@ -62,12 +62,12 @@
  ## 🏊‍♂️ <a href="https://gist.github.com/underwindfall/377ee88ba1fabd1e93516e48ca9c61eb" target="_blank">Weekly Development Breakdown</a>
   <!-- codeTime starts -->
   ```text
-    Kotlin      19 hrs 38 mins  ■■■■■■■■■■■■■■■■■◱□□□□□□  57.9%
-    Java        11 hrs 29 mins  ■■■■■■■■■■■▥□□□□□□□□□□□□  33.9%
-    XML           1 hr 17 mins  ■■■■▥□□□□□□□□□□□□□□□□□□□   3.8%
-    Groovy             39 mins  ■■■■□□□□□□□□□□□□□□□□□□□□   1.9%
-    Markdown           13 mins  ■■■▦□□□□□□□□□□□□□□□□□□□□   0.7%
-    Gradle             10 mins  ■■■▥□□□□□□□□□□□□□□□□□□□□   0.5%
+    Kotlin      23 hrs 35 mins  ■■■■■■■■■■■■■■■■■▥□□□□□□  58.6%
+    Java         14 hrs 2 mins  ■■■■■■■■■■■▦□□□□□□□□□□□□  34.9%
+    XML           1 hr 21 mins  ■■■■◱□□□□□□□□□□□□□□□□□□□   3.4%
+    Groovy             29 mins  ■■■▦□□□□□□□□□□□□□□□□□□□□   1.2%
+    Markdown           13 mins  ■■■▥□□□□□□□□□□□□□□□□□□□□   0.6%
+    JSON               12 mins  ■■■▥□□□□□□□□□□□□□□□□□□□□   0.5%
   ```
   <!-- codeTime starts -->
   </td></tr></table>
