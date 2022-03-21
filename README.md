@@ -6,6 +6,8 @@
 
  ## 📷 Github Activity
  <!-- githubActivity starts -->
+  **2022-03-20** — pushed [`6272661d`](https://github.com/underwindfall/Algorithme/commit/6272661db8836c0325e4dfffe2f6f239106b3c2f) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "TreeStr606"
+
   **2022-03-18** — pushed [`673d62f0`](https://github.com/underwindfall/Algorithme/commit/673d62f071f61860e8e19eba1db17b95928e4e65) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "LongestWord720"
 
   **2022-03-17** — pushed [`9aaf86d0`](https://github.com/underwindfall/Algorithme/commit/9aaf86d0b96feefef7069034d488f389e9bc517d) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "LongestWord720"
@@ -23,8 +25,6 @@
   **2022-03-16** — pushed [`d99babe1`](https://github.com/underwindfall/Algorithme/commit/d99babe1f245d010f1cfc4c3ed494d9c6b07e0b6) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "ValidateStackSequences946"
 
   **2022-03-15** — pushed [`298de606`](https://github.com/underwindfall/Algorithme/commit/298de6062e1d5487dafe179fd7f6fd5d73e25929) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "CopyRandomList138"
-
-  **2022-03-11** — pushed [`66c75dd5`](https://github.com/underwindfall/Algorithme/commit/66c75dd5f9e760882269bf02f1eb5bea12fa7707) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "CountHigestScoreNodes2049"
  <!-- githubActivity ends -->
  </td><td valign="top">
 
@@ -62,10 +62,10 @@
  ## 🏊‍♂️ <a href="https://gist.github.com/underwindfall/377ee88ba1fabd1e93516e48ca9c61eb" target="_blank">Weekly Development Breakdown</a>
   <!-- codeTime starts -->
   ```text
-    Kotlin      22 hrs 17 mins  ■■■■■■■■■■■■■■■▦□□□□□□□□  51.4%
-    Java         18 hrs 4 mins  ■■■■■■■■■■■■■▥□□□□□□□□□□  41.6%
-    XML           1 hr 58 mins  ■■■■▥□□□□□□□□□□□□□□□□□□□   4.6%
-    Groovy             29 mins  ■■■▦□□□□□□□□□□□□□□□□□□□□   1.1%
+    Kotlin      22 hrs 37 mins  ■■■■■■■■■■■■■■■▦□□□□□□□□  51.0%
+    Java        18 hrs 33 mins  ■■■■■■■■■■■■■▥□□□□□□□□□□  41.9%
+    XML           2 hrs 3 mins  ■■■■▥□□□□□□□□□□□□□□□□□□□   4.7%
+    Groovy             31 mins  ■■■▦□□□□□□□□□□□□□□□□□□□□   1.2%
     JSON               12 mins  ■■■▥□□□□□□□□□□□□□□□□□□□□   0.5%
     YAML                9 mins  ■■■▥□□□□□□□□□□□□□□□□□□□□   0.4%
   ```
