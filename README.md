@@ -6,6 +6,10 @@
 
  ## 📷 Github Activity
  <!-- githubActivity starts -->
+  **2022-03-21** — opened issue [#396](https://api.github.com/repos/underwindfall/Algorithme/issues/396) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "TreeStr606"
+
+  **2022-03-21** — opened issue [#395](https://api.github.com/repos/underwindfall/Algorithme/issues/395) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "FindTarget653"
+
   **2022-03-20** — pushed [`6272661d`](https://github.com/underwindfall/Algorithme/commit/6272661db8836c0325e4dfffe2f6f239106b3c2f) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "TreeStr606"
 
   **2022-03-18** — pushed [`673d62f0`](https://github.com/underwindfall/Algorithme/commit/673d62f071f61860e8e19eba1db17b95928e4e65) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "LongestWord720"
@@ -21,10 +25,6 @@
   **2022-03-16** — opened issue [#393](https://api.github.com/repos/underwindfall/Algorithme/issues/393) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "LRUCache146"
 
   **2022-03-16** — pushed [`b440b3b4`](https://github.com/underwindfall/Algorithme/commit/b440b3b47ecd631d12ba22649514b3faf4d7f72f) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "LRUCache146"
-
-  **2022-03-16** — pushed [`d99babe1`](https://github.com/underwindfall/Algorithme/commit/d99babe1f245d010f1cfc4c3ed494d9c6b07e0b6) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "ValidateStackSequences946"
-
-  **2022-03-15** — pushed [`298de606`](https://github.com/underwindfall/Algorithme/commit/298de6062e1d5487dafe179fd7f6fd5d73e25929) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "CopyRandomList138"
  <!-- githubActivity ends -->
  </td><td valign="top">
 
@@ -62,12 +62,12 @@
  ## 🏊‍♂️ <a href="https://gist.github.com/underwindfall/377ee88ba1fabd1e93516e48ca9c61eb" target="_blank">Weekly Development Breakdown</a>
   <!-- codeTime starts -->
   ```text
-    Kotlin      22 hrs 37 mins  ■■■■■■■■■■■■■■■▦□□□□□□□□  51.0%
-    Java        18 hrs 33 mins  ■■■■■■■■■■■■■▥□□□□□□□□□□  41.9%
-    XML           2 hrs 3 mins  ■■■■▥□□□□□□□□□□□□□□□□□□□   4.7%
+    Kotlin      22 hrs 37 mins  ■■■■■■■■■■■■■■■▦□□□□□□□□  50.7%
+    Java        18 hrs 50 mins  ■■■■■■■■■■■■■▥□□□□□□□□□□  42.2%
+    XML           2 hrs 3 mins  ■■■■▥□□□□□□□□□□□□□□□□□□□   4.6%
     Groovy             31 mins  ■■■▦□□□□□□□□□□□□□□□□□□□□   1.2%
     JSON               12 mins  ■■■▥□□□□□□□□□□□□□□□□□□□□   0.5%
-    YAML                9 mins  ■■■▥□□□□□□□□□□□□□□□□□□□□   0.4%
+    YAML                9 mins  ■■■▥□□□□□□□□□□□□□□□□□□□□   0.3%
   ```
   <!-- codeTime starts -->
   </td></tr></table>
