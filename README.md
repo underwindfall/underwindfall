@@ -6,25 +6,25 @@
 
  ## 📷 Github Activity
  <!-- githubActivity starts -->
+  **2022-03-22** — opened issue [#398](https://api.github.com/repos/underwindfall/Algorithme/issues/398) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "AssignBikes1057"
+
+  **2022-03-22** — pushed [`dc6e74ce`](https://github.com/underwindfall/Algorithme/commit/dc6e74cebce3be44e9215f66cc80202885fc9de0) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "AssignBikes1057"
+
+  **2022-03-22** — opened issue [#397](https://api.github.com/repos/underwindfall/Algorithme/issues/397) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "FreqStack895"
+
+  **2022-03-22** — pushed [`e6597354`](https://github.com/underwindfall/Algorithme/commit/e6597354ef5e188d9e22e60e5020269684838df3) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "FreqStack895"
+
+  **2022-03-22** — pushed [`8b5c48b8`](https://github.com/underwindfall/Algorithme/commit/8b5c48b866ed5af105206d4f6bcacfa8779427fa) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "GetSmallestString1663"
+
+  **2022-03-22** — pushed 2 commits to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme).
+
+  **2022-03-22** — pushed [`aa5adc87`](https://github.com/underwindfall/Algorithme/commit/aa5adc873185075ab67e3910bff8e3c4a3768699) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "WinnerOfGames2038"
+
   **2022-03-21** — opened issue [#396](https://api.github.com/repos/underwindfall/Algorithme/issues/396) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "TreeStr606"
 
   **2022-03-21** — opened issue [#395](https://api.github.com/repos/underwindfall/Algorithme/issues/395) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "FindTarget653"
 
   **2022-03-20** — pushed [`6272661d`](https://github.com/underwindfall/Algorithme/commit/6272661db8836c0325e4dfffe2f6f239106b3c2f) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "TreeStr606"
-
-  **2022-03-18** — pushed [`673d62f0`](https://github.com/underwindfall/Algorithme/commit/673d62f071f61860e8e19eba1db17b95928e4e65) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "LongestWord720"
-
-  **2022-03-17** — pushed [`9aaf86d0`](https://github.com/underwindfall/Algorithme/commit/9aaf86d0b96feefef7069034d488f389e9bc517d) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "LongestWord720"
-
-  **2022-03-16** — opened issue [#394](https://api.github.com/repos/underwindfall/Algorithme/issues/394) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "AllInOne432"
-
-  **2022-03-16** — pushed [`0a94247c`](https://github.com/underwindfall/Algorithme/commit/0a94247c3ff4d4417f471c1e5145f3e5154d766e) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "AllInOne432"
-
-  **2022-03-16** — pushed [`cd1525fd`](https://github.com/underwindfall/Algorithme/commit/cd1525fd5b0cad4b34b1ca3b3cdf6030d3fd6882) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "LRUCache146"
-
-  **2022-03-16** — opened issue [#393](https://api.github.com/repos/underwindfall/Algorithme/issues/393) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "LRUCache146"
-
-  **2022-03-16** — pushed [`b440b3b4`](https://github.com/underwindfall/Algorithme/commit/b440b3b47ecd631d12ba22649514b3faf4d7f72f) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "LRUCache146"
  <!-- githubActivity ends -->
  </td><td valign="top">
 
@@ -62,12 +62,12 @@
  ## 🏊‍♂️ <a href="https://gist.github.com/underwindfall/377ee88ba1fabd1e93516e48ca9c61eb" target="_blank">Weekly Development Breakdown</a>
   <!-- codeTime starts -->
   ```text
-    Kotlin      22 hrs 37 mins  ■■■■■■■■■■■■■■■▦□□□□□□□□  50.7%
-    Java        18 hrs 50 mins  ■■■■■■■■■■■■■▥□□□□□□□□□□  42.2%
-    XML           2 hrs 3 mins  ■■■■▥□□□□□□□□□□□□□□□□□□□   4.6%
-    Groovy             31 mins  ■■■▦□□□□□□□□□□□□□□□□□□□□   1.2%
-    JSON               12 mins  ■■■▥□□□□□□□□□□□□□□□□□□□□   0.5%
-    YAML                9 mins  ■■■▥□□□□□□□□□□□□□□□□□□□□   0.3%
+    Kotlin      19 hrs 11 mins  ■■■■■■■■■■■■■■■□□□□□□□□□  48.4%
+    Java        17 hrs 59 mins  ■■■■■■■■■■■■■■◱□□□□□□□□□  45.4%
+    XML           1 hr 13 mins  ■■■■◱□□□□□□□□□□□□□□□□□□□   3.1%
+    Groovy             41 mins  ■■■■□□□□□□□□□□□□□□□□□□□□   1.7%
+    JSON               14 mins  ■■■▥□□□□□□□□□□□□□□□□□□□□   0.6%
+    YAML                9 mins  ■■■▥□□□□□□□□□□□□□□□□□□□□   0.4%
   ```
   <!-- codeTime starts -->
   </td></tr></table>
