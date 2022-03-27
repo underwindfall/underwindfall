@@ -6,6 +6,12 @@
 
  ## 📷 Github Activity
  <!-- githubActivity starts -->
+  **2022-03-26** — deleted branch "dependabot/npm_and_yarn/minimist-1.2.6" on [underwindfall/create-release-with-debugapk](https://api.github.com/repos/underwindfall/create-release-with-debugapk)
+
+  **2022-03-26** — pushed [`a1db58bf`](https://github.com/underwindfall/create-release-with-debugapk/commit/a1db58bf244c5ba575ca7a477ae1bafb7f73ad36) to [underwindfall/create-release-with-debugapk](https://api.github.com/repos/underwindfall/create-release-with-debugapk): "Bump minimist from 1.2.5 to 1.2.6"
+
+  **2022-03-26** — closed PR [#12](https://api.github.com/repos/underwindfall/create-release-with-debugapk/pulls/12) to [underwindfall/create-release-with-debugapk](https://api.github.com/repos/underwindfall/create-release-with-debugapk): "Bump minimist from 1.2.5 to 1.2.6"
+
   **2022-03-22** — opened issue [#398](https://api.github.com/repos/underwindfall/Algorithme/issues/398) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "AssignBikes1057"
 
   **2022-03-22** — pushed [`dc6e74ce`](https://github.com/underwindfall/Algorithme/commit/dc6e74cebce3be44e9215f66cc80202885fc9de0) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "AssignBikes1057"
@@ -19,12 +25,6 @@
   **2022-03-22** — pushed 2 commits to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme).
 
   **2022-03-22** — pushed [`aa5adc87`](https://github.com/underwindfall/Algorithme/commit/aa5adc873185075ab67e3910bff8e3c4a3768699) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "WinnerOfGames2038"
-
-  **2022-03-21** — opened issue [#396](https://api.github.com/repos/underwindfall/Algorithme/issues/396) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "TreeStr606"
-
-  **2022-03-21** — opened issue [#395](https://api.github.com/repos/underwindfall/Algorithme/issues/395) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "FindTarget653"
-
-  **2022-03-20** — pushed [`6272661d`](https://github.com/underwindfall/Algorithme/commit/6272661db8836c0325e4dfffe2f6f239106b3c2f) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "TreeStr606"
  <!-- githubActivity ends -->
  </td><td valign="top">
 
@@ -62,12 +62,12 @@
  ## 🏊‍♂️ <a href="https://gist.github.com/underwindfall/377ee88ba1fabd1e93516e48ca9c61eb" target="_blank">Weekly Development Breakdown</a>
   <!-- codeTime starts -->
   ```text
-    Kotlin      20 hrs 48 mins  ■■■■■■■■■■■■■■■■■◱□□□□□□  57.2%
-    Java        13 hrs 26 mins  ■■■■■■■■■■■■◱□□□□□□□□□□□  36.9%
-    XML            1 hr 5 mins  ■■■■◱□□□□□□□□□□□□□□□□□□□   3.0%
-    Groovy             23 mins  ■■■▦□□□□□□□□□□□□□□□□□□□□   1.1%
-    JSON               21 mins  ■■■▦□□□□□□□□□□□□□□□□□□□□   1.0%
-    Shell Script         8 mins  ■■■▥□□□□□□□□□□□□□□□□□□□□   0.4%
+    Kotlin      18 hrs 14 mins  ■■■■■■■■■■■■■■■■■■▦□□□□□  63.2%
+    Java         8 hrs 56 mins  ■■■■■■■■■■■□□□□□□□□□□□□□  31.0%
+    XML                30 mins  ■■■■□□□□□□□□□□□□□□□□□□□□   1.8%
+    Groovy             24 mins  ■■■▦□□□□□□□□□□□□□□□□□□□□   1.4%
+    JSON               23 mins  ■■■▦□□□□□□□□□□□□□□□□□□□□   1.3%
+    Shell Script         8 mins  ■■■▥□□□□□□□□□□□□□□□□□□□□   0.5%
   ```
   <!-- codeTime starts -->
   </td></tr></table>
