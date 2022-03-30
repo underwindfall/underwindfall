@@ -6,6 +6,14 @@
 
  ## 📷 Github Activity
  <!-- githubActivity starts -->
+  **2022-03-29** — pushed [`a73fd127`](https://github.com/underwindfall/Algorithme/commit/a73fd1277a344963b7fda6e4a53130211dd67d7b) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "MaxConsecutiveAnswers2024"
+
+  **2022-03-29** — opened issue [#401](https://api.github.com/repos/underwindfall/Algorithme/issues/401) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "MaxConsecutiveAnswers2024"
+
+  **2022-03-29** — opened issue [#400](https://api.github.com/repos/underwindfall/Algorithme/issues/400) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "LongestOnes1004"
+
+  **2022-03-29** — pushed [`a0475ac6`](https://github.com/underwindfall/Algorithme/commit/a0475ac6aade63a96d0be821d20d53b8302c0288) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "LongestOnes1004"
+
   **2022-03-27** — pushed [`c48bd72c`](https://github.com/underwindfall/Algorithme/commit/c48bd72c66693547d4896c5ac8eecbb48cd5ae0a) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "FindKthNumber440"
 
   **2022-03-27** — opened issue [#399](https://api.github.com/repos/underwindfall/Algorithme/issues/399) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "FindKthNumber440"
@@ -17,14 +25,6 @@
   **2022-03-27** — pushed [`6f32ba39`](https://github.com/underwindfall/Algorithme/commit/6f32ba39562bb9b72c13965aff46298905b810ad) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "TwoCitSchedCost1029"
 
   **2022-03-27** — deleted branch "dependabot/npm_and_yarn/ansi-regex-4.1.1" on [underwindfall/create-release-with-debugapk](https://api.github.com/repos/underwindfall/create-release-with-debugapk)
-
-  **2022-03-27** — pushed [`d0778838`](https://github.com/underwindfall/create-release-with-debugapk/commit/d07788387e0ad53c6186c9923012ad3e9a7a16e6) to [underwindfall/create-release-with-debugapk](https://api.github.com/repos/underwindfall/create-release-with-debugapk): "Bump ansi-regex from 4.1.0 to 4.1.1"
-
-  **2022-03-27** — closed PR [#13](https://api.github.com/repos/underwindfall/create-release-with-debugapk/pulls/13) to [underwindfall/create-release-with-debugapk](https://api.github.com/repos/underwindfall/create-release-with-debugapk): "Bump ansi-regex from 4.1.0 to 4.1.1"
-
-  **2022-03-26** — deleted branch "dependabot/npm_and_yarn/minimist-1.2.6" on [underwindfall/create-release-with-debugapk](https://api.github.com/repos/underwindfall/create-release-with-debugapk)
-
-  **2022-03-26** — pushed [`a1db58bf`](https://github.com/underwindfall/create-release-with-debugapk/commit/a1db58bf244c5ba575ca7a477ae1bafb7f73ad36) to [underwindfall/create-release-with-debugapk](https://api.github.com/repos/underwindfall/create-release-with-debugapk): "Bump minimist from 1.2.5 to 1.2.6"
  <!-- githubActivity ends -->
  </td><td valign="top">
 
@@ -62,11 +62,11 @@
  ## 🏊‍♂️ <a href="https://gist.github.com/underwindfall/377ee88ba1fabd1e93516e48ca9c61eb" target="_blank">Weekly Development Breakdown</a>
   <!-- codeTime starts -->
   ```text
-    Kotlin      17 hrs 54 mins  ■■■■■■■■■■■■■■■■■■□□□□□□  61.0%
-    Java         9 hrs 53 mins  ■■■■■■■■■■■▥□□□□□□□□□□□□  33.7%
-    XML                25 mins  ■■■▦□□□□□□□□□□□□□□□□□□□□   1.4%
-    JSON               23 mins  ■■■▦□□□□□□□□□□□□□□□□□□□□   1.3%
-    Groovy             22 mins  ■■■▦□□□□□□□□□□□□□□□□□□□□   1.3%
+    Kotlin      15 hrs 52 mins  ■■■■■■■■■■■■■■■■■□□□□□□□  56.3%
+    Java        10 hrs 50 mins  ■■■■■■■■■■■■▦□□□□□□□□□□□  38.4%
+    XML                34 mins  ■■■■□□□□□□□□□□□□□□□□□□□□   2.0%
+    Groovy             20 mins  ■■■▦□□□□□□□□□□□□□□□□□□□□   1.2%
+    JSON               12 mins  ■■■▦□□□□□□□□□□□□□□□□□□□□   0.8%
     Shell Script         8 mins  ■■■▥□□□□□□□□□□□□□□□□□□□□   0.5%
   ```
   <!-- codeTime starts -->
