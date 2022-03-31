@@ -6,6 +6,8 @@
 
  ## 📷 Github Activity
  <!-- githubActivity starts -->
+  **2022-03-30** — pushed [`0bc7e3f5`](https://github.com/underwindfall/Algorithme/commit/0bc7e3f52379b12cf818594ab67d98781515cb1f) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "BusiesServers1606"
+
   **2022-03-29** — pushed [`a73fd127`](https://github.com/underwindfall/Algorithme/commit/a73fd1277a344963b7fda6e4a53130211dd67d7b) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "MaxConsecutiveAnswers2024"
 
   **2022-03-29** — opened issue [#401](https://api.github.com/repos/underwindfall/Algorithme/issues/401) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "MaxConsecutiveAnswers2024"
@@ -23,8 +25,6 @@
   **2022-03-27** — pushed [`3758e898`](https://github.com/underwindfall/Algorithme/commit/3758e898a8f0baf8a3a3416cb330d2dd3451ca02) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "BrokenCalc991"
 
   **2022-03-27** — pushed [`6f32ba39`](https://github.com/underwindfall/Algorithme/commit/6f32ba39562bb9b72c13965aff46298905b810ad) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "TwoCitSchedCost1029"
-
-  **2022-03-27** — deleted branch "dependabot/npm_and_yarn/ansi-regex-4.1.1" on [underwindfall/create-release-with-debugapk](https://api.github.com/repos/underwindfall/create-release-with-debugapk)
  <!-- githubActivity ends -->
  </td><td valign="top">
 
@@ -62,12 +62,12 @@
  ## 🏊‍♂️ <a href="https://gist.github.com/underwindfall/377ee88ba1fabd1e93516e48ca9c61eb" target="_blank">Weekly Development Breakdown</a>
   <!-- codeTime starts -->
   ```text
-    Kotlin      15 hrs 52 mins  ■■■■■■■■■■■■■■■■■□□□□□□□  56.3%
-    Java        10 hrs 50 mins  ■■■■■■■■■■■■▦□□□□□□□□□□□  38.4%
-    XML                34 mins  ■■■■□□□□□□□□□□□□□□□□□□□□   2.0%
-    Groovy             20 mins  ■■■▦□□□□□□□□□□□□□□□□□□□□   1.2%
+    Kotlin      13 hrs 29 mins  ■■■■■■■■■■■■■■■■▥□□□□□□□  53.9%
+    Java        10 hrs 14 mins  ■■■■■■■■■■■■■◱□□□□□□□□□□  41.0%
+    XML                27 mins  ■■■■□□□□□□□□□□□□□□□□□□□□   1.8%
+    Groovy             17 mins  ■■■▦□□□□□□□□□□□□□□□□□□□□   1.1%
     JSON               12 mins  ■■■▦□□□□□□□□□□□□□□□□□□□□   0.8%
-    Shell Script         8 mins  ■■■▥□□□□□□□□□□□□□□□□□□□□   0.5%
+    Shell Script         8 mins  ■■■▥□□□□□□□□□□□□□□□□□□□□   0.6%
   ```
   <!-- codeTime starts -->
   </td></tr></table>
