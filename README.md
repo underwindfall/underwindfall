@@ -6,6 +6,10 @@
 
  ## 📷 Github Activity
  <!-- githubActivity starts -->
+  **2022-03-31** — opened issue [#402](https://api.github.com/repos/underwindfall/Algorithme/issues/402) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "SplitArray410"
+
+  **2022-03-31** — pushed [`e207e9b9`](https://github.com/underwindfall/Algorithme/commit/e207e9b918dfee5c9a794d55fd389f9221119853) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "SplitArray410"
+
   **2022-03-30** — pushed [`0bc7e3f5`](https://github.com/underwindfall/Algorithme/commit/0bc7e3f52379b12cf818594ab67d98781515cb1f) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "BusiesServers1606"
 
   **2022-03-29** — pushed [`a73fd127`](https://github.com/underwindfall/Algorithme/commit/a73fd1277a344963b7fda6e4a53130211dd67d7b) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "MaxConsecutiveAnswers2024"
@@ -21,10 +25,6 @@
   **2022-03-27** — opened issue [#399](https://api.github.com/repos/underwindfall/Algorithme/issues/399) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "FindKthNumber440"
 
   **2022-03-27** — pushed [`71576063`](https://github.com/underwindfall/Algorithme/commit/7157606375aa05adef7a6eb742ad2dd7a907298f) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "BrokenCalc991"
-
-  **2022-03-27** — pushed [`3758e898`](https://github.com/underwindfall/Algorithme/commit/3758e898a8f0baf8a3a3416cb330d2dd3451ca02) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "BrokenCalc991"
-
-  **2022-03-27** — pushed [`6f32ba39`](https://github.com/underwindfall/Algorithme/commit/6f32ba39562bb9b72c13965aff46298905b810ad) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "TwoCitSchedCost1029"
  <!-- githubActivity ends -->
  </td><td valign="top">
 
@@ -62,12 +62,12 @@
  ## 🏊‍♂️ <a href="https://gist.github.com/underwindfall/377ee88ba1fabd1e93516e48ca9c61eb" target="_blank">Weekly Development Breakdown</a>
   <!-- codeTime starts -->
   ```text
-    Kotlin      13 hrs 29 mins  ■■■■■■■■■■■■■■■■▥□□□□□□□  53.9%
-    Java        10 hrs 14 mins  ■■■■■■■■■■■■■◱□□□□□□□□□□  41.0%
-    XML                27 mins  ■■■■□□□□□□□□□□□□□□□□□□□□   1.8%
-    Groovy             17 mins  ■■■▦□□□□□□□□□□□□□□□□□□□□   1.1%
-    JSON               12 mins  ■■■▦□□□□□□□□□□□□□□□□□□□□   0.8%
-    Shell Script         8 mins  ■■■▥□□□□□□□□□□□□□□□□□□□□   0.6%
+    Kotlin      11 hrs 59 mins  ■■■■■■■■■■■■■■■■■◱□□□□□□  57.0%
+    Java          8 hrs 5 mins  ■■■■■■■■■■■■▦□□□□□□□□□□□  38.5%
+    XML                29 mins  ■■■■□□□□□□□□□□□□□□□□□□□□   2.4%
+    Groovy             14 mins  ■■■▦□□□□□□□□□□□□□□□□□□□□   1.1%
+    JSON                7 mins  ■■■▥□□□□□□□□□□□□□□□□□□□□   0.6%
+    Bash                5 mins  ■■■▥□□□□□□□□□□□□□□□□□□□□   0.4%
   ```
   <!-- codeTime starts -->
   </td></tr></table>
