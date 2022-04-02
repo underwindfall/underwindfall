@@ -6,6 +6,8 @@
 
  ## 📷 Github Activity
  <!-- githubActivity starts -->
+  **2022-04-01** — pushed [`33710ae7`](https://github.com/underwindfall/Algorithme/commit/33710ae7464bfc718edcf98eb909bc6a7e482332) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "CanRecordDoubled954"
+
   **2022-03-31** — opened issue [#402](https://api.github.com/repos/underwindfall/Algorithme/issues/402) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "SplitArray410"
 
   **2022-03-31** — pushed [`e207e9b9`](https://github.com/underwindfall/Algorithme/commit/e207e9b918dfee5c9a794d55fd389f9221119853) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "SplitArray410"
@@ -23,8 +25,6 @@
   **2022-03-27** — pushed [`c48bd72c`](https://github.com/underwindfall/Algorithme/commit/c48bd72c66693547d4896c5ac8eecbb48cd5ae0a) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "FindKthNumber440"
 
   **2022-03-27** — opened issue [#399](https://api.github.com/repos/underwindfall/Algorithme/issues/399) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "FindKthNumber440"
-
-  **2022-03-27** — pushed [`71576063`](https://github.com/underwindfall/Algorithme/commit/7157606375aa05adef7a6eb742ad2dd7a907298f) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "BrokenCalc991"
  <!-- githubActivity ends -->
  </td><td valign="top">
 
@@ -62,12 +62,12 @@
  ## 🏊‍♂️ <a href="https://gist.github.com/underwindfall/377ee88ba1fabd1e93516e48ca9c61eb" target="_blank">Weekly Development Breakdown</a>
   <!-- codeTime starts -->
   ```text
-    Kotlin      11 hrs 59 mins  ■■■■■■■■■■■■■■■■■◱□□□□□□  57.0%
-    Java          8 hrs 5 mins  ■■■■■■■■■■■■▦□□□□□□□□□□□  38.5%
-    XML                29 mins  ■■■■□□□□□□□□□□□□□□□□□□□□   2.4%
-    Groovy             14 mins  ■■■▦□□□□□□□□□□□□□□□□□□□□   1.1%
-    JSON                7 mins  ■■■▥□□□□□□□□□□□□□□□□□□□□   0.6%
-    Bash                5 mins  ■■■▥□□□□□□□□□□□□□□□□□□□□   0.4%
+    Kotlin        9 hrs 7 mins  ■■■■■■■■■■■■■■■◱□□□□□□□□  48.6%
+    Java         8 hrs 49 mins  ■■■■■■■■■■■■■■▦□□□□□□□□□  46.9%
+    XML                30 mins  ■■■■◱□□□□□□□□□□□□□□□□□□□   2.7%
+    Groovy             12 mins  ■■■▦□□□□□□□□□□□□□□□□□□□□   1.1%
+    Bash                5 mins  ■■■▥□□□□□□□□□□□□□□□□□□□□   0.5%
+    JSON                 1 min  ■■■▥□□□□□□□□□□□□□□□□□□□□   0.2%
   ```
   <!-- codeTime starts -->
   </td></tr></table>
