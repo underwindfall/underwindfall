@@ -6,6 +6,8 @@
 
  ## 📷 Github Activity
  <!-- githubActivity starts -->
+  **2022-04-03** — pushed [`4bfaa3d2`](https://github.com/underwindfall/Algorithme/commit/4bfaa3d269997890f972982b8fb1da0b9226757a) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "NextPermutation31"
+
   **2022-04-01** — pushed [`33710ae7`](https://github.com/underwindfall/Algorithme/commit/33710ae7464bfc718edcf98eb909bc6a7e482332) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "CanRecordDoubled954"
 
   **2022-03-31** — opened issue [#402](https://api.github.com/repos/underwindfall/Algorithme/issues/402) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "SplitArray410"
@@ -23,8 +25,6 @@
   **2022-03-29** — pushed [`a0475ac6`](https://github.com/underwindfall/Algorithme/commit/a0475ac6aade63a96d0be821d20d53b8302c0288) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "LongestOnes1004"
 
   **2022-03-27** — pushed [`c48bd72c`](https://github.com/underwindfall/Algorithme/commit/c48bd72c66693547d4896c5ac8eecbb48cd5ae0a) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "FindKthNumber440"
-
-  **2022-03-27** — opened issue [#399](https://api.github.com/repos/underwindfall/Algorithme/issues/399) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "FindKthNumber440"
  <!-- githubActivity ends -->
  </td><td valign="top">
 
