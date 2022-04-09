@@ -6,6 +6,8 @@
 
  ## 📷 Github Activity
  <!-- githubActivity starts -->
+  **2022-04-08** — pushed [`2d9a5499`](https://github.com/underwindfall/Algorithme/commit/2d9a549979bdd9c13a8615f6e53eb0cb81154fef) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "ThreeSumMulti923"
+
   **2022-04-04** — pushed [`c9e1bc64`](https://github.com/underwindfall/Algorithme/commit/c9e1bc647c665238678930d7ad97dccc0af45599) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "NumArray307"
 
   **2022-04-03** — pushed [`4bfaa3d2`](https://github.com/underwindfall/Algorithme/commit/4bfaa3d269997890f972982b8fb1da0b9226757a) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "NextPermutation31"
@@ -23,8 +25,6 @@
   **2022-03-29** — opened issue [#401](https://api.github.com/repos/underwindfall/Algorithme/issues/401) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "MaxConsecutiveAnswers2024"
 
   **2022-03-29** — opened issue [#400](https://api.github.com/repos/underwindfall/Algorithme/issues/400) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "LongestOnes1004"
-
-  **2022-03-29** — pushed [`a0475ac6`](https://github.com/underwindfall/Algorithme/commit/a0475ac6aade63a96d0be821d20d53b8302c0288) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "LongestOnes1004"
  <!-- githubActivity ends -->
  </td><td valign="top">
 
@@ -62,12 +62,12 @@
  ## 🏊‍♂️ <a href="https://gist.github.com/underwindfall/377ee88ba1fabd1e93516e48ca9c61eb" target="_blank">Weekly Development Breakdown</a>
   <!-- codeTime starts -->
   ```text
-    Kotlin      14 hrs 14 mins  ■■■■■■■■■■■■■■■■■■■■□□□□  68.6%
-    Java         3 hrs 43 mins  ■■■■■■■▦□□□□□□□□□□□□□□□□  18.0%
-    XML           1 hr 26 mins  ■■■■■◱□□□□□□□□□□□□□□□□□□   7.0%
-    JSON               56 mins  ■■■■▥□□□□□□□□□□□□□□□□□□□   4.5%
-    AIDL               16 mins  ■■■▦□□□□□□□□□□□□□□□□□□□□   1.3%
-    Groovy              3 mins  ■■■▥□□□□□□□□□□□□□□□□□□□□   0.3%
+    Kotlin      13 hrs 31 mins  ■■■■■■■■■■■■■■■■■■■■▦□□□  71.5%
+    Java         2 hrs 39 mins  ■■■■■■▦□□□□□□□□□□□□□□□□□  14.0%
+    XML           1 hr 25 mins  ■■■■■◱□□□□□□□□□□□□□□□□□□   7.6%
+    JSON               55 mins  ■■■■▦□□□□□□□□□□□□□□□□□□□   4.9%
+    AIDL               16 mins  ■■■▦□□□□□□□□□□□□□□□□□□□□   1.4%
+    Groovy              2 mins  ■■■▥□□□□□□□□□□□□□□□□□□□□   0.3%
   ```
   <!-- codeTime starts -->
   </td></tr></table>
