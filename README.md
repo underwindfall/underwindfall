@@ -6,6 +6,12 @@
 
  ## 📷 Github Activity
  <!-- githubActivity starts -->
+  **2022-04-09** — pushed 0 commits to [underwindfall/GitHubPoster](https://api.github.com/repos/underwindfall/GitHubPoster).
+
+  **2022-04-09** — pushed [`d8a0f7e1`](https://github.com/underwindfall/iBeats/commit/d8a0f7e18a53b2b3200d60a185bc0f11374c9201) to [underwindfall/iBeats](https://api.github.com/repos/underwindfall/iBeats): "make author update as robot wall e"
+
+  **2022-04-09** — pushed [`fc668d72`](https://github.com/underwindfall/GitHubPoster/commit/fc668d72cfcb21ff4e868397c4bbe15434827e77) to [underwindfall/GitHubPoster](https://api.github.com/repos/underwindfall/GitHubPoster): "make author as robot wall-e"
+
   **2022-04-09** — pushed [`397671ef`](https://github.com/underwindfall/wakabox-stats/commit/397671ef363777ee7f1ae235baaf3cad7a3a2450) to [underwindfall/wakabox-stats](https://api.github.com/repos/underwindfall/wakabox-stats): "make robot author as wall-e"
 
   **2022-04-09** — pushed [`dad3a44a`](https://github.com/underwindfall/underwindfall/commit/dad3a44af8eaab403ba6fc704a92c90bec64d140) to [underwindfall/underwindfall](https://api.github.com/repos/underwindfall/underwindfall): "make update author as robot-wall e"
@@ -19,12 +25,6 @@
   **2022-04-01** — pushed [`33710ae7`](https://github.com/underwindfall/Algorithme/commit/33710ae7464bfc718edcf98eb909bc6a7e482332) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "CanRecordDoubled954"
 
   **2022-03-31** — opened issue [#402](https://api.github.com/repos/underwindfall/Algorithme/issues/402) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "SplitArray410"
-
-  **2022-03-31** — pushed [`e207e9b9`](https://github.com/underwindfall/Algorithme/commit/e207e9b918dfee5c9a794d55fd389f9221119853) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "SplitArray410"
-
-  **2022-03-30** — pushed [`0bc7e3f5`](https://github.com/underwindfall/Algorithme/commit/0bc7e3f52379b12cf818594ab67d98781515cb1f) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "BusiesServers1606"
-
-  **2022-03-29** — pushed [`a73fd127`](https://github.com/underwindfall/Algorithme/commit/a73fd1277a344963b7fda6e4a53130211dd67d7b) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "MaxConsecutiveAnswers2024"
  <!-- githubActivity ends -->
  </td><td valign="top">
 
@@ -62,12 +62,12 @@
  ## 🏊‍♂️ <a href="https://gist.github.com/underwindfall/377ee88ba1fabd1e93516e48ca9c61eb" target="_blank">Weekly Development Breakdown</a>
   <!-- codeTime starts -->
   ```text
-    Kotlin      13 hrs 31 mins  ■■■■■■■■■■■■■■■■■■■■▦□□□  71.5%
-    Java         2 hrs 39 mins  ■■■■■■▦□□□□□□□□□□□□□□□□□  14.0%
-    XML           1 hr 25 mins  ■■■■■◱□□□□□□□□□□□□□□□□□□   7.6%
-    JSON               55 mins  ■■■■▦□□□□□□□□□□□□□□□□□□□   4.9%
+    Kotlin      14 hrs 16 mins  ■■■■■■■■■■■■■■■■■■■■■□□□  72.7%
+    Java         2 hrs 34 mins  ■■■■■■▦□□□□□□□□□□□□□□□□□  13.1%
+    XML           1 hr 26 mins  ■■■■■◱□□□□□□□□□□□□□□□□□□   7.4%
+    JSON               55 mins  ■■■■▥□□□□□□□□□□□□□□□□□□□   4.8%
     AIDL               16 mins  ■■■▦□□□□□□□□□□□□□□□□□□□□   1.4%
-    Groovy              2 mins  ■■■▥□□□□□□□□□□□□□□□□□□□□   0.3%
+    Groovy              3 mins  ■■■▥□□□□□□□□□□□□□□□□□□□□   0.3%
   ```
   <!-- codeTime starts -->
   </td></tr></table>
