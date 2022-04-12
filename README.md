@@ -6,6 +6,8 @@
 
  ## 📷 Github Activity
  <!-- githubActivity starts -->
+  **2022-04-11** — commented on [#5](https://github.com/underwindfall/NFCAndroid/issues/5#issuecomment-1095169944) in [underwindfall/NFCAndroid](https://api.github.com/repos/underwindfall/NFCAndroid)
+
   **2022-04-09** — pushed 0 commits to [underwindfall/GitHubPoster](https://api.github.com/repos/underwindfall/GitHubPoster).
 
   **2022-04-09** — pushed [`d8a0f7e1`](https://github.com/underwindfall/iBeats/commit/d8a0f7e18a53b2b3200d60a185bc0f11374c9201) to [underwindfall/iBeats](https://api.github.com/repos/underwindfall/iBeats): "make author update as robot wall e"
@@ -23,8 +25,6 @@
   **2022-04-03** — pushed [`4bfaa3d2`](https://github.com/underwindfall/Algorithme/commit/4bfaa3d269997890f972982b8fb1da0b9226757a) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "NextPermutation31"
 
   **2022-04-01** — pushed [`33710ae7`](https://github.com/underwindfall/Algorithme/commit/33710ae7464bfc718edcf98eb909bc6a7e482332) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "CanRecordDoubled954"
-
-  **2022-03-31** — opened issue [#402](https://api.github.com/repos/underwindfall/Algorithme/issues/402) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "SplitArray410"
  <!-- githubActivity ends -->
  </td><td valign="top">
 
@@ -62,11 +62,11 @@
  ## 🏊‍♂️ <a href="https://gist.github.com/underwindfall/377ee88ba1fabd1e93516e48ca9c61eb" target="_blank">Weekly Development Breakdown</a>
   <!-- codeTime starts -->
   ```text
-    Kotlin      14 hrs 18 mins  ■■■■■■■■■■■■■■■■■■■■▥□□□  70.6%
-    Java         3 hrs 10 mins  ■■■■■■■◱□□□□□□□□□□□□□□□□  15.6%
-    XML           1 hr 26 mins  ■■■■■◱□□□□□□□□□□□□□□□□□□   7.1%
-    JSON               55 mins  ■■■■▥□□□□□□□□□□□□□□□□□□□   4.6%
-    AIDL               16 mins  ■■■▦□□□□□□□□□□□□□□□□□□□□   1.3%
+    Kotlin      14 hrs 26 mins  ■■■■■■■■■■■■■■■■■■■■■□□□  72.7%
+    Java         2 hrs 53 mins  ■■■■■■■□□□□□□□□□□□□□□□□□  14.6%
+    XML           1 hr 15 mins  ■■■■■□□□□□□□□□□□□□□□□□□□   6.4%
+    JSON               53 mins  ■■■■▥□□□□□□□□□□□□□□□□□□□   4.5%
+    AIDL               16 mins  ■■■▦□□□□□□□□□□□□□□□□□□□□   1.4%
     Groovy              3 mins  ■■■▥□□□□□□□□□□□□□□□□□□□□   0.3%
   ```
   <!-- codeTime starts -->
