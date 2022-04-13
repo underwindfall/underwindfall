@@ -6,6 +6,10 @@
 
  ## 📷 Github Activity
  <!-- githubActivity starts -->
+  **2022-04-12** — opened PR [#1](https://api.github.com/repos/underwindfall/gradle-zepling-asset-downloader/pulls/1) to [underwindfall/gradle-zepling-asset-downloader](https://api.github.com/repos/underwindfall/gradle-zepling-asset-downloader): "add zeplin gradle task"
+
+  **2022-04-12** — created branch "develop" on [underwindfall/gradle-zepling-asset-downloader](https://api.github.com/repos/underwindfall/gradle-zepling-asset-downloader)
+
   **2022-04-11** — commented on [#5](https://github.com/underwindfall/NFCAndroid/issues/5#issuecomment-1095169944) in [underwindfall/NFCAndroid](https://api.github.com/repos/underwindfall/NFCAndroid)
 
   **2022-04-09** — pushed 0 commits to [underwindfall/GitHubPoster](https://api.github.com/repos/underwindfall/GitHubPoster).
@@ -21,10 +25,6 @@
   **2022-04-08** — pushed [`2d9a5499`](https://github.com/underwindfall/Algorithme/commit/2d9a549979bdd9c13a8615f6e53eb0cb81154fef) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "ThreeSumMulti923"
 
   **2022-04-04** — pushed [`c9e1bc64`](https://github.com/underwindfall/Algorithme/commit/c9e1bc647c665238678930d7ad97dccc0af45599) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "NumArray307"
-
-  **2022-04-03** — pushed [`4bfaa3d2`](https://github.com/underwindfall/Algorithme/commit/4bfaa3d269997890f972982b8fb1da0b9226757a) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "NextPermutation31"
-
-  **2022-04-01** — pushed [`33710ae7`](https://github.com/underwindfall/Algorithme/commit/33710ae7464bfc718edcf98eb909bc6a7e482332) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "CanRecordDoubled954"
  <!-- githubActivity ends -->
  </td><td valign="top">
 
@@ -62,12 +62,12 @@
  ## 🏊‍♂️ <a href="https://gist.github.com/underwindfall/377ee88ba1fabd1e93516e48ca9c61eb" target="_blank">Weekly Development Breakdown</a>
   <!-- codeTime starts -->
   ```text
-    Kotlin      14 hrs 26 mins  ■■■■■■■■■■■■■■■■■■■■■□□□  72.7%
-    Java         2 hrs 53 mins  ■■■■■■■□□□□□□□□□□□□□□□□□  14.6%
-    XML           1 hr 15 mins  ■■■■■□□□□□□□□□□□□□□□□□□□   6.4%
-    JSON               53 mins  ■■■■▥□□□□□□□□□□□□□□□□□□□   4.5%
-    AIDL               16 mins  ■■■▦□□□□□□□□□□□□□□□□□□□□   1.4%
-    Groovy              3 mins  ■■■▥□□□□□□□□□□□□□□□□□□□□   0.3%
+    Kotlin      16 hrs 51 mins  ■■■■■■■■■■■■■■■■■■■■■▦□□  76.1%
+    Java         2 hrs 30 mins  ■■■■■■◱□□□□□□□□□□□□□□□□□  11.3%
+    XML           1 hr 24 mins  ■■■■■□□□□□□□□□□□□□□□□□□□   6.3%
+    JSON               56 mins  ■■■■▥□□□□□□□□□□□□□□□□□□□   4.3%
+    AIDL               16 mins  ■■■▦□□□□□□□□□□□□□□□□□□□□   1.2%
+    Groovy              6 mins  ■■■▥□□□□□□□□□□□□□□□□□□□□   0.5%
   ```
   <!-- codeTime starts -->
   </td></tr></table>
