@@ -6,6 +6,10 @@
 
  ## 📷 Github Activity
  <!-- githubActivity starts -->
+  **2022-04-13** — pushed [`c72649ee`](https://github.com/underwindfall/iBeats/commit/c72649eeea56c47c7e48ef630c1a4af20211db85) to [underwindfall/iBeats](https://api.github.com/repos/underwindfall/iBeats): "make author update as robot wall e"
+
+  **2022-04-13** — pushed [`78565655`](https://github.com/underwindfall/GitHubPoster/commit/78565655d6e900d68b6425a47def7f33c64e1dbf) to [underwindfall/GitHubPoster](https://api.github.com/repos/underwindfall/GitHubPoster): "make author as robot wall-e"
+
   **2022-04-12** — opened PR [#1](https://api.github.com/repos/underwindfall/gradle-zepling-asset-downloader/pulls/1) to [underwindfall/gradle-zepling-asset-downloader](https://api.github.com/repos/underwindfall/gradle-zepling-asset-downloader): "add zeplin gradle task"
 
   **2022-04-12** — created branch "develop" on [underwindfall/gradle-zepling-asset-downloader](https://api.github.com/repos/underwindfall/gradle-zepling-asset-downloader)
@@ -21,10 +25,6 @@
   **2022-04-09** — pushed [`397671ef`](https://github.com/underwindfall/wakabox-stats/commit/397671ef363777ee7f1ae235baaf3cad7a3a2450) to [underwindfall/wakabox-stats](https://api.github.com/repos/underwindfall/wakabox-stats): "make robot author as wall-e"
 
   **2022-04-09** — pushed [`dad3a44a`](https://github.com/underwindfall/underwindfall/commit/dad3a44af8eaab403ba6fc704a92c90bec64d140) to [underwindfall/underwindfall](https://api.github.com/repos/underwindfall/underwindfall): "make update author as robot-wall e"
-
-  **2022-04-08** — pushed [`2d9a5499`](https://github.com/underwindfall/Algorithme/commit/2d9a549979bdd9c13a8615f6e53eb0cb81154fef) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "ThreeSumMulti923"
-
-  **2022-04-04** — pushed [`c9e1bc64`](https://github.com/underwindfall/Algorithme/commit/c9e1bc647c665238678930d7ad97dccc0af45599) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "NumArray307"
  <!-- githubActivity ends -->
  </td><td valign="top">
 
@@ -62,12 +62,12 @@
  ## 🏊‍♂️ <a href="https://gist.github.com/underwindfall/377ee88ba1fabd1e93516e48ca9c61eb" target="_blank">Weekly Development Breakdown</a>
   <!-- codeTime starts -->
   ```text
-    Kotlin      16 hrs 51 mins  ■■■■■■■■■■■■■■■■■■■■■▦□□  76.1%
-    Java         2 hrs 30 mins  ■■■■■■◱□□□□□□□□□□□□□□□□□  11.3%
-    XML           1 hr 24 mins  ■■■■■□□□□□□□□□□□□□□□□□□□   6.3%
-    JSON               56 mins  ■■■■▥□□□□□□□□□□□□□□□□□□□   4.3%
-    AIDL               16 mins  ■■■▦□□□□□□□□□□□□□□□□□□□□   1.2%
-    Groovy              6 mins  ■■■▥□□□□□□□□□□□□□□□□□□□□   0.5%
+    Kotlin      16 hrs 37 mins  ■■■■■■■■■■■■■■■■■■■■■■■■  85.8%
+    Java          1 hr 29 mins  ■■■■■◱□□□□□□□□□□□□□□□□□□   7.7%
+    XML                48 mins  ■■■■▥□□□□□□□□□□□□□□□□□□□   4.2%
+    AIDL               15 mins  ■■■▦□□□□□□□□□□□□□□□□□□□□   1.3%
+    Groovy              4 mins  ■■■▥□□□□□□□□□□□□□□□□□□□□   0.4%
+    JSON                4 mins  ■■■▥□□□□□□□□□□□□□□□□□□□□   0.3%
   ```
   <!-- codeTime starts -->
   </td></tr></table>
