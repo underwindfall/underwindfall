@@ -6,6 +6,10 @@
 
  ## 📷 Github Activity
  <!-- githubActivity starts -->
+  **2022-04-15** — opened issue [#403](https://api.github.com/repos/underwindfall/Algorithme/issues/403) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "TrimBST669"
+
+  **2022-04-15** — pushed [`0ee25898`](https://github.com/underwindfall/Algorithme/commit/0ee25898c4576d135fd00b3bf3fe884b3299c2d7) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "MiniParser385"
+
   **2022-04-13** — pushed [`c72649ee`](https://github.com/underwindfall/iBeats/commit/c72649eeea56c47c7e48ef630c1a4af20211db85) to [underwindfall/iBeats](https://api.github.com/repos/underwindfall/iBeats): "make author update as robot wall e"
 
   **2022-04-13** — pushed [`78565655`](https://github.com/underwindfall/GitHubPoster/commit/78565655d6e900d68b6425a47def7f33c64e1dbf) to [underwindfall/GitHubPoster](https://api.github.com/repos/underwindfall/GitHubPoster): "make author as robot wall-e"
@@ -21,10 +25,6 @@
   **2022-04-09** — pushed [`d8a0f7e1`](https://github.com/underwindfall/iBeats/commit/d8a0f7e18a53b2b3200d60a185bc0f11374c9201) to [underwindfall/iBeats](https://api.github.com/repos/underwindfall/iBeats): "make author update as robot wall e"
 
   **2022-04-09** — pushed [`fc668d72`](https://github.com/underwindfall/GitHubPoster/commit/fc668d72cfcb21ff4e868397c4bbe15434827e77) to [underwindfall/GitHubPoster](https://api.github.com/repos/underwindfall/GitHubPoster): "make author as robot wall-e"
-
-  **2022-04-09** — pushed [`397671ef`](https://github.com/underwindfall/wakabox-stats/commit/397671ef363777ee7f1ae235baaf3cad7a3a2450) to [underwindfall/wakabox-stats](https://api.github.com/repos/underwindfall/wakabox-stats): "make robot author as wall-e"
-
-  **2022-04-09** — pushed [`dad3a44a`](https://github.com/underwindfall/underwindfall/commit/dad3a44af8eaab403ba6fc704a92c90bec64d140) to [underwindfall/underwindfall](https://api.github.com/repos/underwindfall/underwindfall): "make update author as robot-wall e"
  <!-- githubActivity ends -->
  </td><td valign="top">
 
@@ -62,12 +62,12 @@
  ## 🏊‍♂️ <a href="https://gist.github.com/underwindfall/377ee88ba1fabd1e93516e48ca9c61eb" target="_blank">Weekly Development Breakdown</a>
   <!-- codeTime starts -->
   ```text
-    Kotlin      12 hrs 14 mins  ■■■■■■■■■■■■■■■■■■■■■■■□  81.2%
-    Java          1 hr 50 mins  ■■■■■■▥□□□□□□□□□□□□□□□□□  12.2%
-    XML                33 mins  ■■■■◱□□□□□□□□□□□□□□□□□□□   3.7%
-    GitIgnore file         9 mins  ■■■▦□□□□□□□□□□□□□□□□□□□□   1.1%
-    Groovy              7 mins  ■■■▦□□□□□□□□□□□□□□□□□□□□   0.9%
-    JSON                4 mins  ■■■▥□□□□□□□□□□□□□□□□□□□□   0.5%
+    Kotlin      19 hrs 24 mins  ■■■■■■■■■■■■■■■■■■■■■■■■  85.9%
+    Java          1 hr 59 mins  ■■■■■▥□□□□□□□□□□□□□□□□□□   8.8%
+    XML                34 mins  ■■■■□□□□□□□□□□□□□□□□□□□□   2.5%
+    Markdown           11 mins  ■■■▦□□□□□□□□□□□□□□□□□□□□   0.8%
+    GitIgnore file         9 mins  ■■■▦□□□□□□□□□□□□□□□□□□□□   0.7%
+    Groovy              7 mins  ■■■▥□□□□□□□□□□□□□□□□□□□□   0.6%
   ```
   <!-- codeTime starts -->
   </td></tr></table>
