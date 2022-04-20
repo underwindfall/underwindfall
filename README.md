@@ -6,6 +6,16 @@
 
  ## 📷 Github Activity
  <!-- githubActivity starts -->
+  **2022-04-19** — pushed [`1a6782b0`](https://github.com/underwindfall/Algorithme/commit/1a6782b0dd7ff10900bdcca4bfc362c36b06ac49) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "LexicalOrder386"
+
+  **2022-04-19** — pushed [`d1bb8bcb`](https://github.com/underwindfall/Algorithme/commit/d1bb8bcb0eee3fbe4282d093606b63e61da9add7) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "KthSmallestBST230"
+
+  **2022-04-19** — opened issue [#407](https://api.github.com/repos/underwindfall/Algorithme/issues/407) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "KthSmallestBST230"
+
+  **2022-04-19** — opened issue [#406](https://api.github.com/repos/underwindfall/Algorithme/issues/406) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "RecoverTree99"
+
+  **2022-04-19** — pushed [`ae8bae48`](https://github.com/underwindfall/Algorithme/commit/ae8bae48362fa8b6b1eed9fc4a682ee44fdb3c08) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "RecoverTree99"
+
   **2022-04-17** — opened issue [#405](https://api.github.com/repos/underwindfall/Algorithme/issues/405) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "GameOfLife289"
 
   **2022-04-17** — opened issue [#404](https://api.github.com/repos/underwindfall/Algorithme/issues/404) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "IncreaseOrderTree897"
@@ -15,16 +25,6 @@
   **2022-04-17** — pushed [`ba1f3805`](https://github.com/underwindfall/Algorithme/commit/ba1f3805678e65f830bb287ecef3af1789993982) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "IncreaseOrderTree897"
 
   **2022-04-17** — deleted branch "develop" on [underwindfall/gradle-zepling-asset-downloader](https://api.github.com/repos/underwindfall/gradle-zepling-asset-downloader)
-
-  **2022-04-17** — pushed [`4095f6fd`](https://github.com/underwindfall/gradle-zepling-asset-downloader/commit/4095f6fdf387b76549b28b32dc59261dcd0f46d1) to [underwindfall/gradle-zepling-asset-downloader](https://api.github.com/repos/underwindfall/gradle-zepling-asset-downloader): "add zeplin gradle task"
-
-  **2022-04-17** — closed PR [#1](https://api.github.com/repos/underwindfall/gradle-zepling-asset-downloader/pulls/1) to [underwindfall/gradle-zepling-asset-downloader](https://api.github.com/repos/underwindfall/gradle-zepling-asset-downloader): "add zeplin gradle task"
-
-  **2022-04-17** — pushed [`9082dc20`](https://github.com/underwindfall/gradle-zepling-asset-downloader/commit/9082dc20209e3a73223dbe29d9f993cc8ceaa68d) to [underwindfall/gradle-zepling-asset-downloader](https://api.github.com/repos/underwindfall/gradle-zepling-asset-downloader): "remove ci check build plugin"
-
-  **2022-04-17** — pushed 3 commits to [underwindfall/gradle-zepling-asset-downloader](https://api.github.com/repos/underwindfall/gradle-zepling-asset-downloader).
-
-  **2022-04-15** — opened issue [#403](https://api.github.com/repos/underwindfall/Algorithme/issues/403) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "TrimBST669"
  <!-- githubActivity ends -->
  </td><td valign="top">
 
@@ -62,12 +62,12 @@
  ## 🏊‍♂️ <a href="https://gist.github.com/underwindfall/377ee88ba1fabd1e93516e48ca9c61eb" target="_blank">Weekly Development Breakdown</a>
   <!-- codeTime starts -->
   ```text
-    Kotlin      22 hrs 24 mins  ■■■■■■■■■■■■■■■■■■■■■■■◱  82.6%
-    Java         3 hrs 10 mins  ■■■■■■◱□□□□□□□□□□□□□□□□□  11.7%
-    XML                32 mins  ■■■■□□□□□□□□□□□□□□□□□□□□   2.0%
-    Groovy             19 mins  ■■■▦□□□□□□□□□□□□□□□□□□□□   1.2%
-    Markdown           13 mins  ■■■▦□□□□□□□□□□□□□□□□□□□□   0.8%
-    GitIgnore file         9 mins  ■■■▥□□□□□□□□□□□□□□□□□□□□   0.6%
+    Kotlin      18 hrs 34 mins  ■■■■■■■■■■■■■■■■■■■■■■■□  81.7%
+    Java           3 hrs 1 min  ■■■■■■▦□□□□□□□□□□□□□□□□□  13.3%
+    Groovy             16 mins  ■■■▦□□□□□□□□□□□□□□□□□□□□   1.2%
+    XML                13 mins  ■■■▦□□□□□□□□□□□□□□□□□□□□   1.0%
+    Markdown           12 mins  ■■■▦□□□□□□□□□□□□□□□□□□□□   0.9%
+    GitIgnore file         9 mins  ■■■▦□□□□□□□□□□□□□□□□□□□□   0.7%
   ```
   <!-- codeTime starts -->
   </td></tr></table>
