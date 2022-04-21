@@ -6,6 +6,10 @@
 
  ## 📷 Github Activity
  <!-- githubActivity starts -->
+  **2022-04-20** — pushed [`07d19680`](https://github.com/underwindfall/Algorithme/commit/07d19680a95bc04da4096fb60331d80a8acccb97) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "BSTInteractor173"
+
+  **2022-04-20** — pushed [`d9f7c13b`](https://github.com/underwindfall/Algorithme/commit/d9f7c13b647cbb27fe018bae12b5c8dcb91f681a) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "LengthAbsFilePath388"
+
   **2022-04-19** — pushed [`1a6782b0`](https://github.com/underwindfall/Algorithme/commit/1a6782b0dd7ff10900bdcca4bfc362c36b06ac49) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "LexicalOrder386"
 
   **2022-04-19** — pushed [`d1bb8bcb`](https://github.com/underwindfall/Algorithme/commit/d1bb8bcb0eee3fbe4282d093606b63e61da9add7) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "KthSmallestBST230"
@@ -21,10 +25,6 @@
   **2022-04-17** — opened issue [#404](https://api.github.com/repos/underwindfall/Algorithme/issues/404) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "IncreaseOrderTree897"
 
   **2022-04-17** — pushed [`1bf6242e`](https://github.com/underwindfall/Algorithme/commit/1bf6242ecc0715cbd312167beda0e578c4e135ab) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "GameOfLife289"
-
-  **2022-04-17** — pushed [`ba1f3805`](https://github.com/underwindfall/Algorithme/commit/ba1f3805678e65f830bb287ecef3af1789993982) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "IncreaseOrderTree897"
-
-  **2022-04-17** — deleted branch "develop" on [underwindfall/gradle-zepling-asset-downloader](https://api.github.com/repos/underwindfall/gradle-zepling-asset-downloader)
  <!-- githubActivity ends -->
  </td><td valign="top">
 
@@ -62,12 +62,12 @@
  ## 🏊‍♂️ <a href="https://gist.github.com/underwindfall/377ee88ba1fabd1e93516e48ca9c61eb" target="_blank">Weekly Development Breakdown</a>
   <!-- codeTime starts -->
   ```text
-    Kotlin      18 hrs 34 mins  ■■■■■■■■■■■■■■■■■■■■■■■□  81.7%
-    Java           3 hrs 1 min  ■■■■■■▦□□□□□□□□□□□□□□□□□  13.3%
-    Groovy             16 mins  ■■■▦□□□□□□□□□□□□□□□□□□□□   1.2%
-    XML                13 mins  ■■■▦□□□□□□□□□□□□□□□□□□□□   1.0%
-    Markdown           12 mins  ■■■▦□□□□□□□□□□□□□□□□□□□□   0.9%
-    GitIgnore file         9 mins  ■■■▦□□□□□□□□□□□□□□□□□□□□   0.7%
+    Kotlin      21 hrs 11 mins  ■■■■■■■■■■■■■■■■■■▥□□□□□  62.8%
+    Java        10 hrs 58 mins  ■■■■■■■■■■■◱□□□□□□□□□□□□  32.5%
+    Groovy             23 mins  ■■■▦□□□□□□□□□□□□□□□□□□□□   1.2%
+    XML                22 mins  ■■■▦□□□□□□□□□□□□□□□□□□□□   1.1%
+    JSON               20 mins  ■■■▦□□□□□□□□□□□□□□□□□□□□   1.0%
+    Markdown           12 mins  ■■■▥□□□□□□□□□□□□□□□□□□□□   0.6%
   ```
   <!-- codeTime starts -->
   </td></tr></table>
