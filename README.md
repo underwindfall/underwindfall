@@ -6,25 +6,25 @@
 
  ## 📷 Github Activity
  <!-- githubActivity starts -->
-  **2022-04-20** — pushed [`07d19680`](https://github.com/underwindfall/Algorithme/commit/07d19680a95bc04da4096fb60331d80a8acccb97) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "BSTInteractor173"
+  **2022-04-22** — closed issue [#116](https://api.github.com/repos/paug/AndroidMakersApp/issues/116) on [paug/AndroidMakersApp](https://api.github.com/repos/paug/AndroidMakersApp): "filter not working as expected"
 
-  **2022-04-20** — pushed [`d9f7c13b`](https://github.com/underwindfall/Algorithme/commit/d9f7c13b647cbb27fe018bae12b5c8dcb91f681a) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "LengthAbsFilePath388"
+  **2022-04-22** — deleted branch "qy/fix/filters-rules" on [underwindfall/AndroidMakersApp](https://api.github.com/repos/underwindfall/AndroidMakersApp)
 
-  **2022-04-19** — pushed [`1a6782b0`](https://github.com/underwindfall/Algorithme/commit/1a6782b0dd7ff10900bdcca4bfc362c36b06ac49) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "LexicalOrder386"
+  **2022-04-22** — pushed [`3b1fc84a`](https://github.com/underwindfall/AndroidMakersApp/commit/3b1fc84a098d9f840befd22a090b1826f809cd5f) to [underwindfall/AndroidMakersApp](https://api.github.com/repos/underwindfall/AndroidMakersApp): "Fix filter applied rules"
 
-  **2022-04-19** — pushed [`d1bb8bcb`](https://github.com/underwindfall/Algorithme/commit/d1bb8bcb0eee3fbe4282d093606b63e61da9add7) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "KthSmallestBST230"
+  **2022-04-22** — commented on [#116](https://github.com/paug/AndroidMakersApp/issues/116#issuecomment-1106648115) in [paug/AndroidMakersApp](https://api.github.com/repos/paug/AndroidMakersApp)
 
-  **2022-04-19** — opened issue [#407](https://api.github.com/repos/underwindfall/Algorithme/issues/407) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "KthSmallestBST230"
+  **2022-04-22** — pushed [`e2206c13`](https://github.com/underwindfall/AndroidMakersApp/commit/e2206c138c984a0fc38bc97e6259e009b77ed2d4) to [underwindfall/AndroidMakersApp](https://api.github.com/repos/underwindfall/AndroidMakersApp): "Fix filter applied rules"
 
-  **2022-04-19** — opened issue [#406](https://api.github.com/repos/underwindfall/Algorithme/issues/406) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "RecoverTree99"
+  **2022-04-22** — pushed [`7e195ae0`](https://github.com/underwindfall/AndroidMakersApp/commit/7e195ae08c4a6aa2252757bfd43af39200759c6b) to [underwindfall/AndroidMakersApp](https://api.github.com/repos/underwindfall/AndroidMakersApp): "Fix filter applied rules"
 
-  **2022-04-19** — pushed [`ae8bae48`](https://github.com/underwindfall/Algorithme/commit/ae8bae48362fa8b6b1eed9fc4a682ee44fdb3c08) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "RecoverTree99"
+  **2022-04-22** — opened PR [#118](https://api.github.com/repos/paug/AndroidMakersApp/pulls/118) to [paug/AndroidMakersApp](https://api.github.com/repos/paug/AndroidMakersApp): "fix filters rules"
 
-  **2022-04-17** — opened issue [#405](https://api.github.com/repos/underwindfall/Algorithme/issues/405) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "GameOfLife289"
+  **2022-04-22** — pushed [`a9872d70`](https://github.com/underwindfall/AndroidMakersApp/commit/a9872d706db3d960ec84b1d8434219674a7744bf) to [underwindfall/AndroidMakersApp](https://api.github.com/repos/underwindfall/AndroidMakersApp): "Fix filter applied rules"
 
-  **2022-04-17** — opened issue [#404](https://api.github.com/repos/underwindfall/Algorithme/issues/404) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "IncreaseOrderTree897"
+  **2022-04-22** — pushed [`5b969be7`](https://github.com/underwindfall/AndroidMakersApp/commit/5b969be7235f1f6f25f412c320b687398acc25bd) to [underwindfall/AndroidMakersApp](https://api.github.com/repos/underwindfall/AndroidMakersApp): "Fix filter applied rules"
 
-  **2022-04-17** — pushed [`1bf6242e`](https://github.com/underwindfall/Algorithme/commit/1bf6242ecc0715cbd312167beda0e578c4e135ab) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "GameOfLife289"
+  **2022-04-22** — created branch "qy/fix/filters-rules" on [underwindfall/AndroidMakersApp](https://api.github.com/repos/underwindfall/AndroidMakersApp)
  <!-- githubActivity ends -->
  </td><td valign="top">
 
@@ -62,12 +62,12 @@
  ## 🏊‍♂️ <a href="https://gist.github.com/underwindfall/377ee88ba1fabd1e93516e48ca9c61eb" target="_blank">Weekly Development Breakdown</a>
   <!-- codeTime starts -->
   ```text
-    Kotlin      21 hrs 11 mins  ■■■■■■■■■■■■■■■■■■▥□□□□□  62.8%
-    Java        10 hrs 58 mins  ■■■■■■■■■■■◱□□□□□□□□□□□□  32.5%
-    Groovy             23 mins  ■■■▦□□□□□□□□□□□□□□□□□□□□   1.2%
-    XML                22 mins  ■■■▦□□□□□□□□□□□□□□□□□□□□   1.1%
+    Kotlin       19 hrs 5 mins  ■■■■■■■■■■■■■■■■▥□□□□□□□  54.1%
+    Java        14 hrs 36 mins  ■■■■■■■■■■■■■▥□□□□□□□□□□  41.4%
+    Groovy             24 mins  ■■■▦□□□□□□□□□□□□□□□□□□□□   1.1%
+    XML                23 mins  ■■■▦□□□□□□□□□□□□□□□□□□□□   1.1%
     JSON               20 mins  ■■■▦□□□□□□□□□□□□□□□□□□□□   1.0%
-    Markdown           12 mins  ■■■▥□□□□□□□□□□□□□□□□□□□□   0.6%
+    YAML                8 mins  ■■■▥□□□□□□□□□□□□□□□□□□□□   0.4%
   ```
   <!-- codeTime starts -->
   </td></tr></table>
