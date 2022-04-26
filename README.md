@@ -6,25 +6,25 @@
 
  ## 📷 Github Activity
  <!-- githubActivity starts -->
-  **2022-04-23** — pushed [`073409d4`](https://github.com/underwindfall/Algorithme/commit/073409d4421b0c68753ca501cb01049e3e4e5611) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "IntervalsBetweenElements2121"
+  **2022-04-25** — opened PR [#2](https://api.github.com/repos/rock3r/ide-showcase/pulls/2) to [rock3r/ide-showcase](https://api.github.com/repos/rock3r/ide-showcase): "fix broken link"
 
-  **2022-04-23** — pushed 10 commits to [underwindfall/AndroidMakersApp](https://api.github.com/repos/underwindfall/AndroidMakersApp).
+  **2022-04-25** — pushed [`e74c46ff`](https://github.com/underwindfall/ide-showcase/commit/e74c46fff1a771c90553660773abf09bc4ba3e49) to [underwindfall/ide-showcase](https://api.github.com/repos/underwindfall/ide-showcase): "fix broken link"
 
-  **2022-04-23** — pushed [`0675a521`](https://github.com/underwindfall/Algorithme/commit/0675a521482d5323310c049bb8b33603ab43c98f) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "MaxRotateFunction396"
+  **2022-04-25** — deleted branch "qy/add_transform_assets" on [underwindfall/gradle-zepling-asset-downloader](https://api.github.com/repos/underwindfall/gradle-zepling-asset-downloader)
 
-  **2022-04-23** — pushed [`621a9b36`](https://github.com/underwindfall/Algorithme/commit/621a9b363423b4568486d9227125ff590778b895) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "DesignHashMap DesignHashSet"
+  **2022-04-25** — pushed [`0dc68cee`](https://github.com/underwindfall/gradle-zepling-asset-downloader/commit/0dc68cee1c201751d3e95f831325bfc18b049c1e) to [underwindfall/gradle-zepling-asset-downloader](https://api.github.com/repos/underwindfall/gradle-zepling-asset-downloader): "add template project configuration"
 
-  **2022-04-22** — closed issue [#116](https://api.github.com/repos/paug/AndroidMakersApp/issues/116) on [paug/AndroidMakersApp](https://api.github.com/repos/paug/AndroidMakersApp): "filter not working as expected"
+  **2022-04-25** — closed PR [#2](https://api.github.com/repos/underwindfall/gradle-zepling-asset-downloader/pulls/2) to [underwindfall/gradle-zepling-asset-downloader](https://api.github.com/repos/underwindfall/gradle-zepling-asset-downloader): "add template project configuration"
 
-  **2022-04-22** — deleted branch "qy/fix/filters-rules" on [underwindfall/AndroidMakersApp](https://api.github.com/repos/underwindfall/AndroidMakersApp)
+  **2022-04-25** — pushed [`0dc68cee`](https://github.com/underwindfall/gradle-zepling-asset-downloader/commit/0dc68cee1c201751d3e95f831325bfc18b049c1e) to [underwindfall/gradle-zepling-asset-downloader](https://api.github.com/repos/underwindfall/gradle-zepling-asset-downloader): "add template project configuration"
 
-  **2022-04-22** — pushed [`3b1fc84a`](https://github.com/underwindfall/AndroidMakersApp/commit/3b1fc84a098d9f840befd22a090b1826f809cd5f) to [underwindfall/AndroidMakersApp](https://api.github.com/repos/underwindfall/AndroidMakersApp): "Fix filter applied rules"
+  **2022-04-25** — pushed [`422c024c`](https://github.com/underwindfall/gradle-zepling-asset-downloader/commit/422c024c2dc568815c6e4fc6217b29ba5176014e) to [underwindfall/gradle-zepling-asset-downloader](https://api.github.com/repos/underwindfall/gradle-zepling-asset-downloader): "add template project configuration"
 
-  **2022-04-22** — commented on [#116](https://github.com/paug/AndroidMakersApp/issues/116#issuecomment-1106648115) in [paug/AndroidMakersApp](https://api.github.com/repos/paug/AndroidMakersApp)
+  **2022-04-25** — pushed [`6f4e2ce6`](https://github.com/underwindfall/gradle-zepling-asset-downloader/commit/6f4e2ce621112b7819403683fcea83a2c2906cfe) to [underwindfall/gradle-zepling-asset-downloader](https://api.github.com/repos/underwindfall/gradle-zepling-asset-downloader): "add template project configuration"
 
-  **2022-04-22** — pushed [`e2206c13`](https://github.com/underwindfall/AndroidMakersApp/commit/e2206c138c984a0fc38bc97e6259e009b77ed2d4) to [underwindfall/AndroidMakersApp](https://api.github.com/repos/underwindfall/AndroidMakersApp): "Fix filter applied rules"
+  **2022-04-25** — pushed [`2ad6c459`](https://github.com/underwindfall/gradle-zepling-asset-downloader/commit/2ad6c459d4c0562172b0d0abd21ea331ee9c5636) to [underwindfall/gradle-zepling-asset-downloader](https://api.github.com/repos/underwindfall/gradle-zepling-asset-downloader): "add template project configuration"
 
-  **2022-04-22** — pushed [`7e195ae0`](https://github.com/underwindfall/AndroidMakersApp/commit/7e195ae08c4a6aa2252757bfd43af39200759c6b) to [underwindfall/AndroidMakersApp](https://api.github.com/repos/underwindfall/AndroidMakersApp): "Fix filter applied rules"
+  **2022-04-25** — pushed [`406907d5`](https://github.com/underwindfall/gradle-zepling-asset-downloader/commit/406907d5e12de034716c15ab930fb0aaa5ce5aeb) to [underwindfall/gradle-zepling-asset-downloader](https://api.github.com/repos/underwindfall/gradle-zepling-asset-downloader): "add template project configuration"
  <!-- githubActivity ends -->
  </td><td valign="top">
 
@@ -62,12 +62,12 @@
  ## 🏊‍♂️ <a href="https://gist.github.com/underwindfall/377ee88ba1fabd1e93516e48ca9c61eb" target="_blank">Weekly Development Breakdown</a>
   <!-- codeTime starts -->
   ```text
-    Kotlin      19 hrs 42 mins  ■■■■■■■■■■■■■■■◱□□□□□□□□  49.2%
-    Java        18 hrs 35 mins  ■■■■■■■■■■■■■■▥□□□□□□□□□  46.5%
+    Kotlin      19 hrs 34 mins  ■■■■■■■■■■■■■■■■□□□□□□□□  52.5%
+    Java        16 hrs 23 mins  ■■■■■■■■■■■■■■□□□□□□□□□□  44.0%
     XML                27 mins  ■■■▦□□□□□□□□□□□□□□□□□□□□   1.2%
-    Groovy             23 mins  ■■■▦□□□□□□□□□□□□□□□□□□□□   1.0%
-    JSON               20 mins  ■■■▦□□□□□□□□□□□□□□□□□□□□   0.8%
-    GitIgnore file        10 mins  ■■■▥□□□□□□□□□□□□□□□□□□□□   0.4%
+    JSON               20 mins  ■■■▦□□□□□□□□□□□□□□□□□□□□   0.9%
+    Groovy             11 mins  ■■■▥□□□□□□□□□□□□□□□□□□□□   0.5%
+    GitIgnore file        10 mins  ■■■▥□□□□□□□□□□□□□□□□□□□□   0.5%
   ```
   <!-- codeTime starts -->
   </td></tr></table>
