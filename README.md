@@ -6,6 +6,16 @@
 
  ## 📷 Github Activity
  <!-- githubActivity starts -->
+  **2022-04-27** — opened issue [#811](https://api.github.com/repos/ChuckerTeam/chucker/issues/811) on [ChuckerTeam/chucker](https://api.github.com/repos/ChuckerTeam/chucker): "Sample app continues crash because of LeakedClosableObjects + detectDiskReads"
+
+  **2022-04-27** — pushed [`43896f9e`](https://github.com/underwindfall/Algorithme/commit/43896f9ee0064f70e03583446edbefe1441d72e7) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "SmallestStringWithSwaps1202"
+
+  **2022-04-27** — pushed [`893611e5`](https://github.com/underwindfall/Algorithme/commit/893611e52595a6b69dc4ea3647199b253d0c6786) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "SmallestStringWithSwaps1202"
+
+  **2022-04-27** — opened PR [#7](https://api.github.com/repos/underwindfall/gradle-zepling-asset-downloader/pulls/7) to [underwindfall/gradle-zepling-asset-downloader](https://api.github.com/repos/underwindfall/gradle-zepling-asset-downloader): "Fix publish configuration"
+
+  **2022-04-27** — created branch "fix/publish_configuration" on [underwindfall/gradle-zepling-asset-downloader](https://api.github.com/repos/underwindfall/gradle-zepling-asset-downloader)
+
   **2022-04-26** — opened issue [#6](https://api.github.com/repos/underwindfall/gradle-zepling-asset-downloader/issues/6) on [underwindfall/gradle-zepling-asset-downloader](https://api.github.com/repos/underwindfall/gradle-zepling-asset-downloader): "api check support"
 
   **2022-04-26** — deleted branch "qy/fix/spotless" on [underwindfall/gradle-zepling-asset-downloader](https://api.github.com/repos/underwindfall/gradle-zepling-asset-downloader)
@@ -15,16 +25,6 @@
   **2022-04-26** — closed issue [#3](https://api.github.com/repos/underwindfall/gradle-zepling-asset-downloader/issues/3) on [underwindfall/gradle-zepling-asset-downloader](https://api.github.com/repos/underwindfall/gradle-zepling-asset-downloader): "add spotless"
 
   **2022-04-26** — closed PR [#5](https://api.github.com/repos/underwindfall/gradle-zepling-asset-downloader/pulls/5) to [underwindfall/gradle-zepling-asset-downloader](https://api.github.com/repos/underwindfall/gradle-zepling-asset-downloader): "add spotless copyright"
-
-  **2022-04-26** — opened PR [#5](https://api.github.com/repos/underwindfall/gradle-zepling-asset-downloader/pulls/5) to [underwindfall/gradle-zepling-asset-downloader](https://api.github.com/repos/underwindfall/gradle-zepling-asset-downloader): "add spotless copyright"
-
-  **2022-04-26** — created branch "qy/fix/spotless" on [underwindfall/gradle-zepling-asset-downloader](https://api.github.com/repos/underwindfall/gradle-zepling-asset-downloader)
-
-  **2022-04-25** — opened PR [#2](https://api.github.com/repos/rock3r/ide-showcase/pulls/2) to [rock3r/ide-showcase](https://api.github.com/repos/rock3r/ide-showcase): "fix broken link"
-
-  **2022-04-25** — pushed [`e74c46ff`](https://github.com/underwindfall/ide-showcase/commit/e74c46fff1a771c90553660773abf09bc4ba3e49) to [underwindfall/ide-showcase](https://api.github.com/repos/underwindfall/ide-showcase): "fix broken link"
-
-  **2022-04-25** — deleted branch "qy/add_transform_assets" on [underwindfall/gradle-zepling-asset-downloader](https://api.github.com/repos/underwindfall/gradle-zepling-asset-downloader)
  <!-- githubActivity ends -->
  </td><td valign="top">
 
@@ -62,12 +62,12 @@
  ## 🏊‍♂️ <a href="https://gist.github.com/underwindfall/377ee88ba1fabd1e93516e48ca9c61eb" target="_blank">Weekly Development Breakdown</a>
   <!-- codeTime starts -->
   ```text
-    Kotlin      22 hrs 25 mins  ■■■■■■■■■■■■■■■■▥□□□□□□□  54.1%
-    Java        16 hrs 28 mins  ■■■■■■■■■■■■■□□□□□□□□□□□  39.7%
-    XML                55 mins  ■■■■□□□□□□□□□□□□□□□□□□□□   2.2%
-    JSON               28 mins  ■■■▦□□□□□□□□□□□□□□□□□□□□   1.1%
-    Groovy             24 mins  ■■■▦□□□□□□□□□□□□□□□□□□□□   1.0%
-    GitIgnore file        22 mins  ■■■▦□□□□□□□□□□□□□□□□□□□□   0.9%
+    Kotlin      19 hrs 41 mins  ■■■■■■■■■■■■■■■■▥□□□□□□□  54.2%
+    Java         14 hrs 8 mins  ■■■■■■■■■■■■▦□□□□□□□□□□□  38.9%
+    XML                53 mins  ■■■■□□□□□□□□□□□□□□□□□□□□   2.5%
+    Groovy             28 mins  ■■■▦□□□□□□□□□□□□□□□□□□□□   1.3%
+    JSON               23 mins  ■■■▦□□□□□□□□□□□□□□□□□□□□   1.1%
+    GitIgnore file        22 mins  ■■■▦□□□□□□□□□□□□□□□□□□□□   1.0%
   ```
   <!-- codeTime starts -->
   </td></tr></table>
