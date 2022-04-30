@@ -6,6 +6,12 @@
 
  ## 📷 Github Activity
  <!-- githubActivity starts -->
+  **2022-04-29** — deleted branch "fix/publish_configuration" on [underwindfall/gradle-zepling-asset-downloader](https://api.github.com/repos/underwindfall/gradle-zepling-asset-downloader)
+
+  **2022-04-29** — pushed [`88da29cb`](https://github.com/underwindfall/gradle-zepling-asset-downloader/commit/88da29cb79a8f6087f1ca1146fe4e3b168f9b4c0) to [underwindfall/gradle-zepling-asset-downloader](https://api.github.com/repos/underwindfall/gradle-zepling-asset-downloader): "Fix publish configuration"
+
+  **2022-04-29** — closed PR [#7](https://api.github.com/repos/underwindfall/gradle-zepling-asset-downloader/pulls/7) to [underwindfall/gradle-zepling-asset-downloader](https://api.github.com/repos/underwindfall/gradle-zepling-asset-downloader): "Fix publish configuration"
+
   **2022-04-28** — commented on [#470](https://github.com/google/styleguide/issues/470#issuecomment-1111921711) in [google/styleguide](https://api.github.com/repos/google/styleguide)
 
   **2022-04-27** — opened issue [#811](https://api.github.com/repos/ChuckerTeam/chucker/issues/811) on [ChuckerTeam/chucker](https://api.github.com/repos/ChuckerTeam/chucker): "Sample app continues crash because of LeakedClosableObjects + detectDiskReads"
@@ -19,12 +25,6 @@
   **2022-04-27** — created branch "fix/publish_configuration" on [underwindfall/gradle-zepling-asset-downloader](https://api.github.com/repos/underwindfall/gradle-zepling-asset-downloader)
 
   **2022-04-26** — opened issue [#6](https://api.github.com/repos/underwindfall/gradle-zepling-asset-downloader/issues/6) on [underwindfall/gradle-zepling-asset-downloader](https://api.github.com/repos/underwindfall/gradle-zepling-asset-downloader): "api check support"
-
-  **2022-04-26** — deleted branch "qy/fix/spotless" on [underwindfall/gradle-zepling-asset-downloader](https://api.github.com/repos/underwindfall/gradle-zepling-asset-downloader)
-
-  **2022-04-26** — pushed [`05e6a151`](https://github.com/underwindfall/gradle-zepling-asset-downloader/commit/05e6a1519363d9d929d11f8fc9ad1d922a28b44e) to [underwindfall/gradle-zepling-asset-downloader](https://api.github.com/repos/underwindfall/gradle-zepling-asset-downloader): "add spotless copyright"
-
-  **2022-04-26** — closed issue [#3](https://api.github.com/repos/underwindfall/gradle-zepling-asset-downloader/issues/3) on [underwindfall/gradle-zepling-asset-downloader](https://api.github.com/repos/underwindfall/gradle-zepling-asset-downloader): "add spotless"
  <!-- githubActivity ends -->
  </td><td valign="top">
 
@@ -62,12 +62,12 @@
  ## 🏊‍♂️ <a href="https://gist.github.com/underwindfall/377ee88ba1fabd1e93516e48ca9c61eb" target="_blank">Weekly Development Breakdown</a>
   <!-- codeTime starts -->
   ```text
-    Kotlin      20 hrs 16 mins  ■■■■■■■■■■■■■■■■■□□□□□□□  56.6%
-    Java         12 hrs 5 mins  ■■■■■■■■■■■▥□□□□□□□□□□□□  33.8%
-    XML                56 mins  ■■■■□□□□□□□□□□□□□□□□□□□□   2.6%
-    Groovy             30 mins  ■■■▦□□□□□□□□□□□□□□□□□□□□   1.4%
-    Properties         28 mins  ■■■▦□□□□□□□□□□□□□□□□□□□□   1.3%
-    GitIgnore file        28 mins  ■■■▦□□□□□□□□□□□□□□□□□□□□   1.3%
+    Kotlin      15 hrs 33 mins  ■■■■■■■■■■■■■■■■◱□□□□□□□  53.6%
+    Java         9 hrs 45 mins  ■■■■■■■■■■■▥□□□□□□□□□□□□  33.6%
+    XML           1 hr 16 mins  ■■■■▥□□□□□□□□□□□□□□□□□□□   4.4%
+    Groovy             33 mins  ■■■■□□□□□□□□□□□□□□□□□□□□   1.9%
+    Properties         28 mins  ■■■▦□□□□□□□□□□□□□□□□□□□□   1.6%
+    GitIgnore file        24 mins  ■■■▦□□□□□□□□□□□□□□□□□□□□   1.4%
   ```
   <!-- codeTime starts -->
   </td></tr></table>
