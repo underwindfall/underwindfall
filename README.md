@@ -6,25 +6,25 @@
 
  ## 📷 Github Activity
  <!-- githubActivity starts -->
-  **2022-04-29** — deleted branch "fix/publish_configuration" on [underwindfall/gradle-zepling-asset-downloader](https://api.github.com/repos/underwindfall/gradle-zepling-asset-downloader)
+  **2022-05-02** — pushed [`b2e05fea`](https://github.com/underwindfall/gradle-zepling-asset-downloader/commit/b2e05fea5734419e67a6100b12b750330baa571d) to [underwindfall/gradle-zepling-asset-downloader](https://api.github.com/repos/underwindfall/gradle-zepling-asset-downloader): "fix version"
 
-  **2022-04-29** — pushed [`88da29cb`](https://github.com/underwindfall/gradle-zepling-asset-downloader/commit/88da29cb79a8f6087f1ca1146fe4e3b168f9b4c0) to [underwindfall/gradle-zepling-asset-downloader](https://api.github.com/repos/underwindfall/gradle-zepling-asset-downloader): "Fix publish configuration"
+  **2022-05-02** — created tag "v0.0.1" on [underwindfall/gradle-zepling-asset-downloader](https://api.github.com/repos/underwindfall/gradle-zepling-asset-downloader)
 
-  **2022-04-29** — closed PR [#7](https://api.github.com/repos/underwindfall/gradle-zepling-asset-downloader/pulls/7) to [underwindfall/gradle-zepling-asset-downloader](https://api.github.com/repos/underwindfall/gradle-zepling-asset-downloader): "Fix publish configuration"
+  **2022-05-02** — pushed [`19343da7`](https://github.com/underwindfall/gradle-zepling-asset-downloader/commit/19343da740fefdbea1ad3c7cd3cb1dace38217e3) to [underwindfall/gradle-zepling-asset-downloader](https://api.github.com/repos/underwindfall/gradle-zepling-asset-downloader): "fix group id"
 
-  **2022-04-28** — commented on [#470](https://github.com/google/styleguide/issues/470#issuecomment-1111921711) in [google/styleguide](https://api.github.com/repos/google/styleguide)
+  **2022-05-01** — deleted tag "v0.0.1" on [underwindfall/gradle-zepling-asset-downloader](https://api.github.com/repos/underwindfall/gradle-zepling-asset-downloader)
 
-  **2022-04-27** — opened issue [#811](https://api.github.com/repos/ChuckerTeam/chucker/issues/811) on [ChuckerTeam/chucker](https://api.github.com/repos/ChuckerTeam/chucker): "Sample app continues crash because of LeakedClosableObjects + detectDiskReads"
+  **2022-05-01** — created tag "v0.0.1" on [underwindfall/gradle-zepling-asset-downloader](https://api.github.com/repos/underwindfall/gradle-zepling-asset-downloader)
 
-  **2022-04-27** — pushed [`43896f9e`](https://github.com/underwindfall/Algorithme/commit/43896f9ee0064f70e03583446edbefe1441d72e7) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "SmallestStringWithSwaps1202"
+  **2022-05-01** — pushed [`fac58a72`](https://github.com/underwindfall/gradle-zepling-asset-downloader/commit/fac58a7294bc41e3f04eab31e65851319b664beb) to [underwindfall/gradle-zepling-asset-downloader](https://api.github.com/repos/underwindfall/gradle-zepling-asset-downloader): "fix group name"
 
-  **2022-04-27** — pushed [`893611e5`](https://github.com/underwindfall/Algorithme/commit/893611e52595a6b69dc4ea3647199b253d0c6786) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "SmallestStringWithSwaps1202"
+  **2022-05-01** — deleted tag "v0.0.1" on [underwindfall/gradle-zepling-asset-downloader](https://api.github.com/repos/underwindfall/gradle-zepling-asset-downloader)
 
-  **2022-04-27** — opened PR [#7](https://api.github.com/repos/underwindfall/gradle-zepling-asset-downloader/pulls/7) to [underwindfall/gradle-zepling-asset-downloader](https://api.github.com/repos/underwindfall/gradle-zepling-asset-downloader): "Fix publish configuration"
+  **2022-05-01** — created tag "v0.0.1" on [underwindfall/gradle-zepling-asset-downloader](https://api.github.com/repos/underwindfall/gradle-zepling-asset-downloader)
 
-  **2022-04-27** — created branch "fix/publish_configuration" on [underwindfall/gradle-zepling-asset-downloader](https://api.github.com/repos/underwindfall/gradle-zepling-asset-downloader)
+  **2022-05-01** — deleted branch "refactor/pakagename" on [underwindfall/gradle-zepling-asset-downloader](https://api.github.com/repos/underwindfall/gradle-zepling-asset-downloader)
 
-  **2022-04-26** — opened issue [#6](https://api.github.com/repos/underwindfall/gradle-zepling-asset-downloader/issues/6) on [underwindfall/gradle-zepling-asset-downloader](https://api.github.com/repos/underwindfall/gradle-zepling-asset-downloader): "api check support"
+  **2022-05-01** — pushed [`9e499b63`](https://github.com/underwindfall/gradle-zepling-asset-downloader/commit/9e499b631d93fc2fae6d302bd713d5b153122bb8) to [underwindfall/gradle-zepling-asset-downloader](https://api.github.com/repos/underwindfall/gradle-zepling-asset-downloader): "fix example"
  <!-- githubActivity ends -->
  </td><td valign="top">
 
@@ -62,12 +62,12 @@
  ## 🏊‍♂️ <a href="https://gist.github.com/underwindfall/377ee88ba1fabd1e93516e48ca9c61eb" target="_blank">Weekly Development Breakdown</a>
   <!-- codeTime starts -->
   ```text
-    Kotlin      10 hrs 50 mins  ■■■■■■■■■■■■■■■□□□□□□□□□  48.0%
-    Java         8 hrs 16 mins  ■■■■■■■■■■■■◱□□□□□□□□□□□  36.6%
-    XML           1 hr 12 mins  ■■■■▦□□□□□□□□□□□□□□□□□□□   5.3%
-    Groovy             33 mins  ■■■■□□□□□□□□□□□□□□□□□□□□   2.5%
-    Properties         28 mins  ■■■■□□□□□□□□□□□□□□□□□□□□   2.1%
-    Markdown           20 mins  ■■■▦□□□□□□□□□□□□□□□□□□□□   1.5%
+    Kotlin      10 hrs 50 mins  ■■■■■■■■■■■■■■■■▥□□□□□□□  54.8%
+    Java         5 hrs 27 mins  ■■■■■■■■■■□□□□□□□□□□□□□□  27.6%
+    XML           1 hr 12 mins  ■■■■■□□□□□□□□□□□□□□□□□□□   6.1%
+    Groovy             33 mins  ■■■■◱□□□□□□□□□□□□□□□□□□□   2.9%
+    Properties         28 mins  ■■■■□□□□□□□□□□□□□□□□□□□□   2.4%
+    Markdown           20 mins  ■■■■□□□□□□□□□□□□□□□□□□□□   1.7%
   ```
   <!-- codeTime starts -->
   </td></tr></table>
