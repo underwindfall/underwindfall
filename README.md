@@ -6,25 +6,25 @@
 
  ## 📷 Github Activity
  <!-- githubActivity starts -->
-  **2022-05-02** — pushed [`b2e05fea`](https://github.com/underwindfall/gradle-zepling-asset-downloader/commit/b2e05fea5734419e67a6100b12b750330baa571d) to [underwindfall/gradle-zepling-asset-downloader](https://api.github.com/repos/underwindfall/gradle-zepling-asset-downloader): "fix version"
+  **2022-05-02** — commented on [#811](https://github.com/ChuckerTeam/chucker/issues/811#issuecomment-1115329957) in [ChuckerTeam/chucker](https://api.github.com/repos/ChuckerTeam/chucker)
 
-  **2022-05-02** — created tag "v0.0.1" on [underwindfall/gradle-zepling-asset-downloader](https://api.github.com/repos/underwindfall/gradle-zepling-asset-downloader)
+  **2022-05-02** — pushed [`6fc5a9d8`](https://github.com/underwindfall/zeplin-asset-download-gradle/commit/6fc5a9d82cc371b7a9ea6a41ec90ac63feaabe34) to [underwindfall/zeplin-asset-download-gradle](https://api.github.com/repos/underwindfall/zeplin-asset-download-gradle): "fix broken link"
 
-  **2022-05-02** — pushed [`19343da7`](https://github.com/underwindfall/gradle-zepling-asset-downloader/commit/19343da740fefdbea1ad3c7cd3cb1dace38217e3) to [underwindfall/gradle-zepling-asset-downloader](https://api.github.com/repos/underwindfall/gradle-zepling-asset-downloader): "fix group id"
+  **2022-05-02** — pushed [`7c52c1cc`](https://github.com/underwindfall/zeplin-asset-download-gradle/commit/7c52c1cc65e40d8805a36c0a55daa7e44fc62554) to [underwindfall/zeplin-asset-download-gradle](https://api.github.com/repos/underwindfall/zeplin-asset-download-gradle): "Update README.md"
 
-  **2022-05-01** — deleted tag "v0.0.1" on [underwindfall/gradle-zepling-asset-downloader](https://api.github.com/repos/underwindfall/gradle-zepling-asset-downloader)
+  **2022-05-02** — created tag "v0.0.1" on [underwindfall/zeplin-asset-download-gradle](https://api.github.com/repos/underwindfall/zeplin-asset-download-gradle)
 
-  **2022-05-01** — created tag "v0.0.1" on [underwindfall/gradle-zepling-asset-downloader](https://api.github.com/repos/underwindfall/gradle-zepling-asset-downloader)
+  **2022-05-02** — pushed [`eef8ddff`](https://github.com/underwindfall/zeplin-asset-download-gradle/commit/eef8ddff62b27426de8c0927fd873fb313f5de1c) to [underwindfall/zeplin-asset-download-gradle](https://api.github.com/repos/underwindfall/zeplin-asset-download-gradle): "Documentation work"
 
-  **2022-05-01** — pushed [`fac58a72`](https://github.com/underwindfall/gradle-zepling-asset-downloader/commit/fac58a7294bc41e3f04eab31e65851319b664beb) to [underwindfall/gradle-zepling-asset-downloader](https://api.github.com/repos/underwindfall/gradle-zepling-asset-downloader): "fix group name"
+  **2022-05-02** — pushed [`44080698`](https://github.com/underwindfall/zeplin-asset-download-gradle/commit/44080698c658c558f63255343c5eb9b71bf9462e) to [underwindfall/zeplin-asset-download-gradle](https://api.github.com/repos/underwindfall/zeplin-asset-download-gradle): "Documentation work"
 
-  **2022-05-01** — deleted tag "v0.0.1" on [underwindfall/gradle-zepling-asset-downloader](https://api.github.com/repos/underwindfall/gradle-zepling-asset-downloader)
+  **2022-05-02** — pushed [`115b06a0`](https://github.com/underwindfall/zeplin-asset-download-gradle/commit/115b06a04d09932e1e8313738ecfdd54798edc1d) to [underwindfall/zeplin-asset-download-gradle](https://api.github.com/repos/underwindfall/zeplin-asset-download-gradle): "Documentation work"
 
-  **2022-05-01** — created tag "v0.0.1" on [underwindfall/gradle-zepling-asset-downloader](https://api.github.com/repos/underwindfall/gradle-zepling-asset-downloader)
+  **2022-05-02** — pushed [`cc806e41`](https://github.com/underwindfall/zeplin-asset-download-gradle/commit/cc806e411e114212763ce4bccc872fc23ce06fd3) to [underwindfall/zeplin-asset-download-gradle](https://api.github.com/repos/underwindfall/zeplin-asset-download-gradle): "Documentation work"
 
-  **2022-05-01** — deleted branch "refactor/pakagename" on [underwindfall/gradle-zepling-asset-downloader](https://api.github.com/repos/underwindfall/gradle-zepling-asset-downloader)
+  **2022-05-02** — created branch "main" on [underwindfall/zeplin-asset-download-gradle](https://api.github.com/repos/underwindfall/zeplin-asset-download-gradle)
 
-  **2022-05-01** — pushed [`9e499b63`](https://github.com/underwindfall/gradle-zepling-asset-downloader/commit/9e499b631d93fc2fae6d302bd713d5b153122bb8) to [underwindfall/gradle-zepling-asset-downloader](https://api.github.com/repos/underwindfall/gradle-zepling-asset-downloader): "fix example"
+  **2022-05-02** — created repository on [underwindfall/zeplin-asset-download-gradle](https://api.github.com/repos/underwindfall/zeplin-asset-download-gradle)
  <!-- githubActivity ends -->
  </td><td valign="top">
 
@@ -62,12 +62,12 @@
  ## 🏊‍♂️ <a href="https://gist.github.com/underwindfall/377ee88ba1fabd1e93516e48ca9c61eb" target="_blank">Weekly Development Breakdown</a>
   <!-- codeTime starts -->
   ```text
-    Kotlin      10 hrs 50 mins  ■■■■■■■■■■■■■■■■▥□□□□□□□  54.8%
-    Java         5 hrs 27 mins  ■■■■■■■■■■□□□□□□□□□□□□□□  27.6%
-    XML           1 hr 12 mins  ■■■■■□□□□□□□□□□□□□□□□□□□   6.1%
-    Groovy             33 mins  ■■■■◱□□□□□□□□□□□□□□□□□□□   2.9%
-    Properties         28 mins  ■■■■□□□□□□□□□□□□□□□□□□□□   2.4%
-    Markdown           20 mins  ■■■■□□□□□□□□□□□□□□□□□□□□   1.7%
+    Kotlin      11 hrs 59 mins  ■■■■■■■■■■■■■■■■■□□□□□□□  56.8%
+    Java         5 hrs 28 mins  ■■■■■■■■■▦□□□□□□□□□□□□□□  25.9%
+    XML           1 hr 12 mins  ■■■■▦□□□□□□□□□□□□□□□□□□□   5.7%
+    Groovy             33 mins  ■■■■□□□□□□□□□□□□□□□□□□□□   2.7%
+    Properties         29 mins  ■■■■□□□□□□□□□□□□□□□□□□□□   2.3%
+    YAML               21 mins  ■■■■□□□□□□□□□□□□□□□□□□□□   1.7%
   ```
   <!-- codeTime starts -->
   </td></tr></table>
