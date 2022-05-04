@@ -6,6 +6,10 @@
 
  ## 📷 Github Activity
  <!-- githubActivity starts -->
+  **2022-05-03** — opened issue [#2](https://api.github.com/repos/underwindfall/zeplin-asset-download-gradle/issues/2) on [underwindfall/zeplin-asset-download-gradle](https://api.github.com/repos/underwindfall/zeplin-asset-download-gradle): "loading progressbar indicator"
+
+  **2022-05-03** — opened issue [#1](https://api.github.com/repos/underwindfall/zeplin-asset-download-gradle/issues/1) on [underwindfall/zeplin-asset-download-gradle](https://api.github.com/repos/underwindfall/zeplin-asset-download-gradle): "add optimization vector-drawable"
+
   **2022-05-02** — commented on [#811](https://github.com/ChuckerTeam/chucker/issues/811#issuecomment-1115329957) in [ChuckerTeam/chucker](https://api.github.com/repos/ChuckerTeam/chucker)
 
   **2022-05-02** — pushed [`6fc5a9d8`](https://github.com/underwindfall/zeplin-asset-download-gradle/commit/6fc5a9d82cc371b7a9ea6a41ec90ac63feaabe34) to [underwindfall/zeplin-asset-download-gradle](https://api.github.com/repos/underwindfall/zeplin-asset-download-gradle): "fix broken link"
@@ -21,10 +25,6 @@
   **2022-05-02** — pushed [`115b06a0`](https://github.com/underwindfall/zeplin-asset-download-gradle/commit/115b06a04d09932e1e8313738ecfdd54798edc1d) to [underwindfall/zeplin-asset-download-gradle](https://api.github.com/repos/underwindfall/zeplin-asset-download-gradle): "Documentation work"
 
   **2022-05-02** — pushed [`cc806e41`](https://github.com/underwindfall/zeplin-asset-download-gradle/commit/cc806e411e114212763ce4bccc872fc23ce06fd3) to [underwindfall/zeplin-asset-download-gradle](https://api.github.com/repos/underwindfall/zeplin-asset-download-gradle): "Documentation work"
-
-  **2022-05-02** — created branch "main" on [underwindfall/zeplin-asset-download-gradle](https://api.github.com/repos/underwindfall/zeplin-asset-download-gradle)
-
-  **2022-05-02** — created repository on [underwindfall/zeplin-asset-download-gradle](https://api.github.com/repos/underwindfall/zeplin-asset-download-gradle)
  <!-- githubActivity ends -->
  </td><td valign="top">
 
@@ -62,11 +62,11 @@
  ## 🏊‍♂️ <a href="https://gist.github.com/underwindfall/377ee88ba1fabd1e93516e48ca9c61eb" target="_blank">Weekly Development Breakdown</a>
   <!-- codeTime starts -->
   ```text
-    Kotlin      11 hrs 59 mins  ■■■■■■■■■■■■■■■■■□□□□□□□  56.8%
-    Java         5 hrs 28 mins  ■■■■■■■■■▦□□□□□□□□□□□□□□  25.9%
-    XML           1 hr 12 mins  ■■■■▦□□□□□□□□□□□□□□□□□□□   5.7%
-    Groovy             33 mins  ■■■■□□□□□□□□□□□□□□□□□□□□   2.7%
-    Properties         29 mins  ■■■■□□□□□□□□□□□□□□□□□□□□   2.3%
+    Kotlin       9 hrs 45 mins  ■■■■■■■■■■■■■■■□□□□□□□□□  47.7%
+    Java          7 hrs 7 mins  ■■■■■■■■■■■▦□□□□□□□□□□□□  34.9%
+    Markdown       1 hr 7 mins  ■■■■▦□□□□□□□□□□□□□□□□□□□   5.5%
+    XML                44 mins  ■■■■◱□□□□□□□□□□□□□□□□□□□   3.6%
+    Properties         24 mins  ■■■■□□□□□□□□□□□□□□□□□□□□   2.0%
     YAML               21 mins  ■■■■□□□□□□□□□□□□□□□□□□□□   1.7%
   ```
   <!-- codeTime starts -->
