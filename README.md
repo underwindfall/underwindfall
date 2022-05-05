@@ -6,6 +6,16 @@
 
  ## 📷 Github Activity
  <!-- githubActivity starts -->
+  **2022-05-04** — pushed [`5569e9cf`](https://github.com/underwindfall/zeplin-asset-download-gradle/commit/5569e9cfd95ede549171be9af36e0bde2518bda6) to [underwindfall/zeplin-asset-download-gradle](https://api.github.com/repos/underwindfall/zeplin-asset-download-gradle): "correct group name to underwindfall"
+
+  **2022-05-04** — created tag "v0.0.1" on [underwindfall/zeplin-asset-download-gradle](https://api.github.com/repos/underwindfall/zeplin-asset-download-gradle)
+
+  **2022-05-04** — pushed [`e54a3450`](https://github.com/underwindfall/zeplin-asset-download-gradle/commit/e54a3450eb4b937d8784866af4df12cb53b6c357) to [underwindfall/zeplin-asset-download-gradle](https://api.github.com/repos/underwindfall/zeplin-asset-download-gradle): "correct group name to underwindfall"
+
+  **2022-05-04** — deleted tag "v0.0.1" on [underwindfall/zeplin-asset-download-gradle](https://api.github.com/repos/underwindfall/zeplin-asset-download-gradle)
+
+  **2022-05-04** — created repository on [underwindfall/OpenSourceCodeStudy](https://api.github.com/repos/underwindfall/OpenSourceCodeStudy)
+
   **2022-05-03** — opened issue [#2](https://api.github.com/repos/underwindfall/zeplin-asset-download-gradle/issues/2) on [underwindfall/zeplin-asset-download-gradle](https://api.github.com/repos/underwindfall/zeplin-asset-download-gradle): "loading progressbar indicator"
 
   **2022-05-03** — opened issue [#1](https://api.github.com/repos/underwindfall/zeplin-asset-download-gradle/issues/1) on [underwindfall/zeplin-asset-download-gradle](https://api.github.com/repos/underwindfall/zeplin-asset-download-gradle): "add optimization vector-drawable"
@@ -15,16 +25,6 @@
   **2022-05-02** — pushed [`6fc5a9d8`](https://github.com/underwindfall/zeplin-asset-download-gradle/commit/6fc5a9d82cc371b7a9ea6a41ec90ac63feaabe34) to [underwindfall/zeplin-asset-download-gradle](https://api.github.com/repos/underwindfall/zeplin-asset-download-gradle): "fix broken link"
 
   **2022-05-02** — pushed [`7c52c1cc`](https://github.com/underwindfall/zeplin-asset-download-gradle/commit/7c52c1cc65e40d8805a36c0a55daa7e44fc62554) to [underwindfall/zeplin-asset-download-gradle](https://api.github.com/repos/underwindfall/zeplin-asset-download-gradle): "Update README.md"
-
-  **2022-05-02** — created tag "v0.0.1" on [underwindfall/zeplin-asset-download-gradle](https://api.github.com/repos/underwindfall/zeplin-asset-download-gradle)
-
-  **2022-05-02** — pushed [`eef8ddff`](https://github.com/underwindfall/zeplin-asset-download-gradle/commit/eef8ddff62b27426de8c0927fd873fb313f5de1c) to [underwindfall/zeplin-asset-download-gradle](https://api.github.com/repos/underwindfall/zeplin-asset-download-gradle): "Documentation work"
-
-  **2022-05-02** — pushed [`44080698`](https://github.com/underwindfall/zeplin-asset-download-gradle/commit/44080698c658c558f63255343c5eb9b71bf9462e) to [underwindfall/zeplin-asset-download-gradle](https://api.github.com/repos/underwindfall/zeplin-asset-download-gradle): "Documentation work"
-
-  **2022-05-02** — pushed [`115b06a0`](https://github.com/underwindfall/zeplin-asset-download-gradle/commit/115b06a04d09932e1e8313738ecfdd54798edc1d) to [underwindfall/zeplin-asset-download-gradle](https://api.github.com/repos/underwindfall/zeplin-asset-download-gradle): "Documentation work"
-
-  **2022-05-02** — pushed [`cc806e41`](https://github.com/underwindfall/zeplin-asset-download-gradle/commit/cc806e411e114212763ce4bccc872fc23ce06fd3) to [underwindfall/zeplin-asset-download-gradle](https://api.github.com/repos/underwindfall/zeplin-asset-download-gradle): "Documentation work"
  <!-- githubActivity ends -->
  </td><td valign="top">
 
@@ -62,12 +62,12 @@
  ## 🏊‍♂️ <a href="https://gist.github.com/underwindfall/377ee88ba1fabd1e93516e48ca9c61eb" target="_blank">Weekly Development Breakdown</a>
   <!-- codeTime starts -->
   ```text
-    Kotlin       9 hrs 45 mins  ■■■■■■■■■■■■■■■□□□□□□□□□  47.7%
-    Java          7 hrs 7 mins  ■■■■■■■■■■■▦□□□□□□□□□□□□  34.9%
-    Markdown       1 hr 7 mins  ■■■■▦□□□□□□□□□□□□□□□□□□□   5.5%
-    XML                44 mins  ■■■■◱□□□□□□□□□□□□□□□□□□□   3.6%
-    Properties         24 mins  ■■■■□□□□□□□□□□□□□□□□□□□□   2.0%
-    YAML               21 mins  ■■■■□□□□□□□□□□□□□□□□□□□□   1.7%
+    Kotlin      10 hrs 48 mins  ■■■■■■■■■■■■■■■■◱□□□□□□□  52.9%
+    Java         4 hrs 53 mins  ■■■■■■■■■◱□□□□□□□□□□□□□□  23.9%
+    Markdown      1 hr 10 mins  ■■■■▦□□□□□□□□□□□□□□□□□□□   5.8%
+    XML                46 mins  ■■■■▥□□□□□□□□□□□□□□□□□□□   3.8%
+    TOML               37 mins  ■■■■◱□□□□□□□□□□□□□□□□□□□   3.0%
+    Gradle             26 mins  ■■■■□□□□□□□□□□□□□□□□□□□□   2.1%
   ```
   <!-- codeTime starts -->
   </td></tr></table>
