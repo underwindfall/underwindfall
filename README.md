@@ -6,25 +6,25 @@
 
  ## 📷 Github Activity
  <!-- githubActivity starts -->
-  **2022-05-04** — pushed [`5569e9cf`](https://github.com/underwindfall/zeplin-asset-download-gradle/commit/5569e9cfd95ede549171be9af36e0bde2518bda6) to [underwindfall/zeplin-asset-download-gradle](https://api.github.com/repos/underwindfall/zeplin-asset-download-gradle): "correct group name to underwindfall"
+  **2022-05-06** — pushed [`1f562b35`](https://github.com/underwindfall/sports_page/commit/1f562b35234a48836df17f511ada5174aa4f64ba) to [underwindfall/sports_page](https://api.github.com/repos/underwindfall/sports_page): "Deploy to GitHub pages"
 
-  **2022-05-04** — created tag "v0.0.1" on [underwindfall/zeplin-asset-download-gradle](https://api.github.com/repos/underwindfall/zeplin-asset-download-gradle)
+  **2022-05-06** — pushed [`4a49d9e8`](https://github.com/underwindfall/sports_page/commit/4a49d9e82bd8c2cd49001c5a1fb39fe024682a79) to [underwindfall/sports_page](https://api.github.com/repos/underwindfall/sports_page): "delete gpx"
 
-  **2022-05-04** — pushed [`e54a3450`](https://github.com/underwindfall/zeplin-asset-download-gradle/commit/e54a3450eb4b937d8784866af4df12cb53b6c357) to [underwindfall/zeplin-asset-download-gradle](https://api.github.com/repos/underwindfall/zeplin-asset-download-gradle): "correct group name to underwindfall"
+  **2022-05-05** — pushed [`8e310623`](https://github.com/underwindfall/sports_page/commit/8e310623e4441f0dfe6d7b99515d42d8d3276787) to [underwindfall/sports_page](https://api.github.com/repos/underwindfall/sports_page): "Update run_data_sync.yml"
 
-  **2022-05-04** — deleted tag "v0.0.1" on [underwindfall/zeplin-asset-download-gradle](https://api.github.com/repos/underwindfall/zeplin-asset-download-gradle)
+  **2022-05-05** — pushed [`51827f35`](https://github.com/underwindfall/sports_page/commit/51827f352d7addf9482b6405a57fb183dabd2719) to [underwindfall/sports_page](https://api.github.com/repos/underwindfall/sports_page): "documentation work"
 
-  **2022-05-04** — created repository on [underwindfall/OpenSourceCodeStudy](https://api.github.com/repos/underwindfall/OpenSourceCodeStudy)
+  **2022-05-05** — pushed [`65bcb079`](https://github.com/underwindfall/sports_page/commit/65bcb07988ac44b283ea39aef9f14dbfc01eea26) to [underwindfall/sports_page](https://api.github.com/repos/underwindfall/sports_page): "fix run data sync"
 
-  **2022-05-03** — opened issue [#2](https://api.github.com/repos/underwindfall/zeplin-asset-download-gradle/issues/2) on [underwindfall/zeplin-asset-download-gradle](https://api.github.com/repos/underwindfall/zeplin-asset-download-gradle): "loading progressbar indicator"
+  **2022-05-05** — pushed [`c1a063f9`](https://github.com/underwindfall/sports_page/commit/c1a063f93b6c10a20aac956c6f91186660d1f7ee) to [underwindfall/sports_page](https://api.github.com/repos/underwindfall/sports_page): "Deploy to GitHub pages"
 
-  **2022-05-03** — opened issue [#1](https://api.github.com/repos/underwindfall/zeplin-asset-download-gradle/issues/1) on [underwindfall/zeplin-asset-download-gradle](https://api.github.com/repos/underwindfall/zeplin-asset-download-gradle): "add optimization vector-drawable"
+  **2022-05-05** — pushed [`5ec0021d`](https://github.com/underwindfall/sports_page/commit/5ec0021d50132d8dd00a581fa08d48692fb95e75) to [underwindfall/sports_page](https://api.github.com/repos/underwindfall/sports_page): "fix run data sync"
 
-  **2022-05-02** — commented on [#811](https://github.com/ChuckerTeam/chucker/issues/811#issuecomment-1115329957) in [ChuckerTeam/chucker](https://api.github.com/repos/ChuckerTeam/chucker)
+  **2022-05-05** — deleted branch "pr_joyrun" on [underwindfall/sports_page](https://api.github.com/repos/underwindfall/sports_page)
 
-  **2022-05-02** — pushed [`6fc5a9d8`](https://github.com/underwindfall/zeplin-asset-download-gradle/commit/6fc5a9d82cc371b7a9ea6a41ec90ac63feaabe34) to [underwindfall/zeplin-asset-download-gradle](https://api.github.com/repos/underwindfall/zeplin-asset-download-gradle): "fix broken link"
+  **2022-05-05** — deleted branch "feat_fill_country" on [underwindfall/sports_page](https://api.github.com/repos/underwindfall/sports_page)
 
-  **2022-05-02** — pushed [`7c52c1cc`](https://github.com/underwindfall/zeplin-asset-download-gradle/commit/7c52c1cc65e40d8805a36c0a55daa7e44fc62554) to [underwindfall/zeplin-asset-download-gradle](https://api.github.com/repos/underwindfall/zeplin-asset-download-gradle): "Update README.md"
+  **2022-05-05** — deleted branch "feat_RoadTrip" on [underwindfall/sports_page](https://api.github.com/repos/underwindfall/sports_page)
  <!-- githubActivity ends -->
  </td><td valign="top">
 
@@ -62,12 +62,12 @@
  ## 🏊‍♂️ <a href="https://gist.github.com/underwindfall/377ee88ba1fabd1e93516e48ca9c61eb" target="_blank">Weekly Development Breakdown</a>
   <!-- codeTime starts -->
   ```text
-    Kotlin      10 hrs 48 mins  ■■■■■■■■■■■■■■■■◱□□□□□□□  52.9%
-    Java         4 hrs 53 mins  ■■■■■■■■■◱□□□□□□□□□□□□□□  23.9%
-    Markdown      1 hr 10 mins  ■■■■▦□□□□□□□□□□□□□□□□□□□   5.8%
-    XML                46 mins  ■■■■▥□□□□□□□□□□□□□□□□□□□   3.8%
-    TOML               37 mins  ■■■■◱□□□□□□□□□□□□□□□□□□□   3.0%
-    Gradle             26 mins  ■■■■□□□□□□□□□□□□□□□□□□□□   2.1%
+    Kotlin       5 hrs 49 mins  ■■■■■■■■■■■■■■◱□□□□□□□□□  45.4%
+    Java         3 hrs 50 mins  ■■■■■■■■■■▦□□□□□□□□□□□□□  29.9%
+    Markdown           55 mins  ■■■■■◱□□□□□□□□□□□□□□□□□□   7.1%
+    TOML               39 mins  ■■■■▦□□□□□□□□□□□□□□□□□□□   5.1%
+    XML                24 mins  ■■■■◱□□□□□□□□□□□□□□□□□□□   3.1%
+    Gradle             17 mins  ■■■■□□□□□□□□□□□□□□□□□□□□   2.2%
   ```
   <!-- codeTime starts -->
   </td></tr></table>
