@@ -6,6 +6,16 @@
 
  ## 📷 Github Activity
  <!-- githubActivity starts -->
+  **2022-05-15** — pushed [`1ad8c88f`](https://github.com/underwindfall/underwindfall/commit/1ad8c88f9fbf1b451352d78a115191362e5f5074) to [underwindfall/underwindfall](https://api.github.com/repos/underwindfall/underwindfall): "Update TemplateReadMe.kt"
+
+  **2022-05-15** — pushed [`1fbc32be`](https://github.com/underwindfall/GitHubPoster/commit/1fbc32bedacb0a847798fc4c80fa656b787bbe3c) to [underwindfall/GitHubPoster](https://api.github.com/repos/underwindfall/GitHubPoster): "Update run_poster_generate.yml"
+
+  **2022-05-15** — pushed [`891c4a43`](https://github.com/underwindfall/GitHubPoster/commit/891c4a4304cd5fa3028f24df92a8f6c8751d5b84) to [underwindfall/GitHubPoster](https://api.github.com/repos/underwindfall/GitHubPoster): "strava"
+
+  **2022-05-15** — pushed [`d664b40d`](https://github.com/underwindfall/GitHubPoster/commit/d664b40d81bac0f8e685eb3ae4efe4948fe5a78f) to [underwindfall/GitHubPoster](https://api.github.com/repos/underwindfall/GitHubPoster): "update strava"
+
+  **2022-05-15** — pushed [`50bacfd5`](https://github.com/underwindfall/GitHubPoster/commit/50bacfd5cae3bd57bc1e477c1e619734c5cfec20) to [underwindfall/GitHubPoster](https://api.github.com/repos/underwindfall/GitHubPoster): "change to strava"
+
   **2022-05-14** — pushed [`651df01c`](https://github.com/underwindfall/sports_page/commit/651df01c2b6da9fccb705feb877d154018e261e3) to [underwindfall/sports_page](https://api.github.com/repos/underwindfall/sports_page): "Deploy to GitHub pages"
 
   **2022-05-13** — closed issue [#811](https://api.github.com/repos/ChuckerTeam/chucker/issues/811) on [ChuckerTeam/chucker](https://api.github.com/repos/ChuckerTeam/chucker): "Sample app continues crash because of LeakedClosableObjects + detectDiskReads"
@@ -15,23 +25,13 @@
   **2022-05-06** — pushed [`1f562b35`](https://github.com/underwindfall/sports_page/commit/1f562b35234a48836df17f511ada5174aa4f64ba) to [underwindfall/sports_page](https://api.github.com/repos/underwindfall/sports_page): "Deploy to GitHub pages"
 
   **2022-05-06** — pushed [`4a49d9e8`](https://github.com/underwindfall/sports_page/commit/4a49d9e82bd8c2cd49001c5a1fb39fe024682a79) to [underwindfall/sports_page](https://api.github.com/repos/underwindfall/sports_page): "delete gpx"
-
-  **2022-05-05** — pushed [`8e310623`](https://github.com/underwindfall/sports_page/commit/8e310623e4441f0dfe6d7b99515d42d8d3276787) to [underwindfall/sports_page](https://api.github.com/repos/underwindfall/sports_page): "Update run_data_sync.yml"
-
-  **2022-05-05** — pushed [`51827f35`](https://github.com/underwindfall/sports_page/commit/51827f352d7addf9482b6405a57fb183dabd2719) to [underwindfall/sports_page](https://api.github.com/repos/underwindfall/sports_page): "documentation work"
-
-  **2022-05-05** — pushed [`65bcb079`](https://github.com/underwindfall/sports_page/commit/65bcb07988ac44b283ea39aef9f14dbfc01eea26) to [underwindfall/sports_page](https://api.github.com/repos/underwindfall/sports_page): "fix run data sync"
-
-  **2022-05-05** — pushed [`c1a063f9`](https://github.com/underwindfall/sports_page/commit/c1a063f93b6c10a20aac956c6f91186660d1f7ee) to [underwindfall/sports_page](https://api.github.com/repos/underwindfall/sports_page): "Deploy to GitHub pages"
-
-  **2022-05-05** — pushed [`5ec0021d`](https://github.com/underwindfall/sports_page/commit/5ec0021d50132d8dd00a581fa08d48692fb95e75) to [underwindfall/sports_page](https://api.github.com/repos/underwindfall/sports_page): "fix run data sync"
  <!-- githubActivity ends -->
  </td><td valign="top">
 
  ## 🌏 Something about me
  <!-- profile starts -->
  <a href="https://github.com/underwindfall" width="100%">
-   <img src="https://github.com/underwindfall/GitHubPoster/blob/main/examples/nike.svg"/>
+   <img src="https://raw.githubusercontent.com/underwindfall/GitHubPoster/main/OUT_FOLDER/strava.svg"/>
  </a>
  <br/>
  <br/>
