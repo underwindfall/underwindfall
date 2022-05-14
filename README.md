@@ -6,6 +6,12 @@
 
  ## 📷 Github Activity
  <!-- githubActivity starts -->
+  **2022-05-14** — pushed [`651df01c`](https://github.com/underwindfall/sports_page/commit/651df01c2b6da9fccb705feb877d154018e261e3) to [underwindfall/sports_page](https://api.github.com/repos/underwindfall/sports_page): "Deploy to GitHub pages"
+
+  **2022-05-13** — closed issue [#811](https://api.github.com/repos/ChuckerTeam/chucker/issues/811) on [ChuckerTeam/chucker](https://api.github.com/repos/ChuckerTeam/chucker): "Sample app continues crash because of LeakedClosableObjects + detectDiskReads"
+
+  **2022-05-13** — commented on [#811](https://github.com/ChuckerTeam/chucker/issues/811#issuecomment-1126249630) in [ChuckerTeam/chucker](https://api.github.com/repos/ChuckerTeam/chucker)
+
   **2022-05-06** — pushed [`1f562b35`](https://github.com/underwindfall/sports_page/commit/1f562b35234a48836df17f511ada5174aa4f64ba) to [underwindfall/sports_page](https://api.github.com/repos/underwindfall/sports_page): "Deploy to GitHub pages"
 
   **2022-05-06** — pushed [`4a49d9e8`](https://github.com/underwindfall/sports_page/commit/4a49d9e82bd8c2cd49001c5a1fb39fe024682a79) to [underwindfall/sports_page](https://api.github.com/repos/underwindfall/sports_page): "delete gpx"
@@ -19,12 +25,6 @@
   **2022-05-05** — pushed [`c1a063f9`](https://github.com/underwindfall/sports_page/commit/c1a063f93b6c10a20aac956c6f91186660d1f7ee) to [underwindfall/sports_page](https://api.github.com/repos/underwindfall/sports_page): "Deploy to GitHub pages"
 
   **2022-05-05** — pushed [`5ec0021d`](https://github.com/underwindfall/sports_page/commit/5ec0021d50132d8dd00a581fa08d48692fb95e75) to [underwindfall/sports_page](https://api.github.com/repos/underwindfall/sports_page): "fix run data sync"
-
-  **2022-05-05** — deleted branch "pr_joyrun" on [underwindfall/sports_page](https://api.github.com/repos/underwindfall/sports_page)
-
-  **2022-05-05** — deleted branch "feat_fill_country" on [underwindfall/sports_page](https://api.github.com/repos/underwindfall/sports_page)
-
-  **2022-05-05** — deleted branch "feat_RoadTrip" on [underwindfall/sports_page](https://api.github.com/repos/underwindfall/sports_page)
  <!-- githubActivity ends -->
  </td><td valign="top">
 
@@ -62,12 +62,7 @@
  ## 🏊‍♂️ <a href="https://gist.github.com/underwindfall/377ee88ba1fabd1e93516e48ca9c61eb" target="_blank">Weekly Development Breakdown</a>
   <!-- codeTime starts -->
   ```text
-    YAML               54 mins  ■■■■■■■■■■■■■■■■■■▥□□□□□  63.1%
-    Kotlin             28 mins  ■■■■■■■■■■■▥□□□□□□□□□□□□  33.0%
-    JSON                 1 min  ■■■■□□□□□□□□□□□□□□□□□□□□   1.9%
-    XML                 0 secs  ■■■▦□□□□□□□□□□□□□□□□□□□□   1.1%
-    JavaScript          0 secs  ■■■▥□□□□□□□□□□□□□□□□□□□□   0.5%
-    Python              0 secs  ■■■▥□□□□□□□□□□□□□□□□□□□□   0.4%
+    Kotlin             28 mins  ■■■■■■■■■■■■■■■■■■■■■■■■ 100.0%
   ```
   <!-- codeTime starts -->
   </td></tr></table>
