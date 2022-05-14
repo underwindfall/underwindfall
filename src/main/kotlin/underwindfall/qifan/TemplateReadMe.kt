@@ -30,7 +30,7 @@ ${githubContent.joinToString("\n\n") { "    $it" }}
    ## 🌏 Something about me
    <!-- profile starts -->
    <a href="https://github.com/underwindfall" width="100%">
-     <img src="https://raw.githubusercontent.com/underwindfall/GitHubPoster/main/OUT_FOLDER/strava.svg"/>
+     <img src="https://github.com/underwindfall/GitHubPoster/blob/main/examples/strava.svg"/>
    </a>
    <br/>
    <br/>
