@@ -6,6 +6,8 @@
 
  ## 📷 Github Activity
  <!-- githubActivity starts -->
+  **2022-05-15** — pushed [`7a13d91e`](https://github.com/underwindfall/underwindfall/commit/7a13d91ea1c516b71907c1ec8540c5d4cafc5419) to [underwindfall/underwindfall](https://api.github.com/repos/underwindfall/underwindfall): "Update TemplateReadMe.kt"
+
   **2022-05-15** — pushed [`1ad8c88f`](https://github.com/underwindfall/underwindfall/commit/1ad8c88f9fbf1b451352d78a115191362e5f5074) to [underwindfall/underwindfall](https://api.github.com/repos/underwindfall/underwindfall): "Update TemplateReadMe.kt"
 
   **2022-05-15** — pushed [`1fbc32be`](https://github.com/underwindfall/GitHubPoster/commit/1fbc32bedacb0a847798fc4c80fa656b787bbe3c) to [underwindfall/GitHubPoster](https://api.github.com/repos/underwindfall/GitHubPoster): "Update run_poster_generate.yml"
@@ -23,15 +25,13 @@
   **2022-05-13** — commented on [#811](https://github.com/ChuckerTeam/chucker/issues/811#issuecomment-1126249630) in [ChuckerTeam/chucker](https://api.github.com/repos/ChuckerTeam/chucker)
 
   **2022-05-06** — pushed [`1f562b35`](https://github.com/underwindfall/sports_page/commit/1f562b35234a48836df17f511ada5174aa4f64ba) to [underwindfall/sports_page](https://api.github.com/repos/underwindfall/sports_page): "Deploy to GitHub pages"
-
-  **2022-05-06** — pushed [`4a49d9e8`](https://github.com/underwindfall/sports_page/commit/4a49d9e82bd8c2cd49001c5a1fb39fe024682a79) to [underwindfall/sports_page](https://api.github.com/repos/underwindfall/sports_page): "delete gpx"
  <!-- githubActivity ends -->
  </td><td valign="top">
 
  ## 🌏 Something about me
  <!-- profile starts -->
  <a href="https://github.com/underwindfall" width="100%">
-   <img src="https://raw.githubusercontent.com/underwindfall/GitHubPoster/main/OUT_FOLDER/strava.svg"/>
+   <img src="https://github.com/underwindfall/GitHubPoster/blob/main/examples/strava.svg"/>
  </a>
  <br/>
  <br/>
