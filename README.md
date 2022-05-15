@@ -6,6 +6,8 @@
 
  ## 📷 Github Activity
  <!-- githubActivity starts -->
+  **2022-05-15** — pushed [`f6f66ae6`](https://github.com/underwindfall/sports_page/commit/f6f66ae6c4ba38558b53fe37a0fbafc073d2f789) to [underwindfall/sports_page](https://api.github.com/repos/underwindfall/sports_page): "Deploy to GitHub pages"
+
   **2022-05-15** — pushed [`7a13d91e`](https://github.com/underwindfall/underwindfall/commit/7a13d91ea1c516b71907c1ec8540c5d4cafc5419) to [underwindfall/underwindfall](https://api.github.com/repos/underwindfall/underwindfall): "Update TemplateReadMe.kt"
 
   **2022-05-15** — pushed [`1ad8c88f`](https://github.com/underwindfall/underwindfall/commit/1ad8c88f9fbf1b451352d78a115191362e5f5074) to [underwindfall/underwindfall](https://api.github.com/repos/underwindfall/underwindfall): "Update TemplateReadMe.kt"
@@ -23,8 +25,6 @@
   **2022-05-13** — closed issue [#811](https://api.github.com/repos/ChuckerTeam/chucker/issues/811) on [ChuckerTeam/chucker](https://api.github.com/repos/ChuckerTeam/chucker): "Sample app continues crash because of LeakedClosableObjects + detectDiskReads"
 
   **2022-05-13** — commented on [#811](https://github.com/ChuckerTeam/chucker/issues/811#issuecomment-1126249630) in [ChuckerTeam/chucker](https://api.github.com/repos/ChuckerTeam/chucker)
-
-  **2022-05-06** — pushed [`1f562b35`](https://github.com/underwindfall/sports_page/commit/1f562b35234a48836df17f511ada5174aa4f64ba) to [underwindfall/sports_page](https://api.github.com/repos/underwindfall/sports_page): "Deploy to GitHub pages"
  <!-- githubActivity ends -->
  </td><td valign="top">
 
@@ -62,7 +62,7 @@
  ## 🏊‍♂️ <a href="https://gist.github.com/underwindfall/377ee88ba1fabd1e93516e48ca9c61eb" target="_blank">Weekly Development Breakdown</a>
   <!-- codeTime starts -->
   ```text
-    Kotlin             28 mins  ■■■■■■■■■■■■■■■■■■■■■■■■ 100.0%
+    Kotlin             20 mins  ■■■■■■■■■■■■■■■■■■■■■■■■ 100.0%
   ```
   <!-- codeTime starts -->
   </td></tr></table>
