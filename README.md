@@ -6,6 +6,10 @@
 
  ## 📷 Github Activity
  <!-- githubActivity starts -->
+  **2022-05-18** — pushed [`f0d90a7c`](https://github.com/underwindfall/sports_page/commit/f0d90a7cf8646d0a7360b753fbf9d785d87248f4) to [underwindfall/sports_page](https://api.github.com/repos/underwindfall/sports_page): "Deploy to GitHub pages"
+
+  **2022-05-17** — pushed [`05491db7`](https://github.com/underwindfall/Algorithme/commit/05491db76dd201c7b0cb06005bc1afc18815de20) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "FindKthNumber668"
+
   **2022-05-16** — pushed [`5c9998bc`](https://github.com/underwindfall/Algorithme/commit/5c9998bc9a49ec2343dec68e56d4adb073028c0a) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "ShortestPathBinaryMatrix1091"
 
   **2022-05-16** — pushed 2 commits to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme).
@@ -21,10 +25,6 @@
   **2022-05-15** — pushed [`7a13d91e`](https://github.com/underwindfall/underwindfall/commit/7a13d91ea1c516b71907c1ec8540c5d4cafc5419) to [underwindfall/underwindfall](https://api.github.com/repos/underwindfall/underwindfall): "Update TemplateReadMe.kt"
 
   **2022-05-15** — pushed [`1ad8c88f`](https://github.com/underwindfall/underwindfall/commit/1ad8c88f9fbf1b451352d78a115191362e5f5074) to [underwindfall/underwindfall](https://api.github.com/repos/underwindfall/underwindfall): "Update TemplateReadMe.kt"
-
-  **2022-05-15** — pushed [`1fbc32be`](https://github.com/underwindfall/GitHubPoster/commit/1fbc32bedacb0a847798fc4c80fa656b787bbe3c) to [underwindfall/GitHubPoster](https://api.github.com/repos/underwindfall/GitHubPoster): "Update run_poster_generate.yml"
-
-  **2022-05-15** — pushed [`891c4a43`](https://github.com/underwindfall/GitHubPoster/commit/891c4a4304cd5fa3028f24df92a8f6c8751d5b84) to [underwindfall/GitHubPoster](https://api.github.com/repos/underwindfall/GitHubPoster): "strava"
  <!-- githubActivity ends -->
  </td><td valign="top">
 
@@ -62,12 +62,12 @@
  ## 🏊‍♂️ <a href="https://gist.github.com/underwindfall/377ee88ba1fabd1e93516e48ca9c61eb" target="_blank">Weekly Development Breakdown</a>
   <!-- codeTime starts -->
   ```text
-    YAML               33 mins  ■■■■■■■■■■■■■■■■■■■■■▥□□  75.0%
-    Markdown            5 mins  ■■■■■■▥□□□□□□□□□□□□□□□□□  12.9%
-    Python              5 mins  ■■■■■■◱□□□□□□□□□□□□□□□□□  11.7%
-    Kotlin              0 secs  ■■■▥□□□□□□□□□□□□□□□□□□□□   0.1%
-    XML                 0 secs  ■■■▥□□□□□□□□□□□□□□□□□□□□   0.1%
-    JSON                0 secs  ■■■▥□□□□□□□□□□□□□□□□□□□□   0.1%
+    YAML               33 mins  ■■■■■■■■■■■■□□□□□□□□□□□□  36.0%
+    Kotlin             29 mins  ■■■■■■■■■■■◱□□□□□□□□□□□□  32.1%
+    Java               17 mins  ■■■■■■■■□□□□□□□□□□□□□□□□  18.9%
+    Markdown            5 mins  ■■■■■□□□□□□□□□□□□□□□□□□□   6.2%
+    Python              5 mins  ■■■■▦□□□□□□□□□□□□□□□□□□□   5.6%
+    JavaScript           1 min  ■■■▦□□□□□□□□□□□□□□□□□□□□   1.1%
   ```
   <!-- codeTime starts -->
   </td></tr></table>
