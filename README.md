@@ -6,6 +6,8 @@
 
  ## 📷 Github Activity
  <!-- githubActivity starts -->
+  **2022-05-26** — pushed [`bd2f9855`](https://github.com/underwindfall/sports_page/commit/bd2f98551ea196c6c1630a0e2f0738196f978904) to [underwindfall/sports_page](https://api.github.com/repos/underwindfall/sports_page): "Deploy to GitHub pages"
+
   **2022-05-23** — pushed [`be3a192b`](https://github.com/underwindfall/sports_page/commit/be3a192bef2f074b3b7dee0436b0bac0e95768a2) to [underwindfall/sports_page](https://api.github.com/repos/underwindfall/sports_page): "Deploy to GitHub pages"
 
   **2022-05-22** — pushed [`c8d1ac87`](https://github.com/underwindfall/sports_page/commit/c8d1ac874580a9acd5faf462b25854fd0f4eb34e) to [underwindfall/sports_page](https://api.github.com/repos/underwindfall/sports_page): "Deploy to GitHub pages"
@@ -23,8 +25,6 @@
   **2022-05-16** — pushed [`1e0a16c0`](https://github.com/underwindfall/LeetcodeAnswerHelper/commit/1e0a16c08e00b91f05407145f4341ee3f60f6ebb) to [underwindfall/LeetcodeAnswerHelper](https://api.github.com/repos/underwindfall/LeetcodeAnswerHelper): "fix 修复leetcode 中国链接"
 
   **2022-05-15** — pushed [`57373277`](https://github.com/underwindfall/GitHubPoster/commit/57373277dd865765d0937c19ecba16ea29a47e3a) to [underwindfall/GitHubPoster](https://api.github.com/repos/underwindfall/GitHubPoster): "Update README.md"
-
-  **2022-05-15** — pushed [`f6f66ae6`](https://github.com/underwindfall/sports_page/commit/f6f66ae6c4ba38558b53fe37a0fbafc073d2f789) to [underwindfall/sports_page](https://api.github.com/repos/underwindfall/sports_page): "Deploy to GitHub pages"
  <!-- githubActivity ends -->
  </td><td valign="top">
 
@@ -62,10 +62,8 @@
  ## 🏊‍♂️ <a href="https://gist.github.com/underwindfall/377ee88ba1fabd1e93516e48ca9c61eb" target="_blank">Weekly Development Breakdown</a>
   <!-- codeTime starts -->
   ```text
-    Kotlin       3 hrs 10 mins  ■■■■■■■■■■■■■■■■■■■■■■■■  94.5%
-    Markdown            9 mins  ■■■■▦□□□□□□□□□□□□□□□□□□□   4.8%
-    Java                 1 min  ■■■▦□□□□□□□□□□□□□□□□□□□□   0.6%
-    GitIgnore file         0 secs  ■■■▥□□□□□□□□□□□□□□□□□□□□   0.1%
+    Markdown            7 mins  ■■■■■■■■■■■■■■■■■■■■■■■■  96.5%
+    Java                0 secs  ■■■■◱□□□□□□□□□□□□□□□□□□□   3.5%
   ```
   <!-- codeTime starts -->
   </td></tr></table>
