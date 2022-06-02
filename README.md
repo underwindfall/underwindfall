@@ -6,6 +6,10 @@
 
  ## 📷 Github Activity
  <!-- githubActivity starts -->
+  **2022-06-01** — pushed [`75a90028`](https://github.com/underwindfall/Algorithme/commit/75a90028f6ec2e89760ee9002d03b56ea682d7bd) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "LCOF26"
+
+  **2022-06-01** — closed issue [#376](https://api.github.com/repos/underwindfall/Algorithme/issues/376) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "LCOF68_I && LCOF68_II"
+
   **2022-05-31** — pushed [`234e44b3`](https://github.com/underwindfall/Algorithme/commit/234e44b3a778775ee183d18d15cb52fdc2a120fe) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "AlienOrder"
 
   **2022-05-31** — pushed [`f2138867`](https://github.com/underwindfall/Algorithme/commit/f2138867c224aaff2020f656e65e62567f5846ad) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "HasAllCodes1416"
@@ -21,10 +25,6 @@
   **2022-05-17** — pushed [`05491db7`](https://github.com/underwindfall/Algorithme/commit/05491db76dd201c7b0cb06005bc1afc18815de20) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "FindKthNumber668"
 
   **2022-05-16** — pushed [`5c9998bc`](https://github.com/underwindfall/Algorithme/commit/5c9998bc9a49ec2343dec68e56d4adb073028c0a) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "ShortestPathBinaryMatrix1091"
-
-  **2022-05-16** — pushed 2 commits to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme).
-
-  **2022-05-16** — opened PR [#5](https://api.github.com/repos/sherpahu/LeetcodeAnswerHelper/pulls/5) to [sherpahu/LeetcodeAnswerHelper](https://api.github.com/repos/sherpahu/LeetcodeAnswerHelper): "fix 修复leetcode 中国链接"
  <!-- githubActivity ends -->
  </td><td valign="top">
 
@@ -62,7 +62,7 @@
  ## 🏊‍♂️ <a href="https://gist.github.com/underwindfall/377ee88ba1fabd1e93516e48ca9c61eb" target="_blank">Weekly Development Breakdown</a>
   <!-- codeTime starts -->
   ```text
-    Java                0 secs  ■■■▥□□□□□□□□□□□□□□□□□□□□   0.0%
+    Java               38 mins  ■■■■■■■■■■■■■■■■■■■■■■■■ 100.0%
   ```
   <!-- codeTime starts -->
   </td></tr></table>
