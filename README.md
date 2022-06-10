@@ -6,6 +6,10 @@
 
  ## 📷 Github Activity
  <!-- githubActivity starts -->
+  **2022-06-09** — pushed [`b77d96a8`](https://github.com/underwindfall/Algorithme/commit/b77d96a8311e8ebd57584b3ca603016ab69d982a) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "twosum 1"
+
+  **2022-06-09** — pushed [`4addf884`](https://github.com/underwindfall/Algorithme/commit/4addf8841597010acb581f44467788c9ae92547f) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "RandomPoint497"
+
   **2022-06-02** — pushed [`1c78d785`](https://github.com/underwindfall/Algorithme/commit/1c78d7855cd4df35ab5a80c567eb0ab3355a11ef) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "LCOF37"
 
   **2022-06-01** — pushed [`75a90028`](https://github.com/underwindfall/Algorithme/commit/75a90028f6ec2e89760ee9002d03b56ea682d7bd) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "LCOF26"
@@ -21,10 +25,6 @@
   **2022-05-23** — pushed [`be3a192b`](https://github.com/underwindfall/sports_page/commit/be3a192bef2f074b3b7dee0436b0bac0e95768a2) to [underwindfall/sports_page](https://api.github.com/repos/underwindfall/sports_page): "Deploy to GitHub pages"
 
   **2022-05-22** — pushed [`c8d1ac87`](https://github.com/underwindfall/sports_page/commit/c8d1ac874580a9acd5faf462b25854fd0f4eb34e) to [underwindfall/sports_page](https://api.github.com/repos/underwindfall/sports_page): "Deploy to GitHub pages"
-
-  **2022-05-18** — pushed [`f0d90a7c`](https://github.com/underwindfall/sports_page/commit/f0d90a7cf8646d0a7360b753fbf9d785d87248f4) to [underwindfall/sports_page](https://api.github.com/repos/underwindfall/sports_page): "Deploy to GitHub pages"
-
-  **2022-05-17** — pushed [`05491db7`](https://github.com/underwindfall/Algorithme/commit/05491db76dd201c7b0cb06005bc1afc18815de20) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "FindKthNumber668"
  <!-- githubActivity ends -->
  </td><td valign="top">
 
@@ -62,7 +62,8 @@
  ## 🏊‍♂️ <a href="https://gist.github.com/underwindfall/377ee88ba1fabd1e93516e48ca9c61eb" target="_blank">Weekly Development Breakdown</a>
   <!-- codeTime starts -->
   ```text
-    Java         2 hrs 38 mins  ■■■■■■■■■■■■■■■■■■■■■■■■ 100.0%
+    Java               57 mins  ■■■■■■■■■■■■■■■■■■■■■■■■  99.0%
+    Markdown            0 secs  ■■■▦□□□□□□□□□□□□□□□□□□□□   1.0%
   ```
   <!-- codeTime starts -->
   </td></tr></table>
