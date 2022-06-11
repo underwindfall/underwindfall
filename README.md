@@ -6,6 +6,10 @@
 
  ## 📷 Github Activity
  <!-- githubActivity starts -->
+  **2022-06-10** — pushed [`d0c934d7`](https://github.com/underwindfall/Algorithme/commit/d0c934d76e47c384f8d39119462949390e8afcf9) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "CountDiffPanlindromic730"
+
+  **2022-06-10** — pushed [`73f9a268`](https://github.com/underwindfall/Algorithme/commit/73f9a2685207045748780fe9d61f889d3bd4fe53) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "CountDiffPanlindromic730"
+
   **2022-06-09** — pushed [`b77d96a8`](https://github.com/underwindfall/Algorithme/commit/b77d96a8311e8ebd57584b3ca603016ab69d982a) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "twosum 1"
 
   **2022-06-09** — pushed [`4addf884`](https://github.com/underwindfall/Algorithme/commit/4addf8841597010acb581f44467788c9ae92547f) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "RandomPoint497"
@@ -21,10 +25,6 @@
   **2022-05-31** — pushed [`f2138867`](https://github.com/underwindfall/Algorithme/commit/f2138867c224aaff2020f656e65e62567f5846ad) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "HasAllCodes1416"
 
   **2022-05-26** — pushed [`bd2f9855`](https://github.com/underwindfall/sports_page/commit/bd2f98551ea196c6c1630a0e2f0738196f978904) to [underwindfall/sports_page](https://api.github.com/repos/underwindfall/sports_page): "Deploy to GitHub pages"
-
-  **2022-05-23** — pushed [`be3a192b`](https://github.com/underwindfall/sports_page/commit/be3a192bef2f074b3b7dee0436b0bac0e95768a2) to [underwindfall/sports_page](https://api.github.com/repos/underwindfall/sports_page): "Deploy to GitHub pages"
-
-  **2022-05-22** — pushed [`c8d1ac87`](https://github.com/underwindfall/sports_page/commit/c8d1ac874580a9acd5faf462b25854fd0f4eb34e) to [underwindfall/sports_page](https://api.github.com/repos/underwindfall/sports_page): "Deploy to GitHub pages"
  <!-- githubActivity ends -->
  </td><td valign="top">
 
@@ -62,8 +62,9 @@
  ## 🏊‍♂️ <a href="https://gist.github.com/underwindfall/377ee88ba1fabd1e93516e48ca9c61eb" target="_blank">Weekly Development Breakdown</a>
   <!-- codeTime starts -->
   ```text
-    Java               57 mins  ■■■■■■■■■■■■■■■■■■■■■■■■  99.0%
-    Markdown            0 secs  ■■■▦□□□□□□□□□□□□□□□□□□□□   1.0%
+    Java          1 hr 49 mins  ■■■■■■■■■■■■■■■■■■■■■■■■  99.3%
+    Markdown            0 secs  ■■■▥□□□□□□□□□□□□□□□□□□□□   0.5%
+    Kotlin              0 secs  ■■■▥□□□□□□□□□□□□□□□□□□□□   0.1%
   ```
   <!-- codeTime starts -->
   </td></tr></table>
