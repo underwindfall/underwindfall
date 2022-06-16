@@ -6,6 +6,14 @@
 
  ## 📷 Github Activity
  <!-- githubActivity starts -->
+  **2022-06-16** — pushed [`42539458`](https://github.com/underwindfall/sports_page/commit/42539458dcd9aaec5e3f245178161f1ef146d7e1) to [underwindfall/sports_page](https://api.github.com/repos/underwindfall/sports_page): "Deploy to GitHub pages"
+
+  **2022-06-16** — commented on [#1](https://github.com/underwindfall/iBeats/issues/1#issuecomment-1157127377) in [underwindfall/iBeats](https://api.github.com/repos/underwindfall/iBeats)
+
+  **2022-06-15** — pushed [`b9e923f0`](https://github.com/underwindfall/sports_page/commit/b9e923f0d0ec8972496166f7169ed7b7285e8d9d) to [underwindfall/sports_page](https://api.github.com/repos/underwindfall/sports_page): "fix update title"
+
+  **2022-06-15** — pushed [`abbb97f2`](https://github.com/underwindfall/sports_page/commit/abbb97f2bb3406acc88e5d33370d333f531a3b0e) to [underwindfall/sports_page](https://api.github.com/repos/underwindfall/sports_page): "change min distance to 3km"
+
   **2022-06-15** — pushed [`8a20a2c5`](https://github.com/underwindfall/sports_page/commit/8a20a2c562adae29494f77ba14150a364184c5bd) to [underwindfall/sports_page](https://api.github.com/repos/underwindfall/sports_page): "Deploy to GitHub pages"
 
   **2022-06-10** — pushed [`d0c934d7`](https://github.com/underwindfall/Algorithme/commit/d0c934d76e47c384f8d39119462949390e8afcf9) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "CountDiffPanlindromic730"
@@ -17,14 +25,6 @@
   **2022-06-09** — pushed [`4addf884`](https://github.com/underwindfall/Algorithme/commit/4addf8841597010acb581f44467788c9ae92547f) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "RandomPoint497"
 
   **2022-06-02** — pushed [`1c78d785`](https://github.com/underwindfall/Algorithme/commit/1c78d7855cd4df35ab5a80c567eb0ab3355a11ef) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "LCOF37"
-
-  **2022-06-01** — pushed [`75a90028`](https://github.com/underwindfall/Algorithme/commit/75a90028f6ec2e89760ee9002d03b56ea682d7bd) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "LCOF26"
-
-  **2022-06-01** — closed issue [#376](https://api.github.com/repos/underwindfall/Algorithme/issues/376) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "LCOF68_I && LCOF68_II"
-
-  **2022-05-31** — pushed [`234e44b3`](https://github.com/underwindfall/Algorithme/commit/234e44b3a778775ee183d18d15cb52fdc2a120fe) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "AlienOrder"
-
-  **2022-05-31** — pushed [`f2138867`](https://github.com/underwindfall/Algorithme/commit/f2138867c224aaff2020f656e65e62567f5846ad) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "HasAllCodes1416"
  <!-- githubActivity ends -->
  </td><td valign="top">
 
