@@ -6,6 +6,10 @@
 
  ## 📷 Github Activity
  <!-- githubActivity starts -->
+  **2022-06-18** — pushed [`1cf44411`](https://github.com/underwindfall/sports_page/commit/1cf44411230bf3cf283934e88fab3eed17778e0f) to [underwindfall/sports_page](https://api.github.com/repos/underwindfall/sports_page): "Deploy to GitHub pages"
+
+  **2022-06-17** — pushed [`3676eb0f`](https://github.com/underwindfall/Algorithme/commit/3676eb0fce84ad7fc9aae63cbebc2ef31946e987) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "MinCam986"
+
   **2022-06-17** — pushed [`786733b8`](https://github.com/underwindfall/Algorithme/commit/786733b8143f9df0c22e7c052ab08c4b20209877) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "DuplicateZeros1089"
 
   **2022-06-17** — pushed [`c29f553f`](https://github.com/underwindfall/Algorithme/commit/c29f553fa9aa52ebd449de4f2ee304610cfd9882) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "DuplicateZeros1089"
@@ -21,10 +25,6 @@
   **2022-06-16** — pushed [`42539458`](https://github.com/underwindfall/sports_page/commit/42539458dcd9aaec5e3f245178161f1ef146d7e1) to [underwindfall/sports_page](https://api.github.com/repos/underwindfall/sports_page): "Deploy to GitHub pages"
 
   **2022-06-16** — commented on [#1](https://github.com/underwindfall/iBeats/issues/1#issuecomment-1157127377) in [underwindfall/iBeats](https://api.github.com/repos/underwindfall/iBeats)
-
-  **2022-06-15** — pushed [`b9e923f0`](https://github.com/underwindfall/sports_page/commit/b9e923f0d0ec8972496166f7169ed7b7285e8d9d) to [underwindfall/sports_page](https://api.github.com/repos/underwindfall/sports_page): "fix update title"
-
-  **2022-06-15** — pushed [`abbb97f2`](https://github.com/underwindfall/sports_page/commit/abbb97f2bb3406acc88e5d33370d333f531a3b0e) to [underwindfall/sports_page](https://api.github.com/repos/underwindfall/sports_page): "change min distance to 3km"
  <!-- githubActivity ends -->
  </td><td valign="top">
 
@@ -62,12 +62,12 @@
  ## 🏊‍♂️ <a href="https://gist.github.com/underwindfall/377ee88ba1fabd1e93516e48ca9c61eb" target="_blank">Weekly Development Breakdown</a>
   <!-- codeTime starts -->
   ```text
-    Java         2 hrs 49 mins  ■■■■■■■■■■■■■■■■■■■■■■■■  94.9%
-    YAML                4 mins  ■■■■□□□□□□□□□□□□□□□□□□□□   2.3%
-    JavaScript          2 mins  ■■■▦□□□□□□□□□□□□□□□□□□□□   1.3%
-    Python               1 min  ■■■▦□□□□□□□□□□□□□□□□□□□□   1.0%
+    Java         2 hrs 19 mins  ■■■■■■■■■■■■■■■■■■■■■■■■  94.0%
+    YAML                4 mins  ■■■■◱□□□□□□□□□□□□□□□□□□□   2.8%
+    JavaScript          2 mins  ■■■▦□□□□□□□□□□□□□□□□□□□□   1.5%
+    Python               1 min  ■■■▦□□□□□□□□□□□□□□□□□□□□   1.1%
     properties          0 secs  ■■■▥□□□□□□□□□□□□□□□□□□□□   0.2%
-    SCSS                0 secs  ■■■▥□□□□□□□□□□□□□□□□□□□□   0.1%
+    SCSS                0 secs  ■■■▥□□□□□□□□□□□□□□□□□□□□   0.2%
   ```
   <!-- codeTime starts -->
   </td></tr></table>
