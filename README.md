@@ -6,6 +6,8 @@
 
  ## 📷 Github Activity
  <!-- githubActivity starts -->
+  **2022-06-22** — opened issue [#9](https://api.github.com/repos/AndroidWeekly/Weekly/issues/9) on [AndroidWeekly/Weekly](https://api.github.com/repos/AndroidWeekly/Weekly): "[自荐开源Plugin] 自动下载zeplin svg并转换成vector-drawable插件"
+
   **2022-06-22** — pushed [`f91ab419`](https://github.com/underwindfall/sports_page/commit/f91ab419c00224590bc9a57be6f9409c116a76bc) to [underwindfall/sports_page](https://api.github.com/repos/underwindfall/sports_page): "Deploy to GitHub pages"
 
   **2022-06-22** — pushed [`b8ad0a0d`](https://github.com/underwindfall/Algorithme/commit/b8ad0a0d0a90cc3463e2357327c9eb869762fbe9) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "FindBottomLeftValue513 dfs"
@@ -23,8 +25,6 @@
   **2022-06-19** — pushed [`c39fa50c`](https://github.com/underwindfall/sports_page/commit/c39fa50cafe8dfbc5ceb693835281f0988a211d9) to [underwindfall/sports_page](https://api.github.com/repos/underwindfall/sports_page): "use github-bots as schedule bot"
 
   **2022-06-19** — pushed [`cb3b1638`](https://github.com/underwindfall/wakabox-stats/commit/cb3b16388ff30a734296e32c60b1687ab2b62c02) to [underwindfall/wakabox-stats](https://api.github.com/repos/underwindfall/wakabox-stats): "use github actions as bot"
-
-  **2022-06-19** — pushed [`da354098`](https://github.com/underwindfall/underwindfall/commit/da35409894500c8b6881275386904dda3fe7abea) to [underwindfall/underwindfall](https://api.github.com/repos/underwindfall/underwindfall): "use github actions as bot"
  <!-- githubActivity ends -->
  </td><td valign="top">
 
@@ -62,12 +62,12 @@
  ## 🏊‍♂️ <a href="https://gist.github.com/underwindfall/377ee88ba1fabd1e93516e48ca9c61eb" target="_blank">Weekly Development Breakdown</a>
   <!-- codeTime starts -->
   ```text
-    Java         7 hrs 36 mins  ■■■■■■■■■■■■■■■■■■■■■■■■  93.5%
-    YAML               27 mins  ■■■■▦□□□□□□□□□□□□□□□□□□□   5.5%
-    JavaScript          2 mins  ■■■▥□□□□□□□□□□□□□□□□□□□□   0.5%
-    Python               1 min  ■■■▥□□□□□□□□□□□□□□□□□□□□   0.3%
+    Java         8 hrs 53 mins  ■■■■■■■■■■■■■■■■■■■■■■■■  93.9%
+    YAML               27 mins  ■■■■▥□□□□□□□□□□□□□□□□□□□   4.8%
+    JavaScript          3 mins  ■■■▦□□□□□□□□□□□□□□□□□□□□   0.7%
+    Python              3 mins  ■■■▥□□□□□□□□□□□□□□□□□□□□   0.5%
     properties          0 secs  ■■■▥□□□□□□□□□□□□□□□□□□□□   0.1%
-    SCSS                0 secs  ■■■▥□□□□□□□□□□□□□□□□□□□□   0.1%
+    SCSS                0 secs  ■■■▥□□□□□□□□□□□□□□□□□□□□   0.0%
   ```
   <!-- codeTime starts -->
   </td></tr></table>
