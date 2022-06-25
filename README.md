@@ -6,6 +6,8 @@
 
  ## 📷 Github Activity
  <!-- githubActivity starts -->
+  **2022-06-25** — pushed [`075b6b12`](https://github.com/underwindfall/sports_page/commit/075b6b121be7c6b1e3113884bab8fed953ee7e45) to [underwindfall/sports_page](https://api.github.com/repos/underwindfall/sports_page): "Deploy to GitHub pages"
+
   **2022-06-22** — opened issue [#9](https://api.github.com/repos/AndroidWeekly/Weekly/issues/9) on [AndroidWeekly/Weekly](https://api.github.com/repos/AndroidWeekly/Weekly): "[自荐开源Plugin] 自动下载zeplin svg并转换成vector-drawable插件"
 
   **2022-06-22** — pushed [`f91ab419`](https://github.com/underwindfall/sports_page/commit/f91ab419c00224590bc9a57be6f9409c116a76bc) to [underwindfall/sports_page](https://api.github.com/repos/underwindfall/sports_page): "Deploy to GitHub pages"
@@ -23,8 +25,6 @@
   **2022-06-19** — pushed [`326ce48d`](https://github.com/underwindfall/iBeats/commit/326ce48d81124c525e09e6e8b7b036b9e1a24970) to [underwindfall/iBeats](https://api.github.com/repos/underwindfall/iBeats): "use github-actions as schdeulde bump"
 
   **2022-06-19** — pushed [`c39fa50c`](https://github.com/underwindfall/sports_page/commit/c39fa50cafe8dfbc5ceb693835281f0988a211d9) to [underwindfall/sports_page](https://api.github.com/repos/underwindfall/sports_page): "use github-bots as schedule bot"
-
-  **2022-06-19** — pushed [`cb3b1638`](https://github.com/underwindfall/wakabox-stats/commit/cb3b16388ff30a734296e32c60b1687ab2b62c02) to [underwindfall/wakabox-stats](https://api.github.com/repos/underwindfall/wakabox-stats): "use github actions as bot"
  <!-- githubActivity ends -->
  </td><td valign="top">
 
@@ -62,9 +62,9 @@
  ## 🏊‍♂️ <a href="https://gist.github.com/underwindfall/377ee88ba1fabd1e93516e48ca9c61eb" target="_blank">Weekly Development Breakdown</a>
   <!-- codeTime starts -->
   ```text
-    Java         9 hrs 31 mins  ■■■■■■■■■■■■■■■■■■■■■■■■  89.8%
-    Kotlin             38 mins  ■■■■■□□□□□□□□□□□□□□□□□□□   6.1%
-    YAML               22 mins  ■■■■◱□□□□□□□□□□□□□□□□□□□   3.6%
+    Java         8 hrs 28 mins  ■■■■■■■■■■■■■■■■■■■■■■■■  88.7%
+    Kotlin             38 mins  ■■■■■□□□□□□□□□□□□□□□□□□□   6.7%
+    YAML               22 mins  ■■■■▥□□□□□□□□□□□□□□□□□□□   4.0%
     JavaScript           1 min  ■■■▥□□□□□□□□□□□□□□□□□□□□   0.3%
     Python               1 min  ■■■▥□□□□□□□□□□□□□□□□□□□□   0.2%
     XML                 0 secs  ■■■▥□□□□□□□□□□□□□□□□□□□□   0.1%
