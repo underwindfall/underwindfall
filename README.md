@@ -6,6 +6,8 @@
 
  ## 📷 Github Activity
  <!-- githubActivity starts -->
+  **2022-07-06** — pushed [`3d173628`](https://github.com/underwindfall/sports_page/commit/3d173628e497ab3f1bce3df93c2c9708b76b1583) to [underwindfall/sports_page](https://api.github.com/repos/underwindfall/sports_page): "Deploy to GitHub pages"
+
   **2022-07-01** — pushed [`f2fd2949`](https://github.com/underwindfall/sports_page/commit/f2fd2949b183fa49d9bc990367387ee4e02f6ceb) to [underwindfall/sports_page](https://api.github.com/repos/underwindfall/sports_page): "Deploy to GitHub pages"
 
   **2022-06-25** — pushed [`075b6b12`](https://github.com/underwindfall/sports_page/commit/075b6b121be7c6b1e3113884bab8fed953ee7e45) to [underwindfall/sports_page](https://api.github.com/repos/underwindfall/sports_page): "Deploy to GitHub pages"
@@ -23,8 +25,6 @@
   **2022-06-21** — pushed [`d1d825cd`](https://github.com/underwindfall/Algorithme/commit/d1d825cd16c8a751a8d2d2d2536e81461b959ac4) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "FurthestBuilding1624"
 
   **2022-06-20** — pushed [`728a7c99`](https://github.com/underwindfall/sports_page/commit/728a7c99c28b4a90fdcf862db4fcdc3d92f623a0) to [underwindfall/sports_page](https://api.github.com/repos/underwindfall/sports_page): "Deploy to GitHub pages"
-
-  **2022-06-19** — pushed [`326ce48d`](https://github.com/underwindfall/iBeats/commit/326ce48d81124c525e09e6e8b7b036b9e1a24970) to [underwindfall/iBeats](https://api.github.com/repos/underwindfall/iBeats): "use github-actions as schdeulde bump"
  <!-- githubActivity ends -->
  </td><td valign="top">
 
