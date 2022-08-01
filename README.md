@@ -6,6 +6,8 @@
 
  ## 📷 Github Activity
  <!-- githubActivity starts -->
+  **2022-08-01** — pushed [`47224c05`](https://github.com/underwindfall/sports_page/commit/47224c0523942e00c95dd759d30dd298f4a4fb66) to [underwindfall/sports_page](https://api.github.com/repos/underwindfall/sports_page): "Deploy to GitHub pages"
+
   **2022-07-30** — pushed [`1de56bf1`](https://github.com/underwindfall/sports_page/commit/1de56bf1b65fa8f1ef1dbfbb745cbbe2cdd0a06d) to [underwindfall/sports_page](https://api.github.com/repos/underwindfall/sports_page): "Deploy to GitHub pages"
 
   **2022-07-28** — pushed [`0e02fcc7`](https://github.com/underwindfall/sports_page/commit/0e02fcc7f2844eaf463ebb47f9c7f02074839473) to [underwindfall/sports_page](https://api.github.com/repos/underwindfall/sports_page): "Deploy to GitHub pages"
@@ -23,8 +25,6 @@
   **2022-06-22** — pushed [`f91ab419`](https://github.com/underwindfall/sports_page/commit/f91ab419c00224590bc9a57be6f9409c116a76bc) to [underwindfall/sports_page](https://api.github.com/repos/underwindfall/sports_page): "Deploy to GitHub pages"
 
   **2022-06-22** — pushed [`b8ad0a0d`](https://github.com/underwindfall/Algorithme/commit/b8ad0a0d0a90cc3463e2357327c9eb869762fbe9) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "FindBottomLeftValue513 dfs"
-
-  **2022-06-21** — pushed [`4cf44cd5`](https://github.com/underwindfall/Algorithme/commit/4cf44cd50baf01f625dc1ef311060f25f46b3f4d) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "FurthestBuilding1624"
  <!-- githubActivity ends -->
  </td><td valign="top">
 
