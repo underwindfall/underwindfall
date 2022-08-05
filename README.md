@@ -6,6 +6,14 @@
 
  ## 📷 Github Activity
  <!-- githubActivity starts -->
+  **2022-08-05** — pushed [`eb2fde7f`](https://github.com/underwindfall/sports_page/commit/eb2fde7fc52db7b304e5368e3c882382e60b5122) to [underwindfall/sports_page](https://api.github.com/repos/underwindfall/sports_page): "Deploy to GitHub pages"
+
+  **2022-08-04** — pushed [`04c38068`](https://github.com/underwindfall/Algorithme/commit/04c38068ce4c308fb7ea0d5bb67cb772601647e9) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "CommonChars 1002"
+
+  **2022-08-04** — pushed [`1a99a66e`](https://github.com/underwindfall/Algorithme/commit/1a99a66ea67a13ec73110d8661d9891c86dff642) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "FourSum18"
+
+  **2022-08-04** — pushed 2 commits to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme).
+
   **2022-08-03** — pushed [`0510f7c6`](https://github.com/underwindfall/Algorithme/commit/0510f7c6f2286a248157debc9065d63bf4146c6d) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "MyCalendar729"
 
   **2022-08-03** — pushed [`51762207`](https://github.com/underwindfall/Algorithme/commit/51762207dddd72c4f9b67ed6bebffb3be558d266) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "OrderlyQueue899"
@@ -17,14 +25,6 @@
   **2022-08-01** — pushed [`47224c05`](https://github.com/underwindfall/sports_page/commit/47224c0523942e00c95dd759d30dd298f4a4fb66) to [underwindfall/sports_page](https://api.github.com/repos/underwindfall/sports_page): "Deploy to GitHub pages"
 
   **2022-07-30** — pushed [`1de56bf1`](https://github.com/underwindfall/sports_page/commit/1de56bf1b65fa8f1ef1dbfbb745cbbe2cdd0a06d) to [underwindfall/sports_page](https://api.github.com/repos/underwindfall/sports_page): "Deploy to GitHub pages"
-
-  **2022-07-28** — pushed [`0e02fcc7`](https://github.com/underwindfall/sports_page/commit/0e02fcc7f2844eaf463ebb47f9c7f02074839473) to [underwindfall/sports_page](https://api.github.com/repos/underwindfall/sports_page): "Deploy to GitHub pages"
-
-  **2022-07-09** — pushed [`e3b5af19`](https://github.com/underwindfall/sports_page/commit/e3b5af19e8ed44058311a80d10ce679c41cac88b) to [underwindfall/sports_page](https://api.github.com/repos/underwindfall/sports_page): "Deploy to GitHub pages"
-
-  **2022-07-06** — pushed [`3d173628`](https://github.com/underwindfall/sports_page/commit/3d173628e497ab3f1bce3df93c2c9708b76b1583) to [underwindfall/sports_page](https://api.github.com/repos/underwindfall/sports_page): "Deploy to GitHub pages"
-
-  **2022-07-01** — pushed [`f2fd2949`](https://github.com/underwindfall/sports_page/commit/f2fd2949b183fa49d9bc990367387ee4e02f6ceb) to [underwindfall/sports_page](https://api.github.com/repos/underwindfall/sports_page): "Deploy to GitHub pages"
  <!-- githubActivity ends -->
  </td><td valign="top">
 
@@ -62,9 +62,12 @@
  ## 🏊‍♂️ <a href="https://gist.github.com/underwindfall/377ee88ba1fabd1e93516e48ca9c61eb" target="_blank">Weekly Development Breakdown</a>
   <!-- codeTime starts -->
   ```text
-    Java               41 mins  ■■■■■■■■■■■■■■■▦□□□□□□□□  51.6%
-    Kotlin             38 mins  ■■■■■■■■■■■■■■■□□□□□□□□□  47.6%
-    XML                 0 secs  ■■■▦□□□□□□□□□□□□□□□□□□□□   0.7%
+    Kotlin       3 hrs 58 mins  ■■■■■■■■■■■■■■■■▦□□□□□□□  55.7%
+    Java         2 hrs 39 mins  ■■■■■■■■■■■■▥□□□□□□□□□□□  37.3%
+    TOML               19 mins  ■■■■▥□□□□□□□□□□□□□□□□□□□   4.6%
+    Markdown            8 mins  ■■■■□□□□□□□□□□□□□□□□□□□□   2.0%
+    Gradle               1 min  ■■■▥□□□□□□□□□□□□□□□□□□□□   0.3%
+    Groovy              0 secs  ■■■▥□□□□□□□□□□□□□□□□□□□□   0.1%
   ```
   <!-- codeTime starts -->
   </td></tr></table>
