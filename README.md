@@ -6,6 +6,10 @@
 
  ## 📷 Github Activity
  <!-- githubActivity starts -->
+  **2022-08-08** — pushed [`cdbc4c3c`](https://github.com/underwindfall/Algorithme/commit/cdbc4c3c7b546502236bf7c3587e3fe9bb0ebcb7) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "MakeLargestSpecial761"
+
+  **2022-08-07** — pushed [`5027a95f`](https://github.com/underwindfall/wakabox-stats/commit/5027a95f9a3f7a1afb57cf4858bf4f685c3fe61d) to [underwindfall/wakabox-stats](https://api.github.com/repos/underwindfall/wakabox-stats): "update cron yml"
+
   **2022-08-06** — pushed [`2ee1c8eb`](https://github.com/underwindfall/Algorithme/commit/2ee1c8eb22c7d1001c797ee7ea9e5770b9ad05f8) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "LowestCommonAncestor235"
 
   **2022-08-05** — pushed [`6a519084`](https://github.com/underwindfall/Algorithme/commit/6a519084bcd04fecff2984a4fa1d5c16b493666c) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "LCOF62"
@@ -21,10 +25,6 @@
   **2022-08-04** — pushed 2 commits to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme).
 
   **2022-08-03** — pushed [`0510f7c6`](https://github.com/underwindfall/Algorithme/commit/0510f7c6f2286a248157debc9065d63bf4146c6d) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "MyCalendar729"
-
-  **2022-08-03** — pushed [`51762207`](https://github.com/underwindfall/Algorithme/commit/51762207dddd72c4f9b67ed6bebffb3be558d266) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "OrderlyQueue899"
-
-  **2022-08-03** — pushed [`0df5bd13`](https://github.com/underwindfall/Algorithme/commit/0df5bd136477951a8141b605137c41f6fcd6b39a) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "OrderlyQueue899"
  <!-- githubActivity ends -->
  </td><td valign="top">
 
@@ -62,12 +62,11 @@
  ## 🏊‍♂️ <a href="https://gist.github.com/underwindfall/377ee88ba1fabd1e93516e48ca9c61eb" target="_blank">Weekly Development Breakdown</a>
   <!-- codeTime starts -->
   ```text
-    Kotlin       3 hrs 58 mins  ■■■■■■■■■■■■■■■■▦□□□□□□□  55.7%
-    Java         2 hrs 39 mins  ■■■■■■■■■■■■▥□□□□□□□□□□□  37.3%
-    TOML               19 mins  ■■■■▥□□□□□□□□□□□□□□□□□□□   4.6%
-    Markdown            8 mins  ■■■■□□□□□□□□□□□□□□□□□□□□   2.0%
-    Gradle               1 min  ■■■▥□□□□□□□□□□□□□□□□□□□□   0.3%
-    Groovy              0 secs  ■■■▥□□□□□□□□□□□□□□□□□□□□   0.1%
+    Java         5 hrs 53 mins  ■■■■■■■■■■■■■■■■■■■■■■■◱  81.9%
+    Kotlin         1 hr 5 mins  ■■■■■■■□□□□□□□□□□□□□□□□□  15.2%
+    Markdown            7 mins  ■■■■□□□□□□□□□□□□□□□□□□□□   1.7%
+    TOML                5 mins  ■■■▦□□□□□□□□□□□□□□□□□□□□   1.2%
+    Other               0 secs  ■■■▥□□□□□□□□□□□□□□□□□□□□   0.0%
   ```
   <!-- codeTime starts -->
   </td></tr></table>
