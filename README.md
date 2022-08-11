@@ -6,6 +6,12 @@
 
  ## 📷 Github Activity
  <!-- githubActivity starts -->
+  **2022-08-10** — pushed [`dcb563d2`](https://github.com/underwindfall/Algorithme/commit/dcb563d22755831890c75bd382dbbcca501bb9f4) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "TitleToNumber171"
+
+  **2022-08-10** — pushed [`f61e8fe9`](https://github.com/underwindfall/Algorithme/commit/f61e8fe95908cf1776e1120d6c0fcd5d66543c87) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "RemoveDuplicateNodes02_01"
+
+  **2022-08-10** — pushed [`542c6f01`](https://github.com/underwindfall/Algorithme/commit/542c6f01c6257edaa19000135d074f13801c855a) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "NumRookCaptures999"
+
   **2022-08-08** — pushed [`4944ac0c`](https://github.com/underwindfall/Algorithme/commit/4944ac0c30b89b6272a4c493986ad69a90dd431e) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "convertBiNode"
 
   **2022-08-08** — pushed [`1b7db80a`](https://github.com/underwindfall/Algorithme/commit/1b7db80a9b472f309995f4e92fbf2cd09f0246d0) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "FindKthPositive1514"
@@ -19,12 +25,6 @@
   **2022-08-06** — pushed [`2ee1c8eb`](https://github.com/underwindfall/Algorithme/commit/2ee1c8eb22c7d1001c797ee7ea9e5770b9ad05f8) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "LowestCommonAncestor235"
 
   **2022-08-05** — pushed [`6a519084`](https://github.com/underwindfall/Algorithme/commit/6a519084bcd04fecff2984a4fa1d5c16b493666c) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "LCOF62"
-
-  **2022-08-05** — pushed 2 commits to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme).
-
-  **2022-08-05** — pushed [`eb2fde7f`](https://github.com/underwindfall/sports_page/commit/eb2fde7fc52db7b304e5368e3c882382e60b5122) to [underwindfall/sports_page](https://api.github.com/repos/underwindfall/sports_page): "Deploy to GitHub pages"
-
-  **2022-08-04** — pushed [`04c38068`](https://github.com/underwindfall/Algorithme/commit/04c38068ce4c308fb7ea0d5bb67cb772601647e9) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "CommonChars 1002"
  <!-- githubActivity ends -->
  </td><td valign="top">
 
