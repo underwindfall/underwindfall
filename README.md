@@ -6,6 +6,14 @@
 
  ## 📷 Github Activity
  <!-- githubActivity starts -->
+  **2022-08-15** — pushed [`e69e37b3`](https://github.com/underwindfall/wakabox-stats/commit/e69e37b31c98b3061cfced928b8dbd90f51c2d45) to [underwindfall/wakabox-stats](https://api.github.com/repos/underwindfall/wakabox-stats): "debuging"
+
+  **2022-08-14** — pushed 2 commits to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme).
+
+  **2022-08-14** — pushed [`93c03d23`](https://github.com/underwindfall/Algorithme/commit/93c03d238199cfd626048ad21955699eae9ada50) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "RemoveDuplicatesString1047"
+
+  **2022-08-14** — pushed 2 commits to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme).
+
   **2022-08-12** — pushed 2 commits to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme).
 
   **2022-08-12** — pushed [`4c2d8101`](https://github.com/underwindfall/OpenSourceCodeStudy/commit/4c2d8101d74746cac43cdc137c063187ecead94f) to [underwindfall/OpenSourceCodeStudy](https://api.github.com/repos/underwindfall/OpenSourceCodeStudy): "EventBus 学习"
@@ -17,14 +25,6 @@
   **2022-08-12** — pushed [`8f7ab6b4`](https://github.com/underwindfall/Algorithme/commit/8f7ab6b44a08cd92aba809f12b3f0ca36bf2ea20) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "GroupPeople1282"
 
   **2022-08-12** — pushed [`5c6ac4a0`](https://github.com/underwindfall/wakabox-stats/commit/5c6ac4a024240a9edba416714581bd779be178a1) to [underwindfall/wakabox-stats](https://api.github.com/repos/underwindfall/wakabox-stats): "add precautions work"
-
-  **2022-08-11** — pushed [`55d7dcaf`](https://github.com/underwindfall/wakabox-stats/commit/55d7dcaf2967f1e4e3be74f5c49a7c0e731b8adc) to [underwindfall/wakabox-stats](https://api.github.com/repos/underwindfall/wakabox-stats): "fix cron"
-
-  **2022-08-11** — pushed [`e1ca92ba`](https://github.com/underwindfall/Algorithme/commit/e1ca92ba95a5421b0726c157b2d51a0ddb73354f) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "SubArraySumsK560"
-
-  **2022-08-10** — pushed [`dcb563d2`](https://github.com/underwindfall/Algorithme/commit/dcb563d22755831890c75bd382dbbcca501bb9f4) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "TitleToNumber171"
-
-  **2022-08-10** — pushed [`f61e8fe9`](https://github.com/underwindfall/Algorithme/commit/f61e8fe95908cf1776e1120d6c0fcd5d66543c87) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "RemoveDuplicateNodes02_01"
  <!-- githubActivity ends -->
  </td><td valign="top">
 
@@ -62,12 +62,12 @@
  ## 🏊‍♂️ <a href="https://gist.github.com/underwindfall/377ee88ba1fabd1e93516e48ca9c61eb" target="_blank">Weekly Development Breakdown</a>
   <!-- codeTime starts -->
   ```text
-    Java         7 hrs 26 mins  ■■■■■■■■■■■■■■■■■■■■■■■■  97.6%
-    JavaScript          4 mins  ■■■▦□□□□□□□□□□□□□□□□□□□□   1.1%
-    Markdown            2 mins  ■■■▥□□□□□□□□□□□□□□□□□□□□   0.5%
-    Bash                 1 min  ■■■▥□□□□□□□□□□□□□□□□□□□□   0.4%
-    YAML                0 secs  ■■■▥□□□□□□□□□□□□□□□□□□□□   0.2%
+    Java        14 hrs 16 mins  ■■■■■■■■■■■■■■■■■■■■■■■■  97.2%
+    JavaScript         18 mins  ■■■■□□□□□□□□□□□□□□□□□□□□   2.1%
+    Markdown            2 mins  ■■■▥□□□□□□□□□□□□□□□□□□□□   0.3%
+    Bash                 1 min  ■■■▥□□□□□□□□□□□□□□□□□□□□   0.2%
     Kotlin              0 secs  ■■■▥□□□□□□□□□□□□□□□□□□□□   0.1%
+    YAML                0 secs  ■■■▥□□□□□□□□□□□□□□□□□□□□   0.1%
   ```
   <!-- codeTime starts -->
   </td></tr></table>
