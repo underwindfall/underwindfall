@@ -6,6 +6,14 @@
 
  ## 📷 Github Activity
  <!-- githubActivity starts -->
+  **2022-08-16** — pushed [`83c0ba02`](https://github.com/underwindfall/wakabox-stats/commit/83c0ba023cbe8765c036c13168abb018ee0fbc3f) to [underwindfall/wakabox-stats](https://api.github.com/repos/underwindfall/wakabox-stats): "downgrade wakatime"
+
+  **2022-08-16** — pushed [`715e7e91`](https://github.com/underwindfall/wakabox-stats/commit/715e7e91db697029d3e830c0ec096468ba8d9dc0) to [underwindfall/wakabox-stats](https://api.github.com/repos/underwindfall/wakabox-stats): "add timeout"
+
+  **2022-08-15** — pushed 2 commits to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme).
+
+  **2022-08-15** — pushed [`613b550a`](https://github.com/underwindfall/Algorithme/commit/613b550a3c7571466bd67e1a6b5ec39f7140a067) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "MaxScore1422"
+
   **2022-08-15** — pushed [`e69e37b3`](https://github.com/underwindfall/wakabox-stats/commit/e69e37b31c98b3061cfced928b8dbd90f51c2d45) to [underwindfall/wakabox-stats](https://api.github.com/repos/underwindfall/wakabox-stats): "debuging"
 
   **2022-08-14** — pushed 2 commits to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme).
@@ -17,14 +25,6 @@
   **2022-08-12** — pushed 2 commits to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme).
 
   **2022-08-12** — pushed [`4c2d8101`](https://github.com/underwindfall/OpenSourceCodeStudy/commit/4c2d8101d74746cac43cdc137c063187ecead94f) to [underwindfall/OpenSourceCodeStudy](https://api.github.com/repos/underwindfall/OpenSourceCodeStudy): "EventBus 学习"
-
-  **2022-08-12** — created branch "master" on [underwindfall/OpenSourceCodeStudy](https://api.github.com/repos/underwindfall/OpenSourceCodeStudy)
-
-  **2022-08-12** — pushed [`c45f661a`](https://github.com/underwindfall/Algorithme/commit/c45f661a5ca8fcaeae8bf8b538ba02ca3c99e6bc) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "LFUCache460"
-
-  **2022-08-12** — pushed [`8f7ab6b4`](https://github.com/underwindfall/Algorithme/commit/8f7ab6b44a08cd92aba809f12b3f0ca36bf2ea20) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "GroupPeople1282"
-
-  **2022-08-12** — pushed [`5c6ac4a0`](https://github.com/underwindfall/wakabox-stats/commit/5c6ac4a024240a9edba416714581bd779be178a1) to [underwindfall/wakabox-stats](https://api.github.com/repos/underwindfall/wakabox-stats): "add precautions work"
  <!-- githubActivity ends -->
  </td><td valign="top">
 
@@ -62,12 +62,10 @@
  ## 🏊‍♂️ <a href="https://gist.github.com/underwindfall/377ee88ba1fabd1e93516e48ca9c61eb" target="_blank">Weekly Development Breakdown</a>
   <!-- codeTime starts -->
   ```text
-    Java        14 hrs 16 mins  ■■■■■■■■■■■■■■■■■■■■■■■■  97.2%
-    JavaScript         18 mins  ■■■■□□□□□□□□□□□□□□□□□□□□   2.1%
-    Markdown            2 mins  ■■■▥□□□□□□□□□□□□□□□□□□□□   0.3%
-    Bash                 1 min  ■■■▥□□□□□□□□□□□□□□□□□□□□   0.2%
+    Java         15 hrs 7 mins  ■■■■■■■■■■■■■■■■■■■■■■■■  98.1%
+    JavaScript         16 mins  ■■■■□□□□□□□□□□□□□□□□□□□□   1.8%
     Kotlin              0 secs  ■■■▥□□□□□□□□□□□□□□□□□□□□   0.1%
-    YAML                0 secs  ■■■▥□□□□□□□□□□□□□□□□□□□□   0.1%
+    Markdown            0 secs  ■■■▥□□□□□□□□□□□□□□□□□□□□   0.1%
   ```
   <!-- codeTime starts -->
   </td></tr></table>
