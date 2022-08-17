@@ -6,25 +6,25 @@
 
  ## 📷 Github Activity
  <!-- githubActivity starts -->
+  **2022-08-17** — pushed [`bf14078a`](https://github.com/underwindfall/sports_page/commit/bf14078a6a8e12f6f3008556dd92fd2b701727a8) to [underwindfall/sports_page](https://api.github.com/repos/underwindfall/sports_page): "Deploy to GitHub pages"
+
+  **2022-08-16** — pushed [`38a27d7f`](https://github.com/underwindfall/Algorithme/commit/38a27d7fe8b843d31481532a78ceb2e65e998e6e) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "LargestNumber179"
+
+  **2022-08-16** — pushed [`e718b1fc`](https://github.com/underwindfall/Algorithme/commit/e718b1fc22601dec5352c77352e243398012ca91) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "ad36Strings"
+
+  **2022-08-16** — pushed [`1f91acad`](https://github.com/underwindfall/Algorithme/commit/1f91acadb1452cb4ee0e3d7ac7a0d517e7b74a81) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "SumRootToLeaf129"
+
+  **2022-08-16** — pushed [`8dac5858`](https://github.com/underwindfall/Algorithme/commit/8dac5858f2b3e1e001a946bf6e18ae4ffc5c9d02) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "ThreeSumCloset16"
+
+  **2022-08-16** — pushed [`3aa9c400`](https://github.com/underwindfall/Algorithme/commit/3aa9c40061773b2fdfd90cf077b0b30853b99753) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "SortColors75"
+
+  **2022-08-16** — pushed [`b30eb306`](https://github.com/underwindfall/Algorithme/commit/b30eb3060f21b2804dd24b9b019947945f46a136) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "MergeInterval56"
+
+  **2022-08-16** — pushed [`8a605af7`](https://github.com/underwindfall/Algorithme/commit/8a605af7312851aa2418fbfd0fcb2892fa8fca41) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "IsCompleteTree958"
+
   **2022-08-16** — pushed [`83c0ba02`](https://github.com/underwindfall/wakabox-stats/commit/83c0ba023cbe8765c036c13168abb018ee0fbc3f) to [underwindfall/wakabox-stats](https://api.github.com/repos/underwindfall/wakabox-stats): "downgrade wakatime"
 
   **2022-08-16** — pushed [`715e7e91`](https://github.com/underwindfall/wakabox-stats/commit/715e7e91db697029d3e830c0ec096468ba8d9dc0) to [underwindfall/wakabox-stats](https://api.github.com/repos/underwindfall/wakabox-stats): "add timeout"
-
-  **2022-08-15** — pushed 2 commits to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme).
-
-  **2022-08-15** — pushed [`613b550a`](https://github.com/underwindfall/Algorithme/commit/613b550a3c7571466bd67e1a6b5ec39f7140a067) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "MaxScore1422"
-
-  **2022-08-15** — pushed [`e69e37b3`](https://github.com/underwindfall/wakabox-stats/commit/e69e37b31c98b3061cfced928b8dbd90f51c2d45) to [underwindfall/wakabox-stats](https://api.github.com/repos/underwindfall/wakabox-stats): "debuging"
-
-  **2022-08-14** — pushed 2 commits to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme).
-
-  **2022-08-14** — pushed [`93c03d23`](https://github.com/underwindfall/Algorithme/commit/93c03d238199cfd626048ad21955699eae9ada50) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "RemoveDuplicatesString1047"
-
-  **2022-08-14** — pushed 2 commits to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme).
-
-  **2022-08-12** — pushed 2 commits to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme).
-
-  **2022-08-12** — pushed [`4c2d8101`](https://github.com/underwindfall/OpenSourceCodeStudy/commit/4c2d8101d74746cac43cdc137c063187ecead94f) to [underwindfall/OpenSourceCodeStudy](https://api.github.com/repos/underwindfall/OpenSourceCodeStudy): "EventBus 学习"
  <!-- githubActivity ends -->
  </td><td valign="top">
 
@@ -62,10 +62,11 @@
  ## 🏊‍♂️ <a href="https://gist.github.com/underwindfall/377ee88ba1fabd1e93516e48ca9c61eb" target="_blank">Weekly Development Breakdown</a>
   <!-- codeTime starts -->
   ```text
-    Java         15 hrs 7 mins  ■■■■■■■■■■■■■■■■■■■■■■■■  98.1%
-    JavaScript         16 mins  ■■■■□□□□□□□□□□□□□□□□□□□□   1.8%
-    Kotlin              0 secs  ■■■▥□□□□□□□□□□□□□□□□□□□□   0.1%
+    Java        14 hrs 40 mins  ■■■■■■■■■■■■■■■■■■■■■■■■  97.1%
+    JavaScript         24 mins  ■■■■◱□□□□□□□□□□□□□□□□□□□   2.7%
     Markdown            0 secs  ■■■▥□□□□□□□□□□□□□□□□□□□□   0.1%
+    Kotlin              0 secs  ■■■▥□□□□□□□□□□□□□□□□□□□□   0.1%
+    JSON                0 secs  ■■■▥□□□□□□□□□□□□□□□□□□□□   0.0%
   ```
   <!-- codeTime starts -->
   </td></tr></table>
