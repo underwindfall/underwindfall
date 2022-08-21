@@ -6,6 +6,10 @@
 
  #### 📷 Github Activity
  <!-- githubActivity starts -->
+**2022-08-21** — pushed [`1505218a`](https://github.com/underwindfall/underwindfall/commit/1505218a6cda143799d4c0778b1428bb4c470999) to [underwindfall/underwindfall](https://api.github.com/repos/underwindfall/underwindfall): "add strava time"
+
+**2022-08-21** — created tag "v3.0" on [underwindfall/underwindfall](https://api.github.com/repos/underwindfall/underwindfall)
+
 **2022-08-21** — pushed [`46e4ba4d`](https://github.com/underwindfall/strava-box/commit/46e4ba4d98eae1fa0642aa71fb221234479bce29) to [underwindfall/strava-box](https://api.github.com/repos/underwindfall/strava-box): "fix"
 
 **2022-08-21** — pushed [`39ae3bbd`](https://github.com/underwindfall/strava-box/commit/39ae3bbd5c99c9920abcd23578d66d51ef4dd5ff) to [underwindfall/strava-box](https://api.github.com/repos/underwindfall/strava-box): "fix"
@@ -21,10 +25,6 @@
 **2022-08-21** — pushed [`0c588dd2`](https://github.com/underwindfall/strava-box/commit/0c588dd2d8af2c5c1dfc86d629e41fed9aea8030) to [underwindfall/strava-box](https://api.github.com/repos/underwindfall/strava-box): "add schedule yml"
 
 **2022-08-21** — deleted branch "master" on [underwindfall/strava-box](https://api.github.com/repos/underwindfall/strava-box)
-
-**2022-08-21** — pushed [`596e269e`](https://github.com/underwindfall/strava-box/commit/596e269ea226c37400b55a9b2049df1dc2e31bd4) to [underwindfall/strava-box](https://api.github.com/repos/underwindfall/strava-box): "重构运动类型"
-
-**2022-08-21** — created branch "main" on [underwindfall/strava-box](https://api.github.com/repos/underwindfall/strava-box)
  <!-- githubActivity ends -->
  </td><td valign="top" width="50%">
 
