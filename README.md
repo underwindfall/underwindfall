@@ -2,41 +2,34 @@
 <a href="https://github.com/underwindfall/iBeats"><img align="right" width="150px" src="https://raw.githubusercontent.com/underwindfall/iBeats/main/files/heart.svg"/></a>
 <p><em>Software engineer currently work @<a href="https://www.netatmo.com">Netatmo</a></em></p>
 <p><a href="https://qifanyang.com/resume" target="_blank"> 🔭 Know more about me</a> This is my personal resume site, I built it for fun.</p>
-<table><tr><td valign="top" rowspan="2">
+<table width="960px"><tr><td valign="top" width="50%">
 
- ## 📷 Github Activity
+ #### 📷 Github Activity
  <!-- githubActivity starts -->
-  **2022-08-21** — pushed [`67115333`](https://github.com/underwindfall/sports_page/commit/6711533338bc1e7dc130cf0f214a1bf721e23928) to [underwindfall/sports_page](https://api.github.com/repos/underwindfall/sports_page): "Deploy to GitHub pages"
+**2022-08-21** — pushed [`46e4ba4d`](https://github.com/underwindfall/strava-box/commit/46e4ba4d98eae1fa0642aa71fb221234479bce29) to [underwindfall/strava-box](https://api.github.com/repos/underwindfall/strava-box): "fix"
 
-  **2022-08-21** — closed issue [#1](https://api.github.com/repos/underwindfall/Algorithme/issues/1) on [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "常用的经典排序算法"
+**2022-08-21** — pushed [`39ae3bbd`](https://github.com/underwindfall/strava-box/commit/39ae3bbd5c99c9920abcd23578d66d51ef4dd5ff) to [underwindfall/strava-box](https://api.github.com/repos/underwindfall/strava-box): "fix"
 
-  **2022-08-21** — commented on [#1](https://github.com/underwindfall/Algorithme/issues/1#issuecomment-1221450287) in [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme)
+**2022-08-21** — pushed [`06f4c07d`](https://github.com/underwindfall/strava-box/commit/06f4c07d82321092657516254adaa951e36eda6b) to [underwindfall/strava-box](https://api.github.com/repos/underwindfall/strava-box): "remove useless toke from local file"
 
-  **2022-08-21** — pushed [`8bd79e4d`](https://github.com/underwindfall/Algorithme/commit/8bd79e4d346196db3a54a1b89c74ac2f19241da6) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "IsPrefixOfWord1455"
+**2022-08-21** — deleted branch "master" on [underwindfall/strava-box](https://api.github.com/repos/underwindfall/strava-box)
 
-  **2022-08-19** — pushed [`d83027ff`](https://github.com/underwindfall/Algorithme/commit/d83027ff74a1ac7def2c4c958a06d8026588aa37) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "LengthOfLIS300"
+**2022-08-21** — created branch "main" on [underwindfall/strava-box](https://api.github.com/repos/underwindfall/strava-box)
 
-  **2022-08-19** — pushed [`fe20b49f`](https://github.com/underwindfall/Algorithme/commit/fe20b49f2c9484a614163bf91850f3a5c2ddb0f5) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "ThreeSumSmaller259"
+**2022-08-21** — pushed [`6695361a`](https://github.com/underwindfall/sports_page/commit/6695361a50c0f09ce0886abc243cd2ae8afd40ae) to [underwindfall/sports_page](https://api.github.com/repos/underwindfall/sports_page): "change v3"
 
-  **2022-08-19** — pushed [`998e8c4f`](https://github.com/underwindfall/Algorithme/commit/998e8c4fdf23acad90c07feb455fa1204d9bf778) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "BusyStudent1450"
+**2022-08-21** — pushed [`0c588dd2`](https://github.com/underwindfall/strava-box/commit/0c588dd2d8af2c5c1dfc86d629e41fed9aea8030) to [underwindfall/strava-box](https://api.github.com/repos/underwindfall/strava-box): "add schedule yml"
 
-  **2022-08-19** — pushed [`56330623`](https://github.com/underwindfall/sports_page/commit/563306232a7fb2f20784d57f8dc69a83fec64eb2) to [underwindfall/sports_page](https://api.github.com/repos/underwindfall/sports_page): "Deploy to GitHub pages"
+**2022-08-21** — deleted branch "master" on [underwindfall/strava-box](https://api.github.com/repos/underwindfall/strava-box)
 
-  **2022-08-17** — pushed [`bf14078a`](https://github.com/underwindfall/sports_page/commit/bf14078a6a8e12f6f3008556dd92fd2b701727a8) to [underwindfall/sports_page](https://api.github.com/repos/underwindfall/sports_page): "Deploy to GitHub pages"
+**2022-08-21** — pushed [`596e269e`](https://github.com/underwindfall/strava-box/commit/596e269ea226c37400b55a9b2049df1dc2e31bd4) to [underwindfall/strava-box](https://api.github.com/repos/underwindfall/strava-box): "重构运动类型"
 
-  **2022-08-16** — pushed [`38a27d7f`](https://github.com/underwindfall/Algorithme/commit/38a27d7fe8b843d31481532a78ceb2e65e998e6e) to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "LargestNumber179"
+**2022-08-21** — created branch "main" on [underwindfall/strava-box](https://api.github.com/repos/underwindfall/strava-box)
  <!-- githubActivity ends -->
- </td><td valign="top">
+ </td><td valign="top" width="50%">
 
- ## 🌏 Something about me
+ #### 🌏 Something about me
  <!-- profile starts -->
- <a href="https://github.com/underwindfall" width="100%">
-   <img src="https://github.com/underwindfall/GitHubPoster/blob/main/examples/strava.svg"/>
- </a>
- <br/>
- <br/>
- <br/>
-
  ```kotlin
  data class underwindfall(
       val pronouns: String = "he|him",
@@ -57,9 +50,9 @@
  )
  ```
  <!-- profile ends -->
- </td></tr><tr><td valign="top">
-
- ## 🏊‍♂️ <a href="https://gist.github.com/underwindfall/377ee88ba1fabd1e93516e48ca9c61eb" target="_blank">Weekly Development Breakdown</a>
+ </td></tr><tr><td valign="top" width="50%">
+ 
+ #### 🏊‍♂️ <a href="https://gist.github.com/underwindfall/377ee88ba1fabd1e93516e48ca9c61eb" target="_blank">Weekly Development Breakdown</a>
   <!-- codeTime starts -->
   ```text
     Java        11 hrs 34 mins  ■■■■■■■■■■■■■■■■■■■■■■■■  85.1%
@@ -70,4 +63,17 @@
     Gradle              0 secs  ■■■▥□□□□□□□□□□□□□□□□□□□□   0.1%
   ```
   <!-- codeTime starts -->
+  </td>
+  <td valign="top" width="50%">
+
+  #### 🤾‍♂️ <a href="https://gist.github.com/underwindfall/76198d6f6918f9f94d022c8ad881f98b" target="_blank">Recent Sports</a>
+
+  <!-- Sports starts -->
+  ```text
+    ‍🏃‍♂️ Running      47.81 km █████████████████▎░  5.13/h
+    🏊‍♂️ Swimming       0.00 km ░░░░░░░░░░░░░░░░░░░  0.00/h
+    🚴‍♂️ Cycling       4.72 km █▋░░░░░░░░░░░░░░░░░ 14.05/h
+    Last month      31.37 km      7 achievements   4:24h
+  ```
+  <!-- Sports ends -->
   </td></tr></table>

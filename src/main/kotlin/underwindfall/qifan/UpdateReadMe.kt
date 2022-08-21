@@ -34,7 +34,8 @@ class UpdateReadmeCommand : CliktCommand() {
       .build()
     val githubActivity = fetchGithubActivity(okHttpClient)
     val codeTimeActivity = fetchCodeTimeActivity(okHttpClient)
-    val newReadMe = createReadMe(githubActivity, codeTimeActivity)
+    val stravaTimeActivity = fetchStravaTimeActivity(okHttpClient)
+    val newReadMe = createReadMe(githubActivity, codeTimeActivity, stravaTimeActivity)
     outputFile.writeText(newReadMe)
 
     exitProcess(0)
@@ -44,6 +45,13 @@ class UpdateReadmeCommand : CliktCommand() {
 private fun fetchCodeTimeActivity(client: OkHttpClient): List<FeedItem> {
   val codeTimeApi = CodeTimeApi.create(client)
   val activity = runBlocking { codeTimeApi.getCodeTime("underwindfall", "377ee88ba1fabd1e93516e48ca9c61eb") }.body()
+  val contentString = activity?.string()?.trimStart()
+  return contentString?.split(regex = "\n".toRegex())?.map { FeedItem("      $it") } ?: emptyList()
+}
+
+private fun fetchStravaTimeActivity(client: OkHttpClient): List<FeedItem> {
+  val codeTimeApi = CodeTimeApi.create(client)
+  val activity = runBlocking { codeTimeApi.getCodeTime("underwindfall", "76198d6f6918f9f94d022c8ad881f98b") }.body()
   val contentString = activity?.string()?.trimStart()
   return contentString?.split(regex = "\n".toRegex())?.map { FeedItem("      $it") } ?: emptyList()
 }
