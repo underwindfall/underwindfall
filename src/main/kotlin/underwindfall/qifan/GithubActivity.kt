@@ -170,7 +170,8 @@ data class PushEventPayload(
   fun commitMessage(event: GitHubActivityEvent): String {
     return if (distinctSize == 1) {
       val commit = commits[0]
-      "pushed [`${commit.sha.substring(0..7)}`](${commit.adjustedUrl()}) to ${event.repo?.markdownUrl()}: \"${commit.title()}\""
+      // "pushed [`${commit.sha.substring(0..7)}`](${commit.adjustedUrl()}) to ${event.repo?.markdownUrl()}: \"${commit.title()}\""
+      "pushed to ${event.repo?.markdownUrl()}: \"${commit.title()}\""
     } else {
       "pushed $size commits to ${event.repo?.markdownUrl()}."
     }

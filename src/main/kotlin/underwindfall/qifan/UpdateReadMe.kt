@@ -103,7 +103,7 @@ private fun fetchGithubActivity(client: OkHttpClient): List<FeedItem> {
         }
       }
     }
-    .take(10)
+    .take(6)
 }
 
 fun main(argv: Array<String>) {
