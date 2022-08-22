@@ -6,6 +6,10 @@
 
  #### 📷 Github Activity
  <!-- githubActivity starts -->
+**2022-08-21** — pushed [`1cab1b3a`](https://github.com/underwindfall/wakabox-stats/commit/1cab1b3ac5ef2a3ccdd79d7a36a40ea3e2035f0b) to [underwindfall/wakabox-stats](https://api.github.com/repos/underwindfall/wakabox-stats): "update"
+
+**2022-08-21** — pushed [`5abcf848`](https://github.com/underwindfall/strava-box/commit/5abcf84805f00eb6845a0a3a2c5f7701edffd577) to [underwindfall/strava-box](https://api.github.com/repos/underwindfall/strava-box): "Update index.js"
+
 **2022-08-21** — pushed [`1505218a`](https://github.com/underwindfall/underwindfall/commit/1505218a6cda143799d4c0778b1428bb4c470999) to [underwindfall/underwindfall](https://api.github.com/repos/underwindfall/underwindfall): "add strava time"
 
 **2022-08-21** — created tag "v3.0" on [underwindfall/underwindfall](https://api.github.com/repos/underwindfall/underwindfall)
@@ -21,10 +25,6 @@
 **2022-08-21** — created branch "main" on [underwindfall/strava-box](https://api.github.com/repos/underwindfall/strava-box)
 
 **2022-08-21** — pushed [`6695361a`](https://github.com/underwindfall/sports_page/commit/6695361a50c0f09ce0886abc243cd2ae8afd40ae) to [underwindfall/sports_page](https://api.github.com/repos/underwindfall/sports_page): "change v3"
-
-**2022-08-21** — pushed [`0c588dd2`](https://github.com/underwindfall/strava-box/commit/0c588dd2d8af2c5c1dfc86d629e41fed9aea8030) to [underwindfall/strava-box](https://api.github.com/repos/underwindfall/strava-box): "add schedule yml"
-
-**2022-08-21** — deleted branch "master" on [underwindfall/strava-box](https://api.github.com/repos/underwindfall/strava-box)
  <!-- githubActivity ends -->
  </td><td valign="top" width="50%">
 
@@ -70,10 +70,10 @@
 
   <!-- Sports starts -->
   ```text
-    ‍🏃‍♂️ Running      47.81 km █████████████████▎░  5.13/h
-    🏊‍♂️ Swimming       0.00 km ░░░░░░░░░░░░░░░░░░░  0.00/h
-    🚴‍♂️ Cycling       4.72 km █▋░░░░░░░░░░░░░░░░░ 14.05/h
-    Last month      31.37 km      7 achievements   4:24h
+    ‍🏃‍♂️ Running      47.81 km ████████████████▍░  5.13/h
+    🏊‍♂️ Swimming       0.00 km ░░░░░░░░░░░░░░░░░░  0.00/h
+    🚴‍♂️ Cycling       4.72 km █▌░░░░░░░░░░░░░░░░ 14.05/h
+    Last month      28.64 km      5 achievements   4:0h
   ```
   <!-- Sports ends -->
   </td></tr></table>
