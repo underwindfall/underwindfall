@@ -6,17 +6,17 @@
 
   #### 📷 Github Activity
   <!-- githubActivity starts -->
+**2022-08-23** — pushed to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "MoveToChessboard782"
+
+**2022-08-22** — pushed to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "PrintBinaryTree655"
+
+**2022-08-22** — pushed to [underwindfall/strava-box](https://api.github.com/repos/underwindfall/strava-box): "Update index.js"
+
 **2022-08-22** — pushed to [underwindfall/underwindfall](https://api.github.com/repos/underwindfall/underwindfall): "update readme template"
 
 **2022-08-22** — pushed to [underwindfall/wakabox-stats](https://api.github.com/repos/underwindfall/wakabox-stats): "Update index.js"
 
 **2022-08-22** — pushed to [underwindfall/wakabox-stats](https://api.github.com/repos/underwindfall/wakabox-stats): "adjust size"
-
-**2022-08-22** — pushed to [underwindfall/wakabox-stats](https://api.github.com/repos/underwindfall/wakabox-stats): "adjust size"
-
-**2022-08-21** — pushed to [underwindfall/wakabox-stats](https://api.github.com/repos/underwindfall/wakabox-stats): "update"
-
-**2022-08-21** — pushed to [underwindfall/strava-box](https://api.github.com/repos/underwindfall/strava-box): "Update index.js"
   <!-- githubActivity ends -->
   </td><td valign="top" width="50%">
 
@@ -61,10 +61,10 @@
 
    <!-- Sports starts -->
    ```text
-     ‍🏃‍♂️ Running      47.81 km ████████████████▍░  5.13/h
-     🏊‍♂️ Swimming       0.00 km ░░░░░░░░░░░░░░░░░░  0.00/h
-     🚴‍♂️ Cycling       4.72 km █▌░░░░░░░░░░░░░░░░ 14.05/h
-     Last month      28.64 km      5 achievements   4:0h
+     ‍🏃‍♂️ Running      50.96 km ██████████▉░  5.25/h
+     🏊‍♂️ Swimming       0.00 km ░░░░░░░░░░░░  0.00/h
+     🚴‍♂️ Cycling       4.72 km █░░░░░░░░░░░ 14.05/h
+     Last month      31.80 km      5 achievements   4:24h
    ```
    <!-- Sports ends -->
    </td></tr></table>
