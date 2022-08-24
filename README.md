@@ -6,6 +6,10 @@
 
   #### 📷 Github Activity
   <!-- githubActivity starts -->
+**2022-08-24** — pushed to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "NextPermutation31"
+
+**2022-08-23** — pushed to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "SpiralMatrix"
+
 **2022-08-23** — pushed to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "MoveToChessboard782"
 
 **2022-08-22** — pushed to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "PrintBinaryTree655"
@@ -13,10 +17,6 @@
 **2022-08-22** — pushed to [underwindfall/strava-box](https://api.github.com/repos/underwindfall/strava-box): "Update index.js"
 
 **2022-08-22** — pushed to [underwindfall/underwindfall](https://api.github.com/repos/underwindfall/underwindfall): "update readme template"
-
-**2022-08-22** — pushed to [underwindfall/wakabox-stats](https://api.github.com/repos/underwindfall/wakabox-stats): "Update index.js"
-
-**2022-08-22** — pushed to [underwindfall/wakabox-stats](https://api.github.com/repos/underwindfall/wakabox-stats): "adjust size"
   <!-- githubActivity ends -->
   </td><td valign="top" width="50%">
 
@@ -46,12 +46,12 @@
   #### 🏊‍♂️ <a href="https://gist.github.com/underwindfall/377ee88ba1fabd1e93516e48ca9c61eb" target="_blank">Weekly Development Breakdown</a>
    <!-- codeTime starts -->
    ```text
-     Java        12 hrs 15 mins  ■■■■■■■■■■■■▥□□□  64.5%
-     Kotlin       3 hrs 35 mins  ■■■■■◱□□□□□□□□□□  18.9%
-     JavaScript     1 hr 8 mins  ■■■◱□□□□□□□□□□□□   6.0%
-     YAML               37 mins  ■■▦□□□□□□□□□□□□□   3.3%
-     Markdown           34 mins  ■■▦□□□□□□□□□□□□□   3.0%
-     XML                13 mins  ■■▥□□□□□□□□□□□□□   1.2%
+     Java        10 hrs 33 mins  ■■■■■■■■■■■▦□□□□  59.1%
+     Kotlin       3 hrs 43 mins  ■■■■■▥□□□□□□□□□□  20.8%
+     JavaScript    1 hr 19 mins  ■■■▥□□□□□□□□□□□□   7.4%
+     Markdown           49 mins  ■■■□□□□□□□□□□□□□   4.6%
+     YAML               37 mins  ■■▦□□□□□□□□□□□□□   3.5%
+     XML                13 mins  ■■▥□□□□□□□□□□□□□   1.3%
    ```
    <!-- codeTime starts -->
    </td>
@@ -64,7 +64,7 @@
      ‍🏃‍♂️ Running      50.96 km ██████████▉░  5.25/h
      🏊‍♂️ Swimming       0.00 km ░░░░░░░░░░░░  0.00/h
      🚴‍♂️ Cycling       4.72 km █░░░░░░░░░░░ 14.05/h
-     Last month      31.80 km      5 achievements   4:24h
+     Last month      29.35 km      5 achievements   4:53h
    ```
    <!-- Sports ends -->
    </td></tr></table>
