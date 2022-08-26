@@ -6,17 +6,17 @@
 
   #### 📷 Github Activity
   <!-- githubActivity starts -->
-**2022-08-24** — pushed to [underwindfall/GitHubPoster](https://api.github.com/repos/underwindfall/GitHubPoster): "Update run_poster_generate.yml"
+**2022-08-26** — pushed 3 commits to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme).
 
-**2022-08-24** — pushed to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "NextPermutation31"
+**2022-08-26** — pushed to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "ReorderedPowerOf2"
 
-**2022-08-23** — pushed to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "SpiralMatrix"
+**2022-08-25** — pushed to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "RotateArray189"
 
-**2022-08-23** — pushed to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "MoveToChessboard782"
+**2022-08-25** — pushed 3 commits to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme).
 
-**2022-08-22** — pushed to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "PrintBinaryTree655"
+**2022-08-25** — pushed to [underwindfall/strava-box](https://api.github.com/repos/underwindfall/strava-box): "Update index.js"
 
-**2022-08-22** — pushed to [underwindfall/strava-box](https://api.github.com/repos/underwindfall/strava-box): "Update index.js"
+**2022-08-25** — pushed to [underwindfall/strava-box](https://api.github.com/repos/underwindfall/strava-box): "remove somthing"
   <!-- githubActivity ends -->
   </td><td valign="top" width="50%">
 
@@ -46,12 +46,12 @@
   #### 🏊‍♂️ <a href="https://gist.github.com/underwindfall/377ee88ba1fabd1e93516e48ca9c61eb" target="_blank">Weekly Development Breakdown</a>
    <!-- codeTime starts -->
    ```text
-     Java         8 hrs 12 mins  ■■■■■■■■■■▦□□□□□  53.6%
-     Kotlin       3 hrs 43 mins  ■■■■■■◱□□□□□□□□□  24.3%
-     JavaScript     1 hr 8 mins  ■■■▥□□□□□□□□□□□□   7.5%
-     Markdown           49 mins  ■■■◱□□□□□□□□□□□□   5.3%
-     YAML               37 mins  ■■■□□□□□□□□□□□□□   4.0%
-     XML                13 mins  ■■▥□□□□□□□□□□□□□   1.5%
+     Java        11 hrs 53 mins  ■■■■■■■■■■■■◱□□□  62.8%
+     Kotlin       3 hrs 31 mins  ■■■■■◱□□□□□□□□□□  18.6%
+     JavaScript    1 hr 14 mins  ■■■◱□□□□□□□□□□□□   6.5%
+     Markdown           59 mins  ■■■□□□□□□□□□□□□□   5.2%
+     YAML               37 mins  ■■▦□□□□□□□□□□□□□   3.3%
+     XML                15 mins  ■■▥□□□□□□□□□□□□□   1.4%
    ```
    <!-- codeTime starts -->
    </td>
@@ -64,7 +64,7 @@
      ‍🏃‍♂️ Running      50.96 km ██████████▉░  5.25/h
      🏊‍♂️ Swimming       0.00 km ░░░░░░░░░░░░  0.00/h
      🚴‍♂️ Cycling       4.72 km █░░░░░░░░░░░ 14.05/h
-     Last month      27.60 km      4 achievements   4:37h
+     Last month      27.60 km   4:37h
    ```
    <!-- Sports ends -->
    </td></tr></table>
