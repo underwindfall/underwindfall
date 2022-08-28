@@ -6,6 +6,8 @@
 
   #### 📷 Github Activity
   <!-- githubActivity starts -->
+**2022-08-27** — pushed to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "RemoveDigits402"
+
 **2022-08-26** — pushed 3 commits to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme).
 
 **2022-08-26** — pushed 3 commits to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme).
@@ -15,8 +17,6 @@
 **2022-08-25** — pushed to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "RotateArray189"
 
 **2022-08-25** — pushed 3 commits to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme).
-
-**2022-08-25** — pushed to [underwindfall/strava-box](https://api.github.com/repos/underwindfall/strava-box): "Update index.js"
   <!-- githubActivity ends -->
   </td><td valign="top" width="50%">
 
@@ -46,8 +46,8 @@
   #### 🏊‍♂️ <a href="https://gist.github.com/underwindfall/377ee88ba1fabd1e93516e48ca9c61eb" target="_blank">Weekly Development Breakdown</a>
    <!-- codeTime starts -->
    ```text
-     Java        13 hrs 43 mins  ■■■■■■■■■■■■■◱□□  68.8%
-     Kotlin       2 hrs 46 mins  ■■■■▥□□□□□□□□□□□  13.9%
+     Java        13 hrs 43 mins  ■■■■■■■■■■■■■◱□□  69.0%
+     Kotlin       2 hrs 43 mins  ■■■■▥□□□□□□□□□□□  13.7%
      JavaScript    1 hr 14 mins  ■■■◱□□□□□□□□□□□□   6.2%
      Markdown           59 mins  ■■■□□□□□□□□□□□□□   5.0%
      YAML               37 mins  ■■▦□□□□□□□□□□□□□   3.1%
@@ -64,7 +64,7 @@
      ‍🏃‍♂️ Running      50.96 km ██████████▉░  5.25/h
      🏊‍♂️ Swimming       0.00 km ░░░░░░░░░░░░  0.00/h
      🚴‍♂️ Cycling       4.72 km █░░░░░░░░░░░ 14.05/h
-     Last month      18.87 km   3:39h
+     Last month      15.84 km   2:14h
    ```
    <!-- Sports ends -->
    </td></tr></table>
