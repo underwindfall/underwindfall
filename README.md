@@ -6,17 +6,17 @@
 
   #### 📷 Github Activity
   <!-- githubActivity starts -->
+**2022-08-30** — pushed 3 commits to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme).
+
+**2022-08-30** — pushed 5 commits to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme).
+
+**2022-08-30** — pushed 2 commits to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme).
+
+**2022-08-30** — pushed to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "WordBreakII140"
+
+**2022-08-30** — pushed 2 commits to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme).
+
 **2022-08-29** — pushed to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "PointInTriangle"
-
-**2022-08-29** — pushed to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "islands"
-
-**2022-08-29** — pushed to [underwindfall/strava-box](https://api.github.com/repos/underwindfall/strava-box): "Update index.js"
-
-**2022-08-28** — deleted branch "patch-1" on [underwindfall/otld](https://api.github.com/repos/underwindfall/otld)
-
-**2022-08-28** — closed PR [#1](https://api.github.com/repos/nediiii/otld/pulls/1) to [nediiii/otld](https://api.github.com/repos/nediiii/otld): "修复weibo 字符串url匹配问题"
-
-**2022-08-28** — opened PR [#2](https://api.github.com/repos/nediiii/otld/pulls/2) to [nediiii/otld](https://api.github.com/repos/nediiii/otld): "fix broken regex weibo url"
   <!-- githubActivity ends -->
   </td><td valign="top" width="50%">
 
@@ -46,11 +46,9 @@
   #### 🏊‍♂️ <a href="https://gist.github.com/underwindfall/377ee88ba1fabd1e93516e48ca9c61eb" target="_blank">Weekly Development Breakdown</a>
    <!-- codeTime starts -->
    ```text
-     Java        13 hrs 58 mins  ■■■■■■■■■■■■■■■■  97.8%
-     Markdown           10 mins  ■■▥□□□□□□□□□□□□□   1.2%
-     JavaScript          5 mins  ■■▥□□□□□□□□□□□□□   0.6%
+     Java        16 hrs 22 mins  ■■■■■■■■■■■■■■■■  99.3%
+     JavaScript          5 mins  ■■◱□□□□□□□□□□□□□   0.6%
      INI                  1 min  ■■◱□□□□□□□□□□□□□   0.2%
-     Kotlin               1 min  ■■◱□□□□□□□□□□□□□   0.2%
    ```
    <!-- codeTime starts -->
    </td>
