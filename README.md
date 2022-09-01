@@ -6,17 +6,17 @@
 
   #### 📷 Github Activity
   <!-- githubActivity starts -->
+**2022-08-31** — pushed to [underwindfall/strava-box](https://api.github.com/repos/underwindfall/strava-box): "fix padding"
+
+**2022-08-31** — pushed 3 commits to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme).
+
+**2022-08-31** — pushed to [underwindfall/strava-box](https://api.github.com/repos/underwindfall/strava-box): "Update index.js"
+
 **2022-08-30** — pushed 3 commits to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme).
 
 **2022-08-30** — pushed 5 commits to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme).
 
 **2022-08-30** — pushed 2 commits to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme).
-
-**2022-08-30** — pushed to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "WordBreakII140"
-
-**2022-08-30** — pushed 2 commits to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme).
-
-**2022-08-29** — pushed to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "PointInTriangle"
   <!-- githubActivity ends -->
   </td><td valign="top" width="50%">
 
@@ -46,9 +46,12 @@
   #### 🏊‍♂️ <a href="https://gist.github.com/underwindfall/377ee88ba1fabd1e93516e48ca9c61eb" target="_blank">Weekly Development Breakdown</a>
    <!-- codeTime starts -->
    ```text
-     Java        16 hrs 22 mins  ■■■■■■■■■■■■■■■■  99.3%
-     JavaScript          5 mins  ■■◱□□□□□□□□□□□□□   0.6%
-     INI                  1 min  ■■◱□□□□□□□□□□□□□   0.2%
+     Java        25 hrs 14 mins  ■■■■■■■■■■■■■■■■  98.9%
+     Markdown            7 mins  ■■◱□□□□□□□□□□□□□   0.5%
+     JavaScript          5 mins  ■■◱□□□□□□□□□□□□□   0.4%
+     Python              2 mins  ■■◱□□□□□□□□□□□□□   0.1%
+     INI                  1 min  ■■◱□□□□□□□□□□□□□   0.1%
+     Other               0 secs  ■■◱□□□□□□□□□□□□□   0.0%
    ```
    <!-- codeTime starts -->
    </td>
@@ -58,10 +61,10 @@
 
    <!-- Sports starts -->
    ```text
-     ‍🏃‍♂️ Running      50.96 km ▩▩▩▩▩▩▩▩▩▩▩□  5.25/h
+     ‍🏃‍♂️ Running       50.96 km ▩▩▩▩▩▩▩▩▩▩▩□  5.25/h
      🏊‍♂️ Swimming       0.00 km □□□□□□□□□□□□  0.00/h
-     🚴‍♂️ Cycling       4.72 km ▩□□□□□□□□□□□ 14.05/h
-     Last month      12.59 km   2:45h
+     🚴‍♂️ Cycling        4.72 km ▩□□□□□□□□□□□ 14.05/h
+     Last month       12.59 km   2:45h
    ```
    <!-- Sports ends -->
    </td></tr></table>
