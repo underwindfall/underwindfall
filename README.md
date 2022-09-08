@@ -6,6 +6,8 @@
 
   #### 📷 Github Activity
   <!-- githubActivity starts -->
+**2022-09-07** — pushed 3 commits to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme).
+
 **2022-09-04** — pushed to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "VerticalTraversal987"
 
 **2022-09-03** — pushed 4 commits to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme).
@@ -15,8 +17,6 @@
 **2022-09-03** — pushed 2 commits to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme).
 
 **2022-09-02** — pushed to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "LongestValidParentheses32"
-
-**2022-09-01** — pushed to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "dfs"
   <!-- githubActivity ends -->
   </td><td valign="top" width="50%">
 
@@ -46,11 +46,11 @@
   #### 🏊‍♂️ <a href="https://gist.github.com/underwindfall/377ee88ba1fabd1e93516e48ca9c61eb" target="_blank">Weekly Development Breakdown</a>
    <!-- codeTime starts -->
    ```text
-     Java        17 hrs 26 mins  ■■■■■■■■■■■■■■■■  98.2%
-     Markdown            7 mins  ■■▥□□□□□□□□□□□□□   0.7%
-     Kotlin              7 mins  ■■▥□□□□□□□□□□□□□   0.7%
-     Python              2 mins  ■■◱□□□□□□□□□□□□□   0.2%
-     JavaScript           1 min  ■■◱□□□□□□□□□□□□□   0.2%
+     Java          8 hrs 9 mins  ■■■■■■■■■■■■■■■■  98.1%
+     Kotlin              7 mins  ■■▥□□□□□□□□□□□□□   1.5%
+     JavaScript           1 min  ■■◱□□□□□□□□□□□□□   0.4%
+     Python              0 secs  ■■◱□□□□□□□□□□□□□   0.0%
+     Gradle              0 secs  ■■◱□□□□□□□□□□□□□   0.0%
      Other               0 secs  ■■◱□□□□□□□□□□□□□   0.0%
    ```
    <!-- codeTime starts -->
