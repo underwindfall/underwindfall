@@ -6,6 +6,10 @@
 
   #### 📷 Github Activity
   <!-- githubActivity starts -->
+**2022-09-12** — pushed 2 commits to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme).
+
+**2022-09-11** — pushed to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "BeatifulArrangment526"
+
 **2022-09-07** — pushed 3 commits to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme).
 
 **2022-09-04** — pushed to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "VerticalTraversal987"
@@ -13,10 +17,6 @@
 **2022-09-03** — pushed 4 commits to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme).
 
 **2022-09-03** — pushed 3 commits to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme).
-
-**2022-09-03** — pushed 2 commits to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme).
-
-**2022-09-02** — pushed to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "LongestValidParentheses32"
   <!-- githubActivity ends -->
   </td><td valign="top" width="50%">
 
@@ -46,12 +46,12 @@
   #### 🏊‍♂️ <a href="https://gist.github.com/underwindfall/377ee88ba1fabd1e93516e48ca9c61eb" target="_blank">Weekly Development Breakdown</a>
    <!-- codeTime starts -->
    ```text
-     Java         6 hrs 23 mins  ■■■■■■■■■■■■■■■▥  82.8%
-     Kotlin             45 mins  ■■■▦□□□□□□□□□□□□   9.7%
-     Groovy             27 mins  ■■■◱□□□□□□□□□□□□   5.9%
-     Gradle              6 mins  ■■▥□□□□□□□□□□□□□   1.3%
-     XML                 0 secs  ■■◱□□□□□□□□□□□□□   0.2%
-     Properties          0 secs  ■■◱□□□□□□□□□□□□□   0.1%
+     Java          1 hr 30 mins  ■■■■■■■■■■▦□□□□□  53.4%
+     Kotlin             44 mins  ■■■■■■▥□□□□□□□□□  26.0%
+     Groovy             27 mins  ■■■■▦□□□□□□□□□□□  16.1%
+     Gradle              6 mins  ■■▦□□□□□□□□□□□□□   3.6%
+     XML                 0 secs  ■■◱□□□□□□□□□□□□□   0.5%
+     Properties          0 secs  ■■◱□□□□□□□□□□□□□   0.4%
    ```
    <!-- codeTime starts -->
    </td>
