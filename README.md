@@ -6,6 +6,8 @@
 
   #### 📷 Github Activity
   <!-- githubActivity starts -->
+**2022-09-12** — pushed to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Restore IP"
+
 **2022-09-12** — pushed 2 commits to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme).
 
 **2022-09-11** — pushed to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "BeatifulArrangment526"
@@ -15,8 +17,6 @@
 **2022-09-04** — pushed to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "VerticalTraversal987"
 
 **2022-09-03** — pushed 4 commits to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme).
-
-**2022-09-03** — pushed 3 commits to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme).
   <!-- githubActivity ends -->
   </td><td valign="top" width="50%">
 
@@ -46,12 +46,10 @@
   #### 🏊‍♂️ <a href="https://gist.github.com/underwindfall/377ee88ba1fabd1e93516e48ca9c61eb" target="_blank">Weekly Development Breakdown</a>
    <!-- codeTime starts -->
    ```text
-     Java          1 hr 30 mins  ■■■■■■■■■■▦□□□□□  53.4%
-     Kotlin             44 mins  ■■■■■■▥□□□□□□□□□  26.0%
-     Groovy             27 mins  ■■■■▦□□□□□□□□□□□  16.1%
-     Gradle              6 mins  ■■▦□□□□□□□□□□□□□   3.6%
-     XML                 0 secs  ■■◱□□□□□□□□□□□□□   0.5%
-     Properties          0 secs  ■■◱□□□□□□□□□□□□□   0.4%
+     Java         4 hrs 41 mins  ■■■■■■■■■■■■■■■■  87.1%
+     Kotlin             41 mins  ■■■■◱□□□□□□□□□□□  12.8%
+     Other               0 secs  ■■◱□□□□□□□□□□□□□   0.0%
+     Gradle              0 secs  ■■◱□□□□□□□□□□□□□   0.0%
    ```
    <!-- codeTime starts -->
    </td>
