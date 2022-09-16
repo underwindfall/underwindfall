@@ -46,9 +46,7 @@
   #### 🏊‍♂️ <a href="https://gist.github.com/underwindfall/377ee88ba1fabd1e93516e48ca9c61eb" target="_blank">Weekly Development Breakdown</a>
    <!-- codeTime starts -->
    ```text
-     Java         4 hrs 38 mins  ■■■■■■■■■■■■■■■■  87.0%
-     Kotlin             41 mins  ■■■■◱□□□□□□□□□□□  13.0%
-     Gradle              0 secs  ■■◱□□□□□□□□□□□□□   0.0%
+     Java         5 hrs 30 mins  ■■■■■■■■■■■■■■■■ 100.0%
    ```
    <!-- codeTime starts -->
    </td>
@@ -61,7 +59,7 @@
      ‍🏃‍♂️ Running       50.96 km ▩▩▩▩▩▩▩▩▩▩▩□  5.25/h
      🏊‍♂️ Swimming       0.00 km □□□□□□□□□□□□  0.00/h
      🚴‍♂️ Cycling        4.72 km ▩□□□□□□□□□□□ 14.05/h
-     Last month        9.02 km   1:14h
+     Last month        6.41 km   1:52h
    ```
    <!-- Sports ends -->
    </td></tr></table>
