@@ -46,7 +46,7 @@
   #### 🏊‍♂️ <a href="https://gist.github.com/underwindfall/377ee88ba1fabd1e93516e48ca9c61eb" target="_blank">Weekly Development Breakdown</a>
    <!-- codeTime starts -->
    ```text
-     Java         5 hrs 30 mins  ■■■■■■■■■■■■■■■■ 100.0%
+     Java         7 hrs 41 mins  ■■■■■■■■■■■■■■■■ 100.0%
    ```
    <!-- codeTime starts -->
    </td>
@@ -56,10 +56,10 @@
 
    <!-- Sports starts -->
    ```text
-     ‍🏃‍♂️ Running       50.96 km ▩▩▩▩▩▩▩▩▩▩▩□  5.25/h
+     ‍🏃‍♂️ Running       54.93 km ▩▩▩▩▩▩▩▩▩▩▩□  5.30/h
      🏊‍♂️ Swimming       0.00 km □□□□□□□□□□□□  0.00/h
      🚴‍♂️ Cycling        4.72 km ▩□□□□□□□□□□□ 14.05/h
-     Last month        6.41 km   1:52h
+     Last month       10.38 km   2:32h
    ```
    <!-- Sports ends -->
    </td></tr></table>
