@@ -6,6 +6,8 @@
 
   #### 📷 Github Activity
   <!-- githubActivity starts -->
+**2022-09-17** — pushed 3 commits to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme).
+
 **2022-09-14** — pushed 3 commits to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme).
 
 **2022-09-14** — pushed to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "RobotCleaner489"
@@ -15,8 +17,6 @@
 **2022-09-12** — pushed 2 commits to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme).
 
 **2022-09-11** — pushed to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "BeatifulArrangment526"
-
-**2022-09-07** — pushed 3 commits to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme).
   <!-- githubActivity ends -->
   </td><td valign="top" width="50%">
 
@@ -46,7 +46,7 @@
   #### 🏊‍♂️ <a href="https://gist.github.com/underwindfall/377ee88ba1fabd1e93516e48ca9c61eb" target="_blank">Weekly Development Breakdown</a>
    <!-- codeTime starts -->
    ```text
-     Java         7 hrs 41 mins  ■■■■■■■■■■■■■■■■ 100.0%
+     Java         7 hrs 57 mins  ■■■■■■■■■■■■■■■■ 100.0%
    ```
    <!-- codeTime starts -->
    </td>
@@ -59,7 +59,7 @@
      ‍🏃‍♂️ Running       54.93 km ▩▩▩▩▩▩▩▩▩▩▩□  5.30/h
      🏊‍♂️ Swimming       0.00 km □□□□□□□□□□□□  0.00/h
      🚴‍♂️ Cycling        4.72 km ▩□□□□□□□□□□□ 14.05/h
-     Last month       10.38 km   2:32h
+     Last month        7.12 km   1:3h
    ```
    <!-- Sports ends -->
    </td></tr></table>
