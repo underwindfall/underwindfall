@@ -46,7 +46,7 @@
   #### 🏊‍♂️ <a href="https://gist.github.com/underwindfall/377ee88ba1fabd1e93516e48ca9c61eb" target="_blank">Weekly Development Breakdown</a>
    <!-- codeTime starts -->
    ```text
-     Java         7 hrs 57 mins  ■■■■■■■■■■■■■■■■ 100.0%
+     Java         6 hrs 32 mins  ■■■■■■■■■■■■■■■■ 100.0%
    ```
    <!-- codeTime starts -->
    </td>
