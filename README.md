@@ -46,8 +46,7 @@
   #### 🏊‍♂️ <a href="https://gist.github.com/underwindfall/377ee88ba1fabd1e93516e48ca9c61eb" target="_blank">Weekly Development Breakdown</a>
    <!-- codeTime starts -->
    ```text
-     Java           4 hrs 1 min  ■■■■■■■■■■■■■■■■ 100.0%
-     Git                 0 secs  ■■◱□□□□□□□□□□□□□   0.0%
+     Java         2 hrs 34 mins  ■■■■■■■■■■■■■■■■ 100.0%
      Shrinker Config File         0 secs  ■■◱□□□□□□□□□□□□□   0.0%
      Properties          0 secs  ■■◱□□□□□□□□□□□□□   0.0%
    ```
