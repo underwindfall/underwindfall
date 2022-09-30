@@ -6,6 +6,10 @@
 
   #### 📷 Github Activity
   <!-- githubActivity starts -->
+**2022-09-29** — pushed to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "various fix"
+
+**2022-09-29** — pushed 2 commits to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme).
+
 **2022-09-17** — pushed 3 commits to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme).
 
 **2022-09-14** — pushed 3 commits to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme).
@@ -13,10 +17,6 @@
 **2022-09-14** — pushed to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "RobotCleaner489"
 
 **2022-09-12** — pushed to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Restore IP"
-
-**2022-09-12** — pushed 2 commits to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme).
-
-**2022-09-11** — pushed to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "BeatifulArrangment526"
   <!-- githubActivity ends -->
   </td><td valign="top" width="50%">
 
@@ -46,7 +46,7 @@
   #### 🏊‍♂️ <a href="https://gist.github.com/underwindfall/377ee88ba1fabd1e93516e48ca9c61eb" target="_blank">Weekly Development Breakdown</a>
    <!-- codeTime starts -->
    ```text
-     Java          2 hrs 4 mins  ■■■■■■■■■■■■■■■■  99.9%
+     Java         2 hrs 15 mins  ■■■■■■■■■■■■■■■■  99.9%
      Kotlin              0 secs  ■■◱□□□□□□□□□□□□□   0.1%
    ```
    <!-- codeTime starts -->
