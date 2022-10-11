@@ -6,17 +6,17 @@
 
   #### 📷 Github Activity
   <!-- githubActivity starts -->
-**2022-09-29** — pushed to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "various fix"
+**2022-10-10** — pushed to [underwindfall/sports_page](https://api.github.com/repos/underwindfall/sports_page): "Merge remote-tracking branch 'upstream/master'"
 
-**2022-09-29** — pushed 2 commits to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme).
+**2022-10-10** — pushed 138 commits to [underwindfall/sports_page](https://api.github.com/repos/underwindfall/sports_page).
 
-**2022-09-17** — pushed 3 commits to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme).
+**2022-10-10** — pushed 69 commits to [underwindfall/sports_page](https://api.github.com/repos/underwindfall/sports_page).
 
-**2022-09-14** — pushed 3 commits to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme).
+**2022-10-10** — pushed 137 commits to [underwindfall/sports_page](https://api.github.com/repos/underwindfall/sports_page).
 
-**2022-09-14** — pushed to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "RobotCleaner489"
+**2022-10-10** — pushed to [underwindfall/sports_page](https://api.github.com/repos/underwindfall/sports_page): "cherry-pick 3"
 
-**2022-09-12** — pushed to [underwindfall/Algorithme](https://api.github.com/repos/underwindfall/Algorithme): "Restore IP"
+**2022-10-10** — pushed to [underwindfall/sports_page](https://api.github.com/repos/underwindfall/sports_page): "remove useless files"
   <!-- githubActivity ends -->
   </td><td valign="top" width="50%">
 
@@ -46,7 +46,12 @@
   #### 🏊‍♂️ <a href="https://gist.github.com/underwindfall/377ee88ba1fabd1e93516e48ca9c61eb" target="_blank">Weekly Development Breakdown</a>
    <!-- codeTime starts -->
    ```text
-     Java               10 mins  ■■■■■■■■■■■■■■■■ 100.0%
+     JavaScript         22 mins  ■■■■■■■■□□□□□□□□  36.0%
+     YAML               14 mins  ■■■■■▦□□□□□□□□□□  22.5%
+     JSON                9 mins  ■■■■▦□□□□□□□□□□□  15.6%
+     Python              9 mins  ■■■■▥□□□□□□□□□□□  14.4%
+     XML                 3 mins  ■■■◱□□□□□□□□□□□□   6.1%
+     Other               2 mins  ■■▦□□□□□□□□□□□□□   3.6%
    ```
    <!-- codeTime starts -->
    </td>
@@ -56,10 +61,10 @@
 
    <!-- Sports starts -->
    ```text
-     ‍🏃‍♂️ Running       63.28 km ▩▩▩▩▩▩▩▩▩▩▩□  5.49/h
+     ‍🏃‍♂️ Running       67.30 km ▩▩▩▩▩▩▩▩▩▩▩□  5.54/h
      🏊‍♂️ Swimming       0.00 km □□□□□□□□□□□□  0.00/h
      🚴‍♂️ Cycling        4.72 km ▨□□□□□□□□□□□ 14.05/h
-     Last month       12.32 km   2:49h
+     Last month       16.33 km   2:26h
    ```
    <!-- Sports ends -->
    </td></tr></table>
