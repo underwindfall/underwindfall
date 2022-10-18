@@ -6,6 +6,8 @@
 
   #### 📷 Github Activity
   <!-- githubActivity starts -->
+**2022-10-17** — pushed to [underwindfall/sports_page](https://api.github.com/repos/underwindfall/sports_page): "use github bot"
+
 **2022-10-10** — pushed to [underwindfall/sports_page](https://api.github.com/repos/underwindfall/sports_page): "Merge remote-tracking branch 'upstream/master'"
 
 **2022-10-10** — pushed 138 commits to [underwindfall/sports_page](https://api.github.com/repos/underwindfall/sports_page).
@@ -15,8 +17,6 @@
 **2022-10-10** — pushed 137 commits to [underwindfall/sports_page](https://api.github.com/repos/underwindfall/sports_page).
 
 **2022-10-10** — pushed to [underwindfall/sports_page](https://api.github.com/repos/underwindfall/sports_page): "cherry-pick 3"
-
-**2022-10-10** — pushed to [underwindfall/sports_page](https://api.github.com/repos/underwindfall/sports_page): "remove useless files"
   <!-- githubActivity ends -->
   </td><td valign="top" width="50%">
 
@@ -46,12 +46,8 @@
   #### 🏊‍♂️ <a href="https://gist.github.com/underwindfall/377ee88ba1fabd1e93516e48ca9c61eb" target="_blank">Weekly Development Breakdown</a>
    <!-- codeTime starts -->
    ```text
-     JavaScript         22 mins  ■■■■■■■■□□□□□□□□  36.0%
-     YAML               14 mins  ■■■■■▦□□□□□□□□□□  22.5%
-     JSON                9 mins  ■■■■▦□□□□□□□□□□□  15.6%
-     Python              9 mins  ■■■■▥□□□□□□□□□□□  14.4%
-     XML                 3 mins  ■■■◱□□□□□□□□□□□□   6.1%
-     Other               2 mins  ■■▦□□□□□□□□□□□□□   3.6%
+     Java                3 mins  ■■■■■■■■■■■□□□□□  53.8%
+     YAML                2 mins  ■■■■■■■■■▦□□□□□□  46.2%
    ```
    <!-- codeTime starts -->
    </td>
