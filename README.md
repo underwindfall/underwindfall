@@ -1,11 +1,13 @@
  <h2> Hi 👋, I'm Qifan ! </h2>
  <a href="https://github.com/underwindfall/iBeats"><img align="right" width="150px" src="https://raw.githubusercontent.com/underwindfall/iBeats/main/files/heart.svg"/></a>
- <p><em>Software engineer currently work @<a href="https://www.netatmo.com">Netatmo</a></em></p>
+ <p><em>Software engineer currently work @<a href="https://www.bytedance.com/en/">Bytedance</a></em></p>
  <p><a href="https://qifanyang.com/resume" target="_blank"> 🔭 Know more about me</a> This is my personal resume site, I built it for fun.</p>
  <table width="960px"><tr><td valign="top" width="50%">
 
   #### 📷 Github Activity
   <!-- githubActivity starts -->
+**2022-10-23** — pushed to [underwindfall/underwindfall](https://api.github.com/repos/underwindfall/underwindfall): "change company name"
+
 **2022-10-17** — pushed to [underwindfall/sports_page](https://api.github.com/repos/underwindfall/sports_page): "use github bot"
 
 **2022-10-10** — pushed to [underwindfall/sports_page](https://api.github.com/repos/underwindfall/sports_page): "Merge remote-tracking branch 'upstream/master'"
@@ -15,8 +17,6 @@
 **2022-10-10** — pushed 69 commits to [underwindfall/sports_page](https://api.github.com/repos/underwindfall/sports_page).
 
 **2022-10-10** — pushed 137 commits to [underwindfall/sports_page](https://api.github.com/repos/underwindfall/sports_page).
-
-**2022-10-10** — pushed to [underwindfall/sports_page](https://api.github.com/repos/underwindfall/sports_page): "cherry-pick 3"
   <!-- githubActivity ends -->
   </td><td valign="top" width="50%">
 
