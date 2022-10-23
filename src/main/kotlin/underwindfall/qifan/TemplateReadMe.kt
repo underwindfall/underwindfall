@@ -17,7 +17,7 @@ fun createReadMe(githubContent: List<FeedItem>, codeTimeContent: List<FeedItem>,
   return """
   <h2> Hi 👋, I'm Qifan ! </h2>
   <a href="https://github.com/underwindfall/iBeats"><img align="right" width="150px" src="https://raw.githubusercontent.com/underwindfall/iBeats/main/files/heart.svg"/></a>
-  <p><em>Software engineer currently work @<a href="https://www.netatmo.com">Netatmo</a></em></p>
+  <p><em>Software engineer currently work @<a href="https://www.bytedance.com/en/">Bytedance</a></em></p>
   <p><a href="https://qifanyang.com/resume" target="_blank"> 🔭 Know more about me</a> This is my personal resume site, I built it for fun.</p>
   <table width="960px"><tr><td valign="top" width="50%">
 
