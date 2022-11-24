@@ -6,17 +6,17 @@
 
   #### 📷 Github Activity
   <!-- githubActivity starts -->
+**2022-11-24** — pushed 8 commits to [underwindfall/sports_page](https://api.github.com/repos/underwindfall/sports_page).
+
+**2022-11-23** — pushed to [underwindfall/sports_page](https://api.github.com/repos/underwindfall/sports_page): "fix lint check"
+
+**2022-11-23** — pushed 124 commits to [underwindfall/sports_page](https://api.github.com/repos/underwindfall/sports_page).
+
 **2022-11-20** — pushed to [underwindfall/sports_page](https://api.github.com/repos/underwindfall/sports_page): "fix time duration for workout"
 
 **2022-11-20** — pushed to [underwindfall/sports_page](https://api.github.com/repos/underwindfall/sports_page): "fix time duration for workout"
 
 **2022-11-19** — pushed to [underwindfall/sports_page](https://api.github.com/repos/underwindfall/sports_page): "change format"
-
-**2022-11-19** — pushed to [underwindfall/sports_page](https://api.github.com/repos/underwindfall/sports_page): "add workout type"
-
-**2022-10-23** — pushed to [underwindfall/underwindfall](https://api.github.com/repos/underwindfall/underwindfall): "change company name"
-
-**2022-10-17** — pushed to [underwindfall/sports_page](https://api.github.com/repos/underwindfall/sports_page): "use github bot"
   <!-- githubActivity ends -->
   </td><td valign="top" width="50%">
 
@@ -25,15 +25,15 @@
   ```kotlin
   data class underwindfall(
        val pronouns: String = "he|him",
-       val askMeAbout: List<String> = listOf(
+       val askMeAbout = listOf(
          "Kotlin", "Java",
-         "Dart","Javascript", "Typescript"
+         "Swift","Javascript", "Typescript"
        )
-       val toLearn: () -> Unit = {
-         "Flutter" to "For Fun",
-         "Jetpack Compose" to "Future"
+       val toLearn = {
+         "Jetpack Compose" to "Future",
+         "KMM" to "Fun"
        }
-       val dailyLife: Unit = (0..end).reduce { acc, new ->
+       (0..end).reduce { acc, new ->
           study(new)
           coding(new)
           sumUp(acc) + haveFun(new)
@@ -46,12 +46,12 @@
   #### 🏊‍♂️ <a href="https://gist.github.com/underwindfall/377ee88ba1fabd1e93516e48ca9c61eb" target="_blank">Weekly Development Breakdown</a>
    <!-- codeTime starts -->
    ```text
-     Kotlin      29 hrs 10 mins  ■■■■■■■■■■■◱□□□□  56.1%
-     Java        15 hrs 43 mins  ■■■■■■■□□□□□□□□□  30.2%
-     XML          4 hrs 17 mins  ■■■▥□□□□□□□□□□□□   8.3%
-     JavaScript    1 hr 14 mins  ■■▦□□□□□□□□□□□□□   2.4%
-     Gradle             19 mins  ■■◱□□□□□□□□□□□□□   0.6%
-     Text               16 mins  ■■◱□□□□□□□□□□□□□   0.5%
+     Kotlin      31 hrs 56 mins  ■■■■■■■■■■■▦□□□□  59.1%
+     Java        13 hrs 58 mins  ■■■■■■▥□□□□□□□□□  25.9%
+     XML          4 hrs 37 mins  ■■■▦□□□□□□□□□□□□   8.6%
+     JavaScript    1 hr 27 mins  ■■▦□□□□□□□□□□□□□   2.7%
+     Python             23 mins  ■■▥□□□□□□□□□□□□□   0.7%
+     Markdown           19 mins  ■■◱□□□□□□□□□□□□□   0.6%
    ```
    <!-- codeTime starts -->
    </td>
