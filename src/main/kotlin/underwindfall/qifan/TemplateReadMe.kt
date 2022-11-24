@@ -32,15 +32,15 @@ ${githubContent.joinToString("\n\n") { " $it" }}
    ```kotlin
    data class underwindfall(
         val pronouns: String = "he|him",
-        val askMeAbout: List<String> = listOf(
+        val askMeAbout = listOf(
           "Kotlin", "Java",
-          "Dart","Javascript", "Typescript"
+          "Swift","Javascript", "Typescript"
         )
-        val toLearn: () -> Unit = {
-          "Flutter" to "For Fun",
-          "Jetpack Compose" to "Future"
+        val toLearn = {
+          "Jetpack Compose" to "Future",
+          "KMM" to "Fun"
         }
-        val dailyLife: Unit = (0..end).reduce { acc, new ->
+        (0..end).reduce { acc, new ->
            study(new)
            coding(new)
            sumUp(acc) + haveFun(new)
