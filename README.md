@@ -6,6 +6,8 @@
 
   #### 📷 Github Activity
   <!-- githubActivity starts -->
+**2022-11-24** — pushed to [underwindfall/underwindfall](https://api.github.com/repos/underwindfall/underwindfall): "change template"
+
 **2022-11-24** — pushed 8 commits to [underwindfall/sports_page](https://api.github.com/repos/underwindfall/sports_page).
 
 **2022-11-23** — pushed to [underwindfall/sports_page](https://api.github.com/repos/underwindfall/sports_page): "fix lint check"
@@ -15,8 +17,6 @@
 **2022-11-20** — pushed to [underwindfall/sports_page](https://api.github.com/repos/underwindfall/sports_page): "fix time duration for workout"
 
 **2022-11-20** — pushed to [underwindfall/sports_page](https://api.github.com/repos/underwindfall/sports_page): "fix time duration for workout"
-
-**2022-11-19** — pushed to [underwindfall/sports_page](https://api.github.com/repos/underwindfall/sports_page): "change format"
   <!-- githubActivity ends -->
   </td><td valign="top" width="50%">
 
@@ -46,12 +46,12 @@
   #### 🏊‍♂️ <a href="https://gist.github.com/underwindfall/377ee88ba1fabd1e93516e48ca9c61eb" target="_blank">Weekly Development Breakdown</a>
    <!-- codeTime starts -->
    ```text
-     Kotlin      31 hrs 56 mins  ■■■■■■■■■■■▦□□□□  59.1%
-     Java        13 hrs 58 mins  ■■■■■■▥□□□□□□□□□  25.9%
-     XML          4 hrs 37 mins  ■■■▦□□□□□□□□□□□□   8.6%
-     JavaScript    1 hr 27 mins  ■■▦□□□□□□□□□□□□□   2.7%
-     Python             23 mins  ■■▥□□□□□□□□□□□□□   0.7%
-     Markdown           19 mins  ■■◱□□□□□□□□□□□□□   0.6%
+     Kotlin       36 hrs 2 mins  ■■■■■■■■■■■■▦□□□  64.7%
+     Java        11 hrs 45 mins  ■■■■■▦□□□□□□□□□□  21.1%
+     XML          4 hrs 39 mins  ■■■▥□□□□□□□□□□□□   8.4%
+     JavaScript    1 hr 29 mins  ■■▦□□□□□□□□□□□□□   2.7%
+     YAML               26 mins  ■■▥□□□□□□□□□□□□□   0.8%
+     Python             24 mins  ■■▥□□□□□□□□□□□□□   0.7%
    ```
    <!-- codeTime starts -->
    </td>
@@ -64,7 +64,7 @@
      ‍🏃‍♂️ Running       73.56 km ▩▩▩▩▩▩▩▩▩▩▨□  5.60/h
      🏊‍♂️ Swimming       0.00 km □□□□□□□□□□□□  0.00/h
      🚴‍♂️ Cycling        9.50 km ▩◱□□□□□□□□□□ 14.97/h
-     Last month        6.51 km   1:44h
+     Last month        3.22 km   1:31h
    ```
    <!-- Sports ends -->
    </td></tr></table>
