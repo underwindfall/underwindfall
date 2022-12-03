@@ -6,6 +6,8 @@
 
   #### 📷 Github Activity
   <!-- githubActivity starts -->
+**2022-12-02** — created branch "main" on [underwindfall/aoc-2022](https://api.github.com/repos/underwindfall/aoc-2022)
+
 **2022-11-24** — pushed to [underwindfall/underwindfall](https://api.github.com/repos/underwindfall/underwindfall): "change template"
 
 **2022-11-24** — pushed 8 commits to [underwindfall/sports_page](https://api.github.com/repos/underwindfall/sports_page).
@@ -13,8 +15,6 @@
 **2022-11-23** — pushed to [underwindfall/sports_page](https://api.github.com/repos/underwindfall/sports_page): "fix lint check"
 
 **2022-11-23** — pushed 124 commits to [underwindfall/sports_page](https://api.github.com/repos/underwindfall/sports_page).
-
-**2022-11-20** — pushed to [underwindfall/sports_page](https://api.github.com/repos/underwindfall/sports_page): "fix time duration for workout"
 
 **2022-11-20** — pushed to [underwindfall/sports_page](https://api.github.com/repos/underwindfall/sports_page): "fix time duration for workout"
   <!-- githubActivity ends -->
@@ -46,9 +46,9 @@
   #### 🏊‍♂️ <a href="https://gist.github.com/underwindfall/377ee88ba1fabd1e93516e48ca9c61eb" target="_blank">Weekly Development Breakdown</a>
    <!-- codeTime starts -->
    ```text
-     Kotlin      28 hrs 50 mins  ■■■■■■■■■■■■◱□□□  62.9%
-     Java        13 hrs 47 mins  ■■■■■■■□□□□□□□□□  30.1%
-     XML          2 hrs 52 mins  ■■■◱□□□□□□□□□□□□   6.3%
+     Kotlin      30 hrs 13 mins  ■■■■■■■■■■■■■□□□  66.9%
+     Java        12 hrs 32 mins  ■■■■■■▦□□□□□□□□□  27.7%
+     XML           2 hrs 2 mins  ■■■□□□□□□□□□□□□□   4.5%
      Markdown           10 mins  ■■◱□□□□□□□□□□□□□   0.4%
      Shell Script         4 mins  ■■◱□□□□□□□□□□□□□   0.1%
      JSON                3 mins  ■■◱□□□□□□□□□□□□□   0.1%
