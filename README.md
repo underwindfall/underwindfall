@@ -6,17 +6,17 @@
 
   #### 📷 Github Activity
   <!-- githubActivity starts -->
-**2022-12-02** — created branch "main" on [underwindfall/aoc-2022](https://api.github.com/repos/underwindfall/aoc-2022)
+**2022-12-08** — deleted branch "dependabot/npm_and_yarn/minimatch-3.1.2" on [underwindfall/create-release-with-debugapk](https://api.github.com/repos/underwindfall/create-release-with-debugapk)
 
-**2022-11-24** — pushed to [underwindfall/underwindfall](https://api.github.com/repos/underwindfall/underwindfall): "change template"
+**2022-12-08** — pushed to [underwindfall/create-release-with-debugapk](https://api.github.com/repos/underwindfall/create-release-with-debugapk): "Bump minimatch from 3.0.4 to 3.1.2"
 
-**2022-11-24** — pushed 8 commits to [underwindfall/sports_page](https://api.github.com/repos/underwindfall/sports_page).
+**2022-12-08** — closed PR [#16](https://api.github.com/repos/underwindfall/create-release-with-debugapk/pulls/16) to [underwindfall/create-release-with-debugapk](https://api.github.com/repos/underwindfall/create-release-with-debugapk): "Bump minimatch from 3.0.4 to 3.1.2"
 
-**2022-11-23** — pushed to [underwindfall/sports_page](https://api.github.com/repos/underwindfall/sports_page): "fix lint check"
+**2022-12-08** — deleted branch "dependabot/npm_and_yarn/qs-6.5.3" on [underwindfall/create-release-with-debugapk](https://api.github.com/repos/underwindfall/create-release-with-debugapk)
 
-**2022-11-23** — pushed 124 commits to [underwindfall/sports_page](https://api.github.com/repos/underwindfall/sports_page).
+**2022-12-08** — pushed to [underwindfall/create-release-with-debugapk](https://api.github.com/repos/underwindfall/create-release-with-debugapk): "Bump qs from 6.5.2 to 6.5.3"
 
-**2022-11-20** — pushed to [underwindfall/sports_page](https://api.github.com/repos/underwindfall/sports_page): "fix time duration for workout"
+**2022-12-08** — closed PR [#17](https://api.github.com/repos/underwindfall/create-release-with-debugapk/pulls/17) to [underwindfall/create-release-with-debugapk](https://api.github.com/repos/underwindfall/create-release-with-debugapk): "Bump qs from 6.5.2 to 6.5.3"
   <!-- githubActivity ends -->
   </td><td valign="top" width="50%">
 
@@ -46,12 +46,12 @@
   #### 🏊‍♂️ <a href="https://gist.github.com/underwindfall/377ee88ba1fabd1e93516e48ca9c61eb" target="_blank">Weekly Development Breakdown</a>
    <!-- codeTime starts -->
    ```text
-     Kotlin      28 hrs 34 mins  ■■■■■■■■■■■■■■■□  78.8%
-     Java         5 hrs 59 mins  ■■■■■□□□□□□□□□□□  16.5%
-     XML           1 hr 23 mins  ■■■□□□□□□□□□□□□□   3.9%
+     Kotlin      22 hrs 24 mins  ■■■■■■■■■■■■▦□□□  65.8%
+     Java         8 hrs 54 mins  ■■■■■■▥□□□□□□□□□  26.2%
+     XML          2 hrs 33 mins  ■■■▥□□□□□□□□□□□□   7.5%
      Properties          5 mins  ■■◱□□□□□□□□□□□□□   0.3%
-     Shell Script         3 mins  ■■◱□□□□□□□□□□□□□   0.2%
-     Markdown            3 mins  ■■◱□□□□□□□□□□□□□   0.1%
+     Markdown            3 mins  ■■◱□□□□□□□□□□□□□   0.2%
+     protobuf             1 min  ■■◱□□□□□□□□□□□□□   0.1%
    ```
    <!-- codeTime starts -->
    </td>
