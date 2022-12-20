@@ -6,6 +6,8 @@
 
   #### 📷 Github Activity
   <!-- githubActivity starts -->
+**2022-12-19** — pushed to [underwindfall/aoc-2022](https://api.github.com/repos/underwindfall/aoc-2022): "aoc 18"
+
 **2022-12-18** — pushed to [underwindfall/aoc-2022](https://api.github.com/repos/underwindfall/aoc-2022): "aoc 17"
 
 **2022-12-17** — pushed 2 commits to [underwindfall/aoc-2022](https://api.github.com/repos/underwindfall/aoc-2022).
@@ -15,8 +17,6 @@
 **2022-12-08** — pushed to [underwindfall/create-release-with-debugapk](https://api.github.com/repos/underwindfall/create-release-with-debugapk): "Bump minimatch from 3.0.4 to 3.1.2"
 
 **2022-12-08** — closed PR [#16](https://api.github.com/repos/underwindfall/create-release-with-debugapk/pulls/16) to [underwindfall/create-release-with-debugapk](https://api.github.com/repos/underwindfall/create-release-with-debugapk): "Bump minimatch from 3.0.4 to 3.1.2"
-
-**2022-12-08** — deleted branch "dependabot/npm_and_yarn/qs-6.5.3" on [underwindfall/create-release-with-debugapk](https://api.github.com/repos/underwindfall/create-release-with-debugapk)
   <!-- githubActivity ends -->
   </td><td valign="top" width="50%">
 
@@ -46,11 +46,11 @@
   #### 🏊‍♂️ <a href="https://gist.github.com/underwindfall/377ee88ba1fabd1e93516e48ca9c61eb" target="_blank">Weekly Development Breakdown</a>
    <!-- codeTime starts -->
    ```text
-     Kotlin      27 hrs 54 mins  ■■■■■■■■■■■■■■◱□  75.3%
-     Java         5 hrs 25 mins  ■■■■▥□□□□□□□□□□□  14.6%
-     XML          2 hrs 47 mins  ■■■▥□□□□□□□□□□□□   7.5%
-     Gradle             25 mins  ■■▥□□□□□□□□□□□□□   1.1%
-     Groovy             18 mins  ■■▥□□□□□□□□□□□□□   0.8%
+     Kotlin      26 hrs 17 mins  ■■■■■■■■■■■■■■□□  73.8%
+     Java         5 hrs 49 mins  ■■■■■□□□□□□□□□□□  16.3%
+     XML          2 hrs 26 mins  ■■■◱□□□□□□□□□□□□   6.9%
+     Gradle             28 mins  ■■▥□□□□□□□□□□□□□   1.3%
+     Groovy             23 mins  ■■▥□□□□□□□□□□□□□   1.1%
      Text               10 mins  ■■◱□□□□□□□□□□□□□   0.5%
    ```
    <!-- codeTime starts -->
