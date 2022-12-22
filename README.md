@@ -6,6 +6,10 @@
 
   #### 📷 Github Activity
   <!-- githubActivity starts -->
+**2022-12-21** — pushed 102 commits to [underwindfall/sports_page](https://api.github.com/repos/underwindfall/sports_page).
+
+**2022-12-21** — pushed to [underwindfall/aoc-2022](https://api.github.com/repos/underwindfall/aoc-2022): "aoc 19 + aoc 20"
+
 **2022-12-19** — pushed to [underwindfall/aoc-2022](https://api.github.com/repos/underwindfall/aoc-2022): "aoc 18"
 
 **2022-12-18** — pushed to [underwindfall/aoc-2022](https://api.github.com/repos/underwindfall/aoc-2022): "aoc 17"
@@ -13,10 +17,6 @@
 **2022-12-17** — pushed 2 commits to [underwindfall/aoc-2022](https://api.github.com/repos/underwindfall/aoc-2022).
 
 **2022-12-08** — deleted branch "dependabot/npm_and_yarn/minimatch-3.1.2" on [underwindfall/create-release-with-debugapk](https://api.github.com/repos/underwindfall/create-release-with-debugapk)
-
-**2022-12-08** — pushed to [underwindfall/create-release-with-debugapk](https://api.github.com/repos/underwindfall/create-release-with-debugapk): "Bump minimatch from 3.0.4 to 3.1.2"
-
-**2022-12-08** — closed PR [#16](https://api.github.com/repos/underwindfall/create-release-with-debugapk/pulls/16) to [underwindfall/create-release-with-debugapk](https://api.github.com/repos/underwindfall/create-release-with-debugapk): "Bump minimatch from 3.0.4 to 3.1.2"
   <!-- githubActivity ends -->
   </td><td valign="top" width="50%">
 
@@ -46,10 +46,10 @@
   #### 🏊‍♂️ <a href="https://gist.github.com/underwindfall/377ee88ba1fabd1e93516e48ca9c61eb" target="_blank">Weekly Development Breakdown</a>
    <!-- codeTime starts -->
    ```text
-     Kotlin      22 hrs 39 mins  ■■■■■■■■■■■■■▦□□  72.3%
-     Java         5 hrs 20 mins  ■■■■■□□□□□□□□□□□  17.1%
-     XML          2 hrs 12 mins  ■■■▥□□□□□□□□□□□□   7.0%
-     Gradle             28 mins  ■■▥□□□□□□□□□□□□□   1.5%
+     Kotlin      24 hrs 15 mins  ■■■■■■■■■■■■■■◱□  74.4%
+     Java          5 hrs 2 mins  ■■■■▦□□□□□□□□□□□  15.5%
+     XML           2 hrs 2 mins  ■■■◱□□□□□□□□□□□□   6.3%
+     Gradle             26 mins  ■■▥□□□□□□□□□□□□□   1.4%
      Groovy             23 mins  ■■▥□□□□□□□□□□□□□   1.2%
      Text               10 mins  ■■◱□□□□□□□□□□□□□   0.5%
    ```
