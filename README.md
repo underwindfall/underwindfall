@@ -6,6 +6,8 @@
 
   #### 📷 Github Activity
   <!-- githubActivity starts -->
+**2022-12-22** — pushed to [underwindfall/aoc-2022](https://api.github.com/repos/underwindfall/aoc-2022): "aoc 21"
+
 **2022-12-21** — pushed 102 commits to [underwindfall/sports_page](https://api.github.com/repos/underwindfall/sports_page).
 
 **2022-12-21** — pushed to [underwindfall/aoc-2022](https://api.github.com/repos/underwindfall/aoc-2022): "aoc 19 + aoc 20"
@@ -15,8 +17,6 @@
 **2022-12-18** — pushed to [underwindfall/aoc-2022](https://api.github.com/repos/underwindfall/aoc-2022): "aoc 17"
 
 **2022-12-17** — pushed 2 commits to [underwindfall/aoc-2022](https://api.github.com/repos/underwindfall/aoc-2022).
-
-**2022-12-08** — deleted branch "dependabot/npm_and_yarn/minimatch-3.1.2" on [underwindfall/create-release-with-debugapk](https://api.github.com/repos/underwindfall/create-release-with-debugapk)
   <!-- githubActivity ends -->
   </td><td valign="top" width="50%">
 
@@ -46,12 +46,12 @@
   #### 🏊‍♂️ <a href="https://gist.github.com/underwindfall/377ee88ba1fabd1e93516e48ca9c61eb" target="_blank">Weekly Development Breakdown</a>
    <!-- codeTime starts -->
    ```text
-     Kotlin      24 hrs 15 mins  ■■■■■■■■■■■■■■◱□  74.4%
-     Java          5 hrs 2 mins  ■■■■▦□□□□□□□□□□□  15.5%
-     XML           2 hrs 2 mins  ■■■◱□□□□□□□□□□□□   6.3%
-     Gradle             26 mins  ■■▥□□□□□□□□□□□□□   1.4%
-     Groovy             23 mins  ■■▥□□□□□□□□□□□□□   1.2%
-     Text               10 mins  ■■◱□□□□□□□□□□□□□   0.5%
+     Kotlin      24 hrs 32 mins  ■■■■■■■■■■■■■■◱□  75.5%
+     Java         4 hrs 46 mins  ■■■■▦□□□□□□□□□□□  14.7%
+     XML           1 hr 33 mins  ■■■□□□□□□□□□□□□□   4.8%
+     Gradle             34 mins  ■■▥□□□□□□□□□□□□□   1.8%
+     Groovy             24 mins  ■■▥□□□□□□□□□□□□□   1.2%
+     Markdown           19 mins  ■■▥□□□□□□□□□□□□□   1.0%
    ```
    <!-- codeTime starts -->
    </td>
