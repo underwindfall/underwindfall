@@ -6,6 +6,10 @@
 
   #### 📷 Github Activity
   <!-- githubActivity starts -->
+**2022-12-25** — pushed to [underwindfall/aoc-2022](https://api.github.com/repos/underwindfall/aoc-2022): "merry xmas"
+
+**2022-12-25** — pushed to [underwindfall/aoc-2022](https://api.github.com/repos/underwindfall/aoc-2022): "aco 24"
+
 **2022-12-23** — pushed to [underwindfall/aoc-2022](https://api.github.com/repos/underwindfall/aoc-2022): "aoc 23"
 
 **2022-12-23** — pushed to [underwindfall/aoc-2022](https://api.github.com/repos/underwindfall/aoc-2022): "Create Day22.kt"
@@ -13,10 +17,6 @@
 **2022-12-22** — pushed to [underwindfall/aoc-2022](https://api.github.com/repos/underwindfall/aoc-2022): "aoc 21"
 
 **2022-12-21** — pushed 102 commits to [underwindfall/sports_page](https://api.github.com/repos/underwindfall/sports_page).
-
-**2022-12-21** — pushed to [underwindfall/aoc-2022](https://api.github.com/repos/underwindfall/aoc-2022): "aoc 19 + aoc 20"
-
-**2022-12-19** — pushed to [underwindfall/aoc-2022](https://api.github.com/repos/underwindfall/aoc-2022): "aoc 18"
   <!-- githubActivity ends -->
   </td><td valign="top" width="50%">
 
@@ -46,12 +46,12 @@
   #### 🏊‍♂️ <a href="https://gist.github.com/underwindfall/377ee88ba1fabd1e93516e48ca9c61eb" target="_blank">Weekly Development Breakdown</a>
    <!-- codeTime starts -->
    ```text
-     Kotlin       32 hrs 9 mins  ■■■■■■■■■■■■■■■▦  84.2%
-     Java         3 hrs 51 mins  ■■■■□□□□□□□□□□□□  10.1%
-     XML                41 mins  ■■▥□□□□□□□□□□□□□   1.8%
-     Gradle             34 mins  ■■▥□□□□□□□□□□□□□   1.5%
-     Groovy             24 mins  ■■▥□□□□□□□□□□□□□   1.1%
-     Markdown           19 mins  ■■▥□□□□□□□□□□□□□   0.8%
+     Kotlin      29 hrs 14 mins  ■■■■■■■■■■■■■■■■  89.4%
+     Java         2 hrs 34 mins  ■■■▥□□□□□□□□□□□□   7.9%
+     Markdown           18 mins  ■■▥□□□□□□□□□□□□□   0.9%
+     Gradle             12 mins  ■■◱□□□□□□□□□□□□□   0.6%
+     XML                 7 mins  ■■◱□□□□□□□□□□□□□   0.4%
+     Groovy              6 mins  ■■◱□□□□□□□□□□□□□   0.3%
    ```
    <!-- codeTime starts -->
    </td>
