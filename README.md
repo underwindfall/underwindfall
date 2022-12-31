@@ -6,6 +6,8 @@
 
   #### 📷 Github Activity
   <!-- githubActivity starts -->
+**2022-12-30** — pushed 4 commits to [underwindfall/sports_page](https://api.github.com/repos/underwindfall/sports_page).
+
 **2022-12-25** — pushed to [underwindfall/aoc-2022](https://api.github.com/repos/underwindfall/aoc-2022): "merry xmas"
 
 **2022-12-25** — pushed to [underwindfall/aoc-2022](https://api.github.com/repos/underwindfall/aoc-2022): "aco 24"
@@ -15,8 +17,6 @@
 **2022-12-23** — pushed to [underwindfall/aoc-2022](https://api.github.com/repos/underwindfall/aoc-2022): "Create Day22.kt"
 
 **2022-12-22** — pushed to [underwindfall/aoc-2022](https://api.github.com/repos/underwindfall/aoc-2022): "aoc 21"
-
-**2022-12-21** — pushed 102 commits to [underwindfall/sports_page](https://api.github.com/repos/underwindfall/sports_page).
   <!-- githubActivity ends -->
   </td><td valign="top" width="50%">
 
@@ -46,12 +46,12 @@
   #### 🏊‍♂️ <a href="https://gist.github.com/underwindfall/377ee88ba1fabd1e93516e48ca9c61eb" target="_blank">Weekly Development Breakdown</a>
    <!-- codeTime starts -->
    ```text
-     Kotlin        17 hrs 1 min  ■■■■■■■■■■■■■■■□  79.5%
-     XML          2 hrs 35 mins  ■■■■◱□□□□□□□□□□□  12.1%
-     Java          1 hr 46 mins  ■■■▥□□□□□□□□□□□□   8.3%
-     Properties           1 min  ■■◱□□□□□□□□□□□□□   0.1%
-     JSON                0 secs  ■■◱□□□□□□□□□□□□□   0.0%
-     Groovy              0 secs  ■■◱□□□□□□□□□□□□□   0.0%
+     Kotlin        11 hrs 1 min  ■■■■■■■■■■■▥□□□□  58.0%
+     XML          5 hrs 30 mins  ■■■■■■■□□□□□□□□□  28.9%
+     Java          1 hr 58 mins  ■■■■□□□□□□□□□□□□  10.4%
+     Properties         11 mins  ■■▥□□□□□□□□□□□□□   1.0%
+     Groovy             10 mins  ■■▥□□□□□□□□□□□□□   0.9%
+     Markdown            5 mins  ■■◱□□□□□□□□□□□□□   0.4%
    ```
    <!-- codeTime starts -->
    </td>
