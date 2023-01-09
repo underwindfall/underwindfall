@@ -6,17 +6,17 @@
 
   #### 📷 Github Activity
   <!-- githubActivity starts -->
+**2023-01-08** — deleted branch "dependabot/npm_and_yarn/json5-2.2.3" on [underwindfall/create-release-with-debugapk](https://api.github.com/repos/underwindfall/create-release-with-debugapk)
+
+**2023-01-08** — pushed to [underwindfall/create-release-with-debugapk](https://api.github.com/repos/underwindfall/create-release-with-debugapk): "Bump json5 from 2.1.2 to 2.2.3"
+
+**2023-01-08** — closed PR [#18](https://api.github.com/repos/underwindfall/create-release-with-debugapk/pulls/18) to [underwindfall/create-release-with-debugapk](https://api.github.com/repos/underwindfall/create-release-with-debugapk): "Bump json5 from 2.1.2 to 2.2.3"
+
 **2022-12-30** — pushed 4 commits to [underwindfall/sports_page](https://api.github.com/repos/underwindfall/sports_page).
 
 **2022-12-25** — pushed to [underwindfall/aoc-2022](https://api.github.com/repos/underwindfall/aoc-2022): "merry xmas"
 
 **2022-12-25** — pushed to [underwindfall/aoc-2022](https://api.github.com/repos/underwindfall/aoc-2022): "aco 24"
-
-**2022-12-23** — pushed to [underwindfall/aoc-2022](https://api.github.com/repos/underwindfall/aoc-2022): "aoc 23"
-
-**2022-12-23** — pushed to [underwindfall/aoc-2022](https://api.github.com/repos/underwindfall/aoc-2022): "Create Day22.kt"
-
-**2022-12-22** — pushed to [underwindfall/aoc-2022](https://api.github.com/repos/underwindfall/aoc-2022): "aoc 21"
   <!-- githubActivity ends -->
   </td><td valign="top" width="50%">
 
@@ -46,9 +46,9 @@
   #### 🏊‍♂️ <a href="https://gist.github.com/underwindfall/377ee88ba1fabd1e93516e48ca9c61eb" target="_blank">Weekly Development Breakdown</a>
    <!-- codeTime starts -->
    ```text
-     Kotlin      32 hrs 58 mins  ■■■■■■■■■■■■■■■■  85.5%
-     Java         2 hrs 59 mins  ■■■▥□□□□□□□□□□□□   7.8%
-     XML          2 hrs 14 mins  ■■■◱□□□□□□□□□□□□   5.8%
+     Kotlin      33 hrs 26 mins  ■■■■■■■■■■■■■■■▦  84.0%
+     Java         3 hrs 39 mins  ■■■▦□□□□□□□□□□□□   9.2%
+     XML          2 hrs 21 mins  ■■■◱□□□□□□□□□□□□   5.9%
      Gradle              8 mins  ■■◱□□□□□□□□□□□□□   0.4%
      Markdown            3 mins  ■■◱□□□□□□□□□□□□□   0.2%
      Groovy              3 mins  ■■◱□□□□□□□□□□□□□   0.1%
