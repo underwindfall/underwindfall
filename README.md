@@ -6,6 +6,8 @@
 
   #### 📷 Github Activity
   <!-- githubActivity starts -->
+**2023-01-19** — pushed 9 commits to [underwindfall/sports_page](https://api.github.com/repos/underwindfall/sports_page).
+
 **2023-01-16** — pushed 2 commits to [underwindfall/sports_page](https://api.github.com/repos/underwindfall/sports_page).
 
 **2023-01-08** — deleted branch "dependabot/npm_and_yarn/json5-2.2.3" on [underwindfall/create-release-with-debugapk](https://api.github.com/repos/underwindfall/create-release-with-debugapk)
@@ -15,8 +17,6 @@
 **2023-01-08** — closed PR [#18](https://api.github.com/repos/underwindfall/create-release-with-debugapk/pulls/18) to [underwindfall/create-release-with-debugapk](https://api.github.com/repos/underwindfall/create-release-with-debugapk): "Bump json5 from 2.1.2 to 2.2.3"
 
 **2022-12-30** — pushed 4 commits to [underwindfall/sports_page](https://api.github.com/repos/underwindfall/sports_page).
-
-**2022-12-25** — pushed to [underwindfall/aoc-2022](https://api.github.com/repos/underwindfall/aoc-2022): "merry xmas"
   <!-- githubActivity ends -->
   </td><td valign="top" width="50%">
 
@@ -46,10 +46,10 @@
   #### 🏊‍♂️ <a href="https://gist.github.com/underwindfall/377ee88ba1fabd1e93516e48ca9c61eb" target="_blank">Weekly Development Breakdown</a>
    <!-- codeTime starts -->
    ```text
-     Kotlin      45 hrs 42 mins  ■■■■■■■■■■■■■■■■  85.5%
-     Java         5 hrs 33 mins  ■■■■□□□□□□□□□□□□  10.4%
-     XML           1 hr 38 mins  ■■▦□□□□□□□□□□□□□   3.1%
-     Text               20 mins  ■■▥□□□□□□□□□□□□□   0.6%
+     Kotlin      42 hrs 35 mins  ■■■■■■■■■■■■■■■▦  84.6%
+     Java         5 hrs 21 mins  ■■■■□□□□□□□□□□□□  10.6%
+     XML           1 hr 51 mins  ■■▦□□□□□□□□□□□□□   3.7%
+     Text               20 mins  ■■▥□□□□□□□□□□□□□   0.7%
      protobuf            7 mins  ■■◱□□□□□□□□□□□□□   0.2%
      JSON                 1 min  ■■◱□□□□□□□□□□□□□   0.1%
    ```
