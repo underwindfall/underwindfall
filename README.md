@@ -6,6 +6,10 @@
 
   #### 📷 Github Activity
   <!-- githubActivity starts -->
+**2023-01-26** — pushed to [underwindfall/iBeats](https://api.github.com/repos/underwindfall/iBeats): "upgrade 3.10.9"
+
+**2023-01-26** — pushed to [underwindfall/iBeats](https://api.github.com/repos/underwindfall/iBeats): "Update replace_readme.yml"
+
 **2023-01-19** — pushed 9 commits to [underwindfall/sports_page](https://api.github.com/repos/underwindfall/sports_page).
 
 **2023-01-16** — pushed 2 commits to [underwindfall/sports_page](https://api.github.com/repos/underwindfall/sports_page).
@@ -13,10 +17,6 @@
 **2023-01-08** — deleted branch "dependabot/npm_and_yarn/json5-2.2.3" on [underwindfall/create-release-with-debugapk](https://api.github.com/repos/underwindfall/create-release-with-debugapk)
 
 **2023-01-08** — pushed to [underwindfall/create-release-with-debugapk](https://api.github.com/repos/underwindfall/create-release-with-debugapk): "Bump json5 from 2.1.2 to 2.2.3"
-
-**2023-01-08** — closed PR [#18](https://api.github.com/repos/underwindfall/create-release-with-debugapk/pulls/18) to [underwindfall/create-release-with-debugapk](https://api.github.com/repos/underwindfall/create-release-with-debugapk): "Bump json5 from 2.1.2 to 2.2.3"
-
-**2022-12-30** — pushed 4 commits to [underwindfall/sports_page](https://api.github.com/repos/underwindfall/sports_page).
   <!-- githubActivity ends -->
   </td><td valign="top" width="50%">
 
@@ -46,12 +46,12 @@
   #### 🏊‍♂️ <a href="https://gist.github.com/underwindfall/377ee88ba1fabd1e93516e48ca9c61eb" target="_blank">Weekly Development Breakdown</a>
    <!-- codeTime starts -->
    ```text
-     Kotlin      18 hrs 58 mins  ■■■■■■■■■■■■■■■■  91.2%
-     XML            1 hr 9 mins  ■■■◱□□□□□□□□□□□□   5.5%
-     Java               38 mins  ■■▦□□□□□□□□□□□□□   3.1%
-     Markdown            2 mins  ■■◱□□□□□□□□□□□□□   0.2%
+     Kotlin       23 hrs 8 mins  ■■■■■■■■■■■■■■■■  95.4%
+     XML                48 mins  ■■▦□□□□□□□□□□□□□   3.4%
+     Markdown            7 mins  ■■◱□□□□□□□□□□□□□   0.5%
+     Java                7 mins  ■■◱□□□□□□□□□□□□□   0.5%
+     YAML                2 mins  ■■◱□□□□□□□□□□□□□   0.1%
      Gradle              0 secs  ■■◱□□□□□□□□□□□□□   0.0%
-     Properties          0 secs  ■■◱□□□□□□□□□□□□□   0.0%
    ```
    <!-- codeTime starts -->
    </td>
