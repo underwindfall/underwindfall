@@ -6,6 +6,10 @@
 
   #### 📷 Github Activity
   <!-- githubActivity starts -->
+**2023-02-09** — pushed to [underwindfall/sports_page](https://api.github.com/repos/underwindfall/sports_page): "Merge remote-tracking branch 'upstream/master'"
+
+**2023-02-09** — pushed 27 commits to [underwindfall/sports_page](https://api.github.com/repos/underwindfall/sports_page).
+
 **2023-01-27** — pushed to [underwindfall/GitHubPoster](https://api.github.com/repos/underwindfall/GitHubPoster): "Update run_poster_generate.yml"
 
 **2023-01-27** — pushed to [underwindfall/GitHubPoster](https://api.github.com/repos/underwindfall/GitHubPoster): "run poster"
@@ -13,10 +17,6 @@
 **2023-01-26** — pushed to [underwindfall/iBeats](https://api.github.com/repos/underwindfall/iBeats): "upgrade 3.10.9"
 
 **2023-01-26** — pushed to [underwindfall/iBeats](https://api.github.com/repos/underwindfall/iBeats): "Update replace_readme.yml"
-
-**2023-01-19** — pushed 9 commits to [underwindfall/sports_page](https://api.github.com/repos/underwindfall/sports_page).
-
-**2023-01-16** — pushed 2 commits to [underwindfall/sports_page](https://api.github.com/repos/underwindfall/sports_page).
   <!-- githubActivity ends -->
   </td><td valign="top" width="50%">
 
@@ -46,12 +46,12 @@
   #### 🏊‍♂️ <a href="https://gist.github.com/underwindfall/377ee88ba1fabd1e93516e48ca9c61eb" target="_blank">Weekly Development Breakdown</a>
    <!-- codeTime starts -->
    ```text
-     Kotlin      53 hrs 22 mins  ■■■■■■■■■■■■■■■■  90.2%
-     Java         3 hrs 34 mins  ■■■◱□□□□□□□□□□□□   6.0%
-     XML           2 hrs 4 mins  ■■▦□□□□□□□□□□□□□   3.5%
+     Kotlin      53 hrs 17 mins  ■■■■■■■■■■■■■■■■  87.7%
+     Java         4 hrs 32 mins  ■■■▥□□□□□□□□□□□□   7.5%
+     XML          2 hrs 12 mins  ■■▦□□□□□□□□□□□□□   3.6%
+     Text               27 mins  ■■▥□□□□□□□□□□□□□   0.8%
      Markdown            6 mins  ■■◱□□□□□□□□□□□□□   0.2%
-     Gradle               1 min  ■■◱□□□□□□□□□□□□□   0.0%
-     Text                0 secs  ■■◱□□□□□□□□□□□□□   0.0%
+     JavaScript          5 mins  ■■◱□□□□□□□□□□□□□   0.1%
    ```
    <!-- codeTime starts -->
    </td>
