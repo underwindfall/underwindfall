@@ -6,6 +6,8 @@
 
   #### 📷 Github Activity
   <!-- githubActivity starts -->
+**2023-02-10** — pushed to [underwindfall/sports_page](https://api.github.com/repos/underwindfall/sports_page): "add workout count"
+
 **2023-02-09** — pushed to [underwindfall/sports_page](https://api.github.com/repos/underwindfall/sports_page): "Merge remote-tracking branch 'upstream/master'"
 
 **2023-02-09** — pushed 27 commits to [underwindfall/sports_page](https://api.github.com/repos/underwindfall/sports_page).
@@ -15,8 +17,6 @@
 **2023-01-27** — pushed to [underwindfall/GitHubPoster](https://api.github.com/repos/underwindfall/GitHubPoster): "run poster"
 
 **2023-01-26** — pushed to [underwindfall/iBeats](https://api.github.com/repos/underwindfall/iBeats): "upgrade 3.10.9"
-
-**2023-01-26** — pushed to [underwindfall/iBeats](https://api.github.com/repos/underwindfall/iBeats): "Update replace_readme.yml"
   <!-- githubActivity ends -->
   </td><td valign="top" width="50%">
 
@@ -46,12 +46,12 @@
   #### 🏊‍♂️ <a href="https://gist.github.com/underwindfall/377ee88ba1fabd1e93516e48ca9c61eb" target="_blank">Weekly Development Breakdown</a>
    <!-- codeTime starts -->
    ```text
-     Kotlin      53 hrs 17 mins  ■■■■■■■■■■■■■■■■  87.7%
-     Java         4 hrs 32 mins  ■■■▥□□□□□□□□□□□□   7.5%
-     XML          2 hrs 12 mins  ■■▦□□□□□□□□□□□□□   3.6%
+     Kotlin      51 hrs 43 mins  ■■■■■■■■■■■■■■■■  86.4%
+     Java         4 hrs 50 mins  ■■■▥□□□□□□□□□□□□   8.1%
+     XML          2 hrs 11 mins  ■■▦□□□□□□□□□□□□□   3.6%
      Text               27 mins  ■■▥□□□□□□□□□□□□□   0.8%
-     Markdown            6 mins  ■■◱□□□□□□□□□□□□□   0.2%
-     JavaScript          5 mins  ■■◱□□□□□□□□□□□□□   0.1%
+     JavaScript         18 mins  ■■◱□□□□□□□□□□□□□   0.5%
+     JSON               10 mins  ■■◱□□□□□□□□□□□□□   0.3%
    ```
    <!-- codeTime starts -->
    </td>
