@@ -6,6 +6,10 @@
 
   #### 📷 Github Activity
   <!-- githubActivity starts -->
+**2023-04-16** — pushed 2 commits to [underwindfall/NFCAndroid](https://api.github.com/repos/underwindfall/NFCAndroid).
+
+**2023-04-16** — closed PR [#6](https://api.github.com/repos/underwindfall/NFCAndroid/pulls/6) to [underwindfall/NFCAndroid](https://api.github.com/repos/underwindfall/NFCAndroid): "Android >=12 fixes for card emulation and some code clean up"
+
 **2023-02-10** — pushed to [underwindfall/sports_page](https://api.github.com/repos/underwindfall/sports_page): "add workout count"
 
 **2023-02-09** — pushed to [underwindfall/sports_page](https://api.github.com/repos/underwindfall/sports_page): "Merge remote-tracking branch 'upstream/master'"
@@ -13,10 +17,6 @@
 **2023-02-09** — pushed 27 commits to [underwindfall/sports_page](https://api.github.com/repos/underwindfall/sports_page).
 
 **2023-01-27** — pushed to [underwindfall/GitHubPoster](https://api.github.com/repos/underwindfall/GitHubPoster): "Update run_poster_generate.yml"
-
-**2023-01-27** — pushed to [underwindfall/GitHubPoster](https://api.github.com/repos/underwindfall/GitHubPoster): "run poster"
-
-**2023-01-26** — pushed to [underwindfall/iBeats](https://api.github.com/repos/underwindfall/iBeats): "upgrade 3.10.9"
   <!-- githubActivity ends -->
   </td><td valign="top" width="50%">
 
@@ -46,12 +46,12 @@
   #### 🏊‍♂️ <a href="https://gist.github.com/underwindfall/377ee88ba1fabd1e93516e48ca9c61eb" target="_blank">Weekly Development Breakdown</a>
    <!-- codeTime starts -->
    ```text
-     Kotlin      53 hrs 27 mins  ■■■■■■■■■■■■■■■■  97.6%
+     Kotlin      51 hrs 46 mins  ■■■■■■■■■■■■■■■■  94.5%
+     Python        1 hr 16 mins  ■■▦□□□□□□□□□□□□□   2.3%
      Java            1 hr 1 min  ■■▥□□□□□□□□□□□□□   1.9%
+     XML                23 mins  ■■▥□□□□□□□□□□□□□   0.7%
      YAML               11 mins  ■■◱□□□□□□□□□□□□□   0.3%
-     JSON                3 mins  ■■◱□□□□□□□□□□□□□   0.1%
-     XML                 2 mins  ■■◱□□□□□□□□□□□□□   0.1%
-     Protocol Buffer         0 secs  ■■◱□□□□□□□□□□□□□   0.0%
+     JavaScript          6 mins  ■■◱□□□□□□□□□□□□□   0.2%
    ```
    <!-- codeTime starts -->
    </td>
