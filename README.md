@@ -15,8 +15,6 @@
 **2023-02-09** — pushed to [underwindfall/sports_page](https://api.github.com/repos/underwindfall/sports_page): "Merge remote-tracking branch 'upstream/master'"
 
 **2023-02-09** — pushed 27 commits to [underwindfall/sports_page](https://api.github.com/repos/underwindfall/sports_page).
-
-**2023-01-27** — pushed to [underwindfall/GitHubPoster](https://api.github.com/repos/underwindfall/GitHubPoster): "Update run_poster_generate.yml"
   <!-- githubActivity ends -->
   </td><td valign="top" width="50%">
 
@@ -46,12 +44,12 @@
   #### 🏊‍♂️ <a href="https://gist.github.com/underwindfall/377ee88ba1fabd1e93516e48ca9c61eb" target="_blank">Weekly Development Breakdown</a>
    <!-- codeTime starts -->
    ```text
-     Kotlin      34 hrs 14 mins  ■■■■■■■■■■■■■■■■  85.8%
-     Java         3 hrs 17 mins  ■■■▥□□□□□□□□□□□□   8.2%
-     XML           1 hr 26 mins  ■■▦□□□□□□□□□□□□□   3.6%
-     Python             52 mins  ■■▦□□□□□□□□□□□□□   2.2%
+     Kotlin      35 hrs 41 mins  ■■■■■■■■■■■■■■■▦  83.5%
+     Java         4 hrs 34 mins  ■■■■□□□□□□□□□□□□  10.7%
+     XML           2 hrs 4 mins  ■■■□□□□□□□□□□□□□   4.8%
+     Python             17 mins  ■■▥□□□□□□□□□□□□□   0.7%
+     Text                4 mins  ■■◱□□□□□□□□□□□□□   0.2%
      Markdown             1 min  ■■◱□□□□□□□□□□□□□   0.1%
-     YAML                0 secs  ■■◱□□□□□□□□□□□□□   0.0%
    ```
    <!-- codeTime starts -->
    </td>
