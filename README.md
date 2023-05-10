@@ -11,10 +11,6 @@
 **2023-04-16** — closed PR [#6](https://api.github.com/repos/underwindfall/NFCAndroid/pulls/6) to [underwindfall/NFCAndroid](https://api.github.com/repos/underwindfall/NFCAndroid): "Android >=12 fixes for card emulation and some code clean up"
 
 **2023-02-10** — pushed to [underwindfall/sports_page](https://api.github.com/repos/underwindfall/sports_page): "add workout count"
-
-**2023-02-09** — pushed to [underwindfall/sports_page](https://api.github.com/repos/underwindfall/sports_page): "Merge remote-tracking branch 'upstream/master'"
-
-**2023-02-09** — pushed 27 commits to [underwindfall/sports_page](https://api.github.com/repos/underwindfall/sports_page).
   <!-- githubActivity ends -->
   </td><td valign="top" width="50%">
 
@@ -44,12 +40,12 @@
   #### 🏊‍♂️ <a href="https://gist.github.com/underwindfall/377ee88ba1fabd1e93516e48ca9c61eb" target="_blank">Weekly Development Breakdown</a>
    <!-- codeTime starts -->
    ```text
-     Kotlin      24 hrs 30 mins  ■■■■■■■■■■■■■■■■  92.0%
-     Java          1 hr 43 mins  ■■■◱□□□□□□□□□□□□   6.5%
-     XML                 8 mins  ■■◱□□□□□□□□□□□□□   0.5%
-     Text                7 mins  ■■◱□□□□□□□□□□□□□   0.4%
+     Kotlin      28 hrs 46 mins  ■■■■■■■■■■■■■■■■  88.8%
+     Java          3 hrs 5 mins  ■■■▦□□□□□□□□□□□□   9.6%
+     XML                16 mins  ■■▥□□□□□□□□□□□□□   0.8%
+     Text                5 mins  ■■◱□□□□□□□□□□□□□   0.3%
      Properties          3 mins  ■■◱□□□□□□□□□□□□□   0.2%
-     protobuf            2 mins  ■■◱□□□□□□□□□□□□□   0.2%
+     protobuf            2 mins  ■■◱□□□□□□□□□□□□□   0.1%
    ```
    <!-- codeTime starts -->
    </td>
