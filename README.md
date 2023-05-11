@@ -9,8 +9,6 @@
 **2023-04-16** — pushed 2 commits to [underwindfall/NFCAndroid](https://api.github.com/repos/underwindfall/NFCAndroid).
 
 **2023-04-16** — closed PR [#6](https://api.github.com/repos/underwindfall/NFCAndroid/pulls/6) to [underwindfall/NFCAndroid](https://api.github.com/repos/underwindfall/NFCAndroid): "Android >=12 fixes for card emulation and some code clean up"
-
-**2023-02-10** — pushed to [underwindfall/sports_page](https://api.github.com/repos/underwindfall/sports_page): "add workout count"
   <!-- githubActivity ends -->
   </td><td valign="top" width="50%">
 
@@ -40,11 +38,11 @@
   #### 🏊‍♂️ <a href="https://gist.github.com/underwindfall/377ee88ba1fabd1e93516e48ca9c61eb" target="_blank">Weekly Development Breakdown</a>
    <!-- codeTime starts -->
    ```text
-     Kotlin      28 hrs 46 mins  ■■■■■■■■■■■■■■■■  88.8%
-     Java          3 hrs 5 mins  ■■■▦□□□□□□□□□□□□   9.6%
-     XML                16 mins  ■■▥□□□□□□□□□□□□□   0.8%
-     Text                5 mins  ■■◱□□□□□□□□□□□□□   0.3%
-     Properties          3 mins  ■■◱□□□□□□□□□□□□□   0.2%
+     Kotlin      34 hrs 52 mins  ■■■■■■■■■■■■■■■■  89.2%
+     Java         3 hrs 36 mins  ■■■▦□□□□□□□□□□□□   9.2%
+     XML                20 mins  ■■▥□□□□□□□□□□□□□   0.9%
+     Text                5 mins  ■■◱□□□□□□□□□□□□□   0.2%
+     Properties          3 mins  ■■◱□□□□□□□□□□□□□   0.1%
      protobuf            2 mins  ■■◱□□□□□□□□□□□□□   0.1%
    ```
    <!-- codeTime starts -->
