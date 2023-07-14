@@ -6,6 +6,12 @@
 
   #### 📷 Github Activity
   <!-- githubActivity starts -->
+**2023-07-13** — deleted branch "dependabot/npm_and_yarn/semver-5.7.2" on [underwindfall/create-release-with-debugapk](https://api.github.com/repos/underwindfall/create-release-with-debugapk)
+
+**2023-07-13** — pushed to [underwindfall/create-release-with-debugapk](https://api.github.com/repos/underwindfall/create-release-with-debugapk): "Bump semver from 5.7.1 to 5.7.2"
+
+**2023-07-13** — closed PR [#19](https://api.github.com/repos/underwindfall/create-release-with-debugapk/pulls/19) to [underwindfall/create-release-with-debugapk](https://api.github.com/repos/underwindfall/create-release-with-debugapk): "Bump semver from 5.7.1 to 5.7.2"
+
 **2023-04-16** — pushed 2 commits to [underwindfall/NFCAndroid](https://api.github.com/repos/underwindfall/NFCAndroid).
 
 **2023-04-16** — closed PR [#6](https://api.github.com/repos/underwindfall/NFCAndroid/pulls/6) to [underwindfall/NFCAndroid](https://api.github.com/repos/underwindfall/NFCAndroid): "Android >=12 fixes for card emulation and some code clean up"
@@ -38,12 +44,12 @@
   #### 🏊‍♂️ <a href="https://gist.github.com/underwindfall/377ee88ba1fabd1e93516e48ca9c61eb" target="_blank">Weekly Development Breakdown</a>
    <!-- codeTime starts -->
    ```text
-     Kotlin      16 hrs 14 mins  ■■■■■■■■■■■■■■■◱  81.4%
-     JavaScript     1 hr 6 mins  ■■■◱□□□□□□□□□□□□   5.5%
-     Python                1 hr  ■■■□□□□□□□□□□□□□   5.1%
-     XML                   1 hr  ■■■□□□□□□□□□□□□□   5.0%
-     Java               31 mins  ■■▦□□□□□□□□□□□□□   2.6%
-     JSON                2 mins  ■■◱□□□□□□□□□□□□□   0.2%
+     Kotlin      17 hrs 42 mins  ■■■■■■■■■■■■■■▥□  76.1%
+     JavaScript   2 hrs 16 mins  ■■■▦□□□□□□□□□□□□   9.8%
+     Java          1 hr 16 mins  ■■■◱□□□□□□□□□□□□   5.5%
+     XML             1 hr 1 min  ■■■□□□□□□□□□□□□□   4.4%
+     Python             44 mins  ■■▦□□□□□□□□□□□□□   3.2%
+     protobuf            6 mins  ■■◱□□□□□□□□□□□□□   0.5%
    ```
    <!-- codeTime starts -->
    </td>
