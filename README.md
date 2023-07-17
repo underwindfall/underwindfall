@@ -11,10 +11,6 @@
 **2023-07-13** — pushed to [underwindfall/create-release-with-debugapk](https://api.github.com/repos/underwindfall/create-release-with-debugapk): "Bump semver from 5.7.1 to 5.7.2"
 
 **2023-07-13** — closed PR [#19](https://api.github.com/repos/underwindfall/create-release-with-debugapk/pulls/19) to [underwindfall/create-release-with-debugapk](https://api.github.com/repos/underwindfall/create-release-with-debugapk): "Bump semver from 5.7.1 to 5.7.2"
-
-**2023-04-16** — pushed 2 commits to [underwindfall/NFCAndroid](https://api.github.com/repos/underwindfall/NFCAndroid).
-
-**2023-04-16** — closed PR [#6](https://api.github.com/repos/underwindfall/NFCAndroid/pulls/6) to [underwindfall/NFCAndroid](https://api.github.com/repos/underwindfall/NFCAndroid): "Android >=12 fixes for card emulation and some code clean up"
   <!-- githubActivity ends -->
   </td><td valign="top" width="50%">
 
@@ -44,10 +40,10 @@
   #### 🏊‍♂️ <a href="https://gist.github.com/underwindfall/377ee88ba1fabd1e93516e48ca9c61eb" target="_blank">Weekly Development Breakdown</a>
    <!-- codeTime starts -->
    ```text
-     Kotlin      19 hrs 37 mins  ■■■■■■■■■■■■■■▦□  77.8%
+     Kotlin      19 hrs 29 mins  ■■■■■■■■■■■■■■▦□  77.3%
      JavaScript    2 hrs 5 mins  ■■■▥□□□□□□□□□□□□   8.3%
-     Java          1 hr 29 mins  ■■■◱□□□□□□□□□□□□   5.9%
-     XML            1 hr 2 mins  ■■■□□□□□□□□□□□□□   4.1%
+     Java          1 hr 35 mins  ■■■◱□□□□□□□□□□□□   6.3%
+     XML            1 hr 3 mins  ■■■□□□□□□□□□□□□□   4.2%
      Python             44 mins  ■■▦□□□□□□□□□□□□□   2.9%
      protobuf            6 mins  ■■◱□□□□□□□□□□□□□   0.5%
    ```
