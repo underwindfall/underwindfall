@@ -6,13 +6,17 @@
 
   #### 📷 Github Activity
   <!-- githubActivity starts -->
+**2024-05-08** — deleted branch "dependabot/npm_and_yarn/es5-ext-0.10.64" on [underwindfall/resume](https://api.github.com/repos/underwindfall/resume)
+
+**2024-05-08** — pushed to [underwindfall/resume](https://api.github.com/repos/underwindfall/resume): "Bump es5-ext from 0.10.53 to 0.10.64"
+
+**2024-05-08** — closed PR [#34](https://api.github.com/repos/underwindfall/resume/pulls/34) to [underwindfall/resume](https://api.github.com/repos/underwindfall/resume): "Bump es5-ext from 0.10.53 to 0.10.64"
+
 **2024-05-07** — pushed to [underwindfall/resume](https://api.github.com/repos/underwindfall/resume): "Bump follow-redirects from 1.14.0 to 1.15.6"
 
 **2024-05-07** — closed PR [#33](https://api.github.com/repos/underwindfall/resume/pulls/33) to [underwindfall/resume](https://api.github.com/repos/underwindfall/resume): "Bump follow-redirects from 1.14.0 to 1.15.6"
 
 **2024-05-06** — pushed to [underwindfall/resume](https://api.github.com/repos/underwindfall/resume): "Bump gh-pages from 2.1.1 to 5.0.0"
-
-**2024-05-06** — closed PR [#32](https://api.github.com/repos/underwindfall/resume/pulls/32) to [underwindfall/resume](https://api.github.com/repos/underwindfall/resume): "Bump gh-pages from 2.1.1 to 5.0.0"
   <!-- githubActivity ends -->
   </td><td valign="top" width="50%">
 
@@ -42,12 +46,12 @@
   #### 🏊‍♂️ <a href="https://gist.github.com/underwindfall/377ee88ba1fabd1e93516e48ca9c61eb" target="_blank">Weekly Development Breakdown</a>
    <!-- codeTime starts -->
    ```text
-     Kotlin      11 hrs 28 mins  ■■■■■■■■■■■■■■■■  89.7%
-     Java           1 hr 7 mins  ■■■▦□□□□□□□□□□□□   8.9%
-     YAML                7 mins  ■■▥□□□□□□□□□□□□□   1.0%
-     Text                2 mins  ■■◱□□□□□□□□□□□□□   0.3%
-     GitIgnore file         0 secs  ■■◱□□□□□□□□□□□□□   0.0%
-     XML                 0 secs  ■■◱□□□□□□□□□□□□□   0.0%
+     Kotlin      15 hrs 37 mins  ■■■■■■■■■■■■■■■■  86.7%
+     Java          1 hr 58 mins  ■■■■□□□□□□□□□□□□  10.9%
+     Other               9 mins  ■■▥□□□□□□□□□□□□□   0.9%
+     YAML                7 mins  ■■▥□□□□□□□□□□□□□   0.7%
+     XML                 5 mins  ■■◱□□□□□□□□□□□□□   0.5%
+     Text                2 mins  ■■◱□□□□□□□□□□□□□   0.2%
    ```
    <!-- codeTime starts -->
    </td>
