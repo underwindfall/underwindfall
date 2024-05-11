@@ -6,17 +6,17 @@
 
   #### 📷 Github Activity
   <!-- githubActivity starts -->
-**2024-05-08** — deleted branch "dependabot/npm_and_yarn/es5-ext-0.10.64" on [underwindfall/resume](https://api.github.com/repos/underwindfall/resume)
+**2024-05-10** — deleted branch "dependabot/npm_and_yarn/word-wrap-1.2.5" on [underwindfall/resume](https://api.github.com/repos/underwindfall/resume)
 
-**2024-05-08** — pushed to [underwindfall/resume](https://api.github.com/repos/underwindfall/resume): "Bump es5-ext from 0.10.53 to 0.10.64"
+**2024-05-10** — pushed to [underwindfall/resume](https://api.github.com/repos/underwindfall/resume): "Bump word-wrap from 1.2.3 to 1.2.5"
 
-**2024-05-08** — closed PR [#34](https://api.github.com/repos/underwindfall/resume/pulls/34) to [underwindfall/resume](https://api.github.com/repos/underwindfall/resume): "Bump es5-ext from 0.10.53 to 0.10.64"
+**2024-05-10** — closed PR [#40](https://api.github.com/repos/underwindfall/resume/pulls/40) to [underwindfall/resume](https://api.github.com/repos/underwindfall/resume): "Bump word-wrap from 1.2.3 to 1.2.5"
 
-**2024-05-07** — pushed to [underwindfall/resume](https://api.github.com/repos/underwindfall/resume): "Bump follow-redirects from 1.14.0 to 1.15.6"
+**2024-05-10** — deleted branch "dependabot/npm_and_yarn/express-4.19.2" on [underwindfall/resume](https://api.github.com/repos/underwindfall/resume)
 
-**2024-05-07** — closed PR [#33](https://api.github.com/repos/underwindfall/resume/pulls/33) to [underwindfall/resume](https://api.github.com/repos/underwindfall/resume): "Bump follow-redirects from 1.14.0 to 1.15.6"
+**2024-05-10** — pushed to [underwindfall/resume](https://api.github.com/repos/underwindfall/resume): "Bump express from 4.17.1 to 4.19.2"
 
-**2024-05-06** — pushed to [underwindfall/resume](https://api.github.com/repos/underwindfall/resume): "Bump gh-pages from 2.1.1 to 5.0.0"
+**2024-05-10** — closed PR [#35](https://api.github.com/repos/underwindfall/resume/pulls/35) to [underwindfall/resume](https://api.github.com/repos/underwindfall/resume): "Bump express from 4.17.1 to 4.19.2"
   <!-- githubActivity ends -->
   </td><td valign="top" width="50%">
 
@@ -46,12 +46,12 @@
   #### 🏊‍♂️ <a href="https://gist.github.com/underwindfall/377ee88ba1fabd1e93516e48ca9c61eb" target="_blank">Weekly Development Breakdown</a>
    <!-- codeTime starts -->
    ```text
-     Kotlin      22 hrs 29 mins  ■■■■■■■■■■■■■■■■  90.0%
-     Java          2 hrs 4 mins  ■■■▥□□□□□□□□□□□□   8.3%
-     Other               9 mins  ■■▥□□□□□□□□□□□□□   0.7%
+     Kotlin      25 hrs 31 mins  ■■■■■■■■■■■■■■■■  90.8%
+     Java          2 hrs 9 mins  ■■■▥□□□□□□□□□□□□   7.7%
+     Other               9 mins  ■■◱□□□□□□□□□□□□□   0.6%
      YAML                7 mins  ■■◱□□□□□□□□□□□□□   0.5%
-     XML                 5 mins  ■■◱□□□□□□□□□□□□□   0.4%
-     Text                2 mins  ■■◱□□□□□□□□□□□□□   0.2%
+     XML                 5 mins  ■■◱□□□□□□□□□□□□□   0.3%
+     Text                2 mins  ■■◱□□□□□□□□□□□□□   0.1%
    ```
    <!-- codeTime starts -->
    </td>
