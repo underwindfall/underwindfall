@@ -6,17 +6,17 @@
 
   #### 📷 Github Activity
   <!-- githubActivity starts -->
+**2024-05-15** — deleted branch "dependabot/npm_and_yarn/semver-5.7.2" on [underwindfall/resume](https://api.github.com/repos/underwindfall/resume)
+
+**2024-05-15** — pushed to [underwindfall/resume](https://api.github.com/repos/underwindfall/resume): "Bump semver from 5.7.1 to 5.7.2"
+
+**2024-05-15** — closed PR [#39](https://api.github.com/repos/underwindfall/resume/pulls/39) to [underwindfall/resume](https://api.github.com/repos/underwindfall/resume): "Bump semver from 5.7.1 to 5.7.2"
+
 **2024-05-10** — deleted branch "dependabot/npm_and_yarn/word-wrap-1.2.5" on [underwindfall/resume](https://api.github.com/repos/underwindfall/resume)
 
 **2024-05-10** — pushed to [underwindfall/resume](https://api.github.com/repos/underwindfall/resume): "Bump word-wrap from 1.2.3 to 1.2.5"
 
 **2024-05-10** — closed PR [#40](https://api.github.com/repos/underwindfall/resume/pulls/40) to [underwindfall/resume](https://api.github.com/repos/underwindfall/resume): "Bump word-wrap from 1.2.3 to 1.2.5"
-
-**2024-05-10** — deleted branch "dependabot/npm_and_yarn/express-4.19.2" on [underwindfall/resume](https://api.github.com/repos/underwindfall/resume)
-
-**2024-05-10** — pushed to [underwindfall/resume](https://api.github.com/repos/underwindfall/resume): "Bump express from 4.17.1 to 4.19.2"
-
-**2024-05-10** — closed PR [#35](https://api.github.com/repos/underwindfall/resume/pulls/35) to [underwindfall/resume](https://api.github.com/repos/underwindfall/resume): "Bump express from 4.17.1 to 4.19.2"
   <!-- githubActivity ends -->
   </td><td valign="top" width="50%">
 
@@ -46,12 +46,12 @@
   #### 🏊‍♂️ <a href="https://gist.github.com/underwindfall/377ee88ba1fabd1e93516e48ca9c61eb" target="_blank">Weekly Development Breakdown</a>
    <!-- codeTime starts -->
    ```text
-     Kotlin      17 hrs 32 mins  ■■■■■■■■■■■■■■■■  92.1%
-     Java           1 hr 2 mins  ■■■◱□□□□□□□□□□□□   5.5%
-     Other              22 mins  ■■▥□□□□□□□□□□□□□   2.0%
-     XML                 5 mins  ■■◱□□□□□□□□□□□□□   0.5%
+     Kotlin      17 hrs 23 mins  ■■■■■■■■■■■■■■■■  97.2%
+     Java               17 mins  ■■▥□□□□□□□□□□□□□   1.6%
+     Other              12 mins  ■■▥□□□□□□□□□□□□□   1.2%
+     XML                 0 secs  ■■◱□□□□□□□□□□□□□   0.0%
      Text                0 secs  ■■◱□□□□□□□□□□□□□   0.0%
-     Shrinker Config File         0 secs  ■■◱□□□□□□□□□□□□□   0.0%
+     Gradle              0 secs  ■■◱□□□□□□□□□□□□□   0.0%
    ```
    <!-- codeTime starts -->
    </td>
