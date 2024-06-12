@@ -6,17 +6,17 @@
 
   #### 📷 Github Activity
   <!-- githubActivity starts -->
+**2024-06-11** — deleted branch "dependabot/npm_and_yarn/minimist-1.2.8" on [underwindfall/resume](https://api.github.com/repos/underwindfall/resume)
+
+**2024-06-11** — pushed to [underwindfall/resume](https://api.github.com/repos/underwindfall/resume): "Bump minimist from 1.2.5 to 1.2.8"
+
+**2024-06-11** — closed PR [#41](https://api.github.com/repos/underwindfall/resume/pulls/41) to [underwindfall/resume](https://api.github.com/repos/underwindfall/resume): "Bump minimist from 1.2.5 to 1.2.8"
+
 **2024-05-15** — deleted branch "dependabot/npm_and_yarn/semver-5.7.2" on [underwindfall/resume](https://api.github.com/repos/underwindfall/resume)
 
 **2024-05-15** — pushed to [underwindfall/resume](https://api.github.com/repos/underwindfall/resume): "Bump semver from 5.7.1 to 5.7.2"
 
 **2024-05-15** — closed PR [#39](https://api.github.com/repos/underwindfall/resume/pulls/39) to [underwindfall/resume](https://api.github.com/repos/underwindfall/resume): "Bump semver from 5.7.1 to 5.7.2"
-
-**2024-05-10** — deleted branch "dependabot/npm_and_yarn/word-wrap-1.2.5" on [underwindfall/resume](https://api.github.com/repos/underwindfall/resume)
-
-**2024-05-10** — pushed to [underwindfall/resume](https://api.github.com/repos/underwindfall/resume): "Bump word-wrap from 1.2.3 to 1.2.5"
-
-**2024-05-10** — closed PR [#40](https://api.github.com/repos/underwindfall/resume/pulls/40) to [underwindfall/resume](https://api.github.com/repos/underwindfall/resume): "Bump word-wrap from 1.2.3 to 1.2.5"
   <!-- githubActivity ends -->
   </td><td valign="top" width="50%">
 
@@ -46,11 +46,11 @@
   #### 🏊‍♂️ <a href="https://gist.github.com/underwindfall/377ee88ba1fabd1e93516e48ca9c61eb" target="_blank">Weekly Development Breakdown</a>
    <!-- codeTime starts -->
    ```text
-     Kotlin       27 hrs 8 mins  ■■■■■■■■■■■■■■■■  86.2%
-     Java         3 hrs 39 mins  ■■■■◱□□□□□□□□□□□  11.6%
-     XML                16 mins  ■■▥□□□□□□□□□□□□□   0.9%
-     Groovy              4 mins  ■■◱□□□□□□□□□□□□□   0.2%
-     GitIgnore file         4 mins  ■■◱□□□□□□□□□□□□□   0.2%
+     Kotlin      22 hrs 51 mins  ■■■■■■■■■■■■■■■■  85.6%
+     Java         3 hrs 13 mins  ■■■■◱□□□□□□□□□□□  12.1%
+     XML                12 mins  ■■▥□□□□□□□□□□□□□   0.8%
+     Groovy              4 mins  ■■◱□□□□□□□□□□□□□   0.3%
+     GitIgnore file         3 mins  ■■◱□□□□□□□□□□□□□   0.3%
      textmate            3 mins  ■■◱□□□□□□□□□□□□□   0.2%
    ```
    <!-- codeTime starts -->
