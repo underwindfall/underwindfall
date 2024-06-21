@@ -6,17 +6,17 @@
 
   #### 📷 Github Activity
   <!-- githubActivity starts -->
+**2024-06-20** — deleted branch "dependabot/npm_and_yarn/ua-parser-js-0.7.38" on [underwindfall/resume](https://api.github.com/repos/underwindfall/resume)
+
+**2024-06-20** — pushed to [underwindfall/resume](https://api.github.com/repos/underwindfall/resume): "Bump ua-parser-js from 0.7.28 to 0.7.38"
+
+**2024-06-20** — closed PR [#42](https://api.github.com/repos/underwindfall/resume/pulls/42) to [underwindfall/resume](https://api.github.com/repos/underwindfall/resume): "Bump ua-parser-js from 0.7.28 to 0.7.38"
+
 **2024-06-12** — pushed to [underwindfall/resume](https://api.github.com/repos/underwindfall/resume): "Bump ip from 1.1.5 to 1.1.9"
 
 **2024-06-12** — closed PR [#38](https://api.github.com/repos/underwindfall/resume/pulls/38) to [underwindfall/resume](https://api.github.com/repos/underwindfall/resume): "Bump ip from 1.1.5 to 1.1.9"
 
 **2024-06-11** — deleted branch "dependabot/npm_and_yarn/minimist-1.2.8" on [underwindfall/resume](https://api.github.com/repos/underwindfall/resume)
-
-**2024-06-11** — pushed to [underwindfall/resume](https://api.github.com/repos/underwindfall/resume): "Bump minimist from 1.2.5 to 1.2.8"
-
-**2024-06-11** — closed PR [#41](https://api.github.com/repos/underwindfall/resume/pulls/41) to [underwindfall/resume](https://api.github.com/repos/underwindfall/resume): "Bump minimist from 1.2.5 to 1.2.8"
-
-**2024-05-15** — deleted branch "dependabot/npm_and_yarn/semver-5.7.2" on [underwindfall/resume](https://api.github.com/repos/underwindfall/resume)
   <!-- githubActivity ends -->
   </td><td valign="top" width="50%">
 
@@ -46,12 +46,12 @@
   #### 🏊‍♂️ <a href="https://gist.github.com/underwindfall/377ee88ba1fabd1e93516e48ca9c61eb" target="_blank">Weekly Development Breakdown</a>
    <!-- codeTime starts -->
    ```text
-     Kotlin      29 hrs 14 mins  ■■■■■■■■■■■■■■■■  95.5%
-     Java               36 mins  ■■▥□□□□□□□□□□□□□   2.0%
-     XML                23 mins  ■■▥□□□□□□□□□□□□□   1.3%
-     YAML               14 mins  ■■▥□□□□□□□□□□□□□   0.8%
-     Protocol Buffer         5 mins  ■■◱□□□□□□□□□□□□□   0.3%
-     protobuf             1 min  ■■◱□□□□□□□□□□□□□   0.1%
+     Kotlin      25 hrs 38 mins  ■■■■■■■■■■■■■■■■  96.0%
+     XML                24 mins  ■■▥□□□□□□□□□□□□□   1.5%
+     Java               20 mins  ■■▥□□□□□□□□□□□□□   1.3%
+     YAML               13 mins  ■■▥□□□□□□□□□□□□□   0.8%
+     Protocol Buffer         4 mins  ■■◱□□□□□□□□□□□□□   0.3%
+     Text                0 secs  ■■◱□□□□□□□□□□□□□   0.0%
    ```
    <!-- codeTime starts -->
    </td>
