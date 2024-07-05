@@ -6,17 +6,17 @@
 
   #### 📷 Github Activity
   <!-- githubActivity starts -->
-**2024-06-20** — deleted branch "dependabot/npm_and_yarn/ua-parser-js-0.7.38" on [underwindfall/resume](https://api.github.com/repos/underwindfall/resume)
+**2024-07-04** — deleted branch "dependabot/npm_and_yarn/json5-1.0.2" on [underwindfall/resume](https://api.github.com/repos/underwindfall/resume)
 
-**2024-06-20** — pushed to [underwindfall/resume](https://api.github.com/repos/underwindfall/resume): "Bump ua-parser-js from 0.7.28 to 0.7.38"
+**2024-07-04** — pushed to [underwindfall/resume](https://api.github.com/repos/underwindfall/resume): "Bump json5 from 1.0.1 to 1.0.2"
 
-**2024-06-20** — closed PR [#42](https://api.github.com/repos/underwindfall/resume/pulls/42) to [underwindfall/resume](https://api.github.com/repos/underwindfall/resume): "Bump ua-parser-js from 0.7.28 to 0.7.38"
+**2024-07-04** — closed PR [#44](https://api.github.com/repos/underwindfall/resume/pulls/44) to [underwindfall/resume](https://api.github.com/repos/underwindfall/resume): "Bump json5 from 1.0.1 to 1.0.2"
 
-**2024-06-12** — pushed to [underwindfall/resume](https://api.github.com/repos/underwindfall/resume): "Bump ip from 1.1.5 to 1.1.9"
+**2024-07-04** — deleted branch "dependabot/npm_and_yarn/ws-5.2.4" on [underwindfall/resume](https://api.github.com/repos/underwindfall/resume)
 
-**2024-06-12** — closed PR [#38](https://api.github.com/repos/underwindfall/resume/pulls/38) to [underwindfall/resume](https://api.github.com/repos/underwindfall/resume): "Bump ip from 1.1.5 to 1.1.9"
+**2024-07-04** — closed PR [#43](https://api.github.com/repos/underwindfall/resume/pulls/43) to [underwindfall/resume](https://api.github.com/repos/underwindfall/resume): "Bump ws from 5.2.2 to 5.2.4"
 
-**2024-06-11** — deleted branch "dependabot/npm_and_yarn/minimist-1.2.8" on [underwindfall/resume](https://api.github.com/repos/underwindfall/resume)
+**2024-07-04** — pushed to [underwindfall/resume](https://api.github.com/repos/underwindfall/resume): "Bump ws from 5.2.2 to 5.2.4"
   <!-- githubActivity ends -->
   </td><td valign="top" width="50%">
 
@@ -46,12 +46,12 @@
   #### 🏊‍♂️ <a href="https://gist.github.com/underwindfall/377ee88ba1fabd1e93516e48ca9c61eb" target="_blank">Weekly Development Breakdown</a>
    <!-- codeTime starts -->
    ```text
-     Kotlin       27 hrs 7 mins  ■■■■■■■■■■■■■■■■  85.2%
-     Java          2 hrs 4 mins  ■■■◱□□□□□□□□□□□□   6.5%
-     YAML               51 mins  ■■▦□□□□□□□□□□□□□   2.7%
-     JavaScript         40 mins  ■■▥□□□□□□□□□□□□□   2.1%
-     JSON               30 mins  ■■▥□□□□□□□□□□□□□   1.6%
+     Kotlin      30 hrs 27 mins  ■■■■■■■■■■■■■■■■  90.0%
+     Java          1 hr 55 mins  ■■■◱□□□□□□□□□□□□   5.7%
+     YAML               51 mins  ■■▦□□□□□□□□□□□□□   2.5%
      XML                15 mins  ■■▥□□□□□□□□□□□□□   0.8%
+     Java Properties         8 mins  ■■◱□□□□□□□□□□□□□   0.4%
+     Properties          3 mins  ■■◱□□□□□□□□□□□□□   0.2%
    ```
    <!-- codeTime starts -->
    </td>
