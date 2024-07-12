@@ -6,17 +6,17 @@
 
   #### 📷 Github Activity
   <!-- githubActivity starts -->
+**2024-07-11** — deleted branch "dependabot/npm_and_yarn/babel/traverse-7.24.5" on [underwindfall/resume](https://api.github.com/repos/underwindfall/resume)
+
+**2024-07-11** — pushed to [underwindfall/resume](https://api.github.com/repos/underwindfall/resume): "Bump @babel/traverse from 7.14.0 to 7.24.5"
+
+**2024-07-11** — closed PR [#37](https://api.github.com/repos/underwindfall/resume/pulls/37) to [underwindfall/resume](https://api.github.com/repos/underwindfall/resume): "Bump @babel/traverse from 7.14.0 to 7.24.5"
+
 **2024-07-04** — deleted branch "dependabot/npm_and_yarn/json5-1.0.2" on [underwindfall/resume](https://api.github.com/repos/underwindfall/resume)
 
 **2024-07-04** — pushed to [underwindfall/resume](https://api.github.com/repos/underwindfall/resume): "Bump json5 from 1.0.1 to 1.0.2"
 
 **2024-07-04** — closed PR [#44](https://api.github.com/repos/underwindfall/resume/pulls/44) to [underwindfall/resume](https://api.github.com/repos/underwindfall/resume): "Bump json5 from 1.0.1 to 1.0.2"
-
-**2024-07-04** — deleted branch "dependabot/npm_and_yarn/ws-5.2.4" on [underwindfall/resume](https://api.github.com/repos/underwindfall/resume)
-
-**2024-07-04** — closed PR [#43](https://api.github.com/repos/underwindfall/resume/pulls/43) to [underwindfall/resume](https://api.github.com/repos/underwindfall/resume): "Bump ws from 5.2.2 to 5.2.4"
-
-**2024-07-04** — pushed to [underwindfall/resume](https://api.github.com/repos/underwindfall/resume): "Bump ws from 5.2.2 to 5.2.4"
   <!-- githubActivity ends -->
   </td><td valign="top" width="50%">
 
@@ -46,12 +46,12 @@
   #### 🏊‍♂️ <a href="https://gist.github.com/underwindfall/377ee88ba1fabd1e93516e48ca9c61eb" target="_blank">Weekly Development Breakdown</a>
    <!-- codeTime starts -->
    ```text
-     Kotlin      38 hrs 15 mins  ■■■■■■■■■■■■■■■▦  85.0%
-     XML           6 hrs 2 mins  ■■■■▥□□□□□□□□□□□  13.4%
-     Java               28 mins  ■■▥□□□□□□□□□□□□□   1.1%
+     Kotlin       38 hrs 3 mins  ■■■■■■■■■■■■■■■▦  84.0%
+     XML          6 hrs 22 mins  ■■■■▥□□□□□□□□□□□  14.1%
+     Other              29 mins  ■■▥□□□□□□□□□□□□□   1.1%
+     Java               10 mins  ■■◱□□□□□□□□□□□□□   0.4%
      Text                7 mins  ■■◱□□□□□□□□□□□□□   0.3%
      Java Properties         4 mins  ■■◱□□□□□□□□□□□□□   0.1%
-     Gradle               1 min  ■■◱□□□□□□□□□□□□□   0.1%
    ```
    <!-- codeTime starts -->
    </td>
