@@ -6,17 +6,17 @@
 
   #### 📷 Github Activity
   <!-- githubActivity starts -->
-**2024-07-11** — deleted branch "dependabot/npm_and_yarn/babel/traverse-7.24.5" on [underwindfall/resume](https://api.github.com/repos/underwindfall/resume)
+**2024-07-14** — deleted branch "dependabot/npm_and_yarn/decode-uri-component-0.2.2" on [underwindfall/resume](https://api.github.com/repos/underwindfall/resume)
 
-**2024-07-11** — pushed to [underwindfall/resume](https://api.github.com/repos/underwindfall/resume): "Bump @babel/traverse from 7.14.0 to 7.24.5"
+**2024-07-14** — pushed to [underwindfall/resume](https://api.github.com/repos/underwindfall/resume): "Bump decode-uri-component from 0.2.0 to 0.2.2"
 
-**2024-07-11** — closed PR [#37](https://api.github.com/repos/underwindfall/resume/pulls/37) to [underwindfall/resume](https://api.github.com/repos/underwindfall/resume): "Bump @babel/traverse from 7.14.0 to 7.24.5"
+**2024-07-14** — closed PR [#45](https://api.github.com/repos/underwindfall/resume/pulls/45) to [underwindfall/resume](https://api.github.com/repos/underwindfall/resume): "Bump decode-uri-component from 0.2.0 to 0.2.2"
 
-**2024-07-04** — deleted branch "dependabot/npm_and_yarn/json5-1.0.2" on [underwindfall/resume](https://api.github.com/repos/underwindfall/resume)
+**2024-07-14** — deleted branch "dependabot/npm_and_yarn/browserify-sign-4.2.3" on [underwindfall/resume](https://api.github.com/repos/underwindfall/resume)
 
-**2024-07-04** — pushed to [underwindfall/resume](https://api.github.com/repos/underwindfall/resume): "Bump json5 from 1.0.1 to 1.0.2"
+**2024-07-14** — pushed to [underwindfall/resume](https://api.github.com/repos/underwindfall/resume): "Bump browserify-sign from 4.2.1 to 4.2.3"
 
-**2024-07-04** — closed PR [#44](https://api.github.com/repos/underwindfall/resume/pulls/44) to [underwindfall/resume](https://api.github.com/repos/underwindfall/resume): "Bump json5 from 1.0.1 to 1.0.2"
+**2024-07-14** — closed PR [#36](https://api.github.com/repos/underwindfall/resume/pulls/36) to [underwindfall/resume](https://api.github.com/repos/underwindfall/resume): "Bump browserify-sign from 4.2.1 to 4.2.3"
   <!-- githubActivity ends -->
   </td><td valign="top" width="50%">
 
@@ -46,11 +46,11 @@
   #### 🏊‍♂️ <a href="https://gist.github.com/underwindfall/377ee88ba1fabd1e93516e48ca9c61eb" target="_blank">Weekly Development Breakdown</a>
    <!-- codeTime starts -->
    ```text
-     Kotlin      35 hrs 41 mins  ■■■■■■■■■■■■■■■▥  82.5%
-     XML          6 hrs 41 mins  ■■■■▦□□□□□□□□□□□  15.5%
-     Other              29 mins  ■■▥□□□□□□□□□□□□□   1.1%
-     Java                9 mins  ■■◱□□□□□□□□□□□□□   0.4%
+     Kotlin        32 hrs 1 min  ■■■■■■■■■■■■■■■▥  82.9%
+     XML          5 hrs 46 mins  ■■■■▦□□□□□□□□□□□  14.9%
+     Other              29 mins  ■■▥□□□□□□□□□□□□□   1.3%
      Text                7 mins  ■■◱□□□□□□□□□□□□□   0.3%
+     Java                7 mins  ■■◱□□□□□□□□□□□□□   0.3%
      Java Properties         4 mins  ■■◱□□□□□□□□□□□□□   0.2%
    ```
    <!-- codeTime starts -->
