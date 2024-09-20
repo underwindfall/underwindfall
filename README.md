@@ -6,17 +6,17 @@
 
   #### 📷 Github Activity
   <!-- githubActivity starts -->
-**2024-07-14** — deleted branch "dependabot/npm_and_yarn/decode-uri-component-0.2.2" on [underwindfall/resume](https://api.github.com/repos/underwindfall/resume)
+**2024-09-19** — created tag "v3.0" on [underwindfall/resume](https://api.github.com/repos/underwindfall/resume)
 
-**2024-07-14** — pushed to [underwindfall/resume](https://api.github.com/repos/underwindfall/resume): "Bump decode-uri-component from 0.2.0 to 0.2.2"
+**2024-09-19** — closed PR [#47](https://api.github.com/repos/underwindfall/resume/pulls/47) to [underwindfall/resume](https://api.github.com/repos/underwindfall/resume): "Bump elliptic from 6.5.4 to 6.5.7"
 
-**2024-07-14** — closed PR [#45](https://api.github.com/repos/underwindfall/resume/pulls/45) to [underwindfall/resume](https://api.github.com/repos/underwindfall/resume): "Bump decode-uri-component from 0.2.0 to 0.2.2"
+**2024-09-19** — deleted branch "dependabot/npm_and_yarn/elliptic-6.5.7" on [underwindfall/resume](https://api.github.com/repos/underwindfall/resume)
 
-**2024-07-14** — deleted branch "dependabot/npm_and_yarn/browserify-sign-4.2.3" on [underwindfall/resume](https://api.github.com/repos/underwindfall/resume)
+**2024-09-19** — pushed to [underwindfall/resume](https://api.github.com/repos/underwindfall/resume): "Update ci.yml"
 
-**2024-07-14** — pushed to [underwindfall/resume](https://api.github.com/repos/underwindfall/resume): "Bump browserify-sign from 4.2.1 to 4.2.3"
+**2024-09-19** — deleted branch "latest_info" on [underwindfall/resume](https://api.github.com/repos/underwindfall/resume)
 
-**2024-07-14** — closed PR [#36](https://api.github.com/repos/underwindfall/resume/pulls/36) to [underwindfall/resume](https://api.github.com/repos/underwindfall/resume): "Bump browserify-sign from 4.2.1 to 4.2.3"
+**2024-09-19** — pushed to [underwindfall/resume](https://api.github.com/repos/underwindfall/resume): "add tiktok exp"
   <!-- githubActivity ends -->
   </td><td valign="top" width="50%">
 
@@ -46,11 +46,11 @@
   #### 🏊‍♂️ <a href="https://gist.github.com/underwindfall/377ee88ba1fabd1e93516e48ca9c61eb" target="_blank">Weekly Development Breakdown</a>
    <!-- codeTime starts -->
    ```text
-     Kotlin       25 hrs 7 mins  ■■■■■■■■■■■■■■■■  96.7%
-     Java               25 mins  ■■▥□□□□□□□□□□□□□   1.6%
-     JSON               21 mins  ■■▥□□□□□□□□□□□□□   1.4%
+     Kotlin      23 hrs 23 mins  ■■■■■■■■■■■■■■■■  97.0%
+     JSON               21 mins  ■■▥□□□□□□□□□□□□□   1.5%
+     Java               17 mins  ■■▥□□□□□□□□□□□□□   1.2%
      Bash                3 mins  ■■◱□□□□□□□□□□□□□   0.2%
-     XML                 0 secs  ■■◱□□□□□□□□□□□□□   0.0%
+     XML                  1 min  ■■◱□□□□□□□□□□□□□   0.1%
      Java Properties         0 secs  ■■◱□□□□□□□□□□□□□   0.0%
    ```
    <!-- codeTime starts -->
