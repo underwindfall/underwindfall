@@ -6,17 +6,17 @@
 
   #### 📷 Github Activity
   <!-- githubActivity starts -->
-**2024-09-19** — created tag "v3.0" on [underwindfall/resume](https://api.github.com/repos/underwindfall/resume)
+**2024-09-20** — pushed 367 commits to [underwindfall/sports_page](https://api.github.com/repos/underwindfall/sports_page).
 
-**2024-09-19** — closed PR [#47](https://api.github.com/repos/underwindfall/resume/pulls/47) to [underwindfall/resume](https://api.github.com/repos/underwindfall/resume): "Bump elliptic from 6.5.4 to 6.5.7"
+**2024-09-20** — pushed 0 commits to [underwindfall/sports_page](https://api.github.com/repos/underwindfall/sports_page).
 
-**2024-09-19** — deleted branch "dependabot/npm_and_yarn/elliptic-6.5.7" on [underwindfall/resume](https://api.github.com/repos/underwindfall/resume)
+**2024-09-20** — pushed to [underwindfall/sports_page](https://api.github.com/repos/underwindfall/sports_page): "Merge remote-tracking branch 'upstream/master'"
 
-**2024-09-19** — pushed to [underwindfall/resume](https://api.github.com/repos/underwindfall/resume): "Update ci.yml"
+**2024-09-20** — pushed 367 commits to [underwindfall/sports_page](https://api.github.com/repos/underwindfall/sports_page).
 
-**2024-09-19** — deleted branch "latest_info" on [underwindfall/resume](https://api.github.com/repos/underwindfall/resume)
+**2024-09-20** — closed PR [#35](https://api.github.com/repos/ben-29/workouts_page/pulls/35) to [ben-29/workouts_page](https://api.github.com/repos/ben-29/workouts_page): "sync running pages"
 
-**2024-09-19** — pushed to [underwindfall/resume](https://api.github.com/repos/underwindfall/resume): "add tiktok exp"
+**2024-09-20** — opened PR [#35](https://api.github.com/repos/ben-29/workouts_page/pulls/35) to [ben-29/workouts_page](https://api.github.com/repos/ben-29/workouts_page): "sync running pages"
   <!-- githubActivity ends -->
   </td><td valign="top" width="50%">
 
@@ -46,12 +46,12 @@
   #### 🏊‍♂️ <a href="https://gist.github.com/underwindfall/377ee88ba1fabd1e93516e48ca9c61eb" target="_blank">Weekly Development Breakdown</a>
    <!-- codeTime starts -->
    ```text
-     Kotlin      23 hrs 23 mins  ■■■■■■■■■■■■■■■■  97.0%
-     JSON               21 mins  ■■▥□□□□□□□□□□□□□   1.5%
-     Java               17 mins  ■■▥□□□□□□□□□□□□□   1.2%
-     Bash                3 mins  ■■◱□□□□□□□□□□□□□   0.2%
-     XML                  1 min  ■■◱□□□□□□□□□□□□□   0.1%
-     Java Properties         0 secs  ■■◱□□□□□□□□□□□□□   0.0%
+     Kotlin      17 hrs 51 mins  ■■■■■■■■■■■■■■■■  89.5%
+     JSON               55 mins  ■■■□□□□□□□□□□□□□   4.6%
+     JavaScript         18 mins  ■■▥□□□□□□□□□□□□□   1.6%
+     Java               16 mins  ■■▥□□□□□□□□□□□□□   1.4%
+     YAML               14 mins  ■■▥□□□□□□□□□□□□□   1.3%
+     TypeScript         10 mins  ■■▥□□□□□□□□□□□□□   0.9%
    ```
    <!-- codeTime starts -->
    </td>
