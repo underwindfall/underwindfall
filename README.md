@@ -6,6 +6,10 @@
 
   #### 📷 Github Activity
   <!-- githubActivity starts -->
+**2024-09-22** — pushed to [underwindfall/resume](https://api.github.com/repos/underwindfall/resume): "correct syntax"
+
+**2024-09-22** — pushed to [underwindfall/sports_page](https://api.github.com/repos/underwindfall/sports_page): "Add files via upload"
+
 **2024-09-20** — pushed 367 commits to [underwindfall/sports_page](https://api.github.com/repos/underwindfall/sports_page).
 
 **2024-09-20** — pushed 0 commits to [underwindfall/sports_page](https://api.github.com/repos/underwindfall/sports_page).
@@ -13,10 +17,6 @@
 **2024-09-20** — pushed to [underwindfall/sports_page](https://api.github.com/repos/underwindfall/sports_page): "Merge remote-tracking branch 'upstream/master'"
 
 **2024-09-20** — pushed 367 commits to [underwindfall/sports_page](https://api.github.com/repos/underwindfall/sports_page).
-
-**2024-09-20** — closed PR [#35](https://api.github.com/repos/ben-29/workouts_page/pulls/35) to [ben-29/workouts_page](https://api.github.com/repos/ben-29/workouts_page): "sync running pages"
-
-**2024-09-20** — opened PR [#35](https://api.github.com/repos/ben-29/workouts_page/pulls/35) to [ben-29/workouts_page](https://api.github.com/repos/ben-29/workouts_page): "sync running pages"
   <!-- githubActivity ends -->
   </td><td valign="top" width="50%">
 
@@ -46,12 +46,12 @@
   #### 🏊‍♂️ <a href="https://gist.github.com/underwindfall/377ee88ba1fabd1e93516e48ca9c61eb" target="_blank">Weekly Development Breakdown</a>
    <!-- codeTime starts -->
    ```text
-     Kotlin      12 hrs 14 mins  ■■■■■■■■■■■■■■■■  86.4%
-     JSON               45 mins  ■■■◱□□□□□□□□□□□□   5.4%
-     JavaScript         18 mins  ■■▦□□□□□□□□□□□□□   2.2%
-     Java               16 mins  ■■▥□□□□□□□□□□□□□   1.9%
-     YAML               14 mins  ■■▥□□□□□□□□□□□□□   1.8%
-     TypeScript         10 mins  ■■▥□□□□□□□□□□□□□   1.2%
+     Kotlin      12 hrs 52 mins  ■■■■■■■■■■■■■■■▦  84.8%
+     JSON               45 mins  ■■■□□□□□□□□□□□□□   5.0%
+     Java               30 mins  ■■▦□□□□□□□□□□□□□   3.3%
+     JavaScript         28 mins  ■■▦□□□□□□□□□□□□□   3.1%
+     YAML               14 mins  ■■▥□□□□□□□□□□□□□   1.6%
+     TypeScript         10 mins  ■■▥□□□□□□□□□□□□□   1.1%
    ```
    <!-- codeTime starts -->
    </td>
