@@ -6,15 +6,15 @@
 
   #### 📷 Github Activity
   <!-- githubActivity starts -->
+**2024-10-31** — deleted branch "dependabot/npm_and_yarn/elliptic-6.6.0" on [underwindfall/resume](https://api.github.com/repos/underwindfall/resume)
+
+**2024-10-31** — pushed to [underwindfall/resume](https://api.github.com/repos/underwindfall/resume): "Bump elliptic from 6.5.4 to 6.6.0"
+
+**2024-10-31** — closed PR [#49](https://api.github.com/repos/underwindfall/resume/pulls/49) to [underwindfall/resume](https://api.github.com/repos/underwindfall/resume): "Bump elliptic from 6.5.4 to 6.6.0"
+
 **2024-09-22** — pushed to [underwindfall/resume](https://api.github.com/repos/underwindfall/resume): "correct syntax"
 
 **2024-09-22** — pushed to [underwindfall/sports_page](https://api.github.com/repos/underwindfall/sports_page): "Add files via upload"
-
-**2024-09-20** — pushed 367 commits to [underwindfall/sports_page](https://api.github.com/repos/underwindfall/sports_page).
-
-**2024-09-20** — pushed 0 commits to [underwindfall/sports_page](https://api.github.com/repos/underwindfall/sports_page).
-
-**2024-09-20** — pushed to [underwindfall/sports_page](https://api.github.com/repos/underwindfall/sports_page): "Merge remote-tracking branch 'upstream/master'"
 
 **2024-09-20** — pushed 367 commits to [underwindfall/sports_page](https://api.github.com/repos/underwindfall/sports_page).
   <!-- githubActivity ends -->
@@ -46,9 +46,9 @@
   #### 🏊‍♂️ <a href="https://gist.github.com/underwindfall/377ee88ba1fabd1e93516e48ca9c61eb" target="_blank">Weekly Development Breakdown</a>
    <!-- codeTime starts -->
    ```text
-     Kotlin      19 hrs 31 mins  ■■■■■■■■■■■■■□□□  67.3%
-     Java         4 hrs 42 mins  ■■■■▦□□□□□□□□□□□  16.2%
-     XML          2 hrs 17 mins  ■■■▥□□□□□□□□□□□□   7.9%
+     Kotlin      19 hrs 54 mins  ■■■■■■■■■■■■■□□□  67.4%
+     Java         4 hrs 52 mins  ■■■■■□□□□□□□□□□□  16.5%
+     XML          2 hrs 17 mins  ■■■▥□□□□□□□□□□□□   7.8%
      YAML               47 mins  ■■▦□□□□□□□□□□□□□   2.7%
      Markdown           31 mins  ■■▥□□□□□□□□□□□□□   1.8%
      Gradle             30 mins  ■■▥□□□□□□□□□□□□□   1.7%
