@@ -15,8 +15,6 @@
 **2024-09-22** — pushed to [underwindfall/resume](https://api.github.com/repos/underwindfall/resume): "correct syntax"
 
 **2024-09-22** — pushed to [underwindfall/sports_page](https://api.github.com/repos/underwindfall/sports_page): "Add files via upload"
-
-**2024-09-20** — pushed 367 commits to [underwindfall/sports_page](https://api.github.com/repos/underwindfall/sports_page).
   <!-- githubActivity ends -->
   </td><td valign="top" width="50%">
 
