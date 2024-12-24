@@ -11,10 +11,6 @@
 **2024-10-31** — pushed to [underwindfall/resume](https://api.github.com/repos/underwindfall/resume): "Bump elliptic from 6.5.4 to 6.6.0"
 
 **2024-10-31** — closed PR [#49](https://api.github.com/repos/underwindfall/resume/pulls/49) to [underwindfall/resume](https://api.github.com/repos/underwindfall/resume): "Bump elliptic from 6.5.4 to 6.6.0"
-
-**2024-09-22** — pushed to [underwindfall/resume](https://api.github.com/repos/underwindfall/resume): "correct syntax"
-
-**2024-09-22** — pushed to [underwindfall/sports_page](https://api.github.com/repos/underwindfall/sports_page): "Add files via upload"
   <!-- githubActivity ends -->
   </td><td valign="top" width="50%">
 
@@ -44,12 +40,12 @@
   #### 🏊‍♂️ <a href="https://gist.github.com/underwindfall/377ee88ba1fabd1e93516e48ca9c61eb" target="_blank">Weekly Development Breakdown</a>
    <!-- codeTime starts -->
    ```text
-     Kotlin      14 hrs 56 mins  ■■■■■■■■■■■■■■■■  89.4%
-     Java          1 hr 33 mins  ■■■▦□□□□□□□□□□□□   9.3%
-     Text                5 mins  ■■◱□□□□□□□□□□□□□   0.5%
-     YAML                4 mins  ■■◱□□□□□□□□□□□□□   0.5%
-     XML                 0 secs  ■■◱□□□□□□□□□□□□□   0.1%
+     Kotlin      19 hrs 57 mins  ■■■■■■■■■■■■■■■■  96.0%
+     Java               42 mins  ■■▦□□□□□□□□□□□□□   3.4%
+     Text                5 mins  ■■◱□□□□□□□□□□□□□   0.4%
      Gradle              0 secs  ■■◱□□□□□□□□□□□□□   0.1%
+     JSON                0 secs  ■■◱□□□□□□□□□□□□□   0.0%
+     XML                 0 secs  ■■◱□□□□□□□□□□□□□   0.0%
    ```
    <!-- codeTime starts -->
    </td>
