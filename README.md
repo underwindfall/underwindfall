@@ -6,6 +6,10 @@
 
   #### 📷 Github Activity
   <!-- githubActivity starts -->
+**2025-03-20** — pushed to [underwindfall/underwindfall](https://api.github.com/repos/underwindfall/underwindfall): "revert java 11"
+
+**2025-03-20** — pushed to [underwindfall/underwindfall](https://api.github.com/repos/underwindfall/underwindfall): "push CI"
+
 **2025-03-15** — deleted branch "dependabot/npm_and_yarn/elliptic-6.6.1" on [underwindfall/resume](https://api.github.com/repos/underwindfall/resume)
 
 **2025-03-15** — pushed to [underwindfall/resume](https://api.github.com/repos/underwindfall/resume): "Bump elliptic from 6.6.0 to 6.6.1"
@@ -13,10 +17,6 @@
 **2025-03-15** — closed PR [#51](https://api.github.com/repos/underwindfall/resume/pulls/51) to [underwindfall/resume](https://api.github.com/repos/underwindfall/resume): "Bump elliptic from 6.6.0 to 6.6.1"
 
 **2025-03-15** — deleted branch "dependabot/npm_and_yarn/store2-2.14.4" on [underwindfall/resume](https://api.github.com/repos/underwindfall/resume)
-
-**2025-03-15** — pushed to [underwindfall/resume](https://api.github.com/repos/underwindfall/resume): "Bump store2 from 2.12.0 to 2.14.4"
-
-**2025-03-15** — closed PR [#52](https://api.github.com/repos/underwindfall/resume/pulls/52) to [underwindfall/resume](https://api.github.com/repos/underwindfall/resume): "Bump store2 from 2.12.0 to 2.14.4"
   <!-- githubActivity ends -->
   </td><td valign="top" width="50%">
 
@@ -46,12 +46,12 @@
   #### 🏊‍♂️ <a href="https://gist.github.com/underwindfall/377ee88ba1fabd1e93516e48ca9c61eb" target="_blank">Weekly Development Breakdown</a>
    <!-- codeTime starts -->
    ```text
-     Kotlin      27 hrs 42 mins  ■■■■■■■■■■■■■■■■  90.7%
-     Java          1 hr 27 mins  ■■■□□□□□□□□□□□□□   4.8%
-     XML                46 mins  ■■▦□□□□□□□□□□□□□   2.5%
-     protobuf           16 mins  ■■▥□□□□□□□□□□□□□   0.9%
-     Protocol Buffer         9 mins  ■■◱□□□□□□□□□□□□□   0.5%
-     Markdown            2 mins  ■■◱□□□□□□□□□□□□□   0.1%
+     Kotlin      21 hrs 38 mins  ■■■■■■■■■■■■■■■■  85.2%
+     Java         2 hrs 23 mins  ■■■▦□□□□□□□□□□□□   9.4%
+     XML                44 mins  ■■▦□□□□□□□□□□□□□   2.9%
+     protobuf           17 mins  ■■▥□□□□□□□□□□□□□   1.2%
+     Protocol Buffer        10 mins  ■■▥□□□□□□□□□□□□□   0.7%
+     Markdown            2 mins  ■■◱□□□□□□□□□□□□□   0.2%
    ```
    <!-- codeTime starts -->
    </td>
