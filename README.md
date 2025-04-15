@@ -8,14 +8,6 @@
 **2025-03-20** — pushed to [underwindfall/underwindfall](https://api.github.com/repos/underwindfall/underwindfall): "revert java 11"
 
 **2025-03-20** — pushed to [underwindfall/underwindfall](https://api.github.com/repos/underwindfall/underwindfall): "push CI"
-
-**2025-03-15** — deleted branch "dependabot/npm_and_yarn/elliptic-6.6.1" on [underwindfall/resume](https://api.github.com/repos/underwindfall/resume)
-
-**2025-03-15** — pushed to [underwindfall/resume](https://api.github.com/repos/underwindfall/resume): "Bump elliptic from 6.6.0 to 6.6.1"
-
-**2025-03-15** — closed PR [#51](https://api.github.com/repos/underwindfall/resume/pulls/51) to [underwindfall/resume](https://api.github.com/repos/underwindfall/resume): "Bump elliptic from 6.6.0 to 6.6.1"
-
-**2025-03-15** — deleted branch "dependabot/npm_and_yarn/store2-2.14.4" on [underwindfall/resume](https://api.github.com/repos/underwindfall/resume)
   <!-- githubActivity ends -->
   </td><td valign="top" width="50%">
 
@@ -45,12 +37,12 @@
   #### 🏊‍♂️ <a href="https://gist.github.com/underwindfall/377ee88ba1fabd1e93516e48ca9c61eb" target="_blank">Weekly Development Breakdown</a>
    <!-- codeTime starts -->
    ```text
-     Kotlin       21 hrs 3 mins  ■■■■■■■■■■■■■■■■  94.7%
-     Java               52 mins  ■■■□□□□□□□□□□□□□   3.9%
-     XML                 9 mins  ■■▥□□□□□□□□□□□□□   0.7%
-     YAML                7 mins  ■■◱□□□□□□□□□□□□□   0.6%
-     JSON                0 secs  ■■◱□□□□□□□□□□□□□   0.0%
-     TOML                0 secs  ■■◱□□□□□□□□□□□□□   0.0%
+     Kotlin      27 hrs 31 mins  ■■■■■■■■■■■■■■■■  95.0%
+     Java           1 hr 2 mins  ■■▦□□□□□□□□□□□□□   3.6%
+     XML                 9 mins  ■■◱□□□□□□□□□□□□□   0.6%
+     YAML                7 mins  ■■◱□□□□□□□□□□□□□   0.4%
+     JSON                5 mins  ■■◱□□□□□□□□□□□□□   0.3%
+     Gradle               1 min  ■■◱□□□□□□□□□□□□□   0.1%
    ```
    <!-- codeTime starts -->
    </td>
