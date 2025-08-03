@@ -10,12 +10,6 @@
 **2025-07-11** — pushed to [underwindfall/resume](https://api.github.com/repos/underwindfall/resume): "Bump brace-expansion from 1.1.11 to 1.1.12"
 
 **2025-07-11** — closed PR [#55](https://api.github.com/repos/underwindfall/resume/pulls/55) to [underwindfall/resume](https://api.github.com/repos/underwindfall/resume): "Bump brace-expansion from 1.1.11 to 1.1.12"
-
-**2025-07-03** — deleted branch "dependabot/npm_and_yarn/pbkdf2-3.1.3" on [underwindfall/resume](https://api.github.com/repos/underwindfall/resume)
-
-**2025-07-03** — pushed to [underwindfall/resume](https://api.github.com/repos/underwindfall/resume): "Bump pbkdf2 from 3.1.2 to 3.1.3"
-
-**2025-07-03** — closed PR [#54](https://api.github.com/repos/underwindfall/resume/pulls/54) to [underwindfall/resume](https://api.github.com/repos/underwindfall/resume): "Bump pbkdf2 from 3.1.2 to 3.1.3"
   <!-- githubActivity ends -->
   </td><td valign="top" width="50%">
 
