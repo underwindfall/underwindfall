@@ -1,59 +1,63 @@
-<h2> Hi 👋, I'm Qifan ! </h2>
-<p><em>Software engineer currently work @<a href="https://www.bytedance.com/en/">Bytedance</a></em></p>
-<p><a href="https://qifanyang.com/resume" target="_blank"> 🔭 Know more about me</a> This is my personal resume site, I built it for fun.</p>
-<table width="960px"><tr><td valign="top" width="50%">
+ <h2> Hi 👋, I'm Qifan ! </h2>
+ <p><em>Software engineer currently work @<a href="https://www.bytedance.com/en/">Bytedance</a></em></p>
+ <p><a href="https://qifanyang.com/resume" target="_blank"> 🔭 Know more about me</a> This is my personal resume site, I built it for fun.</p>
+ <table width="960px"><tr><td valign="top" width="50%">
 
- #### 📷 Github Activity
- <!-- githubActivity starts -->
+  #### 📷 Github Activity
+  <!-- githubActivity starts -->
+**2025-09-12** — deleted branch "dependabot/npm_and_yarn/sha.js-2.4.12" on [underwindfall/resume](https://api.github.com/repos/underwindfall/resume)
 
- <!-- githubActivity ends -->
- </td><td valign="top" width="50%">
+**2025-09-12** — pushed to [underwindfall/resume](https://api.github.com/repos/underwindfall/resume): "Bump sha.js from 2.4.11 to 2.4.12"
 
- #### 🌏 Something about me
- <!-- profile starts -->
- ```kotlin
- data class underwindfall(
-      val pronouns: String = "he|him",
-      val askMeAbout = listOf(
-        "Kotlin", "Java",
-        "Swift","Javascript", "Typescript"
-      )
-      val toLearn = {
-        "Jetpack Compose" to "Future",
-        "KMM" to "Fun"
-      }
-      (0..end).reduce { acc, new ->
-         study(new)
-         coding(new)
-         sumUp(acc) + haveFun(new)
-      }
- )
- ```
- <!-- profile ends -->
- </td></tr><tr><td valign="top" width="50%">
- 
- #### 🏊‍♂️ <a href="https://gist.github.com/underwindfall/377ee88ba1fabd1e93516e48ca9c61eb" target="_blank">Weekly Development Breakdown</a>
-  <!-- codeTime starts -->
-  ```text
-    Kotlin      19 hrs 44 mins  ■■■■■■■■■■■■■■■■  93.1%
-    Java           1 hr 4 mins  ■■■□□□□□□□□□□□□□   5.1%
-    JSON               13 mins  ■■▥□□□□□□□□□□□□□   1.0%
-    YAML                7 mins  ■■◱□□□□□□□□□□□□□   0.6%
-    XML                  1 min  ■■◱□□□□□□□□□□□□□   0.1%
-    HTML                0 secs  ■■◱□□□□□□□□□□□□□   0.1%
+**2025-09-12** — closed PR [#56](https://api.github.com/repos/underwindfall/resume/pulls/56) to [underwindfall/resume](https://api.github.com/repos/underwindfall/resume): "Bump sha.js from 2.4.11 to 2.4.12"
+  <!-- githubActivity ends -->
+  </td><td valign="top" width="50%">
+
+  #### 🌏 Something about me
+  <!-- profile starts -->
+  ```kotlin
+  data class underwindfall(
+       val pronouns: String = "he|him",
+       val askMeAbout = listOf(
+         "Kotlin", "Java",
+         "Swift","Javascript", "Typescript"
+       )
+       val toLearn = {
+         "Jetpack Compose" to "Future",
+         "KMM" to "Fun"
+       }
+       (0..end).reduce { acc, new ->
+          study(new)
+          coding(new)
+          sumUp(acc) + haveFun(new)
+       }
+  )
   ```
-  <!-- codeTime starts -->
-  </td>
-  <td valign="top" width="50%">
+  <!-- profile ends -->
+  </td></tr><tr><td valign="top" width="50%">
+  
+  #### 🏊‍♂️ <a href="https://gist.github.com/underwindfall/377ee88ba1fabd1e93516e48ca9c61eb" target="_blank">Weekly Development Breakdown</a>
+   <!-- codeTime starts -->
+   ```text
+     Kotlin      21 hrs 59 mins  ■■■■■■■■■■■■■■■■  91.6%
+     Java          1 hr 29 mins  ■■■◱□□□□□□□□□□□□   6.3%
+     JSON               16 mins  ■■▥□□□□□□□□□□□□□   1.2%
+     YAML                7 mins  ■■◱□□□□□□□□□□□□□   0.5%
+     HTML                4 mins  ■■◱□□□□□□□□□□□□□   0.3%
+     XML                  1 min  ■■◱□□□□□□□□□□□□□   0.1%
+   ```
+   <!-- codeTime starts -->
+   </td>
+   <td valign="top" width="50%">
 
-  #### 🤾‍♂️ <a href="https://gist.github.com/underwindfall/76198d6f6918f9f94d022c8ad881f98b" target="_blank">Recent Sports</a>
+   #### 🤾‍♂️ <a href="https://gist.github.com/underwindfall/76198d6f6918f9f94d022c8ad881f98b" target="_blank">Recent Sports</a>
 
-  <!-- Sports starts -->
-  ```text
-    ‍🏃‍♂️ Running       64.33 km ▩▩▩▩▩▩▩▩▩▩▩▩  6.59/h
-    🏊‍♂️ Swimming       0.00 km □□□□□□□□□□□□  0.00/h
-    🚴‍♂️ Cycling        0.00 km □□□□□□□□□□□□  0.00/h
-    Last month        0.00 km   0:0h
-  ```
-  <!-- Sports ends -->
-  </td></tr></table>
+   <!-- Sports starts -->
+   ```text
+     ‍🏃‍♂️ Running       64.33 km ▩▩▩▩▩▩▩▩▩▩▩▩  6.59/h
+     🏊‍♂️ Swimming       0.00 km □□□□□□□□□□□□  0.00/h
+     🚴‍♂️ Cycling        0.00 km □□□□□□□□□□□□  0.00/h
+     Last month        0.00 km   0:0h
+   ```
+   <!-- Sports ends -->
+   </td></tr></table>
