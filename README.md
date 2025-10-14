@@ -35,8 +35,10 @@
  #### 🏊‍♂️ <a href="https://gist.github.com/underwindfall/377ee88ba1fabd1e93516e48ca9c61eb" target="_blank">Weekly Development Breakdown</a>
   <!-- codeTime starts -->
   ```text
-    Kotlin              0 secs  ■■■■■■■■■■■■■■■■  99.4%
-    Java                0 secs  ■■◱□□□□□□□□□□□□□   0.6%
+    Kotlin       3 hrs 31 mins  ■■■■■■■■■■■■■■■■  97.1%
+    Java                6 mins  ■■▦□□□□□□□□□□□□□   2.9%
+    Shell Script         0 secs  ■■◱□□□□□□□□□□□□□   0.0%
+    Shrinker Config File         0 secs  ■■◱□□□□□□□□□□□□□   0.0%
   ```
   <!-- codeTime starts -->
   </td>
