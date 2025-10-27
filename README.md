@@ -35,7 +35,7 @@
  #### 🏊‍♂️ <a href="https://gist.github.com/underwindfall/377ee88ba1fabd1e93516e48ca9c61eb" target="_blank">Weekly Development Breakdown</a>
   <!-- codeTime starts -->
   ```text
-    Kotlin      16 hrs 10 mins  ■■■■■■■■■■■■■■■■  95.7%
+    Kotlin       16 hrs 2 mins  ■■■■■■■■■■■■■■■■  95.6%
     YAML               17 mins  ■■▥□□□□□□□□□□□□□   1.7%
     Java Properties        12 mins  ■■▥□□□□□□□□□□□□□   1.2%
     Java                7 mins  ■■▥□□□□□□□□□□□□□   0.7%
